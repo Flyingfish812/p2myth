@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Phoenix 2 Wiki",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Intro": {
+    "message": "简介",
+    "description": "Navbar item with label Intro"
+  },
+  "item.label.Beginners": {
+    "message": "新手教程",
+    "description": "Navbar item with label Beginners"
+  },
+  "item.label.Ships": {
+    "message": "战机",
+    "description": "Navbar item with label Ships"
+  },
+  "item.label.Invaders": {
+    "message": "敌机",
+    "description": "Navbar item with label Invaders"
+  },
+  "item.label.Story": {
+    "message": "同人文",
+    "description": "Navbar item with label Story"
+  },
+  "item.label.Blog": {
+    "message": "博客",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

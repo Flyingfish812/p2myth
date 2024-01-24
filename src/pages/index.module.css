@@ -1,0 +1,86 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+.background {
+  background-image: url('/static/img/outerspace3.JPG'); /* Adjust the path as needed */
+  background-size: cover; /* Cover the entire page */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+}
+
+.transparent {
+  background: transparent;
+}
+
+.heroBanner {
+  background-color: transparent;
+  padding: 4rem 0;
+  color: #fff;
+  text-align: left;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  color: #0beed7;
+}
+
+/* Applying the animation */
+.fade_in_visible {
+  opacity: 1;
+  animation-name: fadeIn;
+}
+
+/* Add this to your index.module.css */
+.fade_in {
+  opacity: 0;
+  animation: fadeIn 0.5s ease-in forwards;
+}
+
+.fade_in_delay {
+  animation-delay: 0.75s; /* Adjust the time as needed */
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.center {
+  text-align: center;
+}
+
+/* Style for the button */
+.custom_button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid #0074d9; /* Blue frame color */
+  border-radius: 10px; /* Adjust the border-radius to make it more or less rounded */
+  color: #0074d9; /* Blue text color */
+  background-color: transparent; /* Transparent background */
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s, box-shadow 0.3s; /* Add box-shadow to transition */
+  position: relative;
+}
+
+/* Hover effect */
+.custom_button:hover {
+  background-color: #0074d9; /* Blue background color on hover */
+  color: #fff; /* White text color on hover */
+  border-color: #0056b3; /* Darker blue border color on hover */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a simple shadow on hover */
+}
+
