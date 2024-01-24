@@ -3,14 +3,21 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import React, { useState } from 'react';
+import { useHistory } from 'react-router-dom';
 import Translate from '@docusaurus/Translate';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import { translate } from '@docusaurus/Translate';
 
-function HomepageHeader({ onButtonClick }) {
+function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+  const history = useHistory();
+  const handleButtonClick = (e) => {
+    e.preventDefault(); // Prevent default link behavior
+    history.push("/p2myth/docs/intro"); // Navigate to the page
+    window.location.reload(); // Refresh the page
+  };
   return (
     <header className={clsx(styles.heroBanner)}>
       <div className="container">
@@ -24,7 +31,7 @@ function HomepageHeader({ onButtonClick }) {
           <Link
             className={clsx("button button--secondary button--lg", styles.fade_in, styles.fade_in_delay)}
             to="/docs/intro"
-            onClick={onButtonClick}>
+            onClick={handleButtonClick}>
             <Translate>Let's Roll!</Translate>
           </Link>
         </div>
@@ -35,21 +42,8 @@ function HomepageHeader({ onButtonClick }) {
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
-  const [attributes, setAttributes] = useState({
-    navbar: 'False',
-    footer: 'False',
-    background: 'True',
-  });
-
-const handleButtonClick = () => {
-  setAttributes({
-    navbar: 'True',
-    footer: 'True',
-    background: 'False',
-  });
-};
   return (
-    <html data-navbar={attributes.navbar} data-footer={attributes.footer} background={attributes.background}>
+    <html data-navbar="False" data-footer="False" background="True">
     <Layout
       title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
@@ -59,7 +53,7 @@ const handleButtonClick = () => {
         <br></br>
         <br></br>
         <br></br>
-      <HomepageHeader onButtonClick={handleButtonClick}/>
+      <HomepageHeader/>
       <main className={clsx(styles.center, styles.transparent)}>
         <div className={styles.center}>
           
