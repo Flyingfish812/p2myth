@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkp2myth=self.webpackChunkp2myth||[]).push([[870],{8283:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/p2myth/blog/tags/docusaurus","allTagsPath":"/p2myth/blog/tags","count":4,"unlisted":false}')}}]);

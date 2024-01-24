@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkp2myth=self.webpackChunkp2myth||[]).push([[8512],{6083:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/p2myth/blog/tags/facebook","allTagsPath":"/p2myth/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkp2myth=self.webpackChunkp2myth||[]).push([[3245],{4210:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/p2myth/blog/tags/hola","allTagsPath":"/p2myth/blog/tags","count":1,"unlisted":false}')}}]);
