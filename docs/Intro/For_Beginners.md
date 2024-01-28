@@ -443,7 +443,7 @@ C. You can search for gameplay videos on YouTube.
 
 - The same also applies to the Discord server.
 
-:::info
+:::info[To Beginners]
 
 Lastly, the Myth Club has the ability, resources or tutorials to help every beginner get started, get good, get better and finally claim top spots. Please trust us.
 

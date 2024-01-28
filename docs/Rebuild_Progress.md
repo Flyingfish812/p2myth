@@ -10,6 +10,26 @@ Update time: 2024-01-28
 - - [x] For Beginners
 - - [ ] Technical Terms
 - - [ ] History Version
+- [ ] Auras and Zens Overview
+- - [ ] Bullet EMP
+- - [ ] Stun EMP
+- - [ ] Barrier
+- - [ ] Laser Storm
+- - [ ] Missile Swarm
+- - [ ] Point Defense
+- - [ ] Chrono Field
+- - [ ] Vorpal Lance
+- - [ ] Phalanx
+- - [ ] Ion Cannon
+- - [ ] Goliath Missile
+- - [ ] Kappa Drive
+- - [ ] Mega Laser
+- - [ ] Mega Bomb
+- - [ ] Teleport
+- - [ ] Reflex EMP
+- - [ ] Personal Shield
+- - [ ] Focus Lance
+- - [ ] Clover ATS
 - [ ] Turrets Overview
 - - [ ] Pellets
 - - [ ] Darts
