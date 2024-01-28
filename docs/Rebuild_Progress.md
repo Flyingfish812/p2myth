@@ -32,10 +32,14 @@ Update time: 2024-01-28
 - - [ ] Clover ATS
 - [ ] Turrets Overview
 - - [ ] Pellets
+- - [ ] Pellet Spinners
+- - [ ] Pellet Walls
 - - [ ] Darts
+- - [ ] Dart Spinners
 - - [ ] Shurikens
-- - [ ] Boomerangs
+- - [ ] Shuriken Spinners
 - - [ ] Shuriken Tides
+- - [ ] Boomerangs
 - - [ ] MIRV Launchers
 - - [ ] MIRV Bloomers
 - - [ ] Lasers
