@@ -1,1 +1,1 @@
-# Auras and Zens
+# 光环与禅宗

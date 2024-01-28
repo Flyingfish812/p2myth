@@ -1,1 +1,1 @@
-# Story for Phoenix 2
+# Phoenix 2 同人文

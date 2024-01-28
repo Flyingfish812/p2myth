@@ -6,20 +6,10 @@ sidebar_position: 1
 
 This project is now under construction ...
 
-## Commands
+Phoenix 2 wiki is a grand project of creating an illustrated wiki for the game Phoenix 2. Here I would like to show you the game in a complete and a clear way.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Due to the server crash, the previous site was no longer available. So I would like to invite you to help us rebuild this wiki. If you have any ideas or suggestions, please feel free to contact me at flyingfish812@foxmail.com
 
-1234567890
+I hope this site will soon be available to you, the Phoenix 2 lovers.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-[page1](page1.md)
+[Rebuild Progress](/docs/Rebuild_Progress.md)

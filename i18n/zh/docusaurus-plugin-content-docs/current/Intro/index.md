@@ -2,24 +2,14 @@
 sidebar_position: 1
 ---
 
-# Phoenix 2 Wiki Project
+# Phoenix 2 图鉴网站
 
-This project is now under construction ...
+目前，该网站正在施工中...
 
-## Commands
+Phoenix 2 图鉴网站项目旨在为游戏Phoenix 2创建一个图文并茂的图鉴网站，我希望能够为大家呈现一个完整而清晰的Phoenix 2游戏世界。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+由于服务器故障，先前的网站数据丢失了绝大部分。在此，我诚邀您为我们的网站重建项目提供帮助，包括但不限于文案投稿和意见提出。如果你有一些好的想法或建议，欢迎联系我：flyingfish812@foxmail.com。
 
-1234567890
+我希望网站能够早日与大家重新见面
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-[page1](page1.md)
+[重建进度表](/Rebuild_Progress.md)
