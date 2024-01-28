@@ -54,5 +54,6 @@ Update time: 2024-01-28
 - - [ ] Proxymar
 - - [ ] Kibarrax
 - - [ ] Jeria
+- - [x] Wraith
 - [ ] Stories
 - [ ] Gallery

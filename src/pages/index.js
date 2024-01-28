@@ -46,7 +46,7 @@ export default function Home() {
     <html data-navbar="False" data-footer="False" background="True">
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Welcome to the Phoenix 2 Wiki Site! -Love from Myth Group Members">
       <body>
         <br></br>
         <br></br>
