@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Phoenix 2 Wiki - By Group Myth',
   tagline: 'An illustrated handbook for game Phoenix 2',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/phoenix2.ico',
 
   // Set the production url of your site here
   url: 'https://Flyingfish812.github.io',
@@ -78,7 +78,7 @@ const config = {
         title: 'Phoenix 2 Wiki',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/phoenix2.ico',
         },
         items: [
           {
@@ -97,7 +97,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Flyingfish812/p2myth',
             label: 'GitHub',
             position: 'right',
           },
@@ -107,11 +107,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Forums',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Baidu Forums',
+                to: 'https://tieba.baidu.com/f?ie=utf-8&kw=%E5%87%A4%E5%87%B0%E6%88%98%E6%9C%BA2',
+              },
+              {
+                label: 'Reddit',
+                to: 'https://www.reddit.com/r/Phoenix_2/',
               },
             ],
           },
@@ -119,34 +123,30 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'QQ Myth Group',
+                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=-8n35KnfwEY0GZ0-Nakolll8PAyMuMf-&authKey=4EI2BogWGEA39vFeWPGqYxKhgfiTasf%2FzWy2yThOHW9vdbR8la964%2FrWxUlSzyr6&noverify=0&group_code=464763890',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://discord.gg/phoenix2',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'More Tutorials',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Apex Search - By Elegater',
+                to: 'https://elegater.github.io/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Guide - By FBI Light Rock',
+                href: 'https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Flyingfish, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Flyingfish, All right reserved. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

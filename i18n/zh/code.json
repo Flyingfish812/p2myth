@@ -1,4 +1,11 @@
 {
+  "An illustrated handbook for game Phoenix 2":{
+    "message": "游戏Phoenix 2的使用指南",
+    "description": "The title of the blog post"
+  },
+  "Let's Roll!":{
+    "message": "开始探索吧！"
+  },
   "theme.ErrorPageContent.title": {
     "message": "页面已崩溃。",
     "description": "The title of the fallback page when the page crashed"

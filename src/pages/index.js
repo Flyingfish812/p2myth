@@ -25,7 +25,7 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className={clsx('hero__subtitle', styles.fade_in, styles.fade_in_delay)}>
-          {siteConfig.tagline}
+          <Translate>{siteConfig.tagline}</Translate>
         </p>
         <div className={styles.buttons}>
           <Link
