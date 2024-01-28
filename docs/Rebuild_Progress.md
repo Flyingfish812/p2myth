@@ -7,7 +7,7 @@ sidebar_position: 2
 Update time: 2024-01-28
 
 - [ ] Home Page
-- - [ ] For Beginners
+- - [x] For Beginners
 - - [ ] Technical Terms
 - - [ ] History Version
 - [ ] Turrets Overview
