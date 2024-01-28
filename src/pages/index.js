@@ -15,7 +15,7 @@ function HomepageHeader() {
   const history = useHistory();
   const handleButtonClick = (e) => {
     e.preventDefault(); // Prevent default link behavior
-    history.push("/p2myth/docs/intro"); // Navigate to the page
+    history.push("/docs/intro"); // Navigate to the page
     window.location.reload(); // Refresh the page
   };
   return (
