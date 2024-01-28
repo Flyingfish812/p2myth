@@ -10,11 +10,16 @@ This guide is presented in Q&A format.
 ## 1. Are you a Phoenix 2 beginner or a veteran?
 
 - A. Beginner. Please proceed to read this guide.
-- If you are unclear about what to do next, please screenshot your hangar and show it to other fellow Phoenix 2 players for them to offer genuine guidance.
-- The goal for a beginner to achieve is to have 10000+ total flights and consistently stay in SSSS (pre v6.0) or Marshal League (post v6.0).
-- Or, you can head to the achievements page on our website and calculate your very own score to compare with others’. (Now the achievements page is no longer available. If you need I will consider to rebuild it.)
-- If you are a beginner, please ask more instead of being overly assertive, to make instructor NPCs’ life easier when correcting mistakes.
-- Please be wary of other players’ opinions no matter where you are, QQ group chat or Discord server.
+
+  If you are unclear about what to do next, please screenshot your hangar and show it to other fellow Phoenix 2 players for them to offer genuine guidance.
+
+  The goal for a beginner to achieve is to have 10000+ total flights and consistently stay in SSSS (pre v6.0) or Marshal League (post v6.0).
+
+  Or, you can head to the achievements page on our website and calculate your very own score to compare with others’. (Now the achievements page is no longer available. If you need I will consider to rebuild it.)
+
+  If you are a beginner, please ask more instead of being overly assertive, to make instructor NPCs’ life easier when correcting mistakes.
+
+  Please be wary of other players’ opinions no matter where you are, QQ group chat or Discord server.
 
 - B. Veteran. Please head straight to our QQ group chat or the Discord server. You are welcomed to read this guide too, perhaps finding trivia you haven’t noticed before.
 
@@ -23,19 +28,28 @@ This guide is presented in Q&A format.
 Here’s what you need to know if it’s your first time playing:
 
 - Warp Gate:  Your first few Warp Gates may not always give you the best ships. Do not upgrade whatever you are given on impulse. Consult the Tier List in this guide to figure out if a ship you have gotten from the Warp Gate is good. A ship with a survivability tier of S- or above in daily missions is fine for you to go ahead and upgrade.
-- If you are particular, it is better to get a ship with an AP weapon first (that deals with Armored missions), then a ship with an SB weapon (to deal with Shielded missions), and lastly, a ship with an HI weapon (that deals with Unprotected missions). If you are unable to find such a ship, play the game without upgrades, putting utmost focus into survival (looking at your core at all times).
-- Lower rank missions won’t give you too much trouble, so you don’t necessarily have to invest in ship upgrades. You should be able to get to at least Lieutenant rank if you can dodge well enough.
+
+  If you are particular, it is better to get a ship with an AP weapon first (that deals with Armored missions), then a ship with an SB weapon (to deal with Shielded missions), and lastly, a ship with an HI weapon (that deals with Unprotected missions). If you are unable to find such a ship, play the game without upgrades, putting utmost focus into survival (looking at your core at all times).
+
+  Lower rank missions won’t give you too much trouble, so you don’t necessarily have to invest in ship upgrades. You should be able to get to at least Lieutenant rank if you can dodge well enough.
 
 - Daily missions: On the first day or first few days you play the game, it is recommended that you grind through the daily mission several times, even if you cleared it. The purpose is to level up quickly and thus gain more credits.
-- In fact, it is recommended you grind to level 8, so that you can join a community and participate in a community mission to gain as much credits as possible (although you are very unlikely to be able to clear it).
-- When you get to a higher rank such as Colonel (golden), you have a chance to participate in specialist missions. However, do not buy a ship just to participate in specialist missions, instead you should focus on what ships you have and try to clear with them. If the ship(s) on the roster is/are not one that you have, simply let it go.
+
+  In fact, it is recommended you grind to level 8, so that you can join a community and participate in a community mission to gain as much credits as possible (although you are very unlikely to be able to clear it).
+
+  When you get to a higher rank such as Colonel (golden), you have a chance to participate in specialist missions. However, do not buy a ship just to participate in specialist missions, instead you should focus on what ships you have and try to clear with them. If the ship(s) on the roster is/are not one that you have, simply let it go.
 
 - Ship upgrades: If you are willing, be sure to search up for videos of the ship you are intending to upgrade, before actually upgrading it, to make sure it fits your playstyle. If you don’t intend to purchase credits, please note that ships are not created equal, so you want to spend credits wisely. Moreover, if you do intend to purchase credits, you need to know that the strengths of ships are not determined by their prices because there are plenty of expensive ships that underperform (Super Rare≠better, Apex≠better). If you are in the Myth QQ group chat or on the Discord sever, don't be afraid to ask for help as many are very happy to help!
-- Focus all your upgrades into that one ship you picked. Do not spread your credits across more than one ship. Even if you get a better ship from the Warp Gate, unless you have only invested 1 or 2 upgrades into your current ship, continue to completely ult that ship you were focused on.
-- Once you have fully ult-ed your first chosen ship, you should have gotten a lot of other ships already, many of which should be pretty survivable. Focus on diversifying your ship collection. This means getting an SB ship if your first ship upgraded is an AP ship, or vice versa. If your ship is an HI ship, focus on ult-ing an AP ship next, then finally an SB ship.
-- Focus on staying in your current rank (not clearing one of the three missions prevents you from promoting) until you get your collection of 2 or 3 ships fully ult-ed.
-- Once you have 2 or 3 ships fully upgraded, you can look to buying and ult-ing some of the best survival ships out there once they appear in the shop, meaning those with an X Tier rating for survivability. Remember to save up at least 3000¢ so that you can buy the ship once it hits the shop. When you have fully ult-ed these insanely survivable ships, push yourself to Marshal rank, and beyond!
-- According to the current meta, it is recommended that beginners avoid most ships with Single Shot, Spread Shot, Continuous Stream main weapons/Barrier/Laser Storm/Point Defense/Kappa Drive, or all ships with Phalanx/Ion Cannon/Goliath Missile/Focus Lance/Clover ATS.
+
+  Focus all your upgrades into that one ship you picked. Do not spread your credits across more than one ship. Even if you get a better ship from the Warp Gate, unless you have only invested 1 or 2 upgrades into your current ship, continue to completely ult that ship you were focused on.
+
+  Once you have fully ult-ed your first chosen ship, you should have gotten a lot of other ships already, many of which should be pretty survivable. Focus on diversifying your ship collection. This means getting an SB ship if your first ship upgraded is an AP ship, or vice versa. If your ship is an HI ship, focus on ult-ing an AP ship next, then finally an SB ship.
+
+  Focus on staying in your current rank (not clearing one of the three missions prevents you from promoting) until you get your collection of 2 or 3 ships fully ult-ed.
+
+  Once you have 2 or 3 ships fully upgraded, you can look to buying and ult-ing some of the best survival ships out there once they appear in the shop, meaning those with an X Tier rating for survivability. Remember to save up at least 3000¢ so that you can buy the ship once it hits the shop. When you have fully ult-ed these insanely survivable ships, push yourself to Marshal rank, and beyond!
+
+  According to the current meta, it is recommended that beginners avoid most ships with Single Shot, Spread Shot, Continuous Stream main weapons/Barrier/Laser Storm/Point Defense/Kappa Drive, or all ships with Phalanx/Ion Cannon/Goliath Missile/Focus Lance/Clover ATS.
 
 :::info[Important]
 
@@ -102,6 +116,12 @@ Get a new ship you never got before. This unlocks the ship forever with a 1-1-0 
 Get an Apex. This is EXTREMELY RARE, occurring once every 3 years on average. You can get an Apex at any time, no matter if you have not unlocked the ship, have not fully ult-ed the ship, or if it is already fully ult. No matter the current stats of that ship, it will become fully ult-ed and the Apex becomes unlocked forever. You cannot get Apexes that you already own, through activating the Warp Gate.
 
 Rewards do not get better or worse the further you progress in the game. It generally appears the rewards get worse (50¢ + 2 revives), but this is because you would get more and more ships unlocked as you play more, thus you will get less and less chance of a new ship unlocking.
+
+:::tip[Hint]
+
+According to some players, the Warp Gate will probably give you a ship upgrade, after you have cleared the Daily S4 mission. So if you really need ship upgrades and not credits 50+2, it's suggested to clear the Daily S4 mission first, then open the warp gate just after you play the mission.
+
+:::
 
 ## 7. What are revives for?
 
@@ -289,13 +309,16 @@ The more beginner survival tips are at the top while more advanced survival tips
 
 ## 14. Other General Questions.
 
-Q. Any technical terms in this game?
+**Q. Any technical terms in this game?**
+
 A. Please head over to the Glossary page on our website.
 
-Q. How do I earn credits?
+**Q. How do I earn credits?**
+
 A. You receive credits by clearing missions, watching ads, leveling up, activating Warp Gate or by purchasing them.
 
-Q. How much are all the ships and APEXes?
+**Q. How much are all the ships and APEXes?**
+
 A. The total credits required to upgrade each ship in the game are the same: Main 2850 + Aura 3150 + Zen 3300 = 9300. Each common ship is 500 credits, each rare ship is 1500 credits, and each super rare ship is 3000 credits.
 
 | Common | Rare | Super Rare | Total (Ship) | Total (Upgrade) |
@@ -318,25 +341,31 @@ Therefore, if you don't claim any reward from the Warp Gate, you will spend up t
 
 Considering the special offer of 20000 credits at $6.99, you need 41 special offers at $49.99, which is $2056.58. If you only buy the $99.99 deal, that will be $4099.59. (Ignore the 500)
 
-Q. Why are top players so fast?
+**Q. Why are top players so fast?**
+
 A. No cheats but pure skills.
 
-Q. Where is Android version?
+**Q. Where is Android version?**
+
 A. You can find it in [Google Play Store](https://play.google.com/store/apps/details?id=com.firigames.phoenix2)
 
-Q. How do I demote?
+**Q. How do I demote?**
+
 A. You are demoted if you cleared none of the daily missions.
 
-Q. Which ships are worth practicing?
+**Q. Which ships are worth practicing?**
+
 A. You can pick one from the Tier List after checking out our detailed ship pages and watching gameplay videos. Or, you can seek advice from our group chat by showing your hangar.
 
-Q. I want to know more about the mechanics of the game.
+**Q. I want to know more about the mechanics of the game.**
+
 A. You can either look them up or ask for help in our group chat. Or, you can head over to BiliBili for gameplay videos.
 
-Q. How do I update the game?
+**Q. How do I update the game?**
+
 A. First, make sure you have a Firi Account. Then search for Phoenix 2 in Purchased in the App Store. If it’s available there, you can delete and re-install the game; if not, you need an App Store account of a region where the game is available.
 
-Q. Why am I still not able to clear missions with the recommended ships?
+**Q. Why am I still not able to clear missions with the recommended ships?**
 
 1. First make sure the recommended ship is not a meme ship. Second, be sure to know if the ship fits its role. For instance, you need a survival ship for a hard mission while the recommended ship you are flying is a tricky speed-running ship or an impractical toy ship.
 
@@ -350,7 +379,8 @@ Q. Why am I still not able to clear missions with the recommended ships?
 
 6. Trial and error is key to mission clearing especially for beginners without any experience. It takes patience to develop proficiency. Practice makes perfect.
 
-Q. Can I try out different ships?
+**Q. Can I try out different ships?**
+
 A. Due to the fact that our shared account has been maliciously attacked, and the process of switching accounts is rather complicated, our shared account is currently unavailable. If you would like to try out different missions or ships, please ask your friends for their accounts.
 
 ## 15. Where can I find gameplay videos of different ships?
@@ -419,7 +449,7 @@ Lastly, the Myth Club has the ability, resources or tutorials to help every begi
 
 :::
 
-~~~~
+****
 
 Contents from GameFAQs has been revised and incorporated into this page. All contents are provided by authors: 
 
