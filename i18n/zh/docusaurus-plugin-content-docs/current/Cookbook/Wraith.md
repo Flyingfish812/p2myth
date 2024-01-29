@@ -1,65 +1,63 @@
-# Wraith
+# 幻影
 
-Fun main, fun aura, fun zen. What more can you ask for?
+好玩的主炮、好玩的光环、好玩的禅宗，你还能奢求点啥呢？
 
-## Basics
+## 基础篇
 
-These are kinda unnecessary, but for posterity it's good to include: 
+虽然会有些啰嗦，但对于后续展开来说，你最好能记一下：
 
-- Saving one main cycle roughly translates to 1 saved second
-- Almost always bomb X-1 waves (i.e. 1-1, 2-1, etc)
-- Unless necessary, never sit at full VL
-- Good to remember early mission statistics: 
-    - 1 main crit kills 2 Ravens and 2 sparrows + 1 Raven
-    - 2 main crits kill Eagle 
-    - 1 main crit + VL kills Eagle
-- Raven + sparrows (either 2, 4, or more) should always expect 2 bursts
-- Herons always require 2 bursts or VL + 1 burst
-- Waves with high sparrow should require an MB unless you're very confident
-    - See section 2 of VL for examples of VL sweeps on sparrow waves
-- Always try to fire VL off immediately so you don't have to worry about invader RNG
+- 省下一轮主炮大约等于省了1秒钟
+- 几乎总是对每一幕的第1波使用巨型炸弹（例如，1-1、2-1等）
+- 除非有必要，否则不要揣着满长矛
+- 记住这些数值伤害很重要：
+  - 1次主炮暴击可以消灭2个小型，或2个麻雀+1个小型
+  - 2次主炮暴击可以消灭中型
+  - 1次主炮暴击+穿刺长矛也可以消灭中型
+- 小型+麻雀（2、4或更多的）应该总是在2轮主炮内解决
+- 中小型总是需要2轮主炮，或穿刺长矛+1轮主炮
+- 如果这一波有很多麻雀，你应该需要使用巨型炸弹，除非你非常自信（能只用主炮和长矛很快解决）
+  - 见穿刺长矛的第2部分，有关微型群的穿刺长矛扫图示例
+- 总是尽量立即使用穿刺长矛，这样就不用担心敌机乱飞（散开）
 
+## 玩法
 
-## Play Styles
+这架战机从根本上来说非常机械化；早期浪费一发长矛（例如在第1-2幕）会导致你后面的穿刺长矛不够用。不像其他竞速战机（幕府、鲍克斯迈尔、螃蟹等），有时一个小错误通常是无法挽回的，因此如果哪怕一次主炮扫射失败，建议立即重开一把。
 
-The ship is fundamentally very mechanical; as a result, wasting 1 VL early on (like in act 1-2 for example) will come back to punish you later when you need that extra VL. Unlike other speedrunning ships (Shogun, Proxy, Kiba), I find that one small mistake is typically unrecoverable, and thus I immediately quit runs if even a single main sweep fails. 
+此外，这架战机的变数很少，因此你通常能很稳定地出分。这可能取决于游戏风格，但我更喜欢低风险、一致的玩法（比如在每一波开始时使用穿刺长矛避免敌机乱跑），然后通过赌主炮的暴击来打出潜在的提速。这样做不那么令人沮丧，也更容易持续执行，但你也可以选择其它的玩法。
 
-Additionally, the ship has extremely low variance, so getting good runs are extremely consistent. This may depend on the play style, but I personally like to focus on low risk, consistent plays (such as using VL at the start of the wave to avoid invader movement RNG), and then make up for the potential time saves by betting on main RNG. I find this to be less frustrating and also much easier to consistently perform, but the other option is frequently viable. 
+在每日任务中，可能需要两种策略的混合。如果一波敌机前排主要是很脆的那些（小型和麻雀），最好的办法总是一进场就射矛。如果前排敌机很硬（中型或中小型），根据配置的不同，两种办法都有可能用上。例如，如果后排是两个中型，最好是立即发射穿刺长矛，以避免中型可能分开的情况。然而，如果后排是小型，等它们排成一串可能是最佳选择。
 
-In a typical mission, a mix of both strategies may be required. For invader compositions where it's majority low hp enemies in the front (Ravens and Sparrows), it will almost always be an optimal strategy to fire off VLs immediately. If there are high hp enemies in the front (Eagles and Herons), either strategy can be viable depending on the goal. For example, if the backrow consists of 2 Eagles, it is better to immediately fire VL to avoid situations where the Eagles may move apart. However, if the backrow is Ravens, it can be optimal to wait for Ravens to lineup. 
-
-Low invader RNG strategy example: 
+不赌敌机聚拢的示例： 
 
 ![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN3N3pmcmtiOGlrZnM2a3BqNDcybjgwdWYyajJzcWlkM2xnNG9jayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNgzk1dI4n2noUeWnj/giphy-downsized-large.gif)
 
-By (attempting) to fire off all VL immediately as the wave arrives, I forego any hope of invaders lining up (such as the frontline Ravens and Herons). Instead,  waiting for invaders to line up results in the first main burst being wasted, so I opt for immediate VLs to avoid main downtime. 
+如果不指望敌机能好好地排成一串（比如前排有一排的小型和中小型），就在敌机停下的时候立即长矛扫图吧。等待敌机排好阵形会导致第一发主炮被浪费，所以我选择立即射矛避免浪费主炮。
 
-Low main crit RNG strategies:
+不赌主炮暴击的玩法：
 
 ![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ0NDZhMWc1dzllMTIxN3g4bDc2azlseXdjMGU5OTh5aXYwbTQyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EEtUY6C8pYf6afUv5n/giphy-downsized-large.gif)
 
-In this case, immediately using VL provides no advantage since the front Eagle will require one burst regardless. Instead, it's better to wait for potential raven lineups before firing VLs. 
+这种情况下，立即射出长矛没什么优势，因为前排的中型还会需要一次主炮。更好的选择是等待后排的小型排好队，然后再发射长矛。
 
-## Main
+## 主炮
 
-Unlike other crit-based mains like Kibarrax, Wraith is all-or-nothing when it comes to crits. This results in situations (like those mentioned in basics), where you can save a full second based on whether the main crits or doesn't crit.
+和别的暴击主炮（例如螃蟹的）不同，幻影的主炮可以说成也暴击败也暴击。它的结果（如基础篇里提到的）就是根据有没有暴击，你可以省下一整秒。
 
-### Main Reset 
+### 主炮重置
 
-Frequently it's good to fire off your main on a prior wave. This allows for your main to be properly cycled on the next wave, allowing for clean sweeps (as seen in the below GIF): 
+通常，在先前的一波先把主炮打空是有好处的，它能让你的主炮在下一波更好地控制，从而更好地利用主炮横扫（如下图所示）：
 
 ![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFoOTFlOHN4a3Exc29wdWZiZDhuaGNtZ2tncDI4Z2liNWk5dWhlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jNloU1FiRYCnYVn4Yc/giphy-downsized-large.gif)
 
-This is commonly seen on 2-2. Instead of saving your main from 2-1 and immediately firing it on 2-2, you can instead fire off a blank main after the 2-1 MB, and then have easy lineups on 2-2. These fall under low invader RNG strategies. 
+这经常在2-2发生。你可以在2-1巨型炸弹炸完后先把主炮打空然后更好地瞄准，而不是省下这一发主炮并在2-2开始时立即开炮。这样你就不用赌敌机队形了。
 
 ![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRpb2NpaTdoa2V3cWw2NnBzZmhxcmU2ejFxejJneXFsbzlybTYwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LI2QowUIlZ1SSjYoXD/giphy-downsized-large.gif)
 
 ![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ2MWs3c3NtczB5d3FheWZpaTA1YWsxMzhwZGN0dGt5YjRqaTR0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7TU8KYolvjxVEo47Rg/giphy-downsized-large.gif)
 
-Note that it is occasionally viable to not cycle main on X-1 (i.e. start charging MB to conserve main immediately after X-1 MB) and then use the main before the VL. This strategy is frequently dependent on invader movement, and only recommended if there are no sparrows (for example, 1 Heron or 2 Ravens). If one does not plan to use VL on X-2, then this would be the recommended approach. 
+注意，有时在某一幕第一波不打主炮是可行的（即，在第一波巨炸炸完后立即开始给下一个巨炸蓄力，以节省主炮），然后在使用穿刺长矛之前使用主炮。这个打法经常依赖于敌机的移动，只有在没有麻雀的情况下才推荐（例如1中小型2小型）。如果你不打算在第二波使用穿刺长矛，那我推荐你这么干。
 
-
-### Main Sweep
+### 主炮横扫
 
 When there are 3 sparrows, it's always easy to main sweep. When there's 4, it can become rather difficult depending on the configuration. If all 4 fall in a row, it can be inconsistent and depends on whether the outer sparrows move outwards. If it's 4 in a box configuration, then you should wait for the 2 sparrows in a row to split, start from the one that's further out, and then swipe over and stop at the furthest out raven on the other side. 
 

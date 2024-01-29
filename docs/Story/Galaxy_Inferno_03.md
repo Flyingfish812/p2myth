@@ -6,6 +6,8 @@ This story is written in Chinese. If you are interested in the content, I recomm
 
 :::
 
+> Written by: 菁鸟
+
 ### 1
 
 谷神主星XI号太空港口，候车厅。

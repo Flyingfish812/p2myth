@@ -6,7 +6,10 @@ This story is written in Chinese. If you are interested in the content, I recomm
 
 :::
 
+> Written by: 菁鸟
+
 “布莱特一役是无神论者向神的祭品。”
+
 ——联盟军前任元帅，军刀，于演说中。
 
 ### 1

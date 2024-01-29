@@ -6,6 +6,8 @@ This story is written in Chinese. If you are interested in the content, I recomm
 
 :::
 
+> Written by: 菁鸟
+
 ### 1
 
 一片漆黑。

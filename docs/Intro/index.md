@@ -10,7 +10,7 @@ sidebar_position: 1
 
 2024-01-29：
 
-Unfortunately, most of the content cannot be restored, and I am currently working hard to reconstruct this site. The recovery time is uncertain, but you can check the rebuild progress of the website. **I would be grateful if you would provide material for our rebuild project. **
+Unfortunately, most of the content cannot be restored, and I am currently working hard to reconstruct this site. The recovery time is uncertain, but you can check the rebuild progress of the website. **I would be grateful if you would provide material for our rebuild project.**
 
 :::
 

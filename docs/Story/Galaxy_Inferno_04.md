@@ -6,6 +6,8 @@ This story is written in Chinese. If you are interested in the content, I recomm
 
 :::
 
+> Written by: 菁鸟
+
 ### 1
 
 勋章里传来的声音有些模糊，但令人无比安心，用救命稻草来形容也不为过。
