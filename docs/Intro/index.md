@@ -4,12 +4,52 @@ sidebar_position: 1
 
 # Phoenix 2 Wiki Project
 
-This project is now under construction ...
+## Announcements
 
-Phoenix 2 wiki is a grand project of creating an illustrated wiki for the game Phoenix 2. Here I would like to show you the game in a complete and a clear way.
+:::warning[Bad news, as you see]
 
-Due to the server crash, the previous site was no longer available. So I would like to invite you to help us rebuild this wiki. If you have any ideas or suggestions, please feel free to contact me at flyingfish812@foxmail.com
+2024-01-29：
 
-I hope this site will soon be available to you, the Phoenix 2 lovers.
+Unfortunately, most of the content cannot be restored, and I am currently working hard to reconstruct this site. The recovery time is uncertain, but you can check the rebuild progress of the website. **I would be grateful if you would provide material for our rebuild project. **
+
+:::
+
+:::info[Celebrating the 3000th day of Phoenix 2]
+
+2024-01-29：
+
+According to expert analysis, March 19, 2024 will be the 3000th day of Phoenix 2, which is task number 3000. Experts call on all players to use ship No. 30 (Xaniea) to complete daily missions, especially the Marshal S4 mission, to celebrate this day.
+
+:::
+
+## Introduction
+
+Welcome to the Phoenix 2 wiki site! Here, you can find information about various ships in the game, including the detail of the ships, how to play, and trivia about the game, etc. I hope to be able to present a complete and clear game world of Phoenix 2 to everyone.
+
+The Phoenix 2 wiki project aims to create an illustrated website for the game Phoenix 2. It was initiated by the Phoenix 2 game community Myth and jointly built by Phoenix 2 players. Currently, the admin who in charge of this site is Flyingfish812, and it is jointly built by players from the Myth community and Discord server.
+
+The site plan consists of the following parts:
+
+- Tutorial for beginners: Provides you with all kinds of necessary knowledge for getting started with the game;
+
+- Ship detail page: Shows detailed information of ships in the game, including numbers, skills, APEX attributes, etc.;
+
+- Invader page: Includes an introduction to various invaders in the game;
+
+- Turret page: Describes the various types of turrets equipped by invaders;
+
+- Cookbook page: Provides various tips, tactics, skills, etc. for ships in the game;
+
+- Story page: Displays various stories created by players based on the Phoenix 2 game background;
+
+- Gallery: Displays paintings created by community players for Phoenix 2 ships.
+
+The navigation bars on the left and top of the site provide you with options to quickly access various parts of the website. The bottom bar of the website has links to Phoenix 2 related pages and organizations, including the Myth community QQ group, Discord server, and some Phoenix 2 guides.
+
+Currently, due to server failure, most of the previous data has been lost. I hereby invite you to contribute to our website reconstruction project, including but not limited to content writing and comments. To rebuild the site faster and better, your help will be essential. If you have some good ideas or suggestions, please contact me: flyingfish812@foxmail.com.
+
+Finally, I hope that the website can meet you again as soon as possible.
+
+## Rebuild Progress
 
 [Rebuild Progress](/docs/Rebuild_Progress.md)

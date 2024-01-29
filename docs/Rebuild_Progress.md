@@ -6,7 +6,9 @@ sidebar_position: 2
 
 Update time: 2024-01-28
 
-- [ ] Home Page
+## Content Rebuild
+
+- [x] Home Page
 - - [x] For Beginners
 - - [ ] Technical Terms
 - - [ ] History Version
@@ -59,5 +61,33 @@ Update time: 2024-01-28
 - - [ ] Kibarrax
 - - [ ] Jeria
 - - [x] Wraith
-- [ ] Stories
+- [x] Stories
 - [ ] Gallery
+
+## Image Rebuild
+
+|         | Shield | Shield (Stripe) | Armor | Armor (Stripe) | Hull |
+| ------- | ------ | --------------- | ----- | -------------- | ---- |
+| Sparrow |        |                 |       |                |      |
+| Raven   |        |                 |       |                |      |
+| Heron   |        |                 |       |                |      |
+| Eagle   |        |                 |       |                |      |
+| Vulture |        |                 |       |                |      |
+| Condor  |        |                 |       |                |      |
+| Roc     |        |                 |       |                |      |
+
+|                  | T1   | T2   | T3   | T4   |
+| ---------------- | ---- | ---- | ---- | ---- |
+| Pellet Fixed     |      |      |      |      |
+| Pellet Spinner   |      |      |      |      |
+| Dart             |      |      |      |      |
+| Dart Spinner     |      |      |      |      |
+| Shuriken         |      |      |      |      |
+| Shuriken Tide    |      |      |      |      |
+| Shuriken Spinner |      |      |      |      |
+| Boomerang        |      |      |      |      |
+| Laser            |      |      |      |      |
+| Speed Laser      |      |      |      |      |
+| MIRV Launcher    |      |      |      |      |
+| MIRV Bloomer     |      |      |      |      |
+| Doomsdays        |      |      |      |      |
