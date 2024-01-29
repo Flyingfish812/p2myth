@@ -1,42 +1,42 @@
 {
-  "link.title.Docs": {
-    "message": "Docs",
+  "link.title.Forums": {
+    "message": "论坛",
     "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.title.Community": {
-    "message": "Community",
+    "message": "社区",
     "description": "The title of the footer links column with title=Community in the footer"
   },
-  "link.title.More": {
-    "message": "More",
+  "link.title.More Tutorials": {
+    "message": "其它教程",
     "description": "The title of the footer links column with title=More in the footer"
   },
-  "link.item.label.Tutorial": {
-    "message": "Tutorial",
+  "link.item.label.Baidu Forums": {
+    "message": "百度贴吧",
     "description": "The label of footer link with label=Tutorial linking to /docs/intro"
   },
-  "link.item.label.Stack Overflow": {
-    "message": "Stack Overflow",
+  "link.item.label.Reddit": {
+    "message": "Reddit",
     "description": "The label of footer link with label=Stack Overflow linking to https://stackoverflow.com/questions/tagged/docusaurus"
   },
   "link.item.label.Discord": {
     "message": "Discord",
     "description": "The label of footer link with label=Discord linking to https://discordapp.com/invite/docusaurus"
   },
-  "link.item.label.Twitter": {
-    "message": "Twitter",
+  "link.item.label.QQ Myth Group": {
+    "message": "Myth QQ群",
     "description": "The label of footer link with label=Twitter linking to https://twitter.com/docusaurus"
   },
-  "link.item.label.Blog": {
-    "message": "Blog",
+  "link.item.label.Apex Search - By Elegater": {
+    "message": "Elegater的皮肤检索站",
     "description": "The label of footer link with label=Blog linking to /blog"
   },
-  "link.item.label.GitHub": {
-    "message": "GitHub",
+  "link.item.label.Guide - By FBI Light Rock": {
+    "message": "FBI Light Rock的Guide",
     "description": "The label of footer link with label=GitHub linking to https://github.com/facebook/docusaurus"
   },
   "copyright": {
-    "message": "Copyright © 2024 My Project, Inc. Built with Docusaurus.",
+    "message": "Copyright © 2024 Flyingfish, Inc. Built with Docusaurus.",
     "description": "The footer copyright"
   }
 }
