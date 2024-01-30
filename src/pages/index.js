@@ -14,7 +14,7 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   const history = useHistory();
   const handleButtonClick = (e) => {
-    e.preventDefault(); // Prevent default link behavior
+    //e.preventDefault(); // Prevent default link behavior
     history.push("/docs/intro"); // Navigate to the page
     window.location.reload(); // Refresh the page
   };
