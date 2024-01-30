@@ -104,7 +104,7 @@
 
 - 卓越胸针 <img src="/terms/phoenix.png" style={{zoom:0.1,verticalAlign:'middle'}}/> <img src="/terms/excellence.png" style={{zoom:0.1,verticalAlign:'middle'}}/>
 
-    颁发给为Phoenix 2游戏或社区做出巨大贡献的玩家。如果EL认为你应得这个章，他会亲自联系你并在你的帐户上添加这个章，同时为你寄出实体章，
+    颁发给为Phoenix 2游戏或社区做出巨大贡献的玩家。如果EL认为你应得这个章，他会亲自联系你并在你的帐户上添加这个章，同时为你寄出实体章。
 
 ## 敌机类
 

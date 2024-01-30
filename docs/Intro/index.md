@@ -18,7 +18,7 @@ PC端与平板横屏模式的用户，请点击右上角的语言切换按钮选
 
 2024-01-29：
 
-Unfortunately, most of the content cannot be restored, and I am currently working hard to reconstruct this site. The recovery time is uncertain, but you can check the rebuild progress of the website. **I would be grateful if you would provide material for our rebuild project.**
+Unfortunately, most of the content cannot be recovered, and I am currently working hard to reconstruct this site. The recovery time is uncertain, but you can check the rebuild progress of the website. **I would be grateful if you would provide material for our rebuild project.**
 
 :::
 
