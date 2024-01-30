@@ -22,6 +22,14 @@ Unfortunately, most of the content cannot be restored, and I am currently workin
 
 :::
 
+:::info[Comment board for the game]
+
+2024-01-30：
+
+The comment board for the game has been opened. You can post your comments on the game contents here. [Comment Board](https://docs.google.com/document/d/1_jkdrGhIJJW54dpJPeAG3fi05eIgnP9Za5onfS-wuv8/edit?usp=sharing)
+
+:::
+
 :::info[Celebrating the 3000th day of Phoenix 2]
 
 2024-01-29：

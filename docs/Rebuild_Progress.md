@@ -4,13 +4,13 @@ sidebar_position: 2
 
 # Rebuild Progress
 
-Update time: 2024-01-29
+Update time: 2024-01-30
 
 ## Content Rebuild
 
 - [x] Home Page
 - - [x] For Beginners
-- - [ ] Technical Terms
+- - [x] Technical Terms
 - - [ ] History Version
 - [ ] Auras and Zens Overview
 - - [ ] Bullet EMP

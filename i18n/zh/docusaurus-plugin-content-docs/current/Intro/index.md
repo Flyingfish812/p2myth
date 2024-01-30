@@ -14,6 +14,14 @@ sidebar_position: 1
 
 :::
 
+:::info[游戏评论板]
+
+2024-01-30：
+
+Phoenix 2的游戏评论板已经开放，各位玩家可以在这里对游戏内容畅所欲言。[评论板链接](https://docs.qq.com/doc/DQXhKUlh1UlFvU0tM)
+
+:::
+
 :::info[庆祝Phoenix2的第3000天]
 
 2024-01-29：
