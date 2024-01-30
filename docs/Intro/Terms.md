@@ -150,31 +150,31 @@ Some terms in this guide will be repeated a lot and thus it is easier for you (t
 
 - Sparrows
 
-The smallest invaders in the game, rapid random movement and has only 1 launcher. From left to right, Unprotected, Shield, Sinister Shield, Armor, Sinister Armor.
+    The smallest invaders in the game, rapid random movement and has only 1 launcher. From left to right, Unprotected, Shield, Sinister Shield, Armor, Sinister Armor.
 
 - Ravens
 
-Small size invaders with 2 turrets, fast random movement. From left to right, Unprotected, Shield, Sinister Armor.
+    Small size invaders with 2 turrets, fast random movement. From left to right, Unprotected, Shield, Sinister Armor.
 
 - Herons
 
-Medium size invaders with 2 turrets and 1 launcher at the centre. Some random movement. From left to right, Unprotected, Shield, Sinister Armor.
+    Medium size invaders with 2 turrets and 1 launcher at the centre. Some random movement. From left to right, Unprotected, Shield, Sinister Armor.
 
 - Eagles
 
-Big size invaders that take up about half the horizontal screen space with 3 turrets. Small random movement.
+    Big size invaders that take up about half the horizontal screen space with 3 turrets. Small random movement.
 
 - Vultures
 
-Huge invaders that span across the entire screen space with 4 turrets. Minimal random movement.
+    Huge invaders that span across the entire screen space with 4 turrets. Minimal random movement.
 
-- Condors <img src="/terms/condor.png" style={{zoom:0.4,verticalAlign:'middle'}}/>
+- Condors <img src="/terms/condor.png" style={{zoom:0.3,verticalAlign:'middle'}}/>
 
     Gigantic invaders that take up half the screen space with 6 turrets. Near zero movement. Accompanied by only Ravens and/or Sparrows which spawn at the bottom half of the screen immediately after the wave begins in community and specialist missions, while Herons and Eagles may also accompany Condors in daily missions. The icon that indicates the presence of a Condor in a mission is shown below:
 
     In the images below, from left to right, the affinities of the Condors are as follows: Unprotected, Shield, Armor. NB: Can you identify the ship used in the middle picture based on the projectiles of the main weapon? The answer is NC-150.
 
-- Rocs <img src="/terms/roc.png" style={{zoom:0.4,verticalAlign:'middle'}}/>
+- Rocs <img src="/terms/roc.png" style={{zoom:0.3,verticalAlign:'middle'}}/>
 
     Colossal invaders that take up half the screen space with 10 turrets. Near zero movement. The only invaders that take about 10s to arrive on screen fully (after the wave counter has changed) before they can be hit and its turrets start their firing sequences. Accompanied by only Ravens and/or Sparrows which spawn at the bottom half of the screen immediately after the wave begins in community and specialist missions, while Herons and Eagles may also accompany Rocs in daily missions. The icon that indicates the presence of a Roc in a mission is shown below:
 
