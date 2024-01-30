@@ -15,7 +15,7 @@ function HomepageHeader() {
   const history = useHistory();
   const handleButtonClick = (e) => {
     e.preventDefault(); // Prevent default link behavior
-    history.push("/docs/intro/"); // Navigate to the page
+    history.push("/docs/Intro/"); // Navigate to the page
     window.location.reload(); // Refresh the page
   };
   return (
@@ -30,7 +30,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className={clsx("button button--secondary button--lg", styles.fade_in, styles.fade_in_delay)}
-            to="/docs/intro"
+            to="/docs/Intro"
             onClick={handleButtonClick}>
             <Translate>Let's Roll!</Translate>
           </Link>
