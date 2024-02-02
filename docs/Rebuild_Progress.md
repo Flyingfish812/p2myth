@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Rebuild Progress
 
-Update time: 2024-01-30
+Update time: 2024-02-02
 
 ## Content Rebuild
 
@@ -12,7 +12,7 @@ Update time: 2024-01-30
 - - [x] For Beginners
 - - [x] Technical Terms
 - - [ ] History Version
-- [ ] Auras and Zens Overview
+- [x] Auras and Zens Overview
 - - [ ] Bullet EMP
 - - [ ] Stun EMP
 - - [ ] Barrier
@@ -62,7 +62,7 @@ Update time: 2024-01-30
 - - [ ] Jeria
 - - [x] Wraith
 - [x] Stories
-- [ ] Gallery
+- [x] Gallery
 
 ## Image Rebuild
 
