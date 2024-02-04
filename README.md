@@ -2,40 +2,32 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+## Phoenix 2 Wiki Project
 
-```
-$ yarn
-```
+This project is a wiki for the game Phoenix 2. As a open-source project, it is intended to be a community effort. The website is currently deployed at [p2myth.vercel.app](p2myth.vercel.app) and [p2myth.club](p2myth.club).
 
-### Local Development
+## Contributing
 
-```
-$ yarn start
-```
+This project welcomes contributions and suggestions. If you would like to contribute to this project, please contact the project maintainer Flyingfish812 at flyingfish812@foxmail.com.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Acknowledgements
 
-### Build
+Thanks for all contributors who have made great contributions to this project:
 
-```
-$ yarn build
-```
+- Phoenix 2 Wiki Project Group
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+    - Project Initializer: Group Myth
 
-### Deployment
+    - Project Maintainer: Flyingfish812
 
-Using SSH:
+    - Rating Project Group: Members from Myth and Phoenix 2 Discord server 
 
-```
-$ USE_SSH=true yarn deploy
-```
+- Game Phoenix 2 Developing Group: [Firi Games](https://discord.gg/phoenix2)
 
-Not using SSH:
+- Individual Contributors from [Discord Server](https://discord.gg/phoenix2)
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+- Authors of [Phoenix 2 Guide](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/)
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- Other Phoenix 2 resources providers
+
+- And all the players who have played Phoenix 2 and supported the development of this project

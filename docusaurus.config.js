@@ -52,8 +52,8 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -106,6 +106,19 @@ const config = {
       footer: {
         style: 'dark',
         links: [
+          {
+            title: 'Game Download',
+            items: [
+              {
+                label: 'Apple Store',
+                to: 'https://itunes.apple.com/app/phoenix-ii/id1134895689?mt=8'
+              },
+              {
+                label: 'Google Play',
+                to: 'https://play.google.com/store/apps/details?id=com.firigames.phoenix2'
+              },
+            ],
+          },
           {
             title: 'Forums',
             items: [

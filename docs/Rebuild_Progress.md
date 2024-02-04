@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Rebuild Progress
 
-Update time: 2024-02-02
+Update time: 2024-02-04
 
 ## Content Rebuild
 
@@ -32,7 +32,7 @@ Update time: 2024-02-02
 - - [ ] Personal Shield
 - - [ ] Focus Lance
 - - [ ] Clover ATS
-- [ ] Turrets Overview
+- [x] Turrets Overview
 - - [ ] Pellets
 - - [ ] Pellet Spinners
 - - [ ] Pellet Walls
@@ -47,9 +47,9 @@ Update time: 2024-02-02
 - - [ ] Lasers
 - - [ ] Speed Lasers
 - - [ ] Doomsdays
-- [ ] Invaders Overview
+- [x] Invaders Overview
 - - [ ] Pages for each invader (0/7)
-- [ ] Daily Missions
+- [x] Daily Missions
 - - [ ] Mission Cycle
 - [ ] Ships Overview
 - - [ ] Pages for each ship (0/100)
@@ -61,6 +61,7 @@ Update time: 2024-02-02
 - - [ ] Kibarrax
 - - [ ] Jeria
 - - [x] Wraith
+- - [x] Mistral
 - [x] Stories
 - [x] Gallery
 
