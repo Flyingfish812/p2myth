@@ -11,7 +11,7 @@ Update time: 2024-02-04
 - [x] Home Page
 - - [x] For Beginners
 - - [x] Technical Terms
-- - [ ] History Version
+- - [x] History Version
 - [x] Auras and Zens Overview
 - - [ ] Bullet EMP
 - - [ ] Stun EMP
