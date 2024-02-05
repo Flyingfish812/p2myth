@@ -14,15 +14,15 @@ Some terms in this guide will be repeated a lot and thus it is easier for you (t
 
 - Shielded <img src="/terms/shielded.png" style={{zoom:0.3,verticalAlign:'middle'}}/>
 
-    These refer to the blue outline you see on some types of invaders. It also makes the invaders themselves look more blue. These protect invaders from damage while this blue outline is up. After dealing damage to it for some time, the blue outline fades. The icon below represents the presence of Shielded invaders in a mission:
+    These refer to the blue outline you see on some types of invaders. It also makes the invaders themselves look more blue. These protect invaders from damage while this blue outline is up. After dealing damage to it for some time, the blue outline fades. The icon above represents the presence of Shielded invaders in a mission.
 
 - Armored <img src="/terms/armored.png" style={{zoom:0.3,verticalAlign:'middle'}}/>
 
-    Refers to the gold outline around some types of invaders, these invaders resist some damage if it is not tagged as Armor Piercing. The icon below represents the presence of Armored invaders in a mission:
+    Refers to the gold outline around some types of invaders, these invaders resist some damage if it is not tagged as Armor Piercing. The icon above represents the presence of Armored invaders in a mission.
 
 - Unprotected <img src="/terms/unprotected.png" style={{zoom:0.3,verticalAlign:'middle'}}/>
 
-    Refers to the grey outline around some types of invaders. All weapons do normal damage to unprotected invaders, but some weapons can do bonus critical damage to unprotected invaders. The icon below represents the presence of Unprotected invaders in a mission:
+    Refers to the grey outline around some types of invaders. All weapons do normal damage to unprotected invaders, but some weapons can do bonus critical damage to unprotected invaders. The icon above represents the presence of Unprotected invaders in a mission.
 
 - Hull
 
@@ -60,15 +60,15 @@ Some terms in this guide will be repeated a lot and thus it is easier for you (t
 
 - SB <img src="/terms/sb.png" style={{zoom:0.3,verticalAlign:'middle'}}/>
 
-    Shield Breaker. SB main weapons deal bonus damage to Shields, destroying them much faster than other types of weapons. Once the shield is down, they deal normal damage. Ships that have SB main weapons are tagged with the following icon:
+    Shield Breaker. SB main weapons deal bonus damage to Shields, destroying them much faster than other types of weapons. Once the shield is down, they deal normal damage. Ships that have SB main weapons are tagged with the icon above.
 
 - AP <img src="/terms/ap.png" style={{zoom:0.3,verticalAlign:'middle'}}/>
 
-    Armor Piercing. AP main weapons deal full damage on armor invaders, unlike SB or HI weapons. They also deal normal damage on all other types of invaders. Ships that have AP main weapons are tagged with the following icon:
+    Armor Piercing. AP main weapons deal full damage on armor invaders, unlike SB or HI weapons. They also deal normal damage on all other types of invaders. Ships that have AP main weapons are tagged with the icon above.
 
 - HI <img src="/terms/hi.png" style={{zoom:0.3,verticalAlign:'middle'}}/>
 
-    High Impact. HI main weapons have a chance to deal critical hits on unprotected invaders, invaders that have their Shield destroyed, or if you hit the cockpit of Armor invaders. Ships that have HI main weapons are tagged with the following icon:
+    High Impact. HI main weapons have a chance to deal critical hits on unprotected invaders, invaders that have their Shield destroyed, or if you hit the cockpit of Armor invaders. Ships that have HI main weapons are tagged with the icon above.
 
 - x-y-z (where x,y,z are integers)
 

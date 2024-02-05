@@ -50,7 +50,7 @@ Update time: 2024-02-04
 - [x] Invaders Overview
 - - [ ] Pages for each invader (0/7)
 - [x] Daily Missions
-- - [ ] Mission Cycle
+- - [x] Mission Cycle
 - [ ] Ships Overview
 - - [ ] Pages for each ship (0/100)
 - [ ] Cookbooks Overview

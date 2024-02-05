@@ -117,6 +117,10 @@ const config = {
                 label: 'Google Play',
                 to: 'https://play.google.com/store/apps/details?id=com.firigames.phoenix2'
               },
+              {
+                label: 'Steam(Unpublished)',
+                to: 'https://store.steampowered.com/app/2678070/Phoenix_2/'
+              },
             ],
           },
           {
