@@ -46,9 +46,9 @@ Update time: 2024-02-04
 - - [ ] MIRV Bloomers
 - - [ ] Lasers
 - - [ ] Speed Lasers
-- - [ ] Doomsdays
+- - [x] Doomsdays
 - [x] Invaders Overview
-- - [ ] Pages for each invader (0/7)
+- - [x] Pages for each invader (7/7)
 - [x] Daily Missions
 - - [x] Mission Cycle
 - [ ] Ships Overview

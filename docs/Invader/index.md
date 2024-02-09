@@ -44,7 +44,10 @@ Each invader will be equipped with several types of turrets. An annoying thing i
     - Bomb
     - Laser
     - MIRV
+    - Super MIRV
 
 ## Detailed Page
+
+- [Invaders](Invaders.md)
 
 Pages are under reconstruction ...

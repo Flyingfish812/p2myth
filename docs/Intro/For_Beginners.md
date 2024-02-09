@@ -39,6 +39,8 @@ Here’s what you need to know if it’s your first time playing:
 
   When you get to a higher rank such as Colonel (golden), you have a chance to participate in specialist missions. However, do not buy a ship just to participate in specialist missions, instead you should focus on what ships you have and try to clear with them. If the ship(s) on the roster is/are not one that you have, simply let it go.
 
+  You will find the mission difficulty distribution on the mission description page, which helps you determine which wave of enemy planes is more difficult to defeat.
+
 - Ship upgrades: If you are willing, be sure to search up for videos of the ship you are intending to upgrade, before actually upgrading it, to make sure it fits your playstyle. If you don’t intend to purchase credits, please note that ships are not created equal, so you want to spend credits wisely. Moreover, if you do intend to purchase credits, you need to know that the strengths of ships are not determined by their prices because there are plenty of expensive ships that underperform (Super Rare≠better, Apex≠better). If you are in the Myth QQ group chat or on the Discord sever, don't be afraid to ask for help as many are very happy to help!
 
   Focus all your upgrades into that one ship you picked. Do not spread your credits across more than one ship. Even if you get a better ship from the Warp Gate, unless you have only invested 1 or 2 upgrades into your current ship, continue to completely ult that ship you were focused on.
@@ -62,6 +64,8 @@ Learn the basics to develop the ability to distinguish good from bad, to not fol
 In the current version of the game, three new missions are generated every day in any given rank. Promotion happens when all three missions are cleared while clearing at least one of them prevents you from demotion. Demotion only happens when none of the three missions is cleared. (This is relevant in all ranks, meaning one can demote all the way from Marshal to Cadet. Though not playing at all won’t affect ranks.)
 
 The first and second mission are relatively easier than the third in any given rank. Starting from the golden ranks (Colonel, Major and Commander), Specialist missions take turns to generate in the second and third mission slot, meaning they can only be cleared with specified groups of ships. In Marshal rank, sBoB badges can be obtained from S3/S4 Specialist missions while BoB badges can be obtained from S4 Daily missions.
+
+The difficulty bar is generated based on the statistics of the number of deaths of players who have played. The more times players die in a certain wave, the greater the difficulty indicator will be. This is a dynamic process.
 
 Without taking account of Community missions, the previous version of the game generates 9 missions every week with 3600¢ max income, while the current version generates 21 missions every week with 4200¢ max income. In addition, DCBA leagues are replaced by more distinct ranks. All of these changes benefit those pilots on the rise that are inclined to grind more (more daily content, and easier-to-earn credits).
 
