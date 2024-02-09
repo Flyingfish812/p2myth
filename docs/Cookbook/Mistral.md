@@ -2,6 +2,8 @@
 
 > We often overestimate its strength, but we can never underestimate its potential.
 
+Author: Flyingfish812
+
 ## Intro
 
 Mistral was actually not very popular when it first came out. Its skill combination is Goliath missiles and Mega Bomb. Both AOE skills cause residual health. Therefore its speedrun potential is not very outstanding. In fact, if its two APEXes weren't so dazzling, it might not have been noticed at all.

@@ -50,3 +50,17 @@ html[background='False']{
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+@font-face {
+  font-family: 'RedditSans'; /* Define the name of your font */
+  src: url('/src/font/RedditSans-Regular.ttf') format('truetype'); /* Specify the path to your font file */
+}
+
+body {
+  font-family: 'RedditSans', sans-serif; /* Use your font with a fallback */
+}
+
+.markdown, .docItemContainer, .markdown h1, .markdown h2, .markdown h3, .markdown h4, .markdown h5, .markdown h6 {
+  font-family: 'RedditSans', sans-serif;
+}
+

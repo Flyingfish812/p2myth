@@ -163,7 +163,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Flyingfish, All right reserved. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Flyingfish812, All right reserved. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

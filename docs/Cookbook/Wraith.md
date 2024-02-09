@@ -1,6 +1,8 @@
 # Wraith
 
-Fun main, fun aura, fun zen. What more can you ask for?
+> Fun main, fun aura, fun zen. What more can you ask for?
+
+Author: Hi(Phase)
 
 ## Basics
 
