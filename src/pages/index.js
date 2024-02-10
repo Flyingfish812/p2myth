@@ -40,14 +40,6 @@ function HomepageHeader() {
             <Translate>Let's Roll!</Translate>
           </Link>
         </div>
-        <div className={styles.buttons}>
-          <Link
-            className={clsx("button button--secondary button--lg", styles.fade_in, styles.fade_in_delay)}
-            to="/Result.js"
-            onClick={handleButtonClick_res}>
-            <Translate>Check the result</Translate>
-          </Link>
-        </div>
       </div>
     </header>
   );
