@@ -14,6 +14,14 @@ PC端与平板横屏模式的用户，请点击右上角的语言切换按钮选
 
 :::
 
+:::info[Result Published]
+
+2024-02-10：
+
+The results for Phoenix 2 General Ship Exam is published. [Click here](/Result) to check the results.
+
+:::
+
 :::warning[Bad news, as you see]
 
 2024-01-29：

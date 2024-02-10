@@ -18,6 +18,11 @@ function HomepageHeader() {
     history.push("/docs/Intro/"); // Navigate to the page
     window.location.reload(); // Refresh the page
   };
+  const handleButtonClick_res = (e) => {
+    e.preventDefault(); // Prevent default link behavior
+    history.push("/Result"); // Navigate to the page
+    window.location.reload(); // Refresh the page
+  };
   return (
     <header className={clsx(styles.heroBanner)}>
       <div className="container">
@@ -33,6 +38,14 @@ function HomepageHeader() {
             to="/docs/Intro"
             onClick={handleButtonClick}>
             <Translate>Let's Roll!</Translate>
+          </Link>
+        </div>
+        <div className={styles.buttons}>
+          <Link
+            className={clsx("button button--secondary button--lg", styles.fade_in, styles.fade_in_delay)}
+            to="/Result.js"
+            onClick={handleButtonClick_res}>
+            <Translate>Check the result</Translate>
           </Link>
         </div>
       </div>

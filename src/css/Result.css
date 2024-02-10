@@ -1,0 +1,57 @@
+/* src/pages/examResults.css */
+
+.introduction-block {
+    margin: 20px auto; /* Center the block with automatic horizontal margins */
+    padding: 15px;
+    border-left: 5px solid #007bff;
+    background-color: #f0f8ff;
+    color: #333;
+    font-size: 16px;
+    text-align: left;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 700px; /* Restrict maximum width to 700px */
+}
+  
+.centered-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.search-input {
+    font-size: 20px; /* Increase font size for better visibility */
+    padding: 10px 20px; /* Increase padding for a taller and wider input field */
+    width: 80%; /* Set width relative to the parent container, adjust as needed */
+    max-width: 400px; /* Optional: Set a max-width to prevent the input from being too wide on larger screens */
+    margin-bottom: 20px; /* Add some space below the input field */
+}
+  
+.search-button {
+    padding: 10px 20px; /* Increase padding to match the input field's height */
+    font-size: 18px; /* Increase font size for better visibility */
+    cursor: pointer; /* Change cursor to pointer on hover for better UX */
+}
+
+/* src/pages/examResults.css */
+
+.redirect-button {
+    margin-top: 20px; /* Add space above the button */
+    padding: 10px 20px; /* Make the button taller and wider */
+    font-size: 16px; /* Increase font size for better visibility */
+    color: #ffffff; /* White text color */
+    background-color: #007bff; /* Use a distinctive background color, e.g., a shade of blue */
+    border: none; /* Remove the border */
+    border-radius: 5px; /* Optional: round the corners of the button */
+    cursor: pointer; /* Change cursor to pointer on hover for better UX */
+    text-align: center; /* Ensure text is centered */
+}
+  
+.redirect-button:hover {
+    background-color: #0056b3; /* Darker shade on hover for visual feedback */
+}
+  
+  
