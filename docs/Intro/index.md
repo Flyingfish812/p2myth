@@ -74,6 +74,10 @@ Currently, due to server failure, most of the previous data has been lost. I her
 
 Finally, I hope that the website can meet you again as soon as possible.
 
-## Rebuild Progress
+## Useful Links
 
 [Rebuild Progress](/docs/Rebuild_Progress.md)
+
+[Tier Rating Project (Created by EL)](https://tiermaker.com/create/phoenix-2-ships-16766598)
+
+[Phoenix 2 Exam Result](/Result)

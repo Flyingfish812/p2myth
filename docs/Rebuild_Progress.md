@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Rebuild Progress
 
-Update time: 2024-02-09
+Update time: 2024-02-12
 
 ## Content Rebuild
 
@@ -33,19 +33,19 @@ Update time: 2024-02-09
 - - [ ] Focus Lance
 - - [ ] Clover ATS
 - [x] Turrets Overview
-- - [ ] Pellets
-- - [ ] Pellet Spinners
-- - [ ] Pellet Walls
-- - [ ] Darts
-- - [ ] Dart Spinners
-- - [ ] Shurikens
-- - [ ] Shuriken Spinners
-- - [ ] Shuriken Tides
-- - [ ] Boomerangs
-- - [ ] MIRV Launchers
-- - [ ] MIRV Bloomers
-- - [ ] Lasers
-- - [ ] Speed Lasers
+- - [x] Pellets
+- - [x] Pellet Spinners
+- - [x] Pellet Walls
+- - [x] Darts
+- - [x] Dart Spinners
+- - [x] Shurikens
+- - [x] Shuriken Spinners
+- - [x] Shuriken Tides
+- - [x] Boomerangs
+- - [x] MIRV Launchers
+- - [x] MIRV Bloomers
+- - [x] Lasers
+- - [x] Speed Lasers
 - - [x] Doomsdays
 - [x] Invaders Overview
 - - [x] Pages for each invader (7/7)
@@ -65,30 +65,4 @@ Update time: 2024-02-09
 - [x] Stories
 - [x] Gallery
 
-## Image Rebuild
-
-|         | Shield | Shield (Stripe) | Armor | Armor (Stripe) | Hull |
-| ------- | ------ | --------------- | ----- | -------------- | ---- |
-| Sparrow |        |                 |       |                |      |
-| Raven   |        |                 |       |                |      |
-| Heron   |        |                 |       |                |      |
-| Eagle   |        |                 |       |                |      |
-| Vulture |        |                 |       |                |      |
-| Condor  |        |                 |       |                |      |
-| Roc     |        |                 |       |                |      |
-
-|                  | T1   | T2   | T3   | T4   |
-| ---------------- | ---- | ---- | ---- | ---- |
-| Pellet Fixed     |      |      |      |      |
-| Pellet Spinner   |      |      |      |      |
-| Dart             |      |      |      |      |
-| Dart Spinner     |      |      |      |      |
-| Shuriken         |      |      |      |      |
-| Shuriken Tide    |      |      |      |      |
-| Shuriken Spinner |      |      |      |      |
-| Boomerang        |      |      |      |      |
-| Laser            |      |      |      |      |
-| Speed Laser      |      |      |      |      |
-| MIRV Launcher    |      |      |      |      |
-| MIRV Bloomer     |      |      |      |      |
-| Doomsdays        |      |      |      |      |
+## Image Rebuild (Done)

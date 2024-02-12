@@ -69,3 +69,7 @@ Phoenix 2 图鉴网站项目旨在为游戏Phoenix 2创建一个图文并茂的�
 ## 重构进度
 
 [重建进度表](/Rebuild_Progress.md)
+
+[战机自定义评级项目（Created by EL）](https://tiermaker.com/create/phoenix-2-ships-16766598)
+
+[Phoenix 2战机综合测试结果](/Result)

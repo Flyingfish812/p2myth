@@ -18,11 +18,6 @@ function HomepageHeader() {
     history.push("/docs/Intro/"); // Navigate to the page
     window.location.reload(); // Refresh the page
   };
-  const handleButtonClick_res = (e) => {
-    e.preventDefault(); // Prevent default link behavior
-    history.push("/Result"); // Navigate to the page
-    window.location.reload(); // Refresh the page
-  };
   return (
     <header className={clsx(styles.heroBanner)}>
       <div className="container">

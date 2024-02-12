@@ -14,7 +14,7 @@ Doomsday Bomb is a wide-range bomb that creates a explosion of radius 300. You w
 
 DDMBs completely obliterates Barriers and Phalanxes in an instant, and they will not protect you at all, meaning if your core is in the radius, you are dead no matter how many barriers you place or how healthy the Phalanx is.
 
-(Image Lost)
+<img src="/turrets/ddb.png" style={{zoom:1.25}}/>
 
 Despite its scary name, the DDMB is seldom very threatening. The only times when it is very threatening is when 2 DDMBs are on a frontline Vulture, or if more than one are on the front row of turrets on a Condor or Roc that spawns slightly further in front (a Roc spawns further in front when the welcoming party does not take up the upper half of the screen). The other time where DDMB may be threatening is when you are trapped between lanes of bullets emitted by spread turrets. However, you are more likely to die from the bullets coming in front of you instead of from the DDMB itself since going forward will put you closer to point blank range of bullets or any tracking turret. The exception is with laser spread turrets and DDMB, where it can be unpredictable when exactly is either of them going to go off, thus making it confusing whether to push upfield or strafe sideways. Unlike DDLs, the blast duration is short which means you can quickly have enough space to move around again after the blast goes off.
 
@@ -32,7 +32,7 @@ For the purpose of survivability, DDMB is generally of little threat since stayi
 
 Arguably one of the most cruel weapons in the game held by invaders, only appearing on Vultures and above. However, you will not find DDLs appearing in ranks Captain or below. DDLs quickly blast a Nightfury wide laser vertically down.
 
-(Image Lost)
+<img src="/turrets/ddl.png" style={{zoom:1.25}}/>
 
 DDLs completely obliterates Phalanxes and Barriers in a split second, rendering them completely useless. The Phase Out time of both of these Auras are completely negated. A Barrier Reflector or Phalanx Reflector apex will reflect the parts of the DDL it hits but the barrier and the reflection will also only last a split second. In the video below, you can see how devastating the DDL is on barriers, obliterating tons of barriers in one shot.
 
@@ -56,7 +56,7 @@ An interesting thing about DDL is it can be "delayed" slightly by the Nightfury,
 
 Doomsday MIRV pose the greatest threat, not only covering the entire screen, but even forcing you to explode at least one row of MIRVs. This will result in a lot of bullets appearing on the scene, making your dodging very difficult.
 
-(Image Lost)
+<img src="/turrets/ddmirv.png" style={{zoom:1.25}}/>
 
 Traditional bullet-clearing skills are still the best way to deal with MIRVs, but the MIRVs by Doomsday MIRV will bring a new problem. If you are using a ult-level Bullet EMP, due to its property of resetting the turret, it is likely to cause the turret's reset. The result is that you will have to face the screen full of MIRV attacks twice in a row. Therefore, the best way is to prioritize the popping of the Doomsday MIRVs, which pose a significantly greater threat than the others. Secondly, if you don't have a good way to pop it immediately, you should use some skill that won't cause it to reset, such as Reflex EMP or Point Defense.
 

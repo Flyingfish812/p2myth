@@ -6,43 +6,43 @@ Author: Flyingfish812
 
 ## Intro
 
-Mistral was actually not very popular when it first came out. Its skill combination is Goliath missiles and Mega Bomb. Both AOE skills cause residual health. Therefore its speedrun potential is not very outstanding. In fact, if its two APEXes weren't so dazzling, it might not have been noticed at all.
+Mistral was actually not very popular when it first came out. Although both its Aura and Zen deal AoE damage, they tend to leave invaders with little remaining health. Therefore, it somewhat lacks speedrun potential. In fact, if it weren’t for its two excellent Apexes, Mistral might not have been recognized at all.  
 
-Its main fires a laser forward at fixed intervals. Since it is an Armor-Piercing weapon and has no critical hits, it will cause fixed damage to any type of invader. This eliminates the need for Mistral to consider critical hits when speedrunning. In other words, as long as the your strategy is correct, the final score only depends on whether the invaders are well gathered, and the problem of gathering can be avoided through the combination of skills.
+Mistral’s main weapon fires a laser forward at fixed intervals. Fortunately, since it is an Armor-Piercing weapon which cannot deal critical damage, it will cause fixed damage to any type of invader, therefore eliminates the need for players to consider the randomness of critical hits when speed-running. In other words, as long as you have a proper strategy, your final score only depends on whether the invaders converge nicely. Moreover, the problem of convergence can be circumvented by skill combinations.
 
 ## Basics
 
 ### Main
 
-Mistral's main is not an easy one to master. It looks like a simple shot, but in fact it requires you to pay attention to the location of the invaders at all times. The first stage of learning the main is to **accurately hit the target** you want to shoot, and the second stage is to be able to skillfully use the main to sweep.
+Mistral's main is not an easy one to master. Although it looks like a simple shot, in fact, it requires you to pay attention to the positions of invaders at all times. Hence, the first stage of learning the main is to **accurately hit the target** you want to shoot, and the second stage is to be able to skillfully use the main to sweep.
 
-The first stage is a basic training of Mistral, which only requires you to aim at the target when the main is fired. Practicing this basic skill will help you efficiently pop the turrets of heavy invaders, and will also help you better master the sweeping of the main gun.
+The first stage is very basic, which only requires you to aim at the target when the main is fired. Practicing this basic skill will help you not only efficiently pop the turrets of large invaders, but also better master the sweeping of the main.
 
-Unlike Wraith, Mistral's main can only kill up to two Sparrows at a time, and that's when invaders are very close. At this time, you need to grasp the firing frequency of the main. Generally speaking, when your main is fired, you should move in the direction of the other sparrow at the same time to ensure that you can shoot both sparrows exactly.
+Unlike Wraith, Mistral's main sweep can only kill up to 2 Sparrows at a time, and that only happens when they are very close to each other. This requires you to grasp the fire rate of the main. Generally speaking, when the main starts firing, you should move in the direction of the other Sparrow at the same time to ensure that you can take both of them down.
 
-As shown in the picture below, if the sparrows are too far apart, there is no need to force multiple shots. Instead, ensure that the sparrow targeted at the beginning is killed. When the sparrows gather together, you need to control the movement to catch them all:
+As shown in the gif below, if the Sparrows are too far apart, there is no need to force multiple hits. Instead, you have to ensure that the first targeted Sparrow is killed. When Sparrows do converge, you need to control the ship’s movement to catch them all:
 
 <img src="/Cookbook/mistral4.gif" style={{zoom:0.5}}/>
 
 ### Goliath Missile
 
-The principle of using Goliath missiles is simple: let each missile fully exert its AOE damage.
+The principle of using GMs is simple: let each GM fully exert its AoE damage.
 
-The damage of the missile is 10 impact damage + 24 AOE damage. An AOE of 24 means that ravens (hull with 27 hp) will still have a little health (except for the Centurion's Armor-Piercing missiles against armored ravens). So in a wave of attacks, if you only use one missile, you need to make sure the missile covers as many invaders as possible.
+A GM deals 10 impact damage + 24 AoE damage. An AoE damage of 24 means that Ravens (an Unprotected Raven has 27 hp) will still have a little health left (except for Centurion's Armor-Piercing GMs against Armored Ravens). So, if you plan to use only one GM in a wave, you need to make sure its AoE covers as many invaders as possible.
 
-Here are some common usage locations for single-shot missiles:
+Here are some common impact locations for single-shot GMs:
 
 <img src="/Cookbook/mistral16.png" style={{zoom:0.5}}/>
 
 <img src="/Cookbook/mistral17.png" style={{zoom:0.5}}/>
 
-Since one missile will not kill ravens, which needs to be killed by the main, there is a second way to play, which is to use two missiles together. You can use one missile to clear the left half and another to clear the right half; You can also choose to hit both missiles in the middle, causing more damage to the heavier invader through an additional 10 impact damage, while using 2 AOE damage destroys surrounding ravens.
+Since a single GM cannot one-shot Ravens, which then need to be killed by the main, there is another way of using GMs, which is using two at a time. Specifically, you can use one GM on each side of the field. Or, you can choose to hit both GMs in the middle, causing an additional 10 impact damage to larger invaders, while inflicting AoE damage twice on surrounding Ravens to annihilate them.
 
-The figure below shows the use of two missiles to clear half of an area:
+The gif below shows an example of using 2 GMs, one for each side of the field:
 
 <img src="/Cookbook/mistral5.gif" style={{zoom:0.5}}/>
 
-And hit the middle together:
+The gif below shows an example of using 2 GMs, both in the middle:
 
 <img src="/Cookbook/mistral6.gif" style={{zoom:0.5}}/>
 
@@ -50,67 +50,67 @@ Or more precisely, one for the back row and the other for the front row:
 
 <img src="/Cookbook/mistral7.gif" style={{zoom:0.5}}/>
 
-The eagles are a little more troublesome, if you want to kill 2 eagles at the same time, you need 4 missiles. Generally speaking, the distribution is 2 missiles on the left and right. The reason eagles are troublesome is that just two eagles can use up our missiles, so unless there is no time for a Mega Bomb, avoid using large numbers of Goliath missiles to kill eagles.
+Eagles are a little more troublesome, because you need 4 GMs if you want to kill 2 Eagles at the same time. Generally speaking, the distribution is 2 GMs on each side of the field. This means that our precious GM reserve is depleted merely by 2 Eagles. Therefore, unless there is no time to charge MB, you should avoid using large numbers of GMs just to kill Eagles.
 
-In a helpless situation, it is best to ensure that the AOE damage of the missile is not wasted, **especially avoid that the missile on the left does not hit the medium on the right**. The picture below is a usage example:
+In a desperate situation, it is best to ensure that the AoE damage of GMs are not wasted. **Particularly, try your best to hit the Eagle on the right side with the AoE damage from the left GM (or vice versa)**. The gif below shows an example:
 
 <img src="/Cookbook/mistral8.gif" style={{zoom:0.5}}/>
 
-The techniques for Goliath missiles alone are almost here. More techniques for using them will be introduced in the next part of combo techniques.
+That’s all for basic GM techniques. More advanced techniques will be introduced in the Combo Skills section.
 
 ### Mega Bomb
 
-The use of Mega Bombs is the same as that of other ships. The priority is to choose areas with a higher density of invaders to fully utilize the 40 damage of fusion core. For example, in a wave composed mostly of ravens, the priority spot is given to the location between two herons; In a wave with 2 or 4 eagles, the location in the middle of eagles is selected. When the invaders are converging, you even need to bet that the fusion core can cover more than 3 heavy invaders.
+The use of MBs is the same as that of other ships. The priority is to fully utilize the 40 AoE damage from MBc by placing it in areas with higher invader densities. For example, in a wave composed mostly of Ravens, the ideal spot for MBc is in between 2 Herons; In a wave with 2 or 4 Eagles, the ideal spot is in between 2 Eagles of your selection. Sometimes, when heavily reliant on invaders’ convergence, you even have to bet that the MBc covers more than 3 larger invaders.
 
-The most important thing is the timing of using the bomb. It is usually used at the beginning of a wave rather than in the middle of a wave. Sometimes, if you find that a wave of invaders is a dense group of ravens and sparrows, you can charge bombs even if it is not the first wave of an act:
+MB timing is crucial. It is usually used at the beginning rather than in the middle of a wave. Sometimes, if you find that a wave is made up of dense Ravens and Sparrows, you may want to charge MB even if it is not the first wave of an act:
 
 <img src="/Cookbook/mistral13.gif" style={{zoom:0.5}}/>
 
-Mastering the above points, the use of Mega Bomb will become easier and easier.
+Mastering the techniques mentioned above allows you to use MB with ease.
 
 ### Combo skills
 
-Both Goliath missiles and Mega Bomb will produce a considerable number of invaders with little health, which is a disadvantage for each of the two skills. But you can also say that these two skills have a complementary relationship in one way or another. In this section we will introduce some common techniques for combining them.
+Both GM and MB produce a considerable number of invaders with little health left, which is disadvantageous if you use them separately. However, one can also say that these two skills are complementary in one way or another. In this section, we will explore some common techniques when using them in combination.
 
-#### Charge After Missile
+#### MB Charging After GM
 
-One disadvantage of Mega Bomb is that the charging time is too long. Frequent use will cause unablility to recharge. Especially when confronting a wave of dense invaders, Mega Bomb is a very effective tool to reduce pressure.
+One drawback of MB is that the charge time can become too long. Spamming will result in inability to charge it in time. This is especially true when confronting waves after waves of dense invaders, since MB is a very effective tool to alleviate pressure from invaders.
 
-The feature of the Goliath missile is its slow flight speed. We can use this feature to cooperate with the charging of the Mega Bomb to gain sufficient charging time.
+Meanwhile, the main feature of GM is that it travels slowly. Interestingly, we can take advantage of it because when used in conjunction with MB, this will buy us sufficient charge time.
 
-There are many scenarios for its use, such as when you need to charge for a wave of dense invaders in the middle of an act. Usually this requires you to calculate the remaining HP of the invader and ensure that one missile can destroy the remaining invader. **Be sure to aim accurately, as the invader may have already moved aside when the missile arrives**.
+There are many scenarios, such as when you need to charge MB for a dense wave in the middle of an act. Generally, you have to calculate the remaining HP of the last invaders to ensure that a single GM is able to finish them off. Also, **be sure to aim accurately (preemptively), as the invader may have already moved away when the GM arrives**.
 
-Taking a vulture (hull) as an example, 270 HP = fusion core + 11 main attacks + 1 Goliath missile. Therefore, our strategy is obvious. When the Mega Bomb is used, count the number of hits from the main. While counting to 11, throw the Goliath missile and fly up to charge the bomb.
+Take an Unprotected Vulture as an example, 270 HP = MBc + 11 main hits + 1 GM. Therefore, our strategy is obvious: After using MB, count the number of main hits. Once 11 is counted, throw a GM and immediately fly up to charge MB.
 
 <img src="/Cookbook/mistral9.gif" style={{zoom:0.5}}/>
 
 #### Focus Fire
 
-Focusing fire means allocating the impact damage of Goliath missiles to heavy invaders as much as possible, such as vulture and Condor, while using the AOE damage of Mega Bomb and Goliath missile on the small ones in the front row.
+Focusing fire means allocating the impact damage of GMs to larger invaders as much as possible, such as Vulture or Condor, while utilizing the AoE damage of MBs and GMs to destroy the smaller front row invaders.
 
-In this case, the main should also hit more on heavy invaders, and only do last hits when the AOE damage is not enough.
+In addition, try to land as many main shots as possible on larger invaders, and only hit smaller invaders when the AoE damage is insufficient to finish them off.
 
 <img src="/Cookbook/mistral10.gif" style={{zoom:0.5}}/>
 
 ## Advanced
 
-The advanced part mainly introduces Mistral's two APEX skills: Fast Charge and Disintegrator Warhead. These two APEXes allow Mistral to exert different advantages in different mission types.
+In this section, we will focus on Mistral’s Apexes, namely Fast Charge and Disintegrator Warhead. They benefit Mistral in distinctive ways in different mission types.
 
 ### Fast Charge
 
-Fast Charge is designed to unleash the full potential of Mega Bomb, saving the use of Goliath missiles with more AOE damage.
+Fast Charge is designed to unleash the full potential of MB, saving the use of GMs with more frequent AoE damage.
 
-It can be said that the Fast Charge has changed the rules of using Mega Bomb. For example, Mega Bomb are charged and used in the first wave or when there are dense invaders. Fast charging allows you to use bombs in 2 closely connected waves of invaders. As shown in the picture below, the first three waves of the first act were solved with Mega Bomb, main, and a Goliath missile respectively. The 4th wave can even use another bomb (continue to be used in 2-1):
+Arguably, Fast Charge changes the rules of using MB. For instance, regular MBs are typically used in the first wave or dense waves. However, Fast Charge allows you to use MBs in two waves consecutively. As shown in the gif below, the first three waves in Act 1 are cleared with MB, main, and a GM respectively. Despite that, we still managed to charge MB in 1-4 (and went on charging for 2-1):
 
 <img src="/Cookbook/mistral11.gif" style={{zoom:0.5}}/>
 
-The following is an application in 3-4:
+The gif below shows an application in 3-4:
 
 <img src="/Cookbook/mistral12.gif" style={{zoom:0.5}}/>
 
-This skill is very effective when your missiles are insufficient. If it is a base Mega Bomb, you will not have enough charging time when facing darts. Fast Charge gives you the ability to race against darts, and you can bet you're faster than them. This small possibility can bring you huge improvements.
+This technique is very effective when you are running low on GMs. Besides, with regular MBs, you will not have enough time to charge when facing darts, whereas Fast Charge gives you the ability to race against darts, and you can bet you're faster than them. This small possibility can bring you huge improvements.
 
-In the figure below, we demonstrate two examples of dart races (a narrow death):
+The gifs below show two examples of such dart races (a narrow death):
 
 <img src="/Cookbook/mistral14.gif" style={{zoom:0.5}}/>
 
@@ -118,41 +118,41 @@ More extremely:
 
 <img src="/Cookbook/mistral15.gif" style={{zoom:0.5}}/>
 
-As you should have discovered, Fast Charge fully activates Mistral's potential. More Mega Bombs mean that Goliath missiles can be used more concentratedly to a certain wave of invaders.
+As you might have noticed, Fast Charge fully activates Mistral's potential. More MB usage means that GMs can be used more concentratedly on invaders in a certain wave.
 
 ### Disintegrator Warhead
 
-As the name suggests (?), this APEX allows the Goliath missile to eliminate bullets in an area as soon as it explodes. In other words, even in dense bullet, Mistral has a good ability to survive.
+As the name suggests (?), this Apex allows GM to clear bullets in its AoE as soon as it explodes. In other words, it grants Mistral respectable survivability even in bullet hells.
 
-Dense bullet means you need more missiles to clear the bullet. Obviously, more energy requires more graze. One of the most *famous* sources of graze is caged MIRV. Each caged MIRV can provide 30 bullets of energy, which is enough to charge a Goliath missile. Therefore, this APEX needs to be used in missions with caged MIRV to play a stronger advantage than the Fast Charge APEX.
+Dense bullets mean that you need more GMs to clear them. Obviously, more grazing is required for more energy. One of the most famous sources of graze is caged MIRVs. Grazing each caged MIRV provides energy equivalent to that of grazing 30 bullets, which is enough to charge a GM. Therefore, only in missions feature caged MIRVs can this Apex perform better than the Fast Charge Apex.
 
-> If there is no caged MIRV, just dodge the bullets.
+> In the absence of caged MIRVs, just dodge the bullets then.
 
 #### Mega Bomb Graze
 
-If you come to practice this skill, you must have heard more or less about the method of grazing a caged MIRV by Mega Bomb. For those players who haven't had time to read the relevant content, we will repeat the method of this skill again.
+If you come to practice this skill, you must have more or less heard about the technique of grazing a caged MIRV by MB. For players who are not familiar, we will be going over the details again.
 
-Using a Mega Bomb to graze usually occurs in the first wave of each act. First, you need to throw your ship to the top of the screen at the beginning, usually higher than a caged-MIRV sparrow, and then charge up the Mega Bomb.
+This technique is typically used in the first wave of each act. First, you want to throw your ship to the top of the screen at the beginning, usually higher than a Sparrow equipped with caged MIRV. Then, charge MB.
 
-When the bomb is fully charged, aim your ship **toward the edge of the self-exploding bomb** and pull it hard. At this time, the core of your ship should just pass by the exploding MIRV. Since it just exploded and has not dispersed, you should be able to graze all the bullets. Then one missile is charged. As shown below:
+When the MB is fully charged, aim your ship **towards the edge of the caged MIRV** and swipe hard. At this time, the core of your ship should just pass by the exploding MIRV. Since it just exploded and has not dispersed, you should be able to graze all the bullets. Then, a GM counter is successfully charged. As shown below:
 
 <img src="/Cookbook/mistral1.png" style={{zoom:0.5}}/>
 
-A missile gained by grazing should be **used immediately** in the next wave, otherwise you will have to do some dodging, which will reduce your performance. For example, a complete wave of grazing and using missiles is as follows:
+A GM gained by such grazing should be used immediately in the next wave, otherwise you will have to do some dodging, which may hinder your performance. An example of grazing and using GM is shown below:
 
 <img src="/Cookbook/mistral2.gif" style={{zoom:0.5}}/>
 
 #### Double Graze
 
-The practice of Double Graze is similar to that of Single Mega Bomb Graze, except that two missiles are charged at one time.
+The practice of Double MB Graze is similar to that of Single MB Graze, except that 2 GMs are charged at a time.
 
-In missions, sometimes two sparrows will appear in the same straight line. Since the process of **Mega Bomb** and **Grazing** are **both** a top-down process, as long as your speed is fast enough, you can wipe two caged MIRV at the same time, and then get two Goliath missile. Don't underestimate this skill. It not only provides you with higher damage, but also clears an area for you.
+Sometimes, 2 Sparrows will appear in the same column. Since the progression of both MB and Grazing are top-down, if you swipe down fast enough, you can graze 2 caged MIRVs almost simultaneously, therefore gaining energy for 2 GMs. Don't underestimate this technique, as it not only provides you with more damage, but also clears bullets for you to increase survivability.
 
 Illustration:
 
 <img src="/Cookbook/mistral3.png" style={{zoom:0.5}}/>
 
-The improvement of Disintegrator Warhead is to make full use of any bullets fired by the invaders, convert them into our energy and then do a beautiful counterattack.
+The essence of Disintegrator Warhead is to make full use of any bullet fired by the invaders, convert them into our energy and then counterattack with elegance.
 
 ## Videos
 
