@@ -57,6 +57,8 @@ As shown in the picture below, it is hard not to think of a bad stomach:
 
 <img src="/Cookbook/shuriken3.gif" style={{zoom:1}}/>
 
+*In every field and vocation, there emerges a master of discord (sad).*
+
 T4 patterned shuriken turrets produce shurikens that look very intimidating since they appear to be simply spreading shurikens everywhere. However, not to worry, as you simply need to stand back at the bottom of the field so that these shuriken turrets can lock onto you. You will find a point in time when there is a small, but clear passageway for you to comfortably traverse. Be careful of other bullets such as MIRVs and pellets even as you traverse this passageway. Darts take up a considerable amount of space and thus going (almost) head on with a dart tracking turret is not a solution. Most of the time however, because it can be difficult to wait such a long time to find a clear passageway, it is more convenient to simply deploy a BEMP or Phalanx to push your way through. However, in the absence of MIRVs and darts, bear in mind you do not always have to waste a BEMP or Phalanx just to get through these shuriken patterns. An Eagle equipped with all 3 T4 patterned shuriken launchers is very possible to find a clear passageway. For T4 patterned shuriken launchers that are on opposite sides of the field, it is usually possible to find a brief moment with a clear gap in the pattern to head towards, and then exit through the arcs. Do not go head on with these T4 turrets as you will have to face the other 2 sets of 2 arcs even as the middle set of arcs is not a problem.
 
 ## Tiers and Patterns - Shuriken Spinners

@@ -14,6 +14,12 @@ The priority number goes up to 8. The most significant levels of each Aura and Z
 
 Aura is the skill that can be used as long as you have enough energy. There are 2 types of Aura skills: radius-based Aura and counter-based Aura. For a radius-based Aura like Bullet EMP, you can use it once your energy are stored for a minimum radius to activate the skill. For a counter-based Aura like Vorpal Lance, you can use it once your energy are stored for a counter to activate the skill.
 
+The credits needed to upgrade each levels are listed below:
+
+| Level | 1    | 2    | 3    | 4    | 5    | Ultimate |
+| ----- | ---- | ---- | ---- | ---- | ---- | -------- |
+| Cost  | /    | 150  | 300  | 450  | 750  | 1500     |
+
 Currently, there are 11+1 Aura skills in the game. They are listed below, with their APEX forms:
 
 1. Bullet EMP
@@ -62,6 +68,12 @@ Currently, there are 11+1 Aura skills in the game. They are listed below, with t
 ## Zen
 
 Zen is a skill that doesn't need energy to activate. When you move your finger off the screen, the Zen skill will be charged. After the use of a Zen skill, it may need time to recover its charging time. So it's important to decide where to use and how to use them effectively.
+
+The credits needed to upgrade each levels are listed below:
+
+| Level | 1    | 2    | 3    | 4    | 5    | Ultimate |
+| ----- | ---- | ---- | ---- | ---- | ---- | -------- |
+| Cost  | 100  | 200  | 300  | 450  | 750  | 1500     |
 
 Currently, there are 8+3 Zen skills in the game. They are listed below, with their APEX forms:
 
