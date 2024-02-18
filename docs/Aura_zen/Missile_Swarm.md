@@ -45,37 +45,28 @@ The final problem of MS is it is unreliable in turret popping due to the random 
 
 ## APEX 1: Armor Piercing
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Reinforced warheads allow these missiles to pierce enemy armor.
+- Numeric Interpretation: The missiles ignore 30% damage reduction of armors.
+- Score: 4.82 / 5
+- Ships with the APEX: Kibarrax (Lambda), Prime X (Epsilon), Trireme (Gamma), Von Braun (Delta)
 
 (Description)
 
 ## APEX 2: Ion Warheads
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Missiles equipped with Ion charges stun turrets on impact.
+- Numeric Interpretation: Missiles stun the turrets within 50 range for 0.6s.
+- Score: 3.82 / 5
+- Ships with the APEX: EX04239 (Sigma), Geist (Phi)
 
 (Description)
 
 ## APEX 3: High Explosive
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Missiles equipped with advanced warheads deal blast damage on impact.
+- Numeric Interpretation: Missiles deal 1 AOE damage within 50 range.
+- Score: 2.18 / 5
+- Ships with the APEX: Atlas (Delta), Corsair (Tau), Geist (Sigma), UHB (Delta)
 
 (Description)
 

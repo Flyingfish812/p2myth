@@ -48,13 +48,10 @@ Be warned that CF needs to be slightly pre-empted, as deploying a CF at the abso
 
 ## APEX 1: Deep Field
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: A slightly larger Chrono Field that also slows down turrets.
+- Numeric Interpretation: The max radius increases by 25% (about 200), the turrets' speed are slowed down to 30%.
+- Score: 2.27 / 5
+- Ships with the APEX: Njorun (Lambda), Trinity (Phi), Yigothu (Sigma)
 
 (Description)
 

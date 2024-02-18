@@ -44,37 +44,37 @@ BEMP will usually start to struggle a bit against heavy waves. You will need to 
 
 ## APEX 1: Destructive Wave
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: An Enhanced Bullet EMP that also deals damage to Invaders.
+- Numeric Interpretation: Bullet EMP deals at most 10 damage to invaders within range.
+- Score: 4.64 / 5
+- Ships with the APEX: Juggernaut (Lambda), Lyova (Tau), Phoenix (Delta), Shinova (Delta)
 
 (Description)
 
 ## APEX 2: Extended Range
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Amplifiers give Bullet EMP more range.
+- Numeric Interpretation: The max radius increases from 450 to 500.
+- Score: 2.18 / 5
+- Ships with the APEX: Mirage (Delta), Shinova (Alpha), Tempest (Beta)
 
 (Description)
 
-## APEX 3: Bullet Detonator
+## APEX 3: Increased Stun
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
+- Game Description: Expert tunning slightly increases the stun duration.
+- Numeric Interpretation: The max stun time increases from 0.6s to 1.2s.
+- Score: 1.70 / 5
+- Ships with the APEX: Mirage (Omega)
 
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+(Description)
+
+## APEX 4: Bullet Detonator
+
+- Game Description: Enemy bullets are detonated dealing Blast damage.
+- Numeric Interpretation: Each detonated bullet deals 2 AOE damage.
+- Score: 4.27 / 5
+- Ships with the APEX: Disaris (Omega)
 
 (Description)
 

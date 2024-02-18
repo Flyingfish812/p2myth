@@ -39,13 +39,10 @@ Kappa regulation is very important in very dense waves. It should be used in ver
 
 ## APEX 1: Antigrav
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Ignore energy particle weight and increase passive attraction power.
+- Numeric Interpretation: All the particles will be attracted on the same speed and you can absorb energy more easily.
+- Score: 0.55 / 5
+- Ships with the APEX: Gladius (Gamma), Marauder (Alpha), Oran (Beta), Vuxine (Alpha), Zephyr (Beta)
 
 (Description)
 

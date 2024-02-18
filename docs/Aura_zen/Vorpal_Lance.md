@@ -46,37 +46,28 @@ The less known useful feature about VL is Vorpal Wake. Do not underestimate its 
 
 ## APEX 1: Twin Lance
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Split Vorpal Lance into two projectiles for a larger surface area.
+- Numeric Interpretation: The surface area is doubled.
+- Score: 4.18 / 5
+- Ships with the APEX: Antioch (Delta), Gladius (Epsilon), Jeria (Epsilon), Neni (Epsilon), Vani-Vith (Epsilon)
 
 (Description)
 
 ## APEX 2: High Capacity
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Vorpal Lance can store more energy, adding an additional Counter.
+- Numeric Interpretation: The max volume increases from 4 to 5.
+- Score: 2.81 / 5
+- Ships with the APEX: Antioch (Beta), Exarch (Epsilon), Icarus (Delta), Saber (Beta), Wraith (Gamma)
 
 (Description)
 
 ## APEX 3: Trident
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Splits Vorpal Lance in three directions to strike more targets.
+- Numeric Interpretation: Lances are shot in three directions, and they share an overall 39.6 damage.
+- Score: 2.09 / 5
+- Ships with the APEX: Naya (Tau), Warden (Phi)
 
 (Description)
 

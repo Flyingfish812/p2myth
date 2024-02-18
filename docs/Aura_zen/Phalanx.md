@@ -48,37 +48,28 @@ The ultimate is a very useful upgrade that severely enhances the shoveling funct
 
 ## APEX 1: Reflector
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Lasers reflect on the Phalanx front surface.
+- Numeric Interpretation: Laser will be reflected to invaders with 10 damage per second.
+- Score: 3.27 / 5
+- Ships with the APEX: Marauder (Beta), Valkyrie (Gamma)
 
 (Description)
 
 ## APEX 2: Double Phalanx
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: A smaller additional Phalanx is placed at the front.
+- Numeric Interpretation: A Phalanx with half of the original strength and size will be place front.
+- Score: 2.36 / 5
+- Ships with the APEX: 502-Q8 (Beta), Boxer (Alpha), Hunter (Gamma), Lorilou (Gamma)
 
 (Description)
 
 ## APEX 3: Crisis EMP
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Instantly clear the area inside the Phalanx with an EMP upon activation.
+- Numeric Interpretation: Activate a Bullet EMP inside the Phalanx as soon as using the Phalanx.
+- Score: 2.27 / 5
+- Ships with the APEX: Esperon (Epsilon)
 
 (Description)
 

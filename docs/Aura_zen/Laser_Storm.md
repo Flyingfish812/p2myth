@@ -44,37 +44,28 @@ In daily missions, LS is almost irrelevant in the higher ranks as the slow damag
 
 ## APEX 1: High Power
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: A constellation of Laser Moons outputs all damage in less time.
+- Numeric Interpretation: The laser moons increases from 5 to 8, the max duration decreases from 4.5s to 2.25s.
+- Score: 3.36 / 5
+- Ships with the APEX: Buhloo (Epsilon), Elyon (Beta), Fujin (Sigma), Lokie (Delta)
 
 (Description)
 
 ## APEX 2: Tac Moons
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Two Tactical Super Moons concentrate their firepower to dispose individual targets more quickly.
+- Numeric Interpretation: 2 Laser Moons with stronger power will focus on invaders concentrately.
+- Score: 1.91 / 5
+- Ships with the APEX: Havoc (Gamma), Ogon (Beta)
 
 (Description)
 
 ## APEX 3: Shield Breaker
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Laser Moon type S deals extra damage to shields.
+- Numeric Interpretation: Lasers deal 2.5x damage to shields.
+- Score: 3.09 / 5
+- Ships with the APEX: Elyon (Lambda), Reaper (Tau), Xaniea (Tau)
 
 (Description)
 

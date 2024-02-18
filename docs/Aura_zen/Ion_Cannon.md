@@ -42,25 +42,19 @@ Unfortunately, in daily missions, IC is rendered completely useless due to the p
 
 ## APEX 1: Blast Amplifier
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Blast radius and damage of the Ion Cannon projectiles are increased.
+- Numeric Interpretation: The blast radius increases from 50 to 100, the damage increases from 10 to 13.
+- Score: 3.27 / 5
+- Ships with the APEX: Barret (Beta), Dragonfly (Epsilon), NC-271 (Delta), Polaris (Gamma), Sonah (Gamma), Xavis (Gamma)
 
 (Description)
 
 ## APEX 2: Overcharge
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Overcharged Ion Cannon stuns targets in a larger area.
+- Numeric Interpretation: The blast radius increases from 50 to 115.
+- Score: 1.82 / 5
+- Ships with the APEX: Dragonfly (Gamma), Polaris (Beta), X-81 (Gamma), Xavis (Alpha)
 
 (Description)
 

@@ -45,37 +45,28 @@ The good thing about PD is it refills quite fast and the smallest PD from natura
 
 ## APEX 1: Bullet Detonator
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Enemy bullets are detonated dealing Blast damage.
+- Numeric Interpretation: Each detonated bullet deals 2 AOE damage.
+- Score: 4.18 / 5
+- Ships with the APEX: Arietis (Lambda), Luna (Tau), Tar'cah (Lambda), Widget (Tau), Wrackr (Epsilon), Zephyr (Epsilon)
 
 (Description)
 
 ## APEX 2: EMP Laser
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Destroyed bullets trigger a small Bullet EMP.
+- Numeric Interpretation: Laser Beams decreased from 10 to 1, but a Bullet EMP of range 50 will be activated each time.
+- Score: 3.45 / 5
+- Ships with the APEX: AB8/Klyn (Delta), Orion (Delta), Pandora (Tau), Tar'cah (Delta)
 
 (Description)
 
 ## APEX 3: Sentinel
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Point Defense has a passive laser that is always active and does not use energy.
+- Numeric Interpretation: The nearest bullet within range will be cleared every 0.5s.
+- Score: 1.00 / 5
+- Ships with the APEX: Proteus (Beta), Vuxine (Gamma), Yoth-Hola (Epsilon)
 
 (Description)
 

@@ -44,6 +44,8 @@ When you TP to eliminate MIRVs, the most important thing to know is that, the be
 
 If you don't have an ult TP, you can try something else called "Implosive Grazing" where you teleport right into the very spot the MIRV exploded, but only after the MIRV has really exploded (because you can die by the MIRV itself as well). Bear in mind it only works if it is a lone MIRV and MIRVs that are very tightly clustered and you are sure every one of them has exploded. This technique is shown below:
 
+<img src="/Cookbook/tpgraze.png" style={{zoom:1}}/>
+
 The other most common technique of TP against MIRVs, particularly those from MIRV Bloomers, is to TP to the frontline of MIRVs to delete as many as possible, and then push back to the bottom of the screen. Then repeat it again as needed, but be sure not to overabuse this technique as TP charge time can stack quite fast when doing this. You have to still ensure that the MIRV Bloomer is destroyed as soon as possible.
 
 A great tactic to learn TP is to pre-charge it as early as possible, when you have the slightest chance of getting threatened. This allows you to drastically slow time, in fact, time slows down by 90% (10% of original gameplay speed), allowing you to carefully decide where to TP to. Bear in mind, however, you only have 7 seconds in real time to decide where to TP to. An interesting to note is that allowing TP to cancel does not increase its charge time. As you get better, the amount of pre-emption needed becomes less and less, and eventually, you learn to only use it when only seriously threatened, and pulling back a bit to charge it safely (or charging it at the right time with sufficient pre-emption if there is no space to pull back).
@@ -56,61 +58,46 @@ Now all that covers the defensive aspect of TP. TP is also a very useful positio
 
 ## APEX 1: Explosive Arrival
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Arrival EMP has been modulated to also deal damage to Invaders in its range.
+- Numeric Interpretation: Deals 30 damage to Invaders within a range of 50 from the arrival point.
+- Score: 4.27 / 5
+- Ships with the APEX: Barret (Epsilon), Czar (Lambda), Icarus (Sigma), Luna (Omega), Sakura (Phi), Xaniea (Lambda)
 
 (Description)
 
 ## APEX 2: Double Teleport
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Enables an instant charge for a second Teleport directly upon arrival.
+- Numeric Interpretation: The charging for the second Teleport will be completed instantly after the first one.
+- Score: 2.00 / 5
+- Ships with the APEX: Czar (Delta), Sakura (Epsilon), Trireme (Tau)
 
 (Description)
 
 ## APEX 3: Extended Clearance
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Energy from the Teleport is released on arrival to extended the range of the Arrival EMP.
+- Numeric Interpretation: The clearing space increases from 50 to 80.
+- Score: 1.55 / 5
+- Ships with the APEX: Aurora (Lambda), Claymore (Delta), Orion (Lambda), Prime X (Tau), Tillat'Or (Epsilon), Vani-Vith (Sigma)
 
 (Description)
 
 ## APEX 4: Departure EMP
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Residual energy is converted to a Bullet EMP on the location the ship teleports away from.
+- Numeric Interpretation: A Bullet EMP of range 80 will be activated at the starting point when using Teleport.
+- Score: 1.00 / 5
+- Ships with the APEX: Hunter (Alpha)
 
 (Description)
 
 ## APEX 5: **Darkfire Blast**
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: The Darkfire shot upon Teleport arrrival now deals blast damage.
+- Numeric Interpretation: The Darkfire shot deals an AOE damage of range 100.
+- Score: 2.55 / 5
+- Ships with the APEX: Trinity (Delta)
 
 (Description)
 

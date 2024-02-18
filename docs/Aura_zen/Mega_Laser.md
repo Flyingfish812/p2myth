@@ -49,49 +49,37 @@ Because ML takes so long to charge, it is a very useful burst reset tool, for sh
 
 ## APEX 1: Twin Laser
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Heavily modified Meson Projectors can shoot two Mega Laser beams side by side.
+- Numeric Interpretation: Two 100-damage lasers will be fired at the same time with a gap in between.
+- Score: 3.55 / 5
+- Ships with the APEX: EX04239 (Phi)
 
 (Description)
 
 ## APEX 2: Double Shot
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: A constellation of Laser Moons outputs all damage in less time.
+- Numeric Interpretation: Two 100-damage lasers will be fired one by one, with a one-second interval.
+- Score: 3.00 / 5
+- Ships with the APEX: Fujin (Epsilon), Hime (Epsilon), Monsoon (Epsilon), Photurius (Lambda)
 
 (Description)
 
 ## APEX 3: Armor Piercing
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: A specialized laser that pierces armor.
+- Numeric Interpretation: The laser ignore 30% damage reduction of armors.
+- Score: 3.18 / 5
+- Ships with the APEX: Cinnri (Lambda), Hime (Lambda), Neni (Delta)
 
 (Description)
 
 ## APEX 4: Focused Beam
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Mega Laser power is concentrated in a smaller beam and deals more damage.
+- Numeric Interpretation: The width decreased from 150% to 50%, the damage increased from 170 to 200.
+- Score: 2.55 / 5
+- Ships with the APEX: Arietis (Epsilon), Lorilou (Epsilon), Razor VI (Sigma), Tempest (Delta)
 
 (Description)
 

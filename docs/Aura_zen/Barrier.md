@@ -53,25 +53,19 @@ In conclusion, Barrier looks like a very straightforward Aura to use (it sounds 
 
 ## APEX 1: Reflector
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Laser reflect on the Barrier outer surface.
+- Numeric Interpretation: Laser will be reflected to invaders with 10 damage per second.
+- Score: 4.45 / 5
+- Ships with the APEX: Gorthaur (Beta), Heechi (Delta), Qhelqod (Gamma), Stinger (Epsilon), Tillat'Or (Gamma)
 
 (Description)
 
 ## APEX 2: Reinforced Lining
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Increases strength of Inner Lining.
+- Numeric Interpretation: The inner lining of the barrier will have the same strength as the outer lining.
+- Score: 1.91 / 5
+- Ships with the APEX: Predator (Alpha), Razor VI (Beta)
 
 (Description)
 

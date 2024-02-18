@@ -41,49 +41,37 @@ Unfortunately, since GMs are very slow moving, they are very prone to missing, o
 
 ## APEX 1: Disintergrator Warhead
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Destroys enemy bullets caught in the blast.
+- Numeric Interpretation: Clears all the bullets within the blast radius of about 150.
+- Score: 3.82 / 5
+- Ships with the APEX: Banshee (Phi), Claymore (Lambda), Mistral (Tau)
 
 (Description)
 
 ## APEX 2: Tungsten Warhead
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: The Tungsten Goliath Missile pierces armor and deals more damage.
+- Numeric Interpretation: The missiles ignore 30% damage reduction of armors.
+- Score: 3.82 / 5
+- Ships with the APEX: Centurion (Tau)
 
 (Description)
 
 ## APEX 3: High Capacity
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Allows the ship to store an additional Goliath Missile.
+- Numeric Interpretation: The max volume increases from 4 to 5.
+- Score: 2.27 / 5
+- Ships with the APEX: Starless (Epsilon)
 
 (Description)
 
 ## APEX 4: Proximity Detonator
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Detonates when an Invader is nearby.
+- Numeric Interpretation: The missile will explode when it is within 50 units of an Invader.
+- Score: 1.55 / 5
+- Ships with the APEX: Monsoon (Gamma)
 
 (Description)
 

@@ -41,49 +41,37 @@ Thus, FL may be simply seen as a one-time lance at the start of a wave. After th
 
 ## APEX 1: Expert Focus
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Launches Focus Lance even faster and recovers it more quickly.
+- Numeric Interpretation: The charge time decreases from 0.35s to 0.25s, the recovery time decreases from 4.5s to 3.5s.
+- Score: 2.73 / 5
+- Ships with the APEX: Banshee (Sigma), Stinger (Lambda)
 
 (Description)
 
 ## APEX 2: Lance Wake
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Destroys enemy bullets hit by Focus Lance.
+- Numeric Interpretation: Lance will clear the bullets like Vorpal Lance.
+- Score: 2.55 / 5
+- Ships with the APEX: Reaper (Lambda)
 
 (Description)
 
 ## APEX 3: High Voltage
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Interrupts enemy turrets with a short stun.
+- Numeric Interpretation: Turrets **accurately** hit by Focus Lance will be stunned for 0.6s.
+- Score: 0.91 / 5
+- Ships with the APEX: Disaris (Sigma)
 
 (Description)
 
 ## APEX 4: FTL
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Launches the experimental Faster Than Light lance projectile.
+- Numeric Interpretation: Lance will immediately pierce all the invaders on the line.
+- Score: 2.09 / 5
+- Ships with the APEX: Warden (Sigma)
 
 (Description)
 

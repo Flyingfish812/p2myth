@@ -53,49 +53,37 @@ PS can also be used to effectively block off DDLs. Take note that normal lasers 
 
 ## APEX 1: Supersize
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Aegis amplifiers create an extra large Personal Shield.
+- Numeric Interpretation: The size of the Personal Shield is increased by 50%.
+- Score: 2.00 / 5
+- Ships with the APEX: Atlas (Alpha), Lokie (Alpha), NC-271 (Beta), Phoenix (Beta), Zhetass (Gamma)
 
 (Description)
 
 ## APEX 2: Super Reflect
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Split-second shield activation just before laser firing will reflect back with extra force.
+- Numeric Interpretation: The lasers hitting the shield at the first 0.5s will be reflected back with 5x damage.
+- Score: 4.18 / 5
+- Ships with the APEX: Essin (Gamma), NC-150 (Beta), Njorun (Gamma), Torrent (Beta), Widget (Delta)
 
 (Description)
 
 ## APEX 3: Focus
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Focused interconnects charge Personal Shield faster and recover it more quickly.
+- Numeric Interpretation: The charge time decreases from 0.4s to 0.3s, the recovery time decreases from 6.5s to 4.5s.
+- Score: 2.27 / 5
+- Ships with the APEX: Gorthaur (Alpha), Jericho (Gamma), Zhetass (Beta)
 
 (Description)
 
 ## APEX 4: Shield Booster
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: A custom booster extends the protextion after the shield expires.
+- Numeric Interpretation: An additional Phase-Out time of 1s is added.
+- Score: 1.55 / 5
+- Ships with the APEX: Centurion (Epsilon)
 
 (Description)
 

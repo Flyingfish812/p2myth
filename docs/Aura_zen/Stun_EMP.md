@@ -49,37 +49,28 @@ You will no longer be using SEMP as a pseudo dodging tool. Or at least, it is ex
 
 ## APEX 1: High Damage
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Increased distortion of the Stun EMP causes even more damage to Invaders.
+- Numeric Interpretation: The max damage increases from 10 to 15.
+- Score: 4.64 / 5
+- Ships with the APEX: Cinnri (Tau), NC-150 (Gamma), Nimbus (Sigma), Photurius (Tau), Zimitr (Delta)
 
 (Description)
 
 ## APEX 2: Extended Range
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Increased power extends the range of the EMP.
+- Numeric Interpretation: The max radius increases from 450 to 500.
+- Score: 2.27 / 5
+- Ships with the APEX: Mist Star (Gamma), Torrent (Alpha)
 
 (Description)
 
 ## APEX 3: Strong Stun
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: EMP is optimized for critical systems of Invaders to increase the stun duration.
+- Numeric Interpretation: The max stun time increases from 3s to 4s.
+- Score: 1.73 / 5
+- Ships with the APEX: Mist Star (Lambda)
 
 (Description)
 

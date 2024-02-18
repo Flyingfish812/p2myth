@@ -61,37 +61,28 @@ While using REMP for damage becomes the primary purpose of REMP when ult, do not
 
 ## APEX 1: High Damage
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Energy actuators increase the damage of the EMP.
+- Numeric Interpretation: The damage increases from 20 to 30.
+- Score: 4.91 / 5
+- Ships with the APEX: AB8/Klyn (Sigma), Jeria (Sigma), Lyova (Lambda), Predator (Delta), Shogun (Sigma), Starless (Sigma)
 
 (Description)
 
 ## APEX 2: Extended Range
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Improved amplifiers increase the EMP range.
+- Numeric Interpretation: The max range increases from 225 to 280.
+- Score: 3.00 / 5
+- Ships with the APEX: Nimbus (Epsilon), Saber (Epsilon), Scuuxun (Tau), UHB (Epsilon), Zimitr (Epsilon)
 
 (Description)
 
 ## APEX 3: Serenity
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Reflex EMP is triggered manually with increased range.
+- Numeric Interpretation: The max range increases from 225 to 280, but you need another click to activate it.
+- Score: 1.55 / 5
+- Ships with the APEX: Yigothu (Omega)
 
 (Description)
 

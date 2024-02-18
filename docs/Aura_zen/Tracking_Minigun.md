@@ -39,13 +39,10 @@ As a continuous skill, it should basically be charged and used as soon as the co
 
 ## APEX 1: Railgun
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Replaces Minigun with a Railgun that fires projectiles that pierce through targets.
+- Numeric Interpretation: Fire 30 piercing projectiles, each with 6 damage.
+- Score: 3.91 / 5
+- Ships with the APEX: Corsair (Sigma)
 
 (Description)
 

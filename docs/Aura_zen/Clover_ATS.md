@@ -40,37 +40,28 @@ Like the Missile Swarm, the Clover ATS still has the problem of missiles circlin
 
 ## APEX 1: Shield Breaker
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Adds missiles carrying warheads that deal extra damage to shields.
+- Numeric Interpretation: Missiles deal 2.5x damage to shields.
+- Score: 2.91 / 5
+- Ships with the APEX: Naya (Phi)
 
 (Description)
 
 ## APEX 2: Ion Warheads
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Adds missiles carrying Ion charges that stun turrets on impact.
+- Numeric Interpretation: Missiles stun the turrets within 50 range for 0.6s.
+- Score: 1.73 / 5
+- Ships with the APEX: Esperon (Sigma)
 
 (Description)
 
 ## APEX 3: Double Clover
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Launch twice the amount of missiles.
+- Numeric Interpretation: Shoot 8 missiles with half of the original damage.
+- Score: 2.36 / 5
+- Ships with the APEX: Pandora (Lambda)
 
 (Description)
 

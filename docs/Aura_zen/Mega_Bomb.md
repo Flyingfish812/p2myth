@@ -44,51 +44,48 @@ Obviously, due to the huge AoE MB has, it is extremely effective against dense w
 
 MB is probably the most versatile offensive tool against daily missions. It can be used in all types of waves, from light, to dense, to heavy waves. It can be abused at any opportunity possible. Particularly, in dense or heavy waves, many of the tracking turrets only fire a single bullet per burst, which are likely misaimed since most fire quickly once the invaders land on field. This means it is quite safe to charge MB so long you pick a spot where you aren't directly under a turret. However, it is most useful in dense or heavy waves since light waves are better reserved for MB cooldown.
 
-## APEX 1: Extended Range
+## APEX 1: Fast Range
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: High efficiency charge algorithms charge Mega Bomb more quickly.
+- Numeric Interpretation: The charging time decreases from 2s to 1.75s, the charging time recovery decreases from 4.5s to 3.5s.
+- Score: 3.80 / 5
+- Ships with the APEX: Baqlor (Lambda), Jn'dur (Gamma), Juggernaut (Delta), Mistral (Lambda)
 
 (Description)
 
-## APEX 2: EMP Core
+## APEX 2: Extended Range
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: More potent energy particles increase the blast range.
+- Numeric Interpretation: The max radius increases from 400 to 450.
+- Score: 3.18 / 5
+- Ships with the APEX: Buhloo (Gamma), Jn'dur (Epsilon), Kibarrax (Epsilon), Proxymar (Delta), Wraith (Lambda)
 
 (Description)
 
-## APEX 3: Shield Breaker
+## APEX 3: EMP Core
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
-
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+- Game Description: Fusion Core also destroys enemy bullets.
+- Numeric Interpretation: The bullets within a range of 100 will be cleared.
+- Score: 1.73 / 5
+- Ships with the APEX: Krillou (Alpha), Proxymar (Beta), Qhelqod (Beta), Veil (Beta)
 
 (Description)
 
-## APEX 4: Compressed Blast
+## APEX 4: Shield Breaker
 
-| Name | Type | Cost | Score | Rate | Cost vs. Utility |
-| ---- | ---- | ---- | ----- | ---- | ---------------- |
-|      |      |      |       |      |                  |
+- Game Description: Mega Bomb explosion is extra effective against shields.
+- Numeric Interpretation: Mega Bomb deals 2.5x damage against shields (Fusion core not included).
+- Score: 4.64 / 5
+- Ships with the APEX: Baqlor (Phi), Veil (Sigma)
 
-- Game Description:
-- Numeric Interpretation:
-- Ships with the APEX:
+(Description)
+
+## APEX 5: Compressed Blast
+
+- Game Description: Energy compression mixes Fusion Core and regular blast into a singular heavy explosion.
+- Numeric Interpretation: The damage increases from 30 to 70, the radius decreases from 400 to 200.
+- Score: 2.73 / 5
+- Ships with the APEX: Kada Veni (Gamma), Krillou (Gamma), Valkyrie (Delta)
 
 (Description)
 
