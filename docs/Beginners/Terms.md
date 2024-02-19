@@ -38,8 +38,6 @@ Some terms in this guide will be repeated a lot and thus it is easier for you (t
 
     On the left you can see how the red slash looks like JUST after grazing the bullet (shuriken) above the core. On the right you can see how grazing a laser works. Grazing a laser will also have the red slash, although not visible below.
 
-    
-
 - Phase Out
 
     This refers to the fading time of several Auras and Zens. Some of these abilities continue to last for a short/very short time even after their strength is depleted or the Zen is cancelled. The most obvious one is Chrono Field, where the term Phase Out literally refers to the effect of invincibility from Chrono Field continuing to last on your ship for an additional 0.5s.
@@ -207,6 +205,10 @@ Some terms in this guide will be repeated a lot and thus it is easier for you (t
 - Doomsday MIRV <img src="/terms/ddmirv.png" style={{zoom:0.35,verticalAlign:'middle'}}/>
 
     Doomsday MIRV will pop off MIRVs from nowhere around the turrets. When they charge, a red spot will appear on the screen. When they fire, rounds of MIRVs will appear in the red spots and fly forward. Unlike the normal MIRV, they can be activated as soon as they are fired.
+
+- Doomsday Super MIRV <img src="/terms/sddm.png" style={{zoom:0.5,verticalAlign:'middle'}}/>
+
+    Doomsday Super MIRV is very quiet when charging. When it fires, 3~5 huge MIRV will be shot consecutively. Each huge MIRV can split into smaller MIRVs and the smaller ones will explode into bullets.
 
 - Darts
 

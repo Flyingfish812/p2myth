@@ -8,7 +8,7 @@ sidebar_position: 14
 
 <img src="/terms/ml.png" style={{zoom:1.25}}/>
 
-(Description)
+Quite a straightforward offensive Zen. Positioning is key. Recommended for intermediate players and upwards. Most effective against thick columns of small invaders or big invaders.
 
 The details of this skill are listed as follows:
 

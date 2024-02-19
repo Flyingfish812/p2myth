@@ -8,7 +8,7 @@ sidebar_position: 14
 
 <img src="/terms/ml.png" style={{zoom:1.25}}/>
 
-(Description)
+较为简单直接的进攻型光环。释放位置是关键。适合水平中等及以上的玩家。对一整列密集的敌机或大型的敌机最有效。
 
 技能数据如下所示：
 
