@@ -44,5 +44,7 @@ As a continuous skill, it should basically be charged and used as soon as the co
 - Score: 3.91 / 5
 - Ships with the APEX: Corsair (Sigma)
 
-(Description)
+> Editor: Noble AOE damage.
+
+Although the total damage is only 180, it will never cause just this amount of output in actual combat. The skill in using the Railgun is to attack the back row while aiming at the front row of invaders simultaneously. For example, when facing a whole column of invaders, pierce through this entire column at the front row, or when there are vultures along with ravens in the back row , use the Railgun to kill the back row as well. When using the Railgun, make sure to keep the muzzle in line with as many invaders as possible, like Shogun.
 

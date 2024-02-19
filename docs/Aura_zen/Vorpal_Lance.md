@@ -51,7 +51,13 @@ The less known useful feature about VL is Vorpal Wake. Do not underestimate its 
 - Score: 4.18 / 5
 - Ships with the APEX: Antioch (Delta), Gladius (Epsilon), Jeria (Epsilon), Neni (Epsilon), Vani-Vith (Epsilon)
 
-(Description)
+> Editor: The actual width has increased, making shooting even more enjoyable.
+
+This apex does not actually split VL into 2, but instead increase the width of VL so that it can potentially hit more invaders with a single VL.
+
+This apex is useful against dense waves. It allows ships with this apex to be much quicker due to the better invader clearing capabilities. This iis especially against very dense waves where each VL can make a huge difference in catching a couple more invaders. Also, since each VL is wider, you can even conserve 1 VL since 3 wider VLs is enough to cover the whole field instead of 4 normal VLs, which means even better speed from being able to use 1 VL the next wave where you may not be able to with normal VL. Another advantage is due to the wider VL, you also get better bullet clearing capabilities, which improves survivability as well.
+
+A possible disadvantage, however, is that due to the wider lance, it is slightly more difficult to pop off turrets since you risk hitting the invader's hull first instead of a turret, which then registers as damage to the invader and not the turret you are aiming for.
 
 ## APEX 2: High Capacity
 
@@ -60,7 +66,13 @@ The less known useful feature about VL is Vorpal Wake. Do not underestimate its 
 - Score: 2.81 / 5
 - Ships with the APEX: Antioch (Beta), Exarch (Epsilon), Icarus (Delta), Saber (Beta), Wraith (Gamma)
 
-(Description)
+> Editor: Why hold back from shooting? It will only lead to problems.
+
+This apex increases the maximum number of counters for VLs from 4 to 5.
+
+In community and specialist missions, this apex only benefits ships that kill so fast (usually those that are in the Full Offence class), there's sometimes no reason to use more VLs and thus you run the absolute risk of overflowing particles. For other VL ships, even those in the Offensive class, the rather fast rate of killing actually comes from VL itself, and not using it will instead more likely result in your death. There are cases where it is a good idea to stockpile 5 VLs to push through an extremely difficult wave containing many large invaders with dangerous turrets, unleashing all 5 VLs to get rid of the threats. However, these situations are rare, making this apex too situational. Thus, for ships that are unable to kill at such frightening speeds, this apex is utterly useless. If you need this apex because you are overflowing on particles for offensive ships, please go improve your skills on how to use VL by reading the Vorpal Lance section above.
+
+In daily missions, this apex is very useful during dense and heavy waves, as you will really need all the power you can get. It is also very useful for light wave after light wave (which can happen occasionally), or when you happen to have the luck to have a very good lineup, causing you to use less VLs than what you initially wanted to use.
 
 ## APEX 3: Trident
 
@@ -69,5 +81,8 @@ The less known useful feature about VL is Vorpal Wake. Do not underestimate its 
 - Score: 2.09 / 5
 - Ships with the APEX: Naya (Tau), Warden (Phi)
 
-(Description)
+> Editor: Nicely put, it's called a trident; not so nicely, it's a pee fork.
 
+The bonus of this APEX is sometimes a form of negative optimization. Although the lance itself is divided into three branches and shot in three directions, covering a larger area, the cost is that the damage on each branch is reduced to one-third. The most direct consequence is that a single lance cannot eliminate raven unless the lance is used at close range. The total damage of two of the three lance branches is 26.4, while the unprotected raven have 27 health points. In other words, you either need to use the main weapon for follow-up attacks or use another lance, both of which require additional actions.
+
+Its advantage lies in being able to more efficiently deal with sparrow swarms because one lance is enough to eliminate any type of sparrow. According to the coverage area of the trident, usually only two lances are needed to clear the vast majority of sparrows, while the remaining sparrows need to be dealt with using the main weapon or Zen. A wider range means more bullets can be cleared; a single trident can clear out a considerable safe area, thereby increasing survivability. However, these advantages cannot make up for the lack of damage. When facing attacks from heavier waves, you will have to consider the consequences of damage dispersion. When you need to get close to ensure that the invaders take full damage from the lance, it invisibly increases your number of actions. Therefore, for those players whose basic skills with the lance are not very solid, it is best to avoid this APEX altogether or simply use the base form.

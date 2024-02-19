@@ -53,5 +53,12 @@ Be warned that CF needs to be slightly pre-empted, as deploying a CF at the abso
 - Score: 2.27 / 5
 - Ships with the APEX: Njorun (Lambda), Trinity (Phi), Yigothu (Sigma)
 
-(Description)
+> Editor: Before getting started, think about whether you really need a support skill that emphasizes close-range output?
 
+This apex increases the radius of CF by about 20% to a radius of 200. It also slows down all turrets which are inside the CF to 30% of their original firing speed, which means they fire bullets slower and have a longer turret cycle of 3.33 times the original cycle length (it takes longer for the next burst to fire, if the turret is in its cooldown state and not firing any bullets).
+
+This apex encourages a very pre-emptive usage of CF, rather than simply using it for last minute defence. It also rewards an aggressive playstyle, going upfield to deploy it and then staying upfield yourself to wreck havoc among the invaders. It does benefit ships that require manual aiming of the main weapon a bit due to the increased safety range. However, the slowing of turrets can work to both your advantage and disadvantage. It works very well against spinners and bloomers, particularly when they are in their cooldown state. However, putting it on laser turrets is disaster as this will throw the lasers affected by CF off sync to those that are unaffected (unless you are able to cover all laser turrets, which is unlikely due to the small CF radius, even with the radius increase).
+
+In daily missions, since everything is so bunched up together in dense and/or heavy waves, the slowing effect is significant, and you can deploy it and start popping turrets that are most dangerous first. Moving up to pop dangerous turrets refills your Aura quickly, usually allowing for a second CF after the first one expires to allow for enough time to pop all the dangerous turrets. Generally, you want to eliminate the dangerous turrets from bottom of the field to the upfield.
+
+In addition, the deep purple color of the CF means it can be hard to see where you are inside the CF, especially when there are many smaller invaders inside the CF as well.

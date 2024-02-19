@@ -58,7 +58,13 @@ PS can also be used to effectively block off DDLs. Take note that normal lasers 
 - Score: 2.00 / 5
 - Ships with the APEX: Atlas (Alpha), Lokie (Alpha), NC-271 (Beta), Phoenix (Beta), Zhetass (Gamma)
 
-(Description)
+> Editor: Is it big enough? Still not big? What are you thinking?
+
+This apex increases the diameter by 50%.
+
+This apex is actually very useful, and ships with this apex are generally quite cheap to purchase, which makes this apex generally a worthwhile investment. The most obvious buff is the fact you can potentially reflect more lasers since the area of laser catch is much wider. This usually makes for much larger reflection damage compared to normal PS since some T1 low Mk lasers that have poor tracking ability may not be able to target your core in time.
+
+But the second more useful and less obvious buff is the fact that the supersize PS can clear a lot more bullets than normal PS. The increase in size also means you can clear away much more space and open up more pathways for you to escape after exiting PS. Combined with the Phase Out time of PS, where the bigger Phase Out PS can clear even more bullets, this apex actually turns PS into a viable bullet defense, increasing the survivability of the ships with this apex against bullets.
 
 ## APEX 2: Super Reflect
 
@@ -67,7 +73,17 @@ PS can also be used to effectively block off DDLs. Take note that normal lasers 
 - Score: 4.18 / 5
 - Ships with the APEX: Essin (Gamma), NC-150 (Beta), Njorun (Gamma), Torrent (Beta), Widget (Delta)
 
-(Description)
+> Editor: One for five at the limit.
+
+This apex allows PS to deal 5 times the normal Laser Reflection damage, but only for a very short initial activation duration which only lasts for roughly 0.5s. An hexagon shaped PS indicates this duration, and lasers reflected during this duration will have an extra large width, although they suffer the same random targeting nature. As a reference, 8 laser super reflected (with a bit of prior damage to the Shield with a 34.375 DPS SB weapon) instantly destroys a Shield Roc.
+
+Who doesn't welcome some SERIOUS extra damage right? With quite a bit of practice, you will be able to identify the correct timing to release your touch such that the lasers will hit your hexagon shaped PS to deal extra laser reflect damage. The super reflected lasers still suffer from the random targeting nature, thus it is possible that not all invaders may die even with many lasers on field, but for sure the bigger invaders will go down.
+
+This apex is the most useful against the boss invaders (Condors and Rocs) as lasers from these invaders either heavily damage or completely decimate these invaders. Never again will you have to face such a difficult boss invader filled with both lasers and insane bullet spinners. Just beware of the next wave after such boss invader waves because they can be very deadly and you will not have enough time for PS to recover to reflect the next wave of lasers. This is especially useful against very heavy waves, particularly 5-4 in daily missions.
+
+However, for most other waves, this apex is generally not very useful as it is difficult to reflect lasers from upfield invaders to hit frontline invaders. It is more efficient to use an Aura which refills very quickly, particularly in dense waves. The slow recovery rate of PS also make this apex slightly harder to use, and best reserved only for heavy waves.
+
+Because community and specialist missions significantly less amount of lasers, the effects of this apex is difficult to feel, but it may have some effect in General/Dart missions.
 
 ## APEX 3: Focus
 
@@ -76,7 +92,11 @@ PS can also be used to effectively block off DDLs. Take note that normal lasers 
 - Score: 2.27 / 5
 - Ships with the APEX: Gorthaur (Alpha), Jericho (Gamma), Zhetass (Beta)
 
-(Description)
+> Editor: Just afraid of not concentrating enough and forgetting to activate the shield.
+
+This apex makes the recovery rate of PS much faster, allowing PS to completely cool down (charge time returns to the initial state of 0.4s) after 4s (assuming it was used once after PS has completely cooled down), which is faster than REMP (6s).
+
+This apex turns PS ships with the apex into much more survivable ships due to the better capability to spam PS. It appears that in long waves, such as Act 5 of S+ leagues, you can even use it twice in such waves. Many PS ships do not have a very high survivability rating in the Tier List, and this apex pushes their survivability rating up by at least 1 minor grade (taking into account +/-). This apex is also generally very cheap.
 
 ## APEX 4: Shield Booster
 
@@ -85,5 +105,9 @@ PS can also be used to effectively block off DDLs. Take note that normal lasers 
 - Score: 1.55 / 5
 - Ships with the APEX: Centurion (Epsilon)
 
-(Description)
+> Editor: Finally, did you discover it? Personal shields are essentially erasers.
+
+Simply put, when you press your finger back on the screen to control the ship, a regular shield will disappear in a short time, while this APEX allows the shield to last one more second. Perhaps you know that the Personal Shield itself has the function of an eraser; as long as you slide your finger forward while pressing back on the screen, the shield can break through more bullets. This use of the eraser is applicable in many missions.
+
+However, it will have a certain impact on the main weapon because during the time when the shield has not disappeared, the main weapon seems not to attack, meaning the rhythm of the attack will be disrupted to some extent, which is not good news. Overall, the application range of this APEX is not particularly wide. For Centurion, you can completely choose another APEX to start with, or simply use the base form.
 

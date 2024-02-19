@@ -54,7 +54,11 @@ You will no longer be using SEMP as a pseudo dodging tool. Or at least, it is ex
 - Score: 4.64 / 5
 - Ships with the APEX: Cinnri (Tau), NC-150 (Gamma), Nimbus (Sigma), Photurius (Tau), Zimitr (Delta)
 
-(Description)
+> Editor: Higher damage, crazier output.
+
+This apex increases the maximum damage dealt by SEMP from 10 to 15.
+
+This apex helps when you are faced with massive invader crowds, as the continuous usage of SEMP and thus continuous stunning of invaders after killing just a few more Ravens or Sparrows helps a lot in the DPS and thus killing off the remaining invader crowds much faster. It is also extremely useful in early waves where a significantly smaller SEMP is able to kill Sparrows. For many SEMP ships with this apex, they also rely on SEMP damage to quickly destroy the invaders, in which case, SEMP doubles up as a very effective huge AoE damage tool, rather than simply being a tool to stun invaders. As it is very easy to abuse SEMP in daily missions, the bump up in damage in SEMP, when added up, accounting for the gazillion invaders on field, quickly means how much faster invaders get decimated in dense waves, and even the heavy waves if there exists Herons or smaller.
 
 ## APEX 2: Extended Range
 
@@ -63,7 +67,9 @@ You will no longer be using SEMP as a pseudo dodging tool. Or at least, it is ex
 - Score: 2.27 / 5
 - Ships with the APEX: Mist Star (Gamma), Torrent (Alpha)
 
-(Description)
+> Editor: It's mostly useless; I can't think of much to comment on.
+
+As an APEX that only increases range, its improvement is too limited. The fact is, you don't need this extra 50 radius to stun more enemies; you can compensate for it through your actions (translate: don't always rely on releasing your aura at the bottom). The only thing that might be slightly helpful to you is that the expansion speed of the radius will be a bit faster, but this won't make a big difference either.
 
 ## APEX 3: Strong Stun
 
@@ -72,5 +78,7 @@ You will no longer be using SEMP as a pseudo dodging tool. Or at least, it is ex
 - Score: 1.73 / 5
 - Ships with the APEX: Mist Star (Lambda)
 
-(Description)
+> Editor: Huh? Why do I need an extra second of stun?
+
+An extra second of stun simply means an extra round of main weapon output, nothing more. Its improvement is also very limited; you can't expect much difference just from an extra round of main weapon output. For very dense waves, one round of main weapon can at most kill a raven, and then you are surrounded by bullets. Overall, it's still a marginal improvement at best.
 

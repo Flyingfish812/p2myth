@@ -58,7 +58,17 @@ In conclusion, Barrier looks like a very straightforward Aura to use (it sounds 
 - Score: 4.45 / 5
 - Ships with the APEX: Gorthaur (Beta), Heechi (Delta), Qhelqod (Gamma), Stinger (Epsilon), Tillat'Or (Gamma)
 
-(Description)
+> Editor: Inside the circle and outside the circle are simply two different worlds.
+
+This apex causes any lasers that hit the outer edge of the outer barrier to reflect back to a random target, with a DPS of 20, similar to PS's Laser Reflection ult. Bear in mind that even though lasers are reflected, the barriers will still take damage from the lasers per normal, and the inner lining will also still fade as per normal if the outer barrier dies first.
+
+This apex is a big game changer for many ships that are unable to handle daily mission types with lasers very well, or just have a lack of defence against lasers which puts them slightly further down in the Tier List. Obviously, any ship with this apex is now extremely capable of handling even the hardest laser missions. Because even the smallest barriers can reflect lasers, you can deploy a thick stack of small barriers, all around yourself in order to defend yourself against lasers. Each burst of lasers firing only have the capability to destroy one barrier since barriers have a Phase Out time. This makes for near infinite defence against lasers. Just beware that your thick stack of barriers will fade away after some time even though they are not taking damage, so deploy each barrier slowly after each other where possible (unless you are overflowing on particles).
+
+The only issue now is bullets, which can quickly destroy your barriers since you no longer have the advantage of the ult, the inner lining which is supposed to provide more defence. However, the pure offensive power of laser reflection from these barriers decimates invaders so fast, you hardly need to contend with many bullets at all. Just be careful to conserve one deployable barrier at hand as barrier Phase Out is not entirely reliable in keeping lasers out. You can then deploy the barrier you at hand to defend yourself against any possible laser leak. Also, if you are out of barriers but still have the deployable barrier at hand, you can deploy the barrier at the last minute just before the lasers fire yet another round, since the smallest barriers can last one full burst of lasers.
+
+Unlike PS, the area of laser catch is much wider with barrier. This usually makes for much larger reflection damage compared to PS since some T1 low Mk lasers that have poor tracking ability may not be able to target your core in time.
+
+Because of the presence of DDLs in daily missions, you need to be careful to place barriers such that DDLs will not hit them, or reserve barriers at hand until one round of DDL has fired. Be sure to have a barrier up at the start of each wave as DDLs take very long to fire and one round of lasers is definite to go off first.
 
 ## APEX 2: Reinforced Lining
 
@@ -67,5 +77,8 @@ In conclusion, Barrier looks like a very straightforward Aura to use (it sounds 
 - Score: 1.91 / 5
 - Ships with the APEX: Predator (Alpha), Razor VI (Beta)
 
-(Description)
+> Editor: Think about who you want to trap inside the circle.
 
+This apex increases the strength of the Inner Lining, making it roughly the same strength as the outer barrier.
+
+This apex improves the survivability of the ships that have it. But in addition to that, it allows for some chaining of offensive Zens, such as ML or MB. In fact, you may even be able to charge 2 of such Zens consecutively before the both the inner and outer barriers fade.

@@ -50,7 +50,17 @@ The good thing about PD is it refills quite fast and the smallest PD from natura
 - Score: 4.18 / 5
 - Ships with the APEX: Arietis (Lambda), Luna (Tau), Tar'cah (Lambda), Widget (Tau), Wrackr (Epsilon), Zephyr (Epsilon)
 
-(Description)
+> Editor: Don't move! I'm helping you pop those pimples!
+
+This Apex makes every bullet cleared by PD release a small blast explosion that deals 2 damage each, with a tiny radius, dealing damage to any invaders that are caught in the blast explosion.
+
+This apex completely changes the way you use PD since you are now using it for offence. However, this apex is only for very pro players since this eliminates one source of your defence, and for some of these ships with this apex, this means no other defensive options remaining. If you are not using PD offensively enough, you would have wasted your money buying such an apex.
+
+Bullet Detonator is effective in 2 cases: against large crowds of small invaders in front of other invaders with higher tier turrets, or against large invaders in front with many backline smaller invaders behind. In the former case, there is a lot of RNG involved. Sometimes invaders line up properly and they all vaporize, at other times they dodge the bullet explosions and you are still left with quite a number of invaders to deal with. In the latter case, it is consistent, and can even be used against that large invader's own bullets fired. Timing of when to fire PD is very important for this apex since the wrong timing means the apex becomes useless and you waste your PD for no reason.
+
+There are also some extremely crazy things you can try with PD, such as turret riding. This not only means riding spinners and MIRV Bloomers, but you can also ride pellet spreads, dart tracking turrets and more! You want to be somewhere on top of the turret itself, but towards the edge of the turret, visually, such that the turret hitbox will not kill you, but at the same time, you want to be JUST behind the spawn point of the pellets, darts or MIRVs. Spamming PD when this happens results in not only you grazing off these bullets, but also have the capability to deal damage due to how quickly the bullets are eliminated while they are just emitted and still on top of the invaders, resulting in pretty insanely fast kills.
+
+Be sure, however, to keep a very small bit of PD left just for defence. This usually naturally happens since below a certain radius, PD will sort of cease to work properly to eliminate bullets.
 
 ## APEX 2: EMP Laser
 
@@ -59,7 +69,17 @@ The good thing about PD is it refills quite fast and the smallest PD from natura
 - Score: 3.45 / 5
 - Ships with the APEX: AB8/Klyn (Delta), Orion (Delta), Pandora (Tau), Tar'cah (Delta)
 
-(Description)
+> Editor: Not everyone has the leisure to lie in the bullet sea and bask in the laser bath.
+
+This apex completely changes the way PD works. It fires only one PD laser (at 0.1s intervals, just like regular PD, except regular PD fires 10 lasers at 0.1s intervals), but the bullet targeted by the PD laser releases a small BEMP that clears out other bullets around it in a small radius, approximately 50 radius. Each PD laser also takes up twice the Aura energy compared to normal PD, although depletion is generally much slower due to the less lasers being fired at once.
+
+This apex is the biggest game changer for MIRV/Shuriken missions. PD used to be rather lackluster in eliminating bullets due to the number of bullets which are able to be cleared, since PD depletes purely based on the number of bullets on screen. But now, with this apex, the number of bullets which are able to be cleared is unlimited! This brings it on par with BEMP since it has also unlimited bullet clearing capability. But because PD is not a one-time use, but depletes slowly, this BEMP PD apex just way supercedes BEMP since you often do not need the full BEMP radius to continue navigating around the field or surviving.
+
+The technique to use the BEMP PD apex is to rhythmically tap to use it, and not hold it down or spam tap it. This is because you need to allow a small time frame for the previous PD laser to fully exert its impact as the BEMP takes a very short while to fully take effect. With a bit of experience in timing the intervals between taps, this apex is so useful, you can practically clear ANY MIRV/Shuriken mission in your FIRST ATTEMPT, no matter the difficulty, even with the hardest Rocs. You didn't read that wrongly - I kid you not.
+
+Outside of MIRV/Shuriken mission usage, this apex is only useful based on situation. This apex suffers from waves that feature different types of turrets that fire bullets of different speeds since the small BEMP released is unable to catch the faster darts coming at you on time which may result in your death. You will need to spam or hold down when faced with such circumstances, and do not rely on this apex to save you from darts in a mess of other slower moving bullets such as pellets or shurikens. In particular, this apex severely suffers with the presence of boomerangs, since the BEMP is usually unable to clear out boomerangs due to their extreme speed. Be prepared to dodge boomerangs. With the increased energy usage from spamming it, this BEMP PD will not last you long in such waves. The efficiency of bullet clearing in such waves is usually lower than normal PD. The reduced efficiency of this apex, which sometimes feel like you are back to using a level 1 PD (which really sucks), is what might make this apex difficult to recommend outside of MIRV/Shuriken missions.
+
+The reason why it works so well in MIRV/Shuriken missions is because all the bullets are slow, and roughly the same speed, which stacks so many bullets together in a very tight space, making bullet clearing with this apex so efficient.
 
 ## APEX 3: Sentinel
 
@@ -68,5 +88,8 @@ The good thing about PD is it refills quite fast and the smallest PD from natura
 - Score: 1.00 / 5
 - Ships with the APEX: Proteus (Beta), Vuxine (Gamma), Yoth-Hola (Epsilon)
 
-(Description)
+> Editor: If you hadn't been making noise all along, I wouldn't have noticed you at all.
 
+This apex continually fires one PD laser roughly once every 0.5s that consumes no Aura energy. This PD laser works like regular PD and eliminates only one bullet (or MIRV). However, this Sentinel PD laser only activates when bullets are within the current radius of the PD Aura. It will not target bullets further than that.
+
+This apex is unfortunately not very useful due to the pure density of bullets in this game (well, you are playing a bullet hell game, what do you expect?), and bullets are often extremely bunched up together, and at times other bullets overtake bullets that were originally closer to you. The effect of this apex is unfortunately very minimal in later waves such as Act 4 and above. It helps when you are trying to charge ML or MB, but only against a bullet sparse field with only either pellets or shurikens, and definitely not darts. But such a situation only occurs if you allow cooldown time at the end of a wave. Overall, this apex does not really help in survivability, but does help in setting up ML or MB, although in only very specific circumstances. In earlier Acts, it helps more, but the bullet density is small enough in that it's not difficult to simply position yourself correctly. Anyway, you are better off learning positioning yourself properly.

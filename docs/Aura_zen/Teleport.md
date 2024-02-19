@@ -44,7 +44,7 @@ When you TP to eliminate MIRVs, the most important thing to know is that, the be
 
 If you don't have an ult TP, you can try something else called "Implosive Grazing" where you teleport right into the very spot the MIRV exploded, but only after the MIRV has really exploded (because you can die by the MIRV itself as well). Bear in mind it only works if it is a lone MIRV and MIRVs that are very tightly clustered and you are sure every one of them has exploded. This technique is shown below:
 
-<img src="/Cookbook/tpgraze.png" style={{zoom:1}}/>
+<img src="/Cookbook/tpgraze.gif" style={{zoom:1}}/>
 
 The other most common technique of TP against MIRVs, particularly those from MIRV Bloomers, is to TP to the frontline of MIRVs to delete as many as possible, and then push back to the bottom of the screen. Then repeat it again as needed, but be sure not to overabuse this technique as TP charge time can stack quite fast when doing this. You have to still ensure that the MIRV Bloomer is destroyed as soon as possible.
 
@@ -63,7 +63,11 @@ Now all that covers the defensive aspect of TP. TP is also a very useful positio
 - Score: 4.27 / 5
 - Ships with the APEX: Barret (Epsilon), Czar (Lambda), Icarus (Sigma), Luna (Omega), Sakura (Phi), Xaniea (Lambda)
 
-(Description)
+> Editor: Slippers for stepping on cockroaches.
+
+This apex does 30 damage in the Arrival EMP range of TP (not counting for armor damage reduction, if applicable).
+
+This apex benefits all ships with it, no doubt, due to the additional form of damage that can now be dealt to invaders. However, it benefits some ships more than others. Particularly, it benefits ships that have a long recharge time between each burst, since explosive TP can be used to cover for periods of time where no damage is dealt, in order to finish off weakened invaders, instead of wasting their powerful main weapon burst just to finish off the job. It also benefits ships that suffer from invader crowds. As TP is the most abusable Zen with a non-zero charge increase time, it turns any ship with it into a speedrunning ship that can deal devastating AoE damage extremely frequently. It can even be used twice in a row without much implications, provided TP has cooled down. Even though the AoE may be small, you can pre-charge teleport and let it run until you find for the perfect opportunity where many invaders get together and BOOM, teleport on them to deal lots of damage. It's just like the Tele-frag technique.
 
 ## APEX 2: Double Teleport
 
@@ -72,7 +76,15 @@ Now all that covers the defensive aspect of TP. TP is also a very useful positio
 - Score: 2.00 / 5
 - Ships with the APEX: Czar (Delta), Sakura (Epsilon), Trireme (Tau)
 
-(Description)
+> Editor: Don't worry, I'll just step on your foot and then leave, no other intention.
+
+This apex allows you to immediately use TP again after you have arrived at your new location from the first TP, without incurring the increase in charge time for this second teleport. (Subsequent TPs will suffer the charge time increase though) However, the second teleport must be done immediately/near immediately after you complete the first teleport. There is only just enough time for you to use one counter of your Aura, fully release your Aura (for radius based Auras) or do a very brief swipe.
+
+This apex is quite situational based on ship, but it has a generally somewhat useful purpose for all ships with this apex. It is useful against MIRVs, where you can eliminate much more MIRVs and bullets. It is also be useful for dart tracking turret distraction since these turrets don't fire until they achieve a very brief lock-on with your core, so simply teleport to a corner and wait for the dart turrets to track you and fire before using the 2nd TP.
+
+It is also possible to abuse a technique known as Graze then Teleport. Basically, what you do is to purposely teleport into a dense cluster of bullets, let the second teleport charge run for a while, then just before a bullet can hit you, teleport out again. This results in massive grazing from the cluster of bullets around you. The usefulness of this depends on the ship that has this apex.
+
+In daily missions, this apex can be useful in eliminating rogue clusters of bullets that are emitted by very low tier turrets in dense and/or heavy waves. The pure density of bullets also necessitate a need for more bullet clearing options.
 
 ## APEX 3: Extended Clearance
 
@@ -81,7 +93,11 @@ Now all that covers the defensive aspect of TP. TP is also a very useful positio
 - Score: 1.55 / 5
 - Ships with the APEX: Aurora (Lambda), Claymore (Delta), Orion (Lambda), Prime X (Tau), Tillat'Or (Epsilon), Vani-Vith (Sigma)
 
-(Description)
+> Editor: I'll step on you, but don't step on me.
+
+This apex increases the Arrival EMP range of Teleport by 30% to a radius of 65 compared to 50 for normal Arrival EMP, as shown in the screenshots below, with normal TP Arrival EMP range on the left, and Extended Clearance TP Arrival EMP range on the right.
+
+This apex is useful in MIRV/Shuriken missions, particularly, when employing the TP then pushback strategy. The increased clearance in space makes it easier for you to pushback, especially when faced with shuriken clouds hindering your pushback. Other than that however, the buff provided by this apex is hardly felt in other mission types.
 
 ## APEX 4: Departure EMP
 
@@ -90,7 +106,9 @@ Now all that covers the defensive aspect of TP. TP is also a very useful positio
 - Score: 1.00 / 5
 - Ships with the APEX: Hunter (Alpha)
 
-(Description)
+> Editor: I've already escaped, why should I care about what happens in the original spot?
+
+To be honest, the bonus of this APEX is somewhat difficult to understand because it releases a Bullet EMP at the departure point. The only plausible explanation is that if you just teleport to a nearby location, the effects of the Bullet EMP from departure and arrival points can overlap to eliminate more bullets. However, bullet clearing can be achieved by using the Phalanx as bulldozer. If you find yourself needing to combine the departure and arrival Bullet EMPs, it means you're already in a very dangerous situation. Consider optimizing your strategy.
 
 ## APEX 5: **Darkfire Blast**
 
@@ -99,5 +117,7 @@ Now all that covers the defensive aspect of TP. TP is also a very useful positio
 - Score: 2.55 / 5
 - Ships with the APEX: Trinity (Delta)
 
-(Description)
+> Editor: A moderate-range explosive attack.
+
+The Blackfire of Trinity becomes area damage, which brings about a technical demand for the ship. This enhancement is better than the effect of another APEX of Trinity. As a survival-oriented ship, it doesn't need to be close to invaders for output, so it can entirely opt for upgrading its output. In terms of usage, use teleportation as an offensive tactic as much as possible. Release the Blackfire in the middle of dense enemy groups to cause more damage and save its lackluster main weapon output.
 

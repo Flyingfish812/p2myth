@@ -49,7 +49,11 @@ BEMP will usually start to struggle a bit against heavy waves. You will need to 
 - Score: 4.64 / 5
 - Ships with the APEX: Juggernaut (Lambda), Lyova (Tau), Phoenix (Delta), Shinova (Delta)
 
-(Description)
+> Editor: A qualitative improvement, capable of both offense and defense. When facing shielded invaders, remember to break the shield first before using the aura.
+
+This Apex deals a maximum damage of 10 to all invaders that are within range of the BEMP when fired. The damage scales with radius, just like SEMP.
+
+This apex is extremely useful under all circumstances. This is because there are times when you are sometimes hanging around with a near full size BEMP and just don't know what to do with it, since the remaining turrets on field producing bullets are so easy to dodge. The AoE damage from this apex also potentially means you can deal massive damage to invader crowds. Particularly, when there are many Sparrows, you can instant kill them all and refill your BEMP to full size again and launch a second round, dealing even more damage. With many Ravens on field, they can also be killed even more quickly and thus killing just a few Ravens (4 is actually more than enough) can re-charge your BEMP to full size again for a second round if deemed appropriate. In fact, this apex turns many ships into pretty insane potential speedrunners, even for those ships that were originally nowhere near speedrunning standards. This apex turns BEMP into such a versatile tool - one that does everything imaginable - clearing bullets, resetting turrets (sometimes a full SEMP duration is not necessary, particularly for spinners and lasers), and dealing damage. It's triple treat!
 
 ## APEX 2: Extended Range
 
@@ -58,7 +62,13 @@ BEMP will usually start to struggle a bit against heavy waves. You will need to 
 - Score: 2.18 / 5
 - Ships with the APEX: Mirage (Delta), Shinova (Alpha), Tempest (Beta)
 
-(Description)
+> Editor: Stretching your hand a bit, but it seems like it hasn't actually stretched.
+
+This apex increases the maximum radius of BEMP from 450 to 500. The energy requirement to reach the new maximum radius is the same, which translates to a quicker increase in BEMP radius.
+
+This apex is quite useful for the quicker increase in radius. This means that you can get a roughly usable BEMP with less particle uptake. It can be a big deal for offensive ships that rely on BEMP for positioning purposes. The other advantage of this apex is needing less particles to have a big size BEMP means it's faster to get a big enough BEMP for it to cover dangerous turrets such as spinners or MIRV Bloomers, which can make all the difference in survivability. However, remember that with this apex, you should generally use BEMP more often as the maximum of this extended range BEMP is quite useless honestly.
+
+Because of how plentiful particles are in daily missions from dense waves, the small increase in range generally doesn't do much.
 
 ## APEX 3: Increased Stun
 
@@ -67,7 +77,9 @@ BEMP will usually start to struggle a bit against heavy waves. You will need to 
 - Score: 1.70 / 5
 - Ships with the APEX: Mirage (Omega)
 
-(Description)
+> Editor: What can you do with the extra 0.6 seconds? Perhaps offer a *friendly* greeting while charging up.
+
+Increasing the stun duration doesn't bring about many changes. 0.6 seconds means that the stun merely serves as a reset, allowing you to refocus and face the enemy's attack again. Doubling it might mislead you into thinking there's plenty of time left for stunning, causing you to pause and charge up Zen. Another issue is that this APEX is only equipped on the Mirage (Nightfury Laser), and the Nightfury Laser is notorious for its long charging time. Although the stun duration is increased, it may still not be enough time for you to charge up the laser again before it cools down. Lastly, the price of 50,000 is simply too expensive; you might not even consider purchasing it solely for this skill.
 
 ## APEX 4: Bullet Detonator
 
@@ -76,5 +88,7 @@ BEMP will usually start to struggle a bit against heavy waves. You will need to 
 - Score: 4.27 / 5
 - Ships with the APEX: Disaris (Omega)
 
-(Description)
+> Editor: Playing games for so long just for this moment of excitement.
+
+Transplanting the Bullet Detonators of Point Defense onto the Bullet EMP is truly a genius idea. This APEX greatly enhances the entertainment value of Disaris, giving it a chance to compete with veteran speedrun ships in MIRV Spam missions. Typically, in missions, you need to wait until the bullets cover the invaders before decisively using the Bullet EMP to cause widespread damage. In other words, as an offensive measure, the best use is to dive into the bullets, clearing all bullets when your ship is almost surrounded by bullets. One successful aspect of this APEX is that the main weapon used in conjunction is fully guided, meaning your attention doesn't need to be focused on aiming the main weapon, allowing you to allocate more attention to the timing of using the Bullet EMP. Finally, because the entertainment value of this APEX outweighs its practicality and it costs 50,000 credits, careful consideration is still needed before obtaining it.
 

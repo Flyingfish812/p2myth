@@ -46,7 +46,13 @@ Unfortunately, since GMs are very slow moving, they are very prone to missing, o
 - Score: 3.82 / 5
 - Ships with the APEX: Banshee (Phi), Claymore (Lambda), Mistral (Tau)
 
-(Description)
+> Editor: The art of explosion lies in exploiting all value before clearing everything away.
+
+This apex clears all bullets in the blast radius of GM.
+
+Because of the rather huge range of GM's blast damage, the amount of bullets you can clear is extremely significant. In fact, It makes a huge difference for many GM ships that have no other defences, as GM can now backup as a BEMP when there is excess of particles, particularly when transiting from a crowd heavy wave to a bulky wave (one with predominantly larger invaders such as Eagles and above). Just remember to not rely on it like BEMP, but use it as a pre-emptive BEMP where if you think you are going to get trapped, launch it. Particularly, it is extremely useful against MIRVs as an entire cluster of them can be eliminated straight away. GM travels quite slowly and thus it takes time for it to actually clear bullets.
+
+The way you use GM with Disintegrator Warhead also changes compared to normal GMs. For heavy waves, particularly those that have invaders with MIRV turrets, you can fire a GM predictively such that before it reaches there, the MIRVs will fire and they would be instantly deleted. For high tier spread and spinner turrets, you can slowly fire a GM one by one to create a nice breathing space for yourself later. Note that in dense waves, you should still use GM per usual.
 
 ## APEX 2: Tungsten Warhead
 
@@ -55,7 +61,9 @@ Unfortunately, since GMs are very slow moving, they are very prone to missing, o
 - Score: 3.82 / 5
 - Ships with the APEX: Centurion (Tau)
 
-(Description)
+> Editor: Whether it can eliminate ravens in one shot is the standard for measuring the effectiveness of area damage.
+
+The bonus of this APEX brings about a qualitative change because in armored stages, the health of ravens is 24, and the area damage of the Goliath Missile happens to be 24. In other words, one missile can clear out an area of armored ravens. This also makes speedrun possible because the release of the Goliath Missile can be considered instantaneous, and skipping a few ravens can save a lot of time.
 
 ## APEX 3: High Capacity
 
@@ -64,7 +72,9 @@ Unfortunately, since GMs are very slow moving, they are very prone to missing, o
 - Score: 2.27 / 5
 - Ships with the APEX: Starless (Epsilon)
 
-(Description)
+> Editor: Once again, holding back from shooting, you've got a bit of a problem.
+
+Similar to the high-capacity APEX for Vorpal Lances, the demand for the Goliath missile for this APEX is not very high either. As a skill with area damage, the principle is to use it immediately when necessary. Holding onto missiles means your time will be wasted only using the main cannon and Zen against invaders. The only scenario where it might be useful is when facing four eagles appearing together or a group of heavier enemies, where you can unleash all the missiles at once for a burst of damage. But most of the time, four missiles are sufficient.
 
 ## APEX 4: Proximity Detonator
 
@@ -73,5 +83,6 @@ Unfortunately, since GMs are very slow moving, they are very prone to missing, o
 - Score: 1.55 / 5
 - Ships with the APEX: Monsoon (Gamma)
 
-(Description)
+> Editor: I don't know why, but I'm reminded of certain *Makeinu* female characters who explode with just a little touch.
 
+The bonus of this APEX is somewhat redundant. As a player of Goliath Missile, aiming accurately at the position is crucial, and sometimes even the slightest deviation is unacceptable. It can be said that hitting the missile accurately is a basic skill requirement. While this APEX ostensibly increases the margin of error, it also prevents more precise targeting. More precise targeting can be achieved through muscle memory training, which means your money can be saved to purchase more cost-effective APEXs.

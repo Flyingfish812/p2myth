@@ -116,3 +116,21 @@ Currently, there are 8+3 Zen skills in the game. They are listed below, with the
     - Double Clover
 9. Tracking Minigun
     - Railgun
+
+## APEX
+
+Apexes are late game content. Each ship has 2 apexes. You can only view and unlock the apexes for a particular ship when that ship is fully ult-ed. Apexes change the look of the ship, sometimes in a revolutionary way. However, each apex also comes with either a re-adjustment or an enhancement to the ship. You can buy both apexes, but only one of them is usable at any point in time. You may also switch back to the base form of the ship at any time.
+
+Apexes can be seen as cosmetic changes, like skins in other free-to-play games. In fact, as confirmed by the devs, the price of apexes are hand set based on the appearance of the apex instead of the apex's re-adjustment / enhancement. You do not need to buy them to beat the highest league, Marshal S4. SO STOP COMPLAINING APEXES ARE TOO EXPENSIVE. If you are unable to clear a mission with the base form of the ship, it is unlikely that you can clear the same mission with its apex. There are a few exceptions. However, they are usually important to secure BoBs or sBoBs these days due to the fact some enhancements from some apexes improve the speedrunning capability of the ship.
+
+The prices of the apexes are as follows:
+
+| Alpha | Beta  | Gamma | Delta | Epsilon | Lambda | Sigma | Tau   | Phi   | Omega |
+| ----- | ----- | ----- | ----- | ------- | ------ | ----- | ----- | ----- | ----- |
+| 5000  | 10000 | 15000 | 20000 | 25000   | 30000  | 35000 | 40000 | 45000 | 50000 |
+
+The ships' detail page will provide a detailed introduction to the ships, including APEXs (we are currently working hard to rebuild related content). There is also a APEX search page produced by Elegator, link in the bottom bar of the web page.
+
+The name of the APEX only determines the price of the APEX, it does not determine the skills and effects of the APEX.
+
+This section is just to give you a preliminary introduction and tell you that APEXs will bring a lot of changes to ships. On each skill's detail page and ships' detail page, we will give some info about the APEX, including its effects and ratings. Note that the rating of each skill comes from the player's subjective rating, not the in-game rating. Therefore, don’t think that this skill is useless or that this APEX is useless just because the rating is low.

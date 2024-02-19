@@ -51,16 +51,28 @@ MB is probably the most versatile offensive tool against daily missions. It can 
 - Score: 3.80 / 5
 - Ships with the APEX: Baqlor (Lambda), Jn'dur (Gamma), Juggernaut (Delta), Mistral (Lambda)
 
-(Description)
+> Editor: One more look at you and I will explode.
+
+This apex decreases the initial charge time of MB by 0.25s, from 2.0s to 1.75s. Other parameters are unchanged.
+
+It goes without saying that this apex is very useful due to the absolute ease in setting up MBs. For some ships, you can even charge a consecutive 2nd MB before your deployed defence goes down since the charge time of the 2nd MB is near identical to a normal MB, although there is honestly no point in doing that.
 
 ## APEX 2: Extended Range
 
 - Game Description: More potent energy particles increase the blast range.
-- Numeric Interpretation: The max radius increases from 400 to 450.
+- Numeric Interpretation: The max radius increases from 400 to 500.
 - Score: 3.18 / 5
 - Ships with the APEX: Buhloo (Gamma), Jn'dur (Epsilon), Kibarrax (Epsilon), Proxymar (Delta), Wraith (Lambda)
 
-(Description)
+> Editor: Do you feel like this screen is big, empty, with nowhere for you to go?
+
+This apex increases the range of MB from 400 to 500.
+
+This apex benefits ships that have trouble positioning themselves to charge MB, usually ships that have very little to no defence/those without a defensive aura. You can then charge MB all the way at some corner of the screen or at the bottom of the field and still be able to reach some of the invaders behind. This helps in later waves such as those in Act 5, or even Act 6 in community missions. Unfortunately, this apex is very situational even for these ships as it only works for certain waves and not others (those with Ravens and/or Sparrows all the way upfield, in the corner). All in all, it helps, but not very much. It can however, make a difference in the world of speedrunning, since speedrunning ships have nearly none or no defence and it's not always possible to charge MB further upfield.
+
+As dense and heavy waves often push invaders so far upfield and force you to be at the bottom of the screen, the Extended Range really helps to hit the invaders all the way upfield.
+
+The range of normal MB is shown on the left, while the range of Extended Range MB is shown on the right.
 
 ## APEX 3: EMP Core
 
@@ -69,7 +81,11 @@ MB is probably the most versatile offensive tool against daily missions. It can 
 - Score: 1.73 / 5
 - Ships with the APEX: Krillou (Alpha), Proxymar (Beta), Qhelqod (Beta), Veil (Beta)
 
-(Description)
+> Editor: One step closer to you and I will melt.
+
+This apex eliminates bullets inside of the MBc only after MB is released.
+
+The elimination of bullets above your core allows you to push up slightly to deploy whatever Aura you have, making the Aura effect generally a bit more worthwhile. However, this apex will not save you from dying, and should not be relied upon to get you out of your MB charging since there is some distance between MBc and core, which means if the bullet made it too close to your core, MBc will not eliminate that bullet and you will still die. Since the bullet density in community and specialist missions is not as much as daily, this apex provides very little assistance.
 
 ## APEX 4: Shield Breaker
 
@@ -78,7 +94,16 @@ MB is probably the most versatile offensive tool against daily missions. It can 
 - Score: 4.64 / 5
 - Ships with the APEX: Baqlor (Phi), Veil (Sigma)
 
-(Description)
+> Editor: You who is heading towards me makes me restless.
+
+This apex makes the MB explosion deal 2.5 times the damage of a normal MB, but only on Shields, similar to an SB weapon. However, MBc still does normal 30 damage (not accounting for armor damage reduction, if applicable). The shockwave damage (with the 2.5 times damage to Shields) is applied first before the normal MBc damage.
+
+This apex wipes out Shield Ravens completely in its MB blast, making it already very powerful. In very dense waves, just wave goodbye to the gazillion Ravens, and it is even viable to charge SB MB for 3 consecutive waves. The 2.5 times damage to shields mean that many invaders' shields go down very quickly after MB is released, making this apex very powerful. Herons and Eagles immediately get stripped of their shields, while Vultures only require a bit more damage to strip their shield. For a Condor, 2 consecutive SB MBs strip its shield immediately, while for a Roc, 2 SB MBs spaced out by about 4s of non-SB main weapon damage strip its shield. The speed boost by this apex is very significant, which increases both speedrunning and survivability. In the case of survivability, you can immediately get to popping turrets off, meaning less bullets on field to contend with.
+
+The picture on the left below shows the normal MBc which is blue in color, while the Fusion Core for SB MB is a deeper, royal blue as shown in the picture below on the right:
+
+<img src="/terms/mbc.jpg" style={{zoom:0.5}}/>
+<img src="/Cookbook/mbshield.jpg" style={{zoom:0.25}}/>
 
 ## APEX 5: Compressed Blast
 
@@ -87,5 +112,13 @@ MB is probably the most versatile offensive tool against daily missions. It can 
 - Score: 2.73 / 5
 - Ships with the APEX: Kada Veni (Gamma), Krillou (Gamma), Valkyrie (Delta)
 
-(Description)
+> Editor: Concentration is the essence.
 
+This Apex severely decreases the radius of the MB to 200, half the radius of a maxed MB, however, all invaders in that reduced range now take 70 damage (before armor damage reduction).
+
+Unfortunately, this apex is not very useful in community and specialist missions as you do not instant kill anything new other than armor and shield Ravens, which are severely overkilled. The decrease in range and thus allowing more invaders to escape the MB usually means that less total damage is usually actually dealt to invaders. Swap over to daily missions however, where there are frequent occurances of many Herons and above bunched up together, Compressed Blast is very efficient in taking out the whole crowd of invaders quickly.
+
+The Fusion Core for Compressed Blast is purplish in color compared to blue in color for normal MBc. The picture on the left below shows the normal MBc, while the picture on the right below shows the MBc for Compressed Blast (which still does 70 damage like the rest of the blast):
+
+<img src="/terms/mbc.jpg" style={{zoom:0.5}}/>
+<img src="/Cookbook/mbcompress1.jpg" style={{zoom:0.23}}/>

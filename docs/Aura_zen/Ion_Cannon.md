@@ -47,7 +47,11 @@ Unfortunately, in daily missions, IC is rendered completely useless due to the p
 - Score: 3.27 / 5
 - Ships with the APEX: Barret (Beta), Dragonfly (Epsilon), NC-271 (Delta), Polaris (Gamma), Sonah (Gamma), Xavis (Gamma)
 
-(Description)
+> Editor: It looked a little bigger, but still only a little.
+
+This Apex increases the damage blast radius of each IC projectile. It also seems to have an unmentioned effect of somehow increasing the damage of IC from 10 to 13.
+
+This apex is particularly useful for many IC ships since many IC ships suffer from crowds of invaders. The blast radius of IC is now very significant and 2 ICs can kill 2 or more Ravens, even if the other Raven(s) are about 3/4 a Raven's height away. It is also a useful speedrunning tool in getting rid of pesky Sparrows as significantly more Sparrows can die with each IC. This turns IC into a viable offensive tool.
 
 ## APEX 2: Overcharge
 
@@ -56,5 +60,8 @@ Unfortunately, in daily missions, IC is rendered completely useless due to the p
 - Score: 1.82 / 5
 - Ships with the APEX: Dragonfly (Gamma), Polaris (Beta), X-81 (Gamma), Xavis (Alpha)
 
-(Description)
+> Editor: It looks a bit bigger, but it's just that little bit bigger.
 
+This APEX merely expands the stun range, but does not increase the damage of the ion cannon. In a sense, it's useless.
+
+When the ion cannon can stun an entire invader, this skill has some room for maneuver. Even if the range is small, it stuns a large number of invaders. But now? It only stuns the turrets in this area. In the current version, this APEX is just a negligible bonus. If you can easily clear the mission using the original APEX, buying this APEX is simply a waste of money.

@@ -21,6 +21,7 @@ The details of this skill are listed as follows:
 - Score: 4.18 / 10
 - Useful Levels: 3, 5, Ult
 - Priority Level: 2 / 8
+- *A strength of 100 equals to 24 bullets or 2 complete lasers (1s)*
 
 ## Comments
 
@@ -53,7 +54,13 @@ The ultimate is a very useful upgrade that severely enhances the shoveling funct
 - Score: 3.27 / 5
 - Ships with the APEX: Marauder (Beta), Valkyrie (Gamma)
 
-(Description)
+> Editor: Although it can reflect lasers outward, it's too fragile to withstand them.
+
+This apex causes any lasers that hit the outer (or upper) edge of the Phalanx to reflect back to a random target, with a DPS of 20, similar to PS's Laser Reflection ult. The Phalanx is gold in color and fades to red as it takes damage. Bear in mind even though lasers are reflected, the Phalanx still takes damage from the lasers per usual.
+
+Unlike it's barrier counterpart, this apex is not as useful. This is because you can only have one Phalanx active at any given time, as a newly deployed Phalanx will entirely replace the old one. Therefore, because lasers melt Phalanxes relatively fast, and the Phase Out time of Phalanx just isn't enough for you to wait for a Phalanx to break before deploying a new one. This means that you have no choice but to waste a bit of the current Phalanx's strength to sustain the laser reflection. The inability to stack several Phalanxes together limits the potential of this apex to be an excellent one.
+
+While Barrier Reflector can be used with great success in laser missions, Phalanx Reflector is a lot more difficult to use to get success out of it. In fact, the health of Phalanx is so weak, that you require 3 Phalanxes to reflect off a full burst of lasers firing at you. It is possible to only use 2, but you have to be very experienced to pull it off without dying. Thus, this apex is only useful in small to medium laser density waves, which means it may even struggle to keep up on certain generic mission type waves.
 
 ## APEX 2: Double Phalanx
 
@@ -62,7 +69,11 @@ The ultimate is a very useful upgrade that severely enhances the shoveling funct
 - Score: 2.36 / 5
 - Ships with the APEX: 502-Q8 (Beta), Boxer (Alpha), Hunter (Gamma), Lorilou (Gamma)
 
-(Description)
+> Editor: Its existence is like particles on the condom.
+
+This apex adds a second, smaller Phalanx at the front of the original Phalanx which has 1/3 the health of the original Phalanx, or 50% strength. They both have separate health. The breaking of the smaller Phalanx works the same way as the original larger Phalanx, there is a Phase Out time where it can potentially clear unlimited bullets in that time. Unlike Barrier, the smaller additional Phalanx will still continue to last in the rare case the larger original Phalanx breaks first.
+
+This apex is very useful for all ships with this apex as the amount of bullets you can shove away with both Phalanxes is a lot greater due to double Phase Out time. You may also be able to do a double shovel, the first one being less since the smaller Phalanx is much weaker. It is significantly useful the more bullets on screen there are, making it slightly less effective in community and specialist missions which feature generic type of missions with a bullet density not as much as in daily missions.
 
 ## APEX 3: Crisis EMP
 
@@ -71,5 +82,7 @@ The ultimate is a very useful upgrade that severely enhances the shoveling funct
 - Score: 2.27 / 5
 - Ships with the APEX: Esperon (Epsilon)
 
-(Description)
+> Editor: Quietly entering the village, don't let the shooters in.
+
+This APEX is good news for the Phalanx. One use of the Phalanx is to act as a bulldozer, pushing forward through a large number of bullets. However, when you charge forward, you may overlook the bullets already inside the Phalanx, leading you to stupidly collide with them. Therefore, with the bonus of this APEX, you no longer have to worry about being killed by bullets inside the Phalanx when using it as a bulldozer. Charge forward confidently and pave the way!
 

@@ -66,7 +66,15 @@ While using REMP for damage becomes the primary purpose of REMP when ult, do not
 - Score: 4.91 / 5
 - Ships with the APEX: AB8/Klyn (Sigma), Jeria (Sigma), Lyova (Lambda), Predator (Delta), Shogun (Sigma), Starless (Sigma)
 
-(Description)
+> Editor: Bringing about qualitative change in reflect damage, even rivaling Mega Bombs.
+
+This apex increases the AoE damage of REMP from 20 to 30.
+
+This apex is very useful under almost all circumstances. A damage of 30 means that REMP now instantly kills Hull Ravens, making all ships with this apex very viable for Hull missions, even for ships that were not originally designed for Hull missions. However, this apex also heavily damages Armor and Shield Ravens, rendering them extremely vulnerable to just a few more projectiles of your main weapon (or just a bit more exposure to a beam weapon). This means that pesky Ravens hiding behind a Vulture can be taken out very quickly, even before the frontline Vulture's turrets start to wreck havoc from say, its spinner turrets. But even tracking turrets usually don't have enough time to flood the upfield, and you can often head back down safely through the extreme side of the field. Furthermore, with the same AoE radius, and a pretty significant buff to the damage, the increase in total damage being dealt to invaders with a correctly launched REMP is huge.
+
+Using this apex in daily missions is a huge joy, especially when faced with dense waves. The satisfying compounded sound of the REMP dealing damage to the gazillion invaders on field either completely obliterates Unprotected Ravens or severely damages other affinities of Ravens, leaving them so vulnerable to the slightest touch of an offensive Aura or your main weapon. The increase in overall damage dealt is enormous compared to a normal REMP, making any such ship with this apex a tremendous boost over its base form.
+
+Just bear in mind that there are still rare occasions where if deemed necessary, you need to use REMP purely as defence. Don't be too uptight about using REMP for damage. However, these occasions are now even rarer since you deal so much initial damage that you clear off a wave significantly faster than normal REMP.
 
 ## APEX 2: Extended Range
 
@@ -75,7 +83,13 @@ While using REMP for damage becomes the primary purpose of REMP when ult, do not
 - Score: 3.00 / 5
 - Ships with the APEX: Nimbus (Epsilon), Saber (Epsilon), Scuuxun (Tau), UHB (Epsilon), Zimitr (Epsilon)
 
-(Description)
+> Editor: Do you feel like no matter how hard you try, you just can't figure out how to reflect the invaders back to you?
+
+This apex increases the range of REMP by 25%. Damage is unchanged.
+
+This apex is generally useful since you can potentially deal damage to some invaders that are normally outside the normal REMP range. It is also a defensive buff since more bullets are cleared, which is definitely a welcome addition. However, it benefits some ships more than others. Ships that have difficult main weapon aiming benefit more, like those with a narrow range cone and those with no to little weapon homing capability. This is because you need to push yourself upfield less to deal the same amount of AoE damage as normal REMP. Ultimately, this translates to you being able to go back down the bottom of the field after launching REMP for damage much more quickly, and thus, potentially have less wasted DPS from your projectiles or main weapon being unable to hit invaders on your way back down.
+
+In daily missions, the extended range catches more invaders, especially when going upfield can be dangerous. It also enables you to deal against the insane onslaught of bullets in higher rank missions, particularly, catching rogue bullets that are fired by low tier turrets in dense and/or heavy waves.
 
 ## APEX 3: Serenity
 
@@ -84,5 +98,6 @@ While using REMP for damage becomes the primary purpose of REMP when ult, do not
 - Score: 1.55 / 5
 - Ships with the APEX: Yigothu (Omega)
 
-(Description)
+> Editor: Switching from automatic transmission to manual transmission, anyone who has been to driving school knows how difficult it can be.
 
+Building upon the extended range, this APEX allows the Reflex EMP to be manually triggered like a Mega Bomb. This is essentially a negative addition because manual triggering requires more operations, unlike the original Reflex EMP which only requires finding the right position and releasing to reflect. In critical situations, increased operations bring greater risks. For Yigothu, this APEX is completely unnecessary because the Chrono Field itself provides sufficient defense; there is simply no need to suffer the disadvantage of manual triggering for a little extra reflection range.

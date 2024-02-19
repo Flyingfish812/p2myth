@@ -49,7 +49,11 @@ In daily missions, LS is almost irrelevant in the higher ranks as the slow damag
 - Score: 3.36 / 5
 - Ships with the APEX: Buhloo (Epsilon), Elyon (Beta), Fujin (Sigma), Lokie (Delta)
 
-(Description)
+> Editor: In high-difficulty missions, a half-hearted attack is not suitable.
+
+This apex reduces the maximum duration of LS to exactly half of it's original duration (2.25s). All other sizes of LS also have their duration halved accordingly. However, the total damage dealt remains the same.
+
+This apex is extremely useful for all LS ships, since one of the biggest problems with LS is it lasts so long, until by the time it ends, you realize your Aura is full again and would thus have wasted particles. This apex fixes that problem. It particularly benefits speedrunning ships since you always need a higher DPS in speedrunning. The speed of many speedrunning LS ships is fast enough that you kill all the small invaders so quickly in that LS has not even finished its job, so you waste TONS of particles. Despite the fast enough speed to kill smaller invaders, they are still unable to par with other speedrunning ships. This apex allows speedrunning to still have a full Aura spam at all times even with the shorter LS time, which still wastes a bit of particles but at least, it's not as bad as normal LS. You can thus say that, offensive power wise, this apex brings LS closer in par with MS, but still, not quite.
 
 ## APEX 2: Tac Moons
 
@@ -58,7 +62,11 @@ In daily missions, LS is almost irrelevant in the higher ranks as the slow damag
 - Score: 1.91 / 5
 - Ships with the APEX: Havoc (Gamma), Ogon (Beta)
 
-(Description)
+> Editor: Tactical big guy, must be brought out in critical moments.
+
+This apex modifies LS such that now there are only 2 laser moons shooting 2 highly concentrated lasers on turrets, popping turrets significantly faster. As per usual LS ult, it will switch targets once the turret is dead. The total damage remains unchanged.
+
+This apex helps ships that have difficulties in main weapon usage to direct their shots onto turrets. The Tac Moons then help cover turret popping such that you can focus on trying to pop off turrets that are closer to you. Unfortunately, since you can't control which turrets the Tac Moons are aiming at, you just have to hope and pray. At least, however, turrets are popped off faster which means better survivability for ships with this apex. Otherwise, this apex isn't terribly useful. With the dense waves in daily missions, the priority is to completely eliminate these smaller invaders quickly, which Tac Moons doesn't help much in that aspect.
 
 ## APEX 3: Shield Breaker
 
@@ -67,5 +75,7 @@ In daily missions, LS is almost irrelevant in the higher ranks as the slow damag
 - Score: 3.09 / 5
 - Ships with the APEX: Elyon (Lambda), Reaper (Tau), Xaniea (Tau)
 
-(Description)
+> Editor: Quickly breaking shields is an urgent need for slow-paced weapons.
+
+This is a very effective enhancement in shield missions because breaking shields quickly means that the High Impact main weapons can perform more efficiently. Besides, it has no difference from regular Laser Storm, so you'll only use them in shield missions. But before purchasing these skins, carefully consider whether the other APEX for those ships offer better value.
 

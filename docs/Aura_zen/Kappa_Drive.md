@@ -44,5 +44,12 @@ Kappa regulation is very important in very dense waves. It should be used in ver
 - Score: 0.55 / 5
 - Ships with the APEX: Gladius (Gamma), Marauder (Alpha), Oran (Beta), Vuxine (Alpha), Zephyr (Beta)
 
-(Description)
+> Editor: Imagine you sucking on the bubbles in your bubble milk tea.
+
+This Apex pulls in all types of particles at the same speed while Kappa is active. In other words, gold, green and blue particles are all drawn in by Kappa at the same speed with this apex, while normally green and gold particles are drawn in much slower than blue particles as they are heavier. It also increases the speed at which particles are attracted to your ship even while Kappa is not active. Particle weight is also negated even when Kappa is not active.
+
+This apex is generally useful for offensive Auras (with the exception of LS, but no LS-Kappa ships have this apex anyway) since you can exhaust your particles faster and still as efficiently, resulting in extremely fast kills. With defensive Aura ships, it can help when you are trapped. However, when that happens, you would have usually already exhausted all particles on screen, rendering this apex of little help. This apex is meant to be used for more pre-emptive usage, so use it to deploy your defences more pre-emptively.
+
+The immerse amount of particles on screen in daily missions make it slightly less necessary for a faster rate of absorption, given that how close invaders can be to the bottom of the field, making it already quite easy to pull in particles. Careful regulation of particles required in daily missions to reserve for future dense or heavy waves also make Kappa Antigrav quite difficult to regulate particle intake well.
+
 

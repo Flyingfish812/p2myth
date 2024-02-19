@@ -54,7 +54,9 @@ Because ML takes so long to charge, it is a very useful burst reset tool, for sh
 - Score: 3.55 / 5
 - Ships with the APEX: EX04239 (Phi)
 
-(Description)
+> Editor: Imagine stubbing your toe against a wall or experiencing a leg cramp while stretching.
+
+Unlike the Double Shot, it can simultaneously fire two laser beams, covering a wider area and dealing higher damage. At first glance, this skill seems perfect, as it retains all the characteristics of the original laser and even enhances them. However, it encounters a problem in one aspect. There is a small gap between the two laser beams, and the bullets in this gap are not eliminated by the lasers. In other words, you cannot directly rush upwards following the lasers, or else you will collide with the bullets that slipped through. Of course, the solution is relatively simple; when you need to break through the bullets and move forward, slightly offset to the left or right, then follow the path cleared by the lasers and charge forward.
 
 ## APEX 2: Double Shot
 
@@ -63,7 +65,13 @@ Because ML takes so long to charge, it is a very useful burst reset tool, for sh
 - Score: 3.00 / 5
 - Ships with the APEX: Fujin (Epsilon), Hime (Epsilon), Monsoon (Epsilon), Photurius (Lambda)
 
-(Description)
+> Editor: Not all weapons can come abundantly twice.
+
+This apex fires one ML with half the damage (85 damage) that lasts the same amount of time as a normal ML after you engage touch (after ML has finished charging, of course), then, after a 1s delay, fires a second identical ML with also half the damage (85 damage). The firing location of the second ML is dependent on where your ship is after the 1s delay. However, the width of the ML is back to its pre-ult status (100% width instead of 150%).
+
+This apex is useful against crowds of invaders in front as you can split the damage between 2 columns of invaders, clearing out more smaller invaders. It is also useful for turret sniping as you can split the 2 MLs for 2 different turrets. There is even enough delay time to hope over from the leftmost turret to the rightmost turret (or vice versa) in a Vulture. However, this apex is actually difficult to use as you need to look ahead to figure out a decent spot to go to, otherwise the second ML will miss completely, which no longer complies with the Fire and Forget nature of ML. In speedrunning, the DPS is cut due to the delay time between MLs, and your main weapon does not fire at all during the 1s delay. The delay time is sometimes a factor because in armor invaders, the second ML may not hit the cockpit. Also, a large invader may potentially die slower if it's already sufficiently damaged to the point a normal ML would actually kill it. The gameplay of such ships with this apex can be quite revolutionary due to the elimination of the Fire and Forget nature of ML and instead, having the need to actually aim a second time (after the positioning yourself for the initial charge).
+
+Because most waves in daily missions are so dense or heavy, not even a normal ML can eliminate one column. In light waves, there is just no point to even charge an ML, rendering this apex absolutely worthless in daily missions. The only time it will help is when you have a clear shot on a Vulture where you can pop off its turrets, but because Vultures are quite rare in daily missions and they are often guarded by gazillion invaders in front, there is simply no point in this apex.
 
 ## APEX 3: Armor Piercing
 
@@ -72,7 +80,11 @@ Because ML takes so long to charge, it is a very useful burst reset tool, for sh
 - Score: 3.18 / 5
 - Ships with the APEX: Cinnri (Lambda), Hime (Lambda), Neni (Delta)
 
-(Description)
+> Editor: No matter how hard the armor is, there are gaps.
+
+This apex makes ML deal its full 170 damage to armor invaders, no matter if it hits the cockpit of the invaders or not, increasing the offensive power of ML significantly (in fact 43%, since it is increased from 70% damage to 100% damage). You no longer have to aim at the cockpit of armor invaders just to deal the full ML damage. If you are faced with multiple small to medium size invaders that are all lined up, this apex will still prove very useful since ML will definitely not be able to hit all their cockpits. Normal ML will thus be unable to wipe the entire column out, where else, AP ML can likely do so. If the column of small invaders is not very long (not many invaders), then a normal ML will pretty still wipe them all out and AP ML is not useful. In a frontline Vulture wave, a normal ML will likely be able to do the same damage as AP ML since you can position yourself in front of the Vulture's cockpit before it arrives, but AP ML helps you to save yourself the trouble of doing that.
+
+AP ML can be massive help, allowing you to jump a couple of leaderboard spots up.
 
 ## APEX 4: Focused Beam
 
@@ -81,7 +93,16 @@ Because ML takes so long to charge, it is a very useful burst reset tool, for sh
 - Score: 2.55 / 5
 - Ships with the APEX: Arietis (Epsilon), Lorilou (Epsilon), Razor VI (Sigma), Tempest (Delta)
 
-(Description)
+> Editor: No size, but still depth, right?
+
+Value (Daily Missions): A
+Value (Community/Specialist): B
+
+This apex reduces the width of ML back by approximately half (75% width of original non-ult ML), but increases the damage of ML to 200.
+
+This apex helps ships that rely a lot on ML to deal damage, particularly those ships of the Lightfury class. Not every ship benefits however, since some ships use ML less, and actually rely on ML as a tool of bullet clearing. One very niche usage of this apex is that the new reduced width of ML is enough to fit in between 2 front Roc turrets to pop off 1 of its back turrets.
+
+However, despite the increase in damage, this apex makes these ships very prone to RNG, since the significantly thinner laser means that smaller invaders such as Herons or below can dodge your focused ML much more easily. This makes crowds very frustrating to deal with where a normal ML can still have a reasonably high chance of hitting them. This RNG factor is much less of an issue in daily missions since invaders are pretty much everywhere with such dense and/or heavy waves, making the increase in damage very powerful.
 
 # Nightfury
 

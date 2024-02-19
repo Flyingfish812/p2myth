@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Rebuild Progress
 
-Update time: 2024-02-12
+Update time: 2024-02-19
 
 ## Content Rebuild
 
@@ -13,25 +13,25 @@ Update time: 2024-02-12
 - - [x] Technical Terms
 - - [x] History Version
 - [x] Auras and Zens Overview
-- - [ ] Bullet EMP
-- - [ ] Stun EMP
-- - [ ] Barrier
-- - [ ] Laser Storm
-- - [ ] Missile Swarm
-- - [ ] Point Defense
-- - [ ] Chrono Field
-- - [ ] Vorpal Lance
-- - [ ] Phalanx
-- - [ ] Ion Cannon
-- - [ ] Goliath Missile
-- - [ ] Kappa Drive
-- - [ ] Mega Laser
-- - [ ] Mega Bomb
-- - [ ] Teleport
-- - [ ] Reflex EMP
-- - [ ] Personal Shield
-- - [ ] Focus Lance
-- - [ ] Clover ATS
+- - [x] Bullet EMP
+- - [x] Stun EMP
+- - [x] Barrier
+- - [x] Laser Storm
+- - [x] Missile Swarm
+- - [x] Point Defense
+- - [x] Chrono Field
+- - [x] Vorpal Lance
+- - [x] Phalanx
+- - [x] Ion Cannon
+- - [x] Goliath Missile
+- - [x] Kappa Drive
+- - [x] Mega Laser
+- - [x] Mega Bomb
+- - [x] Teleport
+- - [x] Reflex EMP
+- - [x] Personal Shield
+- - [x] Focus Lance
+- - [x] Clover ATS
 - [x] Turrets Overview
 - - [x] Pellets
 - - [x] Pellet Spinners

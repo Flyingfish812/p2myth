@@ -46,7 +46,9 @@ Thus, FL may be simply seen as a one-time lance at the start of a wave. After th
 - Score: 2.73 / 5
 - Ships with the APEX: Banshee (Sigma), Stinger (Lambda)
 
-(Description)
+> Editor: Shooting faster and more accurately.
+
+Lowering the firing interval of the lance is enough to allow you to use this skill more frequently. Typically, the usage frequency is once per wave, but with the APEX, you can even use it twice in one wave. As an additional output option, this maximizes its utility value. The key to using it well is to release your finger frequently enough. Even though the charging time is reduced, it cannot completely replace the instantly usable Vorpal Lance. There is still a certain interval between releasing your finger to charge and firing it. This issue can only be compensated for by each player's understanding of this skill.
 
 ## APEX 2: Lance Wake
 
@@ -55,7 +57,11 @@ Thus, FL may be simply seen as a one-time lance at the start of a wave. After th
 - Score: 2.55 / 5
 - Ships with the APEX: Reaper (Lambda)
 
-(Description)
+> Editor: Awake now? Get up and train your lance!
+
+This apex makes the lance produced from charging FL clear bullets in its path, just like an ult VL.
+
+Just as how useful you may find Vorpal Wake to be, especially in Full Offence ships, this apex makes ships without a defensive Aura much more survivable as riding a lance can save your life, particularly when completely cornered with no way out. Given that FL can be somewhat abused, you won't find yourself trapped so easily when you could charge FL again after quite a short time. However, unlike VL where you can stockpile lances, this is a one-time use for quite a period of time so be sure to plan a proper place to shoot it at to get out of ttight situations. It is best to pick a thin wall where you are comfortable to ride out of.
 
 ## APEX 3: High Voltage
 
@@ -64,7 +70,9 @@ Thus, FL may be simply seen as a one-time lance at the start of a wave. After th
 - Score: 0.91 / 5
 - Ships with the APEX: Disaris (Sigma)
 
-(Description)
+> Editor: It's more effective to stun the entire invader with a single shot.
+
+Its problem is quite obvious; only accurately hitting a specific turret with the lance can stun it. Just meeting this condition can bring about a lot of inconvenience. Firstly, focusing the lance itself requires charging. During the charging and firing process, the invader turret may have already moved positions, making it difficult for you to aim at the turret. Secondly, the damage of the lance itself is not low; it can basically pop the turret directly (unless it's a shielded invader). If I can pop the turret directly, why bother with the extra step of stunning it? Furthermore, the Disaris equipped with this zen also has the Bullet EMP as an aura, which already has the ability to stun/reset turrets on a large scale. Therefore, it's hard to understand how much substantial improvement this APEX bonus can bring. The only improvement might be the additional laser output provided by buying the APEX, but then again, if you've saved enough money to buy the Sigma APEX, why not save a bit more and directly buy the Omega?
 
 ## APEX 4: FTL
 
@@ -73,5 +81,7 @@ Thus, FL may be simply seen as a one-time lance at the start of a wave. After th
 - Score: 2.09 / 5
 - Ships with the APEX: Warden (Sigma)
 
-(Description)
+> Editor: Firing instantly is equivalent to not hitting anything.
+
+You can think of this lance as an instant damage piercing laser, causing damage to all invaders in a straight line at once. Although it sounds powerful, you may not have realized a certain problem. Whether it's the Vorpal Lance or the Focus Lance, they both follow the principle of pre-charging release because the lance needs to fly to hit the invaders. But the FTL is different, it skips the charging step and directly hits the invaders, and the implication is that you need to change your original gaming habits. If you still use the lance according to the principle of releasing it early, you are likely to miss the shot completely. Sometimes, this can be very fatal, and changing habits to adapt to a new skill takes time and practice, which is not friendly for players who have reached this point.
 

@@ -50,7 +50,9 @@ The final problem of MS is it is unreliable in turret popping due to the random 
 - Score: 4.82 / 5
 - Ships with the APEX: Kibarrax (Lambda), Prime X (Epsilon), Trireme (Gamma), Von Braun (Delta)
 
-(Description)
+> Editor: A mere fatal injury, not worth mentioning.
+
+This apex allows each missile of MS to deal the full 3 damage (for a total of 138 damage since there are 46 missiles, assuming all hit) to armor invaders, increasing the offensive power of MS significantly (in fact 43%, since it is increased from 70% damage to 100% damage). You no longer have to go right up to the cockpit of armor invaders and do a missile fart on them, since that is extremely difficult due to the point blank range. This apex is extremely powerful and is very viable for speedrunning, making AP ships with this apex significantly faster and able to compete against base form speedrunning ships.
 
 ## APEX 2: Ion Warheads
 
@@ -59,7 +61,17 @@ The final problem of MS is it is unreliable in turret popping due to the random 
 - Score: 3.82 / 5
 - Ships with the APEX: EX04239 (Sigma), Geist (Phi)
 
-(Description)
+> Editor: Do you know? If it stays still, your missiles will keep circling!
+
+This apex makes each missile have a 0.6s of stun on turrets it hits. The stun duration does not stack with multiple missiles hitting the same invader. Think of this apex like a mini IC Overcharge, where there is a small stun radius, about the radius of High Explosive MS. The energy usage is still the same, Aura radius increase per particle wise.
+
+This apex is extremely powerful. Even with such a short stun duration, the equivalent of this apex is that of BEMP ult, a reset tool. Resetting turrets is extremely useful, especially when it comes to spinners and sometimes even lasers. It also delays MIRV Bloomers from pumping in more MIRVs onto the field, allowing for significantly better survivability and maneuverability. What makes it very powerful is the fact that even the smallest MS can cause a reset, and given the fire and forget nature of MS, you can head straight up to an invader with dangerous turrets, fire MS, and head back down and it would be of nearly no threat anymore for some time due to the turrets that got a reset. This process can be repeated ad infinitum, since you can simply graze some bullets to get a large enough MS Aura size to fire off yet another MS. Compare that to BEMP where it is only able to reset turrets that are in range of its Aura, furthermore, both have the same max radius.
+
+The reasons why stun MS is so powerful doesn't stop there. BEMP is a one time launch, which means it strictly lasts for 0.6s. However, since not all missiles impact a turret at the same time, this means that the 0.6s of stun doesn't start until the last missile hits the turret. This means that the stun time of a turret is much longer and actually tangible enough for a mini SEMP launched against it.
+
+Be careful though, as some turrets will come out of their stun much earlier than others (due to the RNG nature of MS which causes some turrets to not be hit when the last few missiles hit), which can spell trouble for turrets that fire immediately after the invader carrying them is active on field. Some turrets may not even be hit at all if you do not fire MS at the right position, which will continue to fire. This can be difficult to detect with all the screenshake, explosions and missile trails going on so be careful to respond to red stuff you see on screen which are bullets. Not to mention, you have to be careful to look out for white laser lines that did not disappear for a moment. Try to be as close to the middle of the field as you can to avoid this. The main problem would usually be dart tracking turrets, although pellet launchers and spreads may pose a problem as well.
+
+The only potential problem with this apex is when you have a frontline Vulture and both the Vulture and back row invaders have lasers on them, which throw the lasers off sync. Also, a less known fact is that the minimum radius required to be able to fire off the Stun MS is bigger than normal MS.
 
 ## APEX 3: High Explosive
 
@@ -68,5 +80,8 @@ The final problem of MS is it is unreliable in turret popping due to the random 
 - Score: 2.18 / 5
 - Ships with the APEX: Atlas (Delta), Corsair (Tau), Geist (Sigma), UHB (Delta)
 
-(Description)
+> Editor: Don't misunderstand, it just converts 1 out of 3 points of damage into area damage.
 
+This apex makes each missile release a small blast explosion that deals some additional damage to invaders. More specifically, while a missile from a normal MS deals 3 damage, this apex means each missile does 2 damage to targeted invader, with an additional 1 damage to all invaders (excluding the originally targeted invader) within a radius of 50 (Attention, it's not 3 impact damage, otherwise each missile would effectively deal 4 damage to the hit Invader).
+
+It is very difficult to actually judge how much of an impact this apex makes. You just have to trust that this apex allows Raven and Sparrow crowds to be cleared out a bit faster. The blast radius of the missiles is honestly very small, making it very difficult to actually reach neighboring invaders. It is a bit more useful in daily missions due to how dense and/or heavy waves feature invaders extremely close to each other, making very good use of the apex ability.
