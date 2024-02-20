@@ -385,7 +385,13 @@ A. First, make sure you have a Firi Account. Then search for Phoenix 2 in Purcha
 
 **Q. Can I try out different ships?**
 
-A. Due to the fact that our shared account has been maliciously attacked, and the process of switching accounts is rather complicated, our shared account is currently unavailable. If you would like to try out different missions or ships, please ask your friends for their accounts.
+A. Recently, the process of switching accounts is complicated, and there have been precedents of malicious destruction of shared accounts, so there is a certain threshold for providing shared accounts. If you really want to try some ships, you can ask __The One and Only FBI__ (Discord), or go to [Reddit Forum](https://www.reddit.com/r/Phoenix_2/) and ask __u/Phoenix_Revive__ to borrow an account.
+
+:::warning[Attention]
+
+Shared accounts are common property, and their ownership belongs to the account owner who provides the account generously. Please do not use the credits and revives in the account without authorization! We believe that every player who comes to inquire about the shared account should consciously follow the rules of use and do not behave in a manner that degrades yourself!
+
+:::
 
 ## 15. Where can I find gameplay videos of different ships?
 

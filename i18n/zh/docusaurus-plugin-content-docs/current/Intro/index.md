@@ -14,11 +14,11 @@ sidebar_position: 1
 
 :::
 
-:::info[结果公布]
+:::info[GameFAQs Guide更新]
 
-2024-02-10：
+2024-02-20：
 
-Phoenix 2战机综合测试的结果已发布. [点击此处](/Result)查看结果。
+来自GameFAQs的Phoenix 2 Guide正与本站同步进行内容更新，欢迎各位玩家前往内容校对。[GameFAQs链接](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/)
 
 :::
 
@@ -30,7 +30,7 @@ Phoenix 2的游戏评论板已经开放，各位玩家可以在这里对游戏�
 
 :::
 
-:::info[庆祝Phoenix2的第3000天]
+:::info[庆祝Phoenix 2的第3000天]
 
 2024-01-29：
 
@@ -66,10 +66,14 @@ Phoenix 2 图鉴网站项目旨在为游戏Phoenix 2创建一个图文并茂的�
 
 最后，我希望网站能够早日与大家重新见面。
 
-## 重构进度
+## 常用链接
 
 [重建进度表](/Rebuild_Progress.md)
 
+[Phoenix 2 评论板](https://docs.qq.com/doc/DQXhKUlh1UlFvU0tM)
+
+[GameFAQs Guide](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/)
+
 [战机自定义评级项目（Created by EL）](https://tiermaker.com/create/phoenix-2-ships-16766598)
 
-[Phoenix 2战机综合测试结果](/Result)
+[Phoenix 2 战机综合测试结果](/Result)

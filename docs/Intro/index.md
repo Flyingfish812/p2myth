@@ -14,19 +14,19 @@ PC端与平板横屏模式的用户，请点击右上角的语言切换按钮选
 
 :::
 
-:::info[Result Published]
-
-2024-02-10：
-
-The results for Phoenix 2 General Ship Exam is published. [Click here](/Result) to check the results.
-
-:::
-
 :::warning[Bad news, as you see]
 
 2024-01-29：
 
 Unfortunately, most of the content cannot be recovered, and I am currently working hard to reconstruct this site. The recovery time is uncertain, but you can check the rebuild progress of the website. **I would be grateful if you would provide material for our rebuild project.**
+
+:::
+
+:::info[GameFAQs Guide Update]
+
+2024-02-20：
+
+The Phoenix 2 Guide from GameFAQs is updating simultaneously with our site. Welcome to check the new contents. [GameFAQs](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/)
 
 :::
 
@@ -77,6 +77,10 @@ Finally, I hope that the website can meet you again as soon as possible.
 ## Useful Links
 
 [Rebuild Progress](/docs/Rebuild_Progress.md)
+
+[Comment Board](https://docs.google.com/document/d/1_jkdrGhIJJW54dpJPeAG3fi05eIgnP9Za5onfS-wuv8/edit?usp=sharing)
+
+[GameFAQs Guide](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/)
 
 [Tier Rating Project (Created by EL)](https://tiermaker.com/create/phoenix-2-ships-16766598)
 

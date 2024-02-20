@@ -51,9 +51,9 @@ Update time: 2024-02-19
 - - [x] Pages for each invader (7/7)
 - [x] Daily Missions
 - - [x] Mission Cycle
-- [ ] Ships Overview
+- [x] Ships Overview
 - - [ ] Pages for each ship (0/100)
-- [ ] Cookbooks Overview
+- [x] Cookbooks Overview
 - - [ ] Shogun
 - - [ ] NC-150
 - - [ ] Disaris
