@@ -90,15 +90,15 @@
 
 - 一架小型配若干麻雀
 
-    <img src="/BoxCB/Sparrows+1 raven Incomplete barrel.gif" style={{zoom:1}}/>
+    <img src="/BoxCB/Sparrows raven Incomplete barrel.gif" style={{zoom:1}}/>
 
 - 一架中小型配若干麻雀
 
-    <img src="/BoxCB/Sparrows+1 heron Incomplete barrel.gif" style={{zoom:1}}/>
+    <img src="/BoxCB/Sparrows heron Incomplete barrel.gif" style={{zoom:1}}/>
 
 - 一架中型配若干麻雀，这也是最为实用的一种情况，特别当中型搭载了速射、速激、菊花、波浪喷子等会封走位导致影响下一波巨炸衔接的炮台时，使用非完全瞬爆是效率与生存率最高的一种方式，若用完全瞬爆先清理中型，再用一轮导弹清理麻雀，这样一方面是浪费能量，另一方面留给蓄力巨炸的时间也会缩短。
 
-    <img src="/BoxCB/Sparrows+1 eagle Incomplete barrel.gif" style={{zoom:1}}/>
+    <img src="/BoxCB/Sparrows eagle Incomplete barrel.gif" style={{zoom:1}}/>
 
 上述阵型旨在提供思路，适用非完全瞬爆的时机还有很多，在这里不一一列举，总之，思路打开，抓住一切可以瞬爆的机会，瞬爆次数越多，导弹乱飞转圈的几率就越低，通关时间就越短。
 

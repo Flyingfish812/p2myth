@@ -90,15 +90,15 @@ That is, deliberately letting some missiles miss based on the formation, selecti
 
 - One raven accompanied by several Sparrows
 
-    <img src="/BoxCB/Sparrows+1 raven Incomplete barrel.gif" style={{zoom:1}}/>
+    <img src="/BoxCB/Sparrows raven Incomplete barrel.gif" style={{zoom:1}}/>
 
 - One heron invader accompanied by several Sparrows
 
-    <img src="/BoxCB/Sparrows+1 heron Incomplete barrel.gif" style={{zoom:1}}/>
+    <img src="/BoxCB/Sparrows heron Incomplete barrel.gif" style={{zoom:1}}/>
 
 - One eagle accompanied by several Sparrows, which is the most practical wave, especially when the eagle is equipped with darts, speed lasers, MIRVs, Shuriken tides, or turrets that would interfere with the positioning for the next wave of Mega Bomb. Using incomplete barrel rolling is the most efficient and survivable method. If you use complete barrel rolling to clear the eagle first, and then use another round of missiles to clear the Sparrows, not only would it waste energy, but it would also shorten the time available for charging the Mega Bomb.
 
-    <img src="/BoxCB/Sparrows+1 eagle Incomplete barrel.gif" style={{zoom:1}}/>
+    <img src="/BoxCB/Sparrows eagle Incomplete barrel.gif" style={{zoom:1}}/>
 
 The formations listed above aim to provide ideas, and there are many other occasions where incomplete barrel rolling can be used. I won't list them all here, but the main idea is to seize every opportunity for barrel rolling. The more barrel rolls you perform, the lower the chance of missiles circling aimlessly, and the shorter the clearance time.
 
