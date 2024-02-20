@@ -67,9 +67,9 @@ On this page, we will be comparing some similar Auras and Zens and see how they 
 
     3. Turret priority targeting: LS eliminates turrets, MS usually doesn't, MS is generally just pure damage.
 
-The last point in particular, is what makes LS possibly better in very heavy waves, such as Vulture or Condor front waves, or waves with a Roc in it. It makes survivability easier. However, such scenarios are usually rare. For Vulture front waves, killing the Vulture faster is still generally a better idea than eliminating its turrets, but for ships with low main DPS and without an offensive Zen, LS may be beneficial.
+    The last point in particular, is what makes LS possibly better in very heavy waves, such as Vulture or Condor front waves, or waves with a Roc in it. It makes survivability easier. However, such scenarios are usually rare. For Vulture front waves, killing the Vulture faster is still generally a better idea than eliminating its turrets, but for ships with low main DPS and without an offensive Zen, LS may be beneficial.
 
-2. So， what's the point of LS anyway? According to the dev EL:
+2. So, what's the point of LS anyway? According to the dev EL:
 
 :::info
 
@@ -83,7 +83,7 @@ For both these abilities you can see that Ultimate and Apex abilities are genera
 
 :::
 
-BEMP vs REMP
+## BEMP vs REMP
 
 - Score: 8.36 / 9.09
 

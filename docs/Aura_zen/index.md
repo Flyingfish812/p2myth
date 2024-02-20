@@ -10,6 +10,8 @@ Since you can only have one Aura and one Zen on a ship, several Auras are groupe
 
 The priority number goes up to 8. The most significant levels of each Aura and Zen are also indicated so you know where you might want to hold off the upgrade for a while.
 
+At the end of this section, we also provide a comparison of similar skills to help you better understand the differences between them.
+
 ## Aura
 
 Aura is the skill that can be used as long as you have enough energy. There are 2 types of Aura skills: radius-based Aura and counter-based Aura. For a radius-based Aura like Bullet EMP, you can use it once your energy are stored for a minimum radius to activate the skill. For a counter-based Aura like Vorpal Lance, you can use it once your energy are stored for a counter to activate the skill.
