@@ -26,7 +26,7 @@ Thanks for all contributors who have made great contributions to this project:
 
 - Individual Contributors from [Discord Server](https://discord.gg/phoenix2)
 
-- Authors of [Phoenix 2 Guide](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/)
+- FBI Light Rock (The One and Only FBI) Author of [Phoenix 2 Guide](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/)
 
 - Other Phoenix 2 resources providers
 
