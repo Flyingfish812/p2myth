@@ -6,7 +6,7 @@ sidebar_position: 18
 
 > Activates a shield to defend against any attack from invaders.
 
-<img src="/terms/ps.png" style={{zoom:1.25}}/>
+<img src="/terms/PS.png" style={{zoom:1.25}}/>
 
 Probably the most difficult Zen to use. Generally underpowered but it has its niche uses where in such circumstances, shines above nearly all other Zens. The very long cooldown time means this Zen is really only for the pros.
 

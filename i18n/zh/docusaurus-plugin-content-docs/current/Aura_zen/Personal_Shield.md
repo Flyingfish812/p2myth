@@ -6,7 +6,7 @@ sidebar_position: 18
 
 > 展开一道护盾抵御来自敌机的任何攻击。
 
-<img src="/terms/ps.png" style={{zoom:1.25}}/>
+<img src="/terms/PS.png" style={{zoom:1.25}}/>
 
 这大概是最难驾驭的禅宗。一般情况下不厉害，但在某些情况下它的特殊功能会使它比几乎所有别的禅宗都厉害。它冷却时间很长，意味着只适合高手使用。
 

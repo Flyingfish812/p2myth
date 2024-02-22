@@ -6,7 +6,7 @@ sidebar_position: 13
 
 > A skill that significantly increases the speed of energy absorption.
 
-<img src="/terms/kd.png" style={{zoom:1.25}}/>
+<img src="/terms/KD.png" style={{zoom:1.25}}/>
 
 More useful on radius based Auras than counter based Auras since any amount of using Kappa will almost always help. A very useful dodging tool, thus highly recommended for beginner players. Even helps pros in the toughest missions. Best abused on a bigger screen.
 

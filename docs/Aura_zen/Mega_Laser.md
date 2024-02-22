@@ -6,7 +6,7 @@ sidebar_position: 14
 
 > Deals huge damage to invaders in a straight line as well as the bullets.
 
-<img src="/terms/ml.png" style={{zoom:1.25}}/>
+<img src="/terms/ML.png" style={{zoom:1.25}}/>
 
 Quite a straightforward offensive Zen. Positioning is key. Recommended for intermediate players and upwards. Most effective against thick columns of small invaders or big invaders.
 
@@ -105,6 +105,8 @@ This apex helps ships that rely a lot on ML to deal damage, particularly those s
 However, despite the increase in damage, this apex makes these ships very prone to RNG, since the significantly thinner laser means that smaller invaders such as Herons or below can dodge your focused ML much more easily. This makes crowds very frustrating to deal with where a normal ML can still have a reasonably high chance of hitting them. This RNG factor is much less of an issue in daily missions since invaders are pretty much everywhere with such dense and/or heavy waves, making the increase in damage very powerful.
 
 # Nightfury
+
+<img src="/terms/NF.png" style={{zoom:1.25}}/>
 
 The bigger brother of ML. Packs a serious punch, decimating frontline Vultures or 2 Eagles of pretty much any affinity. Unfortunately, it is difficult to abuse due to its Super Slow recovery rate.
 

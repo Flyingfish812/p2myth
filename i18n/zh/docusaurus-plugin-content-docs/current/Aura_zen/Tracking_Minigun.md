@@ -6,7 +6,7 @@ sidebar_position: 21
 
 > 一挺向敌机不间断开火的轻型机枪。
 
-<img src="/terms/tm.png" style={{zoom:1.25}}/>
+<img src="/terms/TM.png" style={{zoom:1.25}}/>
 
 追踪轻机枪有可能是最弱的禅宗，因为它需要大量时间才能打出伤害。低等级可能反而厉害，因为持续时间更短，导致每秒伤害增加。
 

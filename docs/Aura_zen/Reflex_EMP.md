@@ -6,7 +6,7 @@ sidebar_position: 17
 
 > Activate an EMP that clear all the bullets within range.
 
-<img src="/terms/remp.png" style={{zoom:1.25}}/>
+<img src="/terms/REMP.png" style={{zoom:1.25}}/>
 
 One of the hardest defensive Zens to use. A versatile defense and offense tool once ult. Slow cooldown means it is difficult to grasp the appropriate interval between use, thus only recommended for pro players. The concept of leaving yourself exposed to incoming fire even for a short while is also not intuitive for lower skilled players.
 

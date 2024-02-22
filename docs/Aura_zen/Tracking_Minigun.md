@@ -6,7 +6,7 @@ sidebar_position: 21
 
 > A minigun that fires continuously at invaders.
 
-<img src="/terms/tm.png" style={{zoom:1.25}}/>
+<img src="/terms/TM.png" style={{zoom:1.25}}/>
 
 Because the Tracking Minigun takes so long to dispose of its damage, it is likely the worst Zen. It actually may work better at lower levels since the duration is shorter, leading to higher DPS. 
 

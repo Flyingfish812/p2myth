@@ -6,7 +6,7 @@ sidebar_position: 16
 
 > Move from one place to another immediately.
 
-<img src="/terms/tp.png" style={{zoom:1.25}}/>
+<img src="/terms/TP.png" style={{zoom:1.25}}/>
 
 Very straightforward Zen to use. The best Zen for beginner players as it is simply an escape tool. Fast cooldown also means it is highly abusable and easy to use, without too much worry of running into long charge times.
 

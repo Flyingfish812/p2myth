@@ -6,7 +6,7 @@ sidebar_position: 19
 
 > Fires a piercing lance, which can be used as an alternative to Vorpal Lance.
 
-<img src="/terms/fl.png" style={{zoom:0.85}}/>
+<img src="/terms/FL.png" style={{zoom:0.85}}/>
 
 Basically it's a free VL at the start and midpoint of every wave. However, it is actually quick to recharge unlike many Zens and can be abused to some extent.
 

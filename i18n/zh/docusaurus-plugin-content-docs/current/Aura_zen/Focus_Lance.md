@@ -6,7 +6,7 @@ sidebar_position: 19
 
 > 向前射出一发穿透性的长矛，可以当成穿刺长矛的平替。
 
-<img src="/terms/fl.png" style={{zoom:0.85}}/>
+<img src="/terms/FL.png" style={{zoom:0.85}}/>
 
 基本上就是在每波开始和进行中能免费释放的穿刺长矛。但不像很多其它禅宗，它恢复时间快，使你能频繁使用。
 

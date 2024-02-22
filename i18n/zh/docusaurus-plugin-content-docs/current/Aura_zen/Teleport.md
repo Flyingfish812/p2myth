@@ -6,7 +6,7 @@ sidebar_position: 16
 
 > 从当前位置瞬间移动到另一个位置。
 
-<img src="/terms/tp.png" style={{zoom:1.25}}/>
+<img src="/terms/TP.png" style={{zoom:1.25}}/>
 
 使用方法简单直接。这是最适合新手的禅宗，因为它仅是一个逃生工具。你能轻易频繁地使用它而不太需要担心蓄力时间变长，因为它冷却很快。
 

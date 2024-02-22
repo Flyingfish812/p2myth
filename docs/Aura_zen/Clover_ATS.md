@@ -6,7 +6,7 @@ sidebar_position: 20
 
 > Launches 4 fast-tracking missiles like a four-leaf clover.
 
-<img src="/terms/ats.png" style={{zoom:0.45}}/>
+<img src="/terms/ATS.png" style={{zoom:0.45}}/>
 
 Much like the Focus Lance, it acts as a free DPS as long as it's used actively after the cooldown.
 
