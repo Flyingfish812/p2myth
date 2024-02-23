@@ -100,7 +100,7 @@ sidebar_position: 15
 
 左图为普通核心炸的蓝色，右图为盾碎器核心炸的宝蓝色：
 
-<img src="/terms/mbc.jpg" style={{zoom:0.5}}/>
+<img src="/terms/MBC.jpg" style={{zoom:0.5}}/>
 <img src="/Cookbook/mbshield.jpg" style={{zoom:0.25}}/>
 
 ## APEX 5：压缩爆炸
@@ -118,5 +118,5 @@ sidebar_position: 15
 
 压缩爆炸的核心炸比普通的颜色更紫。左图为普通核心炸，右图为压缩爆炸的核心炸（与剩余爆炸同样造成70点伤害）：
 
-<img src="/terms/mbc.jpg" style={{zoom:0.5}}/>
+<img src="/terms/MBC.jpg" style={{zoom:0.5}}/>
 <img src="/Cookbook/mbcompress1.jpg" style={{zoom:0.23}}/>

@@ -102,7 +102,7 @@ This apex wipes out Shield Ravens completely in its MB blast, making it already 
 
 The picture on the left below shows the normal MBc which is blue in color, while the Fusion Core for SB MB is a deeper, royal blue as shown in the picture below on the right:
 
-<img src="/terms/mbc.jpg" style={{zoom:0.5}}/>
+<img src="/terms/MBC.jpg" style={{zoom:0.5}}/>
 <img src="/Cookbook/mbshield.jpg" style={{zoom:0.25}}/>
 
 ## APEX 5: Compressed Blast
@@ -120,5 +120,5 @@ Unfortunately, this apex is not very useful in community and specialist missions
 
 The Fusion Core for Compressed Blast is purplish in color compared to blue in color for normal MBc. The picture on the left below shows the normal MBc, while the picture on the right below shows the MBc for Compressed Blast (which still does 70 damage like the rest of the blast):
 
-<img src="/terms/mbc.jpg" style={{zoom:0.5}}/>
+<img src="/terms/MBC.jpg" style={{zoom:0.5}}/>
 <img src="/Cookbook/mbcompress1.jpg" style={{zoom:0.23}}/>
