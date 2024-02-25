@@ -1,6 +1,6 @@
 # Naya
 
-> Brief intro
+> It is so hard to use though it has Vorpal Lance.
 
 <img src="/ships/ship_96.png" style={{zoom:1}}/>
 
@@ -15,6 +15,7 @@
 - Zen: Clover ATS
 - Rarity: Super Rare
 - Price: 3000
+- Main Description: 5 forward traveling cannonballs with high damage being fired in quick succession.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |
@@ -33,19 +34,25 @@
 
 ## Survival
 
--
+- Naya has no defensive capabilities other than VL’s bullet clearance.
+- Trident VL allows for bullet clearance in a wider area, but the cost is that the lances are spread out, meaning lower damage per lance.
 
 ## Speedrun
 
--
+- In order to master Naya, one must have solid skills with VL.
+- Lux Barrage deals very high burst damage. It can be used to either pop turrets or hit larger invaders, but you should try to avoid using it to sweep for Sparrows. 
+- Clover ATS can be used whenever it’s completely recovered. There’s not much accurate planning going into it.
+- Trident VL can be used similarly as normal VL, but you should try to avoid single shots, unless you are doing a 4-lance sweep, hitting a Sparrow crowd or going point blank range with invaders.
 
 ## Fun
 
--
+- Hitting Sparrows with Lux Barrage isn’t hard, but hitting multiple Sparrows with a single burst takes practice.
+- A single Trident VL is unable to one-shot Ravens unless all 3 split lances hit. 
+- In dense waves, Trident VL is able to distribute damage evenly to all invaders quite well.
 
 ## Trivia
 
--
+- The editor of this page cannot play Naya well, and he has scolded this ship a lot.
 
 ## APEX 1
 
@@ -59,7 +66,7 @@
 - Price: 40000
 - Score: 2.09 / 5
 
-(More Info)
+This is one the few Apexes with negative scores in the first version of rating table, because VLs can longer one-shot Ravens effortlessly. This Apex focuses on spreading the damage out to hit more invaders, resulting in a whole field of damaged invaders waiting to be finished. The advantage is that it clears more bullets. But overall, such changes are not beginner-friendly.
 
 ## APEX 2
 
@@ -73,4 +80,4 @@
 - Price: 45000
 - Score: 2.91 / 5
 
-(More Info)
+This Apex makes Naya more viable in Shielded missions. You should now use Clover ATS to break invaders’ shields first, then utilize the main weapon to score critical hits. However, it’s a shame that most invaders are only hit by one round of the SB damage. Even for a Roc with a whopping shield HP of 405, after using SB Clover ATS, the combined damage from the main weapon and VLs is enough to destroy its shield when the Zen is cooling down. 

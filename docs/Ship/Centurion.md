@@ -1,6 +1,6 @@
 # Centurion
 
-> Brief intro
+> Designated spokesman of Goliath Missile; Appearance inheritor of Faceless Void; Master desktop cleaner of P2.
 
 <img src="/ships/ship_92.png" style={{zoom:1}}/>
 
@@ -15,6 +15,7 @@
 - Zen: Personal Shield
 - Rarity: Super Rare
 - Price: 3000
+- Main Description: A short burst of multiple forward firing laser beams.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |
@@ -33,19 +34,25 @@
 
 ## Survival
 
--
+- PS as the only defense is able to block off lasers and break through surrounding bullets at the right moment.
+- Due the straight firing nature of both Rift Laser and GM, in order to eliminate invaders on the other side of the field, sometimes you have to use PS to dash in first.
 
 ## Speedrun
 
--
+- The AoE damage from GM is unable to one-shot Ravens, so you have to either fire another GM or use your main weapon to finish them off.
+- GM needs to be released preemptively. You have to approximate the invaders’ time of arrival, then aim GM at the center of the crowd from the bottom of the screen.
+- You should use multiple GMs at a time, because using only one will result in many damaged invaders left to be finished.
+- Try to avoid hitting Sparrows with GMs, because they miss easily, and even if they hit, the excessive damage is wasted.
+- The Tungsten Warhead Apex allows GMs to one-shot armor Ravens with AoE damage. You can eliminate a whole row of them with a single GM aiming at the middle.
 
 ## Fun
 
--
+- The highlight of GMs is that they make intense explosions. Their power is more pronounced with the Tungsten Warhead Apex.
+- Rift Laser is hard to aim, hence the subpar handling. 
 
 ## Trivia
 
--
+- The Tungsten Warhead APEX is so envy of Sonah's main weapon.
 
 ## APEX 1
 
@@ -59,7 +66,7 @@
 - Price: 40000
 - Score: 3.82 / 5
 
-(More Info)
+This Apex makes Centurion more viable in Armored missions than Unprotected missions. A single GM shot wipes out all Ravens caught in its radius, greatly enhancing its effectiveness against dense armor invader crowds. In addition, it performs quite well against Eagles. As a result, if the mission type fits (Armored laser-heavy missions), Centurion with the Tungsten Warhead Apex is able to compete with classic speed-running ships. 
 
 ## APEX 2
 
@@ -73,4 +80,4 @@
 - Price: 25000
 - Score: 1.55 / 5
 
-(More Info)
+The benefit of this Apex was originally designed to improve the eraser-like bullet clearing capability of PS. However, in reality, relying too much on Shield Booster PS interrupts the main weapon’s rhythm. Comparatively, the ship handles better without this Apex.

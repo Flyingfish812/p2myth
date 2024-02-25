@@ -1,6 +1,6 @@
 # Monsoon
 
-> Brief intro
+> The laser gun looks cool for sure, only nothing special in substance
 
 <img src="/ships/ship_98.png" style={{zoom:1}}/>
 
@@ -15,6 +15,7 @@
 - Zen: Mega Laser
 - Rarity: Super Rare
 - Price: 3000
+- Main Description: 2 forward firing purple laser beams being fired one after another.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |
@@ -33,19 +34,25 @@
 
 ## Survival
 
--
+- Among Monsoon’s three offensive means, ML is the only one with defensive capabilities as it clears bullets in its path. In other words, you need to replace defense with offense.
+- Nova Surge is very capable of popping turrets due to its straight firing nature, which translates to increased survivability.
 
 ## Speedrun
 
--
+- ML and GM complement each other quite well, as the former is used for dealing burst damage to a single target, while the latter is used for dealing AoE damage to invader crowds.
+- The main weapon should be used to break shields first. After that, you can focus on popping turrets, which brings more room to play with.
+- Most of the time, you can’t aim GM and Nova Surge simultaneously. Generally speaking, you should prioritize using GM to deal with dense invader crowds.
+- ML coupled with a few main shots usually take care of invaders on one side quite easily. Then, GMs can be used on the other side.
 
 ## Fun
 
--
+- Nova Surge’s impact feels strong despite that it’s a laser weapon.
+- Blasting enemies with GMs is very satisfying.
+- When used properly, ML is able to deal a spectacular amount of burst damage.
 
 ## Trivia
 
--
+- Editor: There’s not much to say, it’s not eye-catching and not a hindrance.
 
 ## APEX 1
 
@@ -59,7 +66,7 @@
 - Price: 15000
 - Score: 1.55 / 5
 
-(More Info)
+In fact, the benefit of this Apex is unnecessary, because it should be a basic skill for all GM players to be able to make accurate GM hits. Furthermore, when throwing GMs preemptively, proximity detonation might actually work against your favor because they are very likely to explode sooner than you expected, meaning that less invaders are caught in their AoE.
 
 ## APEX 2
 
@@ -73,4 +80,4 @@
 - Price: 25000
 - Score: 3.00 / 5
 
-(More Info)
+This Apex is a solid boost to Monsoon, because the two separate MLs enable flexibility in target selection. In addition, the total damage is increased. Since it’s hard to sweep horizontally with Nova Surge, ML Double Shot helps to effectively wipe out invaders either on one side of the field or further apart, reducing the difficulty of main sweeping.

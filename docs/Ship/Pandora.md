@@ -1,6 +1,6 @@
 # Pandora
 
-> Brief intro
+> Its offensive means are so awkward to use (better than Orion, but more expensive than AB8/Klyn)
 
 <img src="/ships/ship_97.png" style={{zoom:1}}/>
 
@@ -15,6 +15,7 @@
 - Zen: Clover ATS
 - Rarity: Rare
 - Price: 1500
+- Main Description: Large projectiles being fired forward continuously.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |
@@ -33,19 +34,24 @@
 
 ## Survival
 
--
+- PD as a defensive means is very effective against bullets.
+- Nucleus Hammer has a consistent fire rate, which allows you to focus firepower on targets quite conveniently.
+- The EMP Laser Apex improves Pandora’s survivability even further, making it basically unkillable in bullet-heavy missions.
 
 ## Speedrun
 
--
+- Nucleus Hammer is unable to deal burst damage, and Clover ATS is awkward in terms of damaging capabilities.
+- The key is to not waste the main weapon’s DPS, but you will inevitably miss some shots when switching targets as it fires continuously
+- The only advice for Clover ATS is to use it as soon as it’s recovered.
 
 ## Fun
 
--
+- It is satisfying to eliminate invaders one by one in bullet-heavy missions without laser turrets.
+- The main weapon’s impact audio/visuals are not impressive but not too bad either.
 
 ## Trivia
 
--
+- Its mediocre quality makes it unpopular among new ships.
 
 ## APEX 1
 
@@ -59,7 +65,7 @@
 - Price: 30000
 - Score: 2.36 / 5
 
-(More Info)
+This Apex slightly resolves the problem of the tendency for Clover ATS to deal excessive damage. Launching more missiles means hitting more targets with less damage per missile, which makes it less likely to waste damage, and the risk of it circling around invaders is reduced. However, the fundamental problem remains, as it just lacks total damage per use.
 
 ## APEX 2
 
@@ -73,4 +79,4 @@
 - Price: 40000
 - Score: 3.45 / 5
 
-(More Info)
+This Apex is a very powerful upgrade to PD because it significantly improves its effectiveness in bullet-heavy missions. However, when compared with other ships with this Apex, its effect is not very pronounced on Pandora. Plus, it’s more expensive for some reason.

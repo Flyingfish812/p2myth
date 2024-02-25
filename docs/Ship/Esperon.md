@@ -1,6 +1,6 @@
 # Esperon
 
-> Brief intro
+> Water-like tenderness to enemies, ice-like vulnerability to itself.
 
 <img src="/ships/ship_95.png" style={{zoom:1}}/>
 
@@ -15,6 +15,7 @@
 - Zen: Clover ATS
 - Rarity: Rare
 - Price: 1500
+- Main Description: A set of homing missiles being fired from both sides of the ship, followed by a forward firing laser beam that lasts for a brief period.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |
@@ -33,19 +34,24 @@
 
 ## Survival
 
--
+- Phalanx is the only defense, coupled with a weak main weapon, as a result, Esperon is not very survivable.
+- In laser-heavy missions, since you are unable to kill invaders quickly, you often have to use Phalanx to block off lasers, which is not easy to do.
+- For this ship specifically, prioritizing the elimination of invaders on one side helps with survivability. 
 
 ## Speedrun
 
--
+- Esperon has a weak main weapon, therefore it doesn’t have any potential for speed-running.  
+- Clover ATS is very awkward as an offensive Zen. It’s so mediocre that it merely provides a little bit of extra damage.
+- Using Clover ATS as frequently as possible is the best way to squeeze out its few benefits.
 
 ## Fun
 
--
+- It is satisfying to watch invaders fall under heavy bombardment from so many flying projectiles and controllable laser beams.
+- You can focus on surviving because most of the offensive means home in on enemies.
 
 ## Trivia
 
--
+- It ranked last in the initial rating list until people realized the fame of the toilet Vuxine.
 
 ## APEX 1
 
@@ -59,12 +65,19 @@
 - Price: 25000
 - Score: 2.27 / 5
 
-(More Info)
+This Apex upgrades Phalanx in a meaningful way, as Phalanx can now be used as a BEMP with a tiny radius. You no longer have to worry about those bullets that are too close to your core. Therefore, you can shovel bullets with great confidence, dashing forward to clear out a large area.
 
 ## APEX 2
 
 <img src="/ships/ship_95_apex_2.png" style={{zoom:1}}/>
 
-No details found for Clover ATS: Ion Warhead in Apex_en.
+- Name: Ion Warheads
+- Type: Zen
+- Description: Adds missiles carrying Ion charges that stun turrets on impact.
+- Interpretation: Missiles stun the turrets within 50 range for 0.6s.
+- Form: Sigma
+- Price: 35000
+- Score: 1.73 / 5
 
-(More Info)
+This Apex enables Clover ATS to have stun utility, improving survivability, as you can reset a few dangerous laser turrets in laser-heavy missions. The disadvantage is that Clover ATS only launches 4 missiles, meaning its effectiveness is minimal in dense invader crowds, hence it only works when there are a few larger invaders on the field.
+

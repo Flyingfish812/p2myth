@@ -1,6 +1,6 @@
 # Jeria
 
-> Brief intro
+> Ping Pong is difficult to play, especially when the ball stops on its own.
 
 <img src="/ships/ship_91.png" style={{zoom:1}}/>
 
@@ -15,6 +15,7 @@
 - Zen: Reflex EMP
 - Rarity: Rare
 - Price: 1500
+- Main Description: Forward traveling orbs being fired alternately from each side of the ship, slowing down and resting for a while after traveling a set distance.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |
@@ -33,19 +34,32 @@
 
 ## Survival
 
--
+- Both REMP and Ult VL have bullet clearing capabilities. Using them alternately makes Jeria very survivable in a bullet hell.
+- When facing a sea of bullets, you have to graze for bonus VL energy to improve survivability.
+- Lasers and speed lasers might cause some trouble, so you have to use VL to eliminate dangerous invaders or turrets first.
+- The stackable property of Jeria’s main weapon makes it extremely efficient at shield breaking. Pre-fired main shots work surprisingly well at breaking larger invaders’ shields.
 
 ## Speedrun
 
--
+- Main weapon optimization is crucial, you have to get used to its alternating fire sequence in order to improve your main weapon control to avoid missing. 
+- Stacked main shots are mostly used for breaking larger invaders’ shields. With shields stripped, invaders become very vulnerable to VLs. This will maximize the benefit of Jeria’s SB main weapon.
+- VL sweep is key to clearing a wave quickly. If you happen to have 4 VLs at the start of a dense wave (if it’s not a Sparrow-only wave), you can quickly throw them all out from left to right to vaporize invaders.
+- If the next wave has a frontline Vulture, you have to position yourself at the bottom of the screen and stack main shots. Then, throw out all 4 VLs from left to right immediately after the Vulture has fully arrived. Doing so allows you to insta-kill both the front-line Vulture and the Ravens hiding behind it.
+- If the next wave has two rows of invaders, with Ravens and Herons on each row, you might want to pre-fire one main shot for each Heron to break their shields first, then use VLs to finish them off. This saves on the amount of VLs used.
+- If the next wave has two Eagles side by side, the best way to deal with them is to throw 3 VLs dead in the middle immediately after their arrival.
+- If the Eagles unfortunately separate from each other, you can remediate the situation by firing 2 VLs on each side, and then fly with the last VL to the middle of the screen to release a REMP. This technique is useful if the wave features four Eagles. Alternatively, you can simply scrap the run and try again. 
+- Sometimes 2 VLs are enough to eliminate two Eagles side by side. This is achieved by shield breaking through pre-fired main shots, since the damage they deal are roughly equivalent to a single VL.
 
 ## Fun
 
--
+- The left-to-right alternating nature of Jeria’s main weapon makes it difficult for most players to get used to its pace.
+- You are likely to miss a couple of main shots for a single Sparrow.
+- If you pre-fired properly, you can strip invaders’ shields instantly after their arrival, which makes turret popping very easy.
+- Jeria becomes an utterly crazy offensive ship once you get the rhythm right.
 
 ## Trivia
 
--
+- With 20k total flights, you can basically master any other ship in the game. However, for Jeria, 20k total flights is just the beginning.
 
 ## APEX 1
 
@@ -59,7 +73,7 @@
 - Price: 25000
 - Score: 4.18 / 5
 
-(More Info)
+This Apex makes VL considerably more forgiving to play with, as you are more likely to hit both side by side Eagles from the middle with a wider VL. In addition, survivability is improved because it clears bullets in a larger area. Despite not increasing damage output, this Apex lowers the difficulty for beginners to practice.
 
 ## APEX 2
 
@@ -73,4 +87,4 @@
 - Price: 35000
 - Score: 4.91 / 5
 
-(More Info)
+This Apex benefits Jeria more in Unprotected missions than Shielded missions, because the increased damage makes REMP one-shot Unprotected Ravens, which means that you no longer have to use the main weapon to finish them off. As a result, the ceiling for speed-running is significantly raised.

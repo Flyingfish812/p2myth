@@ -1,6 +1,6 @@
 # Warden
 
-> Brief intro
+> Someone told me that it looks like......bikini......or lingerie?
 
 <img src="/ships/ship_99.png" style={{zoom:1}}/>
 
@@ -15,6 +15,7 @@
 - Zen: Focus Lance
 - Rarity: Super Rare
 - Price: 3000
+- Main Description: A set of 2 fast tracking laser beams that last for a while.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |
@@ -33,19 +34,25 @@
 
 ## Survival
 
--
+- VL is the only defensive option as it clears bullets in its path.
+- Since both Aura and Zen launch lances, you can use them to pop a few turrets, or vaporize some invaders first.
 
 ## Speedrun
 
--
+- Warden Speed-running is essentially the planning of lance usage. You have to utilize the VL sweep technique and the readily available FL wisely.
+- The actual max lance counter is 5 instead of 4, so you should throw lances to dense invader crowds without hesitation.
+- BE-27 Trackers has excellent tracking capabilities. However, wide turning angles should be avoided because they reduce DPS.
+- You should try to use FL every wave, because after all, it can be considered as a complimentary VL.
 
 ## Fun
 
--
+- BE-27 Tracker’s impact sounds have a magnetic aesthetic which is pleasing.
+- Because lances are always in stock, you no longer have to worry about them running out. 
+- You may even start to fantasize about something else when looking at its bikini-like appearance.  
 
 ## Trivia
 
--
+- It is not recommended to c*m at the ship unless you are really hungry.
 
 ## APEX 1
 
@@ -59,7 +66,7 @@
 - Price: 35000
 - Score: 2.09 / 5
 
-(More Info)
+FTL FL can be considered as an instant firing piercing laser beam which effectively reduces the chance of invaders’ dodging during FL’s travel time. However, the distinct disadvantage is that its rhythm is totally different from normal lances. With normal FL, you have to charge it preemptively, because you need to take account of its flight time. But with FTL FL, you are very likely to miss if you charge it the same way as before. Therefore, you have to adapt to a new rhythm when playing with this Apex.
 
 ## APEX 2
 
@@ -73,4 +80,4 @@
 - Price: 45000
 - Score: 2.09 / 5
 
-(More Info)
+Generally speaking, this Apex upgrades VL in a negative way, because the distributed damage makes it unable to eliminate most invaders. But why its performance is slightly better? This is because Warden’s fast tracking main weapon is able to finish off the severely damaged invaders efficiently, alleviating Trident VL’s disadvantage. Furthermore, FL works as a substitute for a single shot of the original VL. Overall, these factors somewhat make up for the downsides of this Apex. 

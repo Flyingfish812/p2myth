@@ -1,6 +1,6 @@
 # Stinger
 
-> Brief intro
+> Our old friend, elaphe taeniura, is slightly venomous.
 
 <img src="/ships/ship_93.png" style={{zoom:1}}/>
 
@@ -15,6 +15,7 @@
 - Zen: Focus Lance
 - Rarity: Common
 - Price: 500
+- Main Description: Clusters of dense projectiles being fired forward continuously.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |
@@ -33,19 +34,25 @@
 
 ## Survival
 
--
+- Barrier is the only defensive option. You have to utilize the inner-lining in order to block off a mass of bullets.
+- The Reflector Apex makes Stinger viable in laser missions, increasing damage output as well as improving survivability. 
+- Quantum Repeaters has a consistent fire rate with no burst damage. Sometimes you need to couple it with FL to prioritize eliminating turrets. 
 
 ## Speedrun
 
--
+- With no other means of dealing burst damage, FL should be fully optimized when speed-running in bullet-heavy missions.
+- In laser-heavy missions, Barriers with the Reflector Apex can be used to deal extra damage.
 
 ## Fun
 
--
+- Watching invaders die one by one is satisfying.
+- The main weapon’s continuous damage outputting gives you the pleasant sensation of killing invaders non-stop.
+
 
 ## Trivia
 
--
+- Stinger, along with Tillat’Or, are the only two ships with fans constantly spinning.
+- Disaris wake up and stand for a while.
 
 ## APEX 1
 
@@ -59,7 +66,7 @@
 - Price: 30000
 - Score: 2.73 / 5
 
-(More Info)
+With this Apex, you can spam FL even more. This is beneficial because you can now use it twice per wave. However, most of the time, the charge time recovery for normal FL is already sufficient, which allows you to use it to deal extra damage quite frequently even without this Apex.
 
 ## APEX 2
 
@@ -73,4 +80,4 @@
 - Price: 25000
 - Score: 4.45 / 5
 
-(More Info)
+As the most powerful upgrade to Barrier, Reflector Apex brings more playability to Stinger because of the extra damage potential in laser missions. Since Stinger’s offensive means are relatively simple, with this Apex, you can now focus more on the placement of Barriers.
