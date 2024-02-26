@@ -67,7 +67,7 @@
 
 - Name: Double Shot
 - Type: Zen
-- Description: A constellation of Laser Moons outputs all damage in less time.
+- Description: Two separate energy releases create two beams in quick succession.
 - Interpretation: Two 100-damage lasers will be fired one by one, with a one-second interval.
 - Form: Epsilon
 - Price: 25000

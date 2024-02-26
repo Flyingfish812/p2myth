@@ -60,7 +60,7 @@ Unlike the Double Shot, it can simultaneously fire two laser beams, covering a w
 
 ## APEX 2: Double Shot
 
-- Game Description: A constellation of Laser Moons outputs all damage in less time.
+- Game Description: Two separate energy releases create two beams in quick succession.
 - Numeric Interpretation: Two 100-damage lasers will be fired one by one, with a one-second interval.
 - Score: 3.00 / 5
 - Ships with the APEX: Fujin (Epsilon), Hime (Epsilon), Monsoon (Epsilon), Photurius (Lambda)
