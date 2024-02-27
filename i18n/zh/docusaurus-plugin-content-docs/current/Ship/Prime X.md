@@ -65,6 +65,12 @@
 
 <img src="/ships/ship_39_apex_2.png" style={{zoom:1}}/>
 
-No details found for 导弹齐袭：穿甲弹 in Apex_zh.
+- 名称: 穿甲导弹
+- 类型: 光环
+- 描述: 加固弹头允许这些导弹刺穿敌方装甲。
+- 解释: 导弹无视装甲30%减伤。
+- 形式: 兰布达
+- 价格: 30000
+- 评分: 4.82 / 5
 
 (More Info)

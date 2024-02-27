@@ -52,8 +52,8 @@ Update time: 2024-02-25
 - [x] Daily Missions
 - - [x] Mission Cycle
 - [x] Ships Overview
-- - [ ] Pages for each ship (0/100)
-- - [x] Ship 91-100
+- - [ ] Pages for each ship (30/100)
+- - [x] Ship 71-100
 - [x] Cookbooks Overview
 - - [ ] Shogun
 - - [ ] NC-150

@@ -31,6 +31,7 @@ sidebar_position: 3
 
 - FBI Light Rock (The One and Only FBI) (GameFAQs Guide负责人)
 - Hi (Phase) (幻影Cookbook贡献者)
+- 美竹兰 (猎户座Cookbook贡献者)
 - 珈尼亚太难了 (内容翻译与校对)
 - _A_H_II (内容翻译与校对)
 - 菁鸟 (Phoenix 2同人文创作者)

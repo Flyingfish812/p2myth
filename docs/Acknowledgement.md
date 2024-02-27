@@ -31,6 +31,7 @@ The reconstruction project started on January 29, 2024, and we are currently ste
 
 - FBI Light Rock (The One and Only FBI) (Principal of GameFAQs Guide)
 - Hi (Phase) (Author for Wraith Cookbook)
+- 美竹兰 (Author for Orion Cookbook)
 - 珈尼亚太难了 (Translation and proofreading)
 - _A_H_II (Translation and proofreading)
 - 菁鸟 (Author of Phoenix 2 Stories)
