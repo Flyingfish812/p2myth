@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Rebuild Progress
 
-Update time: 2024-03-03
+Update time: 2024-03-04
 
 ## Content Rebuild
 
@@ -52,8 +52,8 @@ Update time: 2024-03-03
 - [x] Daily Missions
 - - [x] Mission Cycle
 - [x] Ships Overview
-- - [ ] Pages for each ship (60/100)
-- - [x] Ship 41-100
+- - [ ] Pages for each ship (70/100)
+- - [x] Ship 31-100
 - [x] Cookbooks Overview
 - - [ ] Shogun
 - - [ ] NC-150
