@@ -14,11 +14,11 @@ PC端与平板横屏模式的用户，请点击右上角的语言切换按钮选
 
 :::
 
-:::warning[Bad news, as you see]
+:::info[Bad news, as you see]
 
-2024-01-29：
+2024-03-07：
 
-Unfortunately, most of the content cannot be recovered, and I am currently working hard to reconstruct this site. The recovery time is uncertain, but you can check the rebuild progress of the website. **I would be grateful if you would provide material for our rebuild project.**
+After more than a month of reconstruction, the main content of this site has been completed. We have officially entered the content proofreading stage. You are welcome to help us proofread all kinds of content information on the website. If you find content that needs to be modified, please contact the admin of this site (Flyingfish812).
 
 :::
 
@@ -73,6 +73,16 @@ The navigation bars on the left and top of the site provide you with options to 
 Currently, due to server failure, most of the previous data has been lost. I hereby invite you to contribute to our website reconstruction project, including but not limited to content writing and comments. To rebuild the site faster and better, your help will be essential. If you have some good ideas or suggestions, please contact me: flyingfish812@foxmail.com.
 
 Finally, I hope that the website can meet you again as soon as possible.
+
+## Proofreading
+
+First of all, we are happy to inform you that as of March 7, 2024, the website has completed the reconstruction of all content except Cookbook.
+
+Due to the huge workload of reconstruction, many contents are still machine-translated. Therefore, we sincerely invite all players to help us proofread and optimize all the existing content on the website.
+
+When you find any content that needs to be modified while browsing the website, please feedback it to us through the link below, and we will add the names of all contributors to the list of contributors to the website:
+
+[Feedback link](https://docs.google.com/forms/d/e/1FAIpQLSf1_2lV0mtUykeO1MSLklbafhzPHIA42bj_2JYnEok5IsEsnQ/viewform?usp=sf_link)
 
 ## Useful Links
 

@@ -2,72 +2,23 @@
 sidebar_position: 2
 ---
 
-# Rebuild Progress
+# Versions of the site
 
-Update time: 2024-03-06
+## V1.0.0
 
-## Content Rebuild
+- Version: 1.0.0
+- Update time: 2024-03-07
 
-- [x] Home Page
-- - [x] For Beginners
-- - [x] Technical Terms
-- - [x] History Version
-- [x] Auras and Zens Overview
-- - [x] Bullet EMP
-- - [x] Stun EMP
-- - [x] Barrier
-- - [x] Laser Storm
-- - [x] Missile Swarm
-- - [x] Point Defense
-- - [x] Chrono Field
-- - [x] Vorpal Lance
-- - [x] Phalanx
-- - [x] Ion Cannon
-- - [x] Goliath Missile
-- - [x] Kappa Drive
-- - [x] Mega Laser
-- - [x] Mega Bomb
-- - [x] Teleport
-- - [x] Reflex EMP
-- - [x] Personal Shield
-- - [x] Focus Lance
-- - [x] Clover ATS
-- [x] Turrets Overview
-- - [x] Pellets
-- - [x] Pellet Spinners
-- - [x] Pellet Walls
-- - [x] Darts
-- - [x] Dart Spinners
-- - [x] Shurikens
-- - [x] Shuriken Spinners
-- - [x] Shuriken Tides
-- - [x] Boomerangs
-- - [x] MIRV Launchers
-- - [x] MIRV Bloomers
-- - [x] Lasers
-- - [x] Speed Lasers
-- - [x] Doomsdays
-- [x] Invaders Overview
-- - [x] Pages for each invader (7/7)
-- [x] Daily Missions
-- - [x] Mission Cycle
-- [x] Ships Overview
-- - [ ] Pages for each ship (90/100)
-- - [x] Ship 11-100
-- [x] Cookbooks Overview
-- - [ ] Shogun
-- - [ ] NC-150
-- - [ ] Disaris
-- - [ ] Proxymar
-- - [ ] Kibarrax
-- - [ ] Jeria
-- - [x] Wraith
-- - [x] Mistral
-- - [x] Orion
-- [x] Stories
-- [x] Gallery
+Welcome to the Phoenix 2 wiki site! At present, the main content of the website has been reconstructed and is now in the content proofreading stage. Some additional content (Cookbooks and other related content) will be gradually added in future version updates. In the current plan, the contents that have been confirmed to be added are the Cookbook pages of the following ships:
 
-## Image Rebuild (Done)
+- [ ] Shogun
+- [ ] NC-150
+- [ ] Disaris
+- [ ] Proxymar
+- [ ] Kibarrax
+- [ ] Jeria
+
+At the same time, the feedback link for the website content has been posted on the homepage. If you find any content that needs to be modified, rewritten or supplemented during browsing, please click on the link on the homepage to provide feedback. Feedback content will be gradually added to the website in the form of small updates.
 
 ## Website Updates
 
