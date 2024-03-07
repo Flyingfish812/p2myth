@@ -1,6 +1,6 @@
 # AB8/克林
 
-> Brief intro
+> 如同滑翔机一般，你只需享受飞行即可。
 
 <img src="/ships/ship_72.png" style={{zoom:1}}/>
 

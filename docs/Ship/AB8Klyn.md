@@ -1,6 +1,6 @@
 # AB8Klyn
 
-> Brief intro
+> Like a glider, you just need to enjoy the flight.
 
 <img src="/ships/ship_72.png" style={{zoom:1}}/>
 
