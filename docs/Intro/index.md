@@ -14,7 +14,7 @@ PC端与平板横屏模式的用户，请点击右上角的语言切换按钮选
 
 :::
 
-:::info[Bad news, as you see]
+:::info[Version 1.0.0 Published]
 
 2024-03-07：
 
