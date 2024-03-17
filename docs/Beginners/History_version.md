@@ -23,7 +23,6 @@ An update with the following fixes has been applied:
 ### 6.3.5 Dec 30, 2023
 Another quick update.
 
-
 - Fixed a graphical issue that causes flickering.
 
 - Numerous small tweaks and fixes.

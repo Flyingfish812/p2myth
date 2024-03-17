@@ -70,10 +70,6 @@ The site plan consists of the following parts:
 
 The navigation bars on the left and top of the site provide you with options to quickly access various parts of the website. The bottom bar of the website has links to Phoenix 2 related pages and organizations, including the Myth community QQ group, Discord server, and some Phoenix 2 guides.
 
-Currently, due to server failure, most of the previous data has been lost. I hereby invite you to contribute to our website reconstruction project, including but not limited to content writing and comments. To rebuild the site faster and better, your help will be essential. If you have some good ideas or suggestions, please contact me: flyingfish812@foxmail.com.
-
-Finally, I hope that the website can meet you again as soon as possible.
-
 ## Proofreading
 
 First of all, we are happy to inform you that as of March 7, 2024, the website has completed the reconstruction of all content except Cookbook.
@@ -86,7 +82,7 @@ When you find any content that needs to be modified while browsing the website, 
 
 ## Useful Links
 
-[Rebuild Progress](/docs/Rebuild_Progress.md)
+[Update Progress](/docs/Rebuild_Progress.md)
 
 [Comment Board](https://docs.google.com/document/d/1_jkdrGhIJJW54dpJPeAG3fi05eIgnP9Za5onfS-wuv8/edit?usp=sharing)
 
@@ -95,3 +91,11 @@ When you find any content that needs to be modified while browsing the website, 
 [Tier Rating Project (Created by EL)](https://tiermaker.com/create/phoenix-2-ships-16766598)
 
 [Phoenix 2 Exam Result](/Result)
+
+## Contact
+
+If you meet any problems or bugs when browsing the site, please contact the admin of this site:
+
+Flyingfish812: flyingfish812@foxmail.com
+
+The One and the Only FBI: whowhosewherehowwhenwhatwhy@gmail.com

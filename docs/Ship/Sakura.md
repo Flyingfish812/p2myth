@@ -62,6 +62,7 @@
 
 ## Trivia
 
+- Sakura's main weapon is a reference to Senbonzakura, the swords are made from blossoms.
 - Sakura Phi is one of the 4 apexes that have an additional hidden change to it, reducing the number of swords from 11 to 7, as well as changing the hilts' design to that of a Phoenix.
 - The dev initially viewed Sakura as a strong ship. To quote "the delayed fire would make it challenging, but we assumed TP would be one of the better and more advanced abilities".
 

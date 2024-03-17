@@ -74,7 +74,7 @@ Phoenix 2 图鉴网站项目旨在为游戏Phoenix 2创建一个图文并茂的�
 
 ## 常用链接
 
-[重建进度表](/Rebuild_Progress.md)
+[更新进度表](/Rebuild_Progress.md)
 
 [Phoenix 2 评论板](https://docs.qq.com/doc/DQXhKUlh1UlFvU0tM)
 
@@ -82,4 +82,12 @@ Phoenix 2 图鉴网站项目旨在为游戏Phoenix 2创建一个图文并茂的�
 
 [战机自定义评级项目（Created by EL）](https://tiermaker.com/create/phoenix-2-ships-16766598)
 
-[Phoenix 2 战机综合测试结果](/Result)
+[Phoenix 2 战机综合测试结果](/Result_zh)
+
+## 联系我们
+
+如果你在浏览过程中碰到了任何问题或bug，请联系本站的管理员：
+
+Flyingfish812: flyingfish812@foxmail.com
+
+The One and the Only FBI: whowhosewherehowwhenwhatwhy@gmail.com

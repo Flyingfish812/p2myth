@@ -27,6 +27,7 @@ Currently, there are 11+1 Aura skills in the game. They are listed below, with t
 1. Bullet EMP
     - Destructive Wave
     - Extended Range
+    - Increased Stun
     - Bullet Detonator
 2. Stun EMP
     - High Damage

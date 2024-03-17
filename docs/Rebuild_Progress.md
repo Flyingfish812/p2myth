@@ -4,6 +4,17 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.1.0
+
+- Version: 1.1.0
+- Update time: 2024-03-17
+
+This update adds the following content:
+- Shogun's Cookbook.
+- Phoenix 2 Exam Result Chinese version.
+- Some corrections on contents and grammar check for several pages.
+- Translations for the first two chapters of the Story: Reburn the Galaxy.
+
 ## V1.0.0
 
 - Version: 1.0.0

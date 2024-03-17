@@ -46,7 +46,7 @@
 
 ## Speedrun
 
-- MS coupled with a potentially offensive PS means Atlas can go reasonably fast.
+- MS coupled with a potentially offensive PS means Atlas can go reasonably fast, but only a little bit.
 - PS can be used to jump across lanes of either darts or pellets (the latter usually more likely) so that you can quickly reposition yourself after killing off one of the larger invaders.
 - At the start of a wave you should try to risk yourself and place yourself in the middle of the whole field to launch MS. The only time when you don’t need to do this is when you are faced with either Eagles or a Vulture in front, otherwise always try to be in the middle in order for MS to have maximum coverage.
 - The above can however, be very tough especially when transiting from a wave that pumped in so many shurikens. Sometimes, it is easier to simply spam fire MS and hope that the stray missiles after targeting whatever it could target stray off to hit some other invaders. This is usually better since it relieves some pressure on the number of bullets and lasers on screen.
