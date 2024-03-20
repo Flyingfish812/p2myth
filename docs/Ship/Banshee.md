@@ -32,6 +32,11 @@
 |--|--|--|--|--|--|--|--|--|
 | 43.64 | 61.09 | 235.36 | 66 | 279.00 | 296.45 | 67 | 397.91 | 60 |
 
+## Comments
+
+- hank: I recommend this ship if you want to start Goliath Missile, and it's better with Phi's bullet-clearing effect. You will feel good if you can play it well.
+- 菁鸟: An advice from a Sigma Banshee player: Buy the Phi.
+
 ## Survival
 
 - With no forms of defence capabilities, being stuck means you are dead.

@@ -15,7 +15,7 @@
 - Zen: Reflex EMP
 - Rarity: Rare
 - Price: 1500
-- Main Description: 5 slowly accelerating forward firing projectiles arranged in a pyramidal pattern, the more frontal projectiles accelerating faster.
+- Main Description: 7 slowly accelerating forward firing projectiles arranged in a pyramidal pattern, the more frontal projectiles accelerating faster.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |
@@ -52,6 +52,8 @@
 
 - REMP and LS are both fun to use.
 - Unfortunately, Scuuxun’s main is very annoying to use due to its sluggishness in travel speed.
+- Pile up your main weapon projectiles according to its slow speed.
+- When facing a vulture in the front with several ravens and sparrows at back, precharge your main at two side, then hit the vulture in the middle, finally use REMP at the back. It can fully utilize the damage, like "shooting the bull from behind the mountain".
 
 ## Trivia
 

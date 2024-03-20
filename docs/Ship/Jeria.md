@@ -32,6 +32,11 @@
 |--|--|--|--|--|--|--|--|--|
 | 66.91 | 78.55 | 333.82 | 5 | 400.73 | 412.36 | 3 | 545.45 | 3 |
 
+## Comments
+
+- Niu: Mysterious main weapon that has a low lower bound and a high upper bound. Skilled players prefire main weapons and sweeps wave after wave, noob like me even miss the sparrows in act 1.
+- Flyingfish812: When can we have a Vorpal Lance APEX that changes it into a horizontal shot?
+
 ## Survival
 
 - Both REMP and Ult VL have bullet clearing capabilities. Using them alternately makes Jeria very survivable in a bullet hell.

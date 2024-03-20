@@ -54,6 +54,7 @@
 - Reaper was only introduced into Phoenix 2 at v5.0.
 - Reaper is the ship with the most animated visuals, where viewing the static ship at face value (in the ship selection screen) is nothing like viewing it in the ship view screen (after you tap on the ship card in the ship selection screen)
 - Reaper is one of the 7 ships which doesn’t use thrusters to fly in Phoenix 2. Instead, it uses its animated wings like a real dragonfly.
+- After you die, the resting projectiles may succeed in killing the rest invaders, make you die without regrets.
 - It’s funny that this ship isn’t named Dragonfly instead, given its actual similarities to its real life counterpart.
 
 *So who is the real Dragonfly?*

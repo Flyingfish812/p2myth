@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 21.82 | 71.27 | 177.82 | 94 | 199.64 | 249.09 | 88 | 308.00 | 93 |
 
+## Comments
+
+- 圆锥曲线: Heechi + Boomerang Spam = An episode that cummed a lot.
+
 ## Survival
 
 - The way Heechi's main works is very interesting. Due to the curved nature of it's main, it tends to hit invaders upfield instead of those right in front of you. This usually works to your disadvantage as you will have to keep up with the bullets shot at closer range.

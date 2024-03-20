@@ -14,35 +14,12 @@ PC端与平板横屏模式的用户，请点击右上角的语言切换按钮选
 
 :::
 
-:::info[Version 1.0.0 Published]
+:::info[To visitors]
 
-2024-03-07：
+2024-03-20：
 
-After more than a month of reconstruction, the main content of this site has been completed. We have officially entered the content proofreading stage. You are welcome to help us proofread all kinds of content information on the website. If you find content that needs to be modified, please contact the admin of this site (Flyingfish812).
-
-:::
-
-:::info[GameFAQs Guide Update]
-
-2024-02-20：
-
-The Phoenix 2 Guide from GameFAQs is updating simultaneously with our site. Welcome to check the new contents. [GameFAQs](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/)
-
-:::
-
-:::info[Comment board for the game]
-
-2024-01-30：
-
-The comment board for the game has been opened. You can post your comments on the game contents here. [Comment Board](https://docs.google.com/document/d/1_jkdrGhIJJW54dpJPeAG3fi05eIgnP9Za5onfS-wuv8/edit?usp=sharing)
-
-:::
-
-:::info[Celebrating the 3000th day of Phoenix 2]
-
-2024-01-29：
-
-According to expert analysis, March 19, 2024 will be the 3000th day of Phoenix 2, which is task number 3000. Experts call on all players to use ship No. 30 (Xaniea) to complete daily missions, especially the Marshal S4 mission, to celebrate this day.
+You can find useful links at the bottom of the page, including the version introduction of our site, the comment board and the link to another cooperating website. Please do not hesitate to share this site to your fr
+iends and other players, we hope that all players can benefit from this site.
 
 :::
 

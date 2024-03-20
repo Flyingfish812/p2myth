@@ -52,7 +52,7 @@
 
 ## Trivia
 
-- Editor: There’s not much to say, it’s not eye-catching and not a hindrance.
+- Monsoon is one of the only 5 ships which are asymmetrical (NC-271, Widget, Icarus, Monsoon, Disaris)
 
 ## APEX 1
 

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 66.91 | 50.91 | 268.91 | 42 | 319.82 | 335.82 | 34 | 416.00 | 50 |
 
+## Comments
+
+- 菁鸟: A great straight-attack ship. I'm playing like a sniper in P2.
+
 ## Survival
 
 - With a very difficult use to main, trying to eliminate invaders or turrets alike becomes a problem. Only after every 2s will a turret be popped off.

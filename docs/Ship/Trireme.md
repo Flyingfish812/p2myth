@@ -15,7 +15,7 @@
 - Zen: Teleport
 - Rarity: Super Rare
 - Price: 3000
-- Main Description: Many extremely short bursts of instant tracking lasers that randomly target anything.
+- Main Description: 12 short bursts of instant tracking lasers that randomly target anything.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |
@@ -31,6 +31,10 @@
 | APEX1 | APEX2 | Base Score | Base Rank | Low Score | Hi Score | Apex Rank | Final Score | FinalRank |
 |--|--|--|--|--|--|--|--|--|
 | 32.00 | 77.09 | 293.18 | 19 | 325.18 | 370.27 | 13 | 490.82 | 15 |
+
+## Comments
+
+- 天尘座: A mysterious bug where the rate of fire is sometimes linked to the frame rate...
 
 ## Survival
 

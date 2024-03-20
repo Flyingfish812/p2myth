@@ -50,11 +50,12 @@
 ## Fun
 
 - The main is pretty satisfying to hear.
+- Green GPU's unique fun.mp4
 
 ## Trivia
 
 - Tillat’Or is one of the 7 ships that doesn’t use thrusters to fly in Phoenix 2. Instead, it uses a Vertical Take Off Landing (VTOL) lift fan to keep itself afloat.
-- Tillat'Or is the only two ships that has a non-stop fan.
+- Tillat'Or is one of the only 3 ships that has a nonstop fan (Oran, Stinger, Tillat'Or).
 
 ## APEX 1
 

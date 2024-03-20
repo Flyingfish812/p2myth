@@ -53,6 +53,7 @@
 
 - The only fun in this ship is using SEMP to wipe out a whole bunch of Sparrows. Otherwise there's nothing fun about this ship, plus the main can get annoying when it targets the wrong things.
 - Czar is a ship that works, but it's just extremely boring to play.
+- Utilizing the characteristic of locking onto targets with the main weapon allows for Teleporting to the opposite side with more invaders to perform a "rubber band".
 
 ## Trivia
 

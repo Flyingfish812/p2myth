@@ -4,7 +4,9 @@
 
 子弹炮台的类型分为以下3种：普通炮台、子弹转盘、围墙炮。
 
-## 等级与进攻方式 - 追踪速射
+- hank：朴素得不能再朴素的能量(bushi)
+
+## 等级与进攻方式 - 普通炮台
 
 <img src="/turrets/pellet_1.png" style={{zoom:1.25}}/>
 <img src="/turrets/pellet_2.png" style={{zoom:1.25}}/>

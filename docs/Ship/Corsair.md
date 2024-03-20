@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 62.55 | 34.91 | 287.45 | 23 | 322.36 | 350.00 | 23 | 465.09 | 22 |
 
+## Comments
+
+- Dark骑士: I bought the Railgun APEX out of curiosity. It really only has a nice name. The main gun has almost no feeling of impact. If it weren't for the output ability of the MS, I'm afraid that it wouldn't have a chance to be noticed.
+
 ## Survival
 
 - Absolutely no defence at all.
@@ -57,6 +61,7 @@
 - Despite being a subpar FO, it's actually really fun to speedrun with Corsair. The activation of the minigun really wakes you up.
 - The barrage missiles are quite slow in movement and they don't hit your intended targets sometimes. However, the main bulk of the satisfaction from MS and minigun negates this as the main is simply support. It does make some initial waves a little bit frustrating but the minigun does cover it up quite well.
 - Most of the time, you have literally no idea what you are doing except spamming damage. Flailing about wildly and almost uncontrollably, you won't even know what just happened. But hey, everything is destroyed, so that's great, right?
+- Tracking Minigun can turn around for 360 degrees.
 
 ## Trivia
 
@@ -68,6 +73,7 @@
 - Sigma Corsair's tracking railgun was buffed in v4.0.1, shortly after the release of apexes in v4.0. The buff increases the damage of each railgun shot without increasing the firing rate.
 - In Corsair's ship preview screen, the minigun/railgun is not present even if you unlocked it. Getting its apexes also does not show their minigun/railgun on the apexes.
 - You can also view some additional renders and versions on Corsair in the following link: https://www.behance.net/gallery/2423450/Corsair
+- When the Tracking Minigun fires, a large number of bullet casings are ejected from the right side of the ship, and the Sigma APEX replaces them with larger casings accordingly.
 
 ## APEX 1
 

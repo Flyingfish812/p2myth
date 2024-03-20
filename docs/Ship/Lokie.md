@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 32.00 | 53.82 | 215.45 | 80 | 247.45 | 269.27 | 79 | 350.55 | 78 |
 
+## Comments
+
+- 圆锥曲线: Prefire or close combat, that is a problem.
+
 ## Survival
 
 - PS means it is great for its mission type to reflect off lasers.
@@ -56,6 +60,7 @@
 ## Trivia
 
 - In the first act, it is generally most efficient to just hold still, and any movement will cause distortion.
+- Staying still like a tortoise.
 
 ## APEX 1
 

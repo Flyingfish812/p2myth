@@ -1,6 +1,6 @@
 # Gorthaur
 
-> The intermittent machine gun fire made one wonder if it was broken.
+> The intermittent machine gun fire made one wonder if it was fxxked.
 
 <img src="/ships/ship_37.png" style={{zoom:1}}/>
 

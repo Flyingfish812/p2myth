@@ -15,7 +15,7 @@
 - Zen: Personal Shield
 - Rarity: Super Rare
 - Price: 3000
-- Main Description: A short burst of multiple forward firing laser beams.
+- Main Description: A short burst of 6 forward firing laser beams.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |

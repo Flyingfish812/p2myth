@@ -15,7 +15,7 @@
 - Zen: Kappa Drive
 - Rarity: Common
 - Price: 500
-- Main Description: 4 rather slow moving and slightly homing projectiles fired in a general forward direction with an initial slight spread on both sides.
+- Main Description: 8 rather slow moving and slightly homing projectiles fired in a general forward direction with an initial slight spread on both sides.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |

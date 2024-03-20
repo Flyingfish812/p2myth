@@ -55,6 +55,8 @@ This apex reduces the maximum duration of LS to exactly half of it's original du
 
 This apex is extremely useful for all LS ships, since one of the biggest problems with LS is it lasts so long, until by the time it ends, you realize your Aura is full again and would thus have wasted particles. This apex fixes that problem. It particularly benefits speedrunning ships since you always need a higher DPS in speedrunning. The speed of many speedrunning LS ships is fast enough that you kill all the small invaders so quickly in that LS has not even finished its job, so you waste TONS of particles. Despite the fast enough speed to kill smaller invaders, they are still unable to par with other speedrunning ships. This apex allows speedrunning to still have a full Aura spam at all times even with the shorter LS time, which still wastes a bit of particles but at least, it's not as bad as normal LS. You can thus say that, offensive power wise, this apex brings LS closer in par with MS, but still, not quite.
 
+This APEX becomes more dominant in the act 4 and 5 compared to the first 3 acts because there is enough energy to use and enough invaders to attack; these two conditions cannot be met simultaneously in acts 1-3. Higher DPS means higher output, but it also means higher damage loss when there are no targets to attack. Therefore, using this APEX with the above four ships often leads to a reversal against those without this APEX starting from the act 4.
+
 ## APEX 2: Tac Moons
 
 - Game Description: Two Tactical Super Moons concentrate their firepower to dispose individual targets more quickly.
@@ -68,6 +70,13 @@ This apex modifies LS such that now there are only 2 laser moons shooting 2 high
 
 This apex helps ships that have difficulties in main weapon usage to direct their shots onto turrets. The Tac Moons then help cover turret popping such that you can focus on trying to pop off turrets that are closer to you. Unfortunately, since you can't control which turrets the Tac Moons are aiming at, you just have to hope and pray. At least, however, turrets are popped off faster which means better survivability for ships with this apex. Otherwise, this apex isn't terribly useful. With the dense waves in daily missions, the priority is to completely eliminate these smaller invaders quickly, which Tac Moons doesn't help much in that aspect.
 
+There are certain patterns regarding target prioritization: Similar to a regular Laser Storm, controlling the distance between the ship and the invader such that only one or two attack targets are within the aura, indicated by the golden small circles inside the aura, can form a focus fire. This is because the essence of Laser Storm is a subset of aggregation. However, this APEX adds several conditions on top of this:
+
+1. The horizontal distance between the target and the ship's core is inversely proportional to the priority of being attacked.
+2. The health of the invader's main body is directly proportional to the priority of its turret being attacked.
+
+Combining these two points may explain why sometimes it doesn't attack targets that are closer. Large turrets require four hits to be destroyed, and during turret popping, each shot from Laser Storm takes 0.5 seconds. This means that Laser Storm can transition after the 4th attack begins, allowing Laser Storm to continue attacking, and then immediately switch to the next target.
+
 ## APEX 3: Shield Breaker
 
 - Game Description: Laser Moon type S deals extra damage to shields.
@@ -76,6 +85,7 @@ This apex helps ships that have difficulties in main weapon usage to direct thei
 - Ships with the APEX: Elyon (Lambda), Reaper (Tau), Xaniea (Tau)
 
 > Editor: Quickly breaking shields is an urgent need for slow-paced weapons.
+> Appearance enthusiasts rejoice, as the so-called cost-effectiveness is linked to demand. If the pursuit is aesthetics, then this APEX is worth it.
 
-This is a very effective enhancement in shield missions because breaking shields quickly means that the High Impact main weapons can perform more efficiently. Besides, it has no difference from regular Laser Storm, so you'll only use them in shield missions. But before purchasing these skins, carefully consider whether the other APEX for those ships offer better value.
+This is a very effective enhancement in shield missions because breaking shields quickly means that the High Impact main weapons can perform more efficiently. Besides, it has no difference from regular Laser Storm, so you'll only use them in shield missions. But before purchasing these APEXs, carefully consider whether the other APEX for those ships offer better value.
 

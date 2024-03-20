@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 34.91 | 32.00 | 271.36 | 40 | 303.36 | 306.27 | 56 | 400.09 | 56 |
 
+## Comments
+
+- hank: The clicking sound effect is really great.
+
 ## Survival
 
 - PS means it is great for its mission type to reflect off lasers.

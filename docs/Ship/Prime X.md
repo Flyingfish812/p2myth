@@ -60,7 +60,7 @@
 
 ## Trivia
 
-- Nothing trivia, so no info.
+- The Prime X's main weapon just falls short of killing the Armored Raven by one shot (Fxxk that's why I feel stuck when I speedrun it).
 
 ## APEX 1
 

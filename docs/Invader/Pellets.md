@@ -4,6 +4,8 @@
 
 There are 3 types of pellet turrets: ordinary turrets, bullet spinners, and pellet wall.
 
+- hank: Extremely simple energy (nope)
+
 ## Tiers and Patterns - Pellet Fixed
 
 <img src="/turrets/pellet_1.png" style={{zoom:1.25}}/>

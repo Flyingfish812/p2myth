@@ -15,7 +15,7 @@
 - Zen: Clover ATS
 - Rarity: Rare
 - Price: 1500
-- Main Description: A set of homing missiles being fired from both sides of the ship, followed by a forward firing laser beam that lasts for a brief period.
+- Main Description: First, symmetrically fire 14 homing missiles. Then, fire a laser beam forward, which lasts for a short duration.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |

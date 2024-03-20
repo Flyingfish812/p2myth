@@ -32,6 +32,11 @@
 |--|--|--|--|--|--|--|--|--|
 | 30.55 | 55.27 | 144.00 | 100 | 174.55 | 199.27 | 98 | 259.27 | 99 |
 
+## Comments
+
+- 圆锥曲线: I suggest uninstall its main weapon and add another laser system.
+- Niu: It's the only ship with an exclusive badge, just say it's awesome or not.
+
 ## Survival
 
 - No defense. Kappa allows you to dodge through tight gaps where needed, but there's absolutely no way to clear them.
@@ -47,16 +52,22 @@
 - A completely horrid main is enough to justify its incapability to speedrun.
 - The LS does help in clearing invaders out a little faster, but LS is generally lackluster in its slow damage. Also Kappa does help to refill LS quite fast.
 - Unfortunately, the LS + Kappa combo works very badly together. The long duration of LS means you have no idea how much Kappa to use, and overusing it means a wastage of particles which severely affects your speed.
+- Ogon's main weapon aims at the invader's turret using angles, which can be likened to the polar coordinate system, commonly seen in radar charts. So, to swiftly eliminate all invaders, it's crucial to ensure that all invaders are on the same side of the your ship as much as possible. Since the vertical distance between the various turrets on the same invader is smaller than the horizontal distance, positioning the Ogon to the side of the invader formation can reduce damage loss caused by switching targets for the main weapon. This tactic is applicable in pure laser-based missions, while in other types of levels, it's best to dodge bullets diligently.
+- When using the base Ogon and the Beta APEX, it's important to ensure that the main weapon doesn't scatter before entering the next wave, as concentrating the main weapon fire can effectively focus fire.
 
 ## Fun
 
 - LS is pretty fun to watch in action for sure.
 - The photon array, while completely stupid, is a great spectacle to watch when maxed, which is really the main saving grace for its fun factor. Because of its horrible habit of switching targets ever so often, it really looks like a (green) light show.
+- Equally distributed damage to every invader.
+- Using Kappa Drive to generate aura, and activate your main weapon from time to time.
+- Using Ogon to finish a mission will make you happy for a long while.
 
 ## Trivia
 
 - Due to its horrid main and thus absolutely horrible effective DPS, Ogon has become probably the biggest meme in the game. Players would often tease that Ogon is the best ship, but you know otherwise after reading this. ;) It is common to use Ogon as a verb/subject to mean something troll on Phoenix 2 online platforms.
 - There is specifically a badge for Ogon called “Ogon Is Fine”. This badge is obtained by clearing a Marshal S4 Daily Mission with Ogon (upgrade level and with or without apex does not matter) and having that score stay on the leaderboard for the entirety of the mission. The badge was added in v4.5.
+- One round of main weapon is enough for one armored raven.
 - Ogon is one of the 7 ships that doesn’t use thrusters to fly in Phoenix 2. Ogon looks like some kind of ship kept afloat by its large balloon-like body.
 
 ## APEX 1

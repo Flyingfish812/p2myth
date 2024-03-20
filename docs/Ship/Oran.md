@@ -56,6 +56,7 @@
 
 ## Trivia
 
+- Oran is one of the 3 ships that has nonstop fans (Oran, Stinger, Tillat'Or).
 - It's main weapon used to be 21.25 DPS before the v3.5 update.
 
 ## APEX 1

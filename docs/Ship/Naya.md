@@ -32,6 +32,12 @@
 |--|--|--|--|--|--|--|--|--|
 | 33.45 | 46.55 | 222.95 | 73 | 256.41 | 269.50 | 78 | 358.30 | 74 |
 
+## Comments
+
+- 菁鸟: If you are not a fan of Naya, think carefully before you buy it.
+- AI: Naya is a ship that is hard to master, and it is not beginner-friendly.
+- 圆锥曲线: How cute the Naya with nekomimi ~
+
 ## Survival
 
 - Naya has no defensive capabilities other than VL’s bullet clearance.
@@ -53,6 +59,7 @@
 ## Trivia
 
 - The editor of this page cannot play Naya well, and he has scolded this ship a lot.
+- That AI comment is generated automatically after the editor pasted the first comment.
 
 ## APEX 1
 

@@ -65,6 +65,7 @@
 
 - This ship was used as the first choice of speedrun between versions 4.0 to 5.0, the era when invaders were the densest.
 - Many speedrun players say that Baqlor's speedrun is 90% formula and 10% luck, including critical hits and converging.
+- New concept of ASMR.
 
 ## APEX 1
 

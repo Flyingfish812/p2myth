@@ -54,7 +54,7 @@
 
 ## Trivia
 
-- Not have any trivia.
+- Its core is beyond its main weapon.
 
 ## APEX 1
 

@@ -59,6 +59,7 @@
 ## Trivia
 
 - Jericho is one of the 3 starter ships you can get from your first warp gate activation.
+- KING of leaking ~~urine~~.
 
 ## APEX 1
 

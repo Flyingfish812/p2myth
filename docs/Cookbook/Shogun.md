@@ -2,6 +2,8 @@
 
 > Powerful close combat, infinite grazinig potential.
 
+Author: Sylvester, Flyingfish812
+
 ## Introduction
 
 Shogun is a ship with a high ceiling and a low floor in terms of strength. After a certain number of games and time, Shogun players can somewhat grasp the essence of this ship, but to excel, it inevitably requires more time for accumulation and a deeper understanding of Shogun.

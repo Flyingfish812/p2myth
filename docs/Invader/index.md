@@ -84,6 +84,9 @@ Currently, there are 19 types of turrets in the game. The turrets are as follows
     - MIRV
     - Super MIRV
 
+- 五香fish: Don't get close to the enemy turret! Imagine that you shave seconds and reached the last wave with an MB, but were killed by the enemy turret before it was released.
+- 圆锥曲线: I'd like to have a collection of turret collision.
+
 ## Detailed Page
 
 - [Invaders](Invaders.md)

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 24.73 | 13.09 | 287.18 | 26 | 300.27 | 311.91 | 53 | 412.82 | 53 |
 
+## Comments
+
+- 圆锥曲线: It's magical that you will learn all the other ship's gameplay just by playing Aurora for several times.
+
 ## Survival
 
 - The actual impact damage of a single Quantum Nuke is ≈45. As Aurora's DPS is an average of its impact and blast damage, the actual DPS of the Quantum Nuke alone is ≈22, or sometimes even ≈18 in the case of Rocs.

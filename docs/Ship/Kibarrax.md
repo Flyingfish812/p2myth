@@ -32,6 +32,12 @@
 |--|--|--|--|--|--|--|--|--|
 | 50.91 | 77.09 | 340.64 | 1 | 391.55 | 417.73 | 2 | 543.73 | 4 |
 
+## Comments
+
+- 天尘座: <img src="/terms/crab.jpg" style={{zoom:1}}/>
+- 天尘座: Honestly speaking, practice is necessary for playing Kibarrax well. It's a ship hard to control for a beginner.
+- Dark骑士: This ship is a bit interesting. Its three skills are all offensive, referred to as a Full Offensive ship, which leads to its positioning itself as a speedrun ship. But if it is just this, it will not be so favored by speedrun players. When you use it , you will obviously feel that it is like a prolapsed horse that is difficult to control. You may feel that the energy is not enough when you playing other ships, and you need to get energy by grazing bullets. Kibarrax rarely needs it, and even generally speaking, it is normal to have a lot left after clearing every wave. As long as it is used properly, the Kibarrax's damage is usually overflowing, and there is almost no situation where the energy is not enough. In addition, the faster you run, the faster you die. It relies on RNG (converging) and is easily collided by the turrets, which affects the offensive rhythm. It has extremely high requirements. You can even roughly estimate the number of attacks required for each wave. Once things go wrong, you can only start over. I used a previous joke to evaluate it: the starting point of the speedrun is Shogun and the end point is Kibarrax. If you can use it well, then you are already a graduate.
+
 ## Survival
 
 - With absolutely no forms of defence, once you are trapped, you are dead. No way out.

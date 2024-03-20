@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 48.00 | 45.09 | 295.64 | 18 | 340.73 | 343.64 | 27 | 451.64 | 26 |
 
+## Comments
+
+- 圆锥曲线: I'd like to see Saber and Antioch fxxk each other.
+
 ## Survival
 
 - Saber has actually 2 means to clear out bullets from its Aura and Zen.

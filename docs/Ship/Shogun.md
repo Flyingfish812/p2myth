@@ -32,6 +32,12 @@
 |--|--|--|--|--|--|--|--|--|
 | 43.64 | 78.55 | 340.36 | 2 | 384.00 | 418.91 | 1 | 568.36 | 1 |
 
+## Comments
+
+- Dark骑士: This ship with a strong Japanese cultural color of is also one of the first ships to be discovered by speedrun players. Its main weapon is highly recognizable. It is neither a projectile nor a light. Its real-time tracking characteristics are the only one. Both the attack method and the aura tend to change the game mechanics. Its aura reminds me of scenes in anime: Domain expansion - Fukuma Mizushi.
+- Dark骑士: Although the real-time tracking main weapon looks awesome, if it just looks awesome, it will not become regular on the leaderboard. The biggest advantage of the Shogun is that the main weapon does not need to change its position in order to hit the turret. This is equivalent to saying that the Shogun has the largest activity space while ensuring its own output in advance. For speedrun players, what they consider is how to convert the space into output. The answer is to graze. It can be said that the Shogun is a grazer. It is also the one that best embodies the game's concept of "turning defense into offense".
+- Kite Runner: Shogun can hardly beat other speedrun ships in medium and low-density bullets. If you want to gain an advantage in speedrun, you must have a dense bullet and continuously graze to charge the aura. In addition to experiences and skills, it is also necessary to break the conventional thinking and use more inhuman operations, and survive after death. It can be said that you cannot control it unless you are a master.
+
 ## Survival
 
 - No defence except REMP. REMP might be a problem in General/Boomerang missions with fast moving darts. However, it can reliably break up continuous streams of pellets.

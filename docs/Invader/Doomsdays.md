@@ -50,6 +50,11 @@ It is recommended you pop off DDLs if you see more than one DDLs on field. If yo
 
 An interesting thing about DDL is it can be "delayed" slightly by the Nightfury, since Nightfury will neutralize the DDL. However, since DDL lasts much longer than a Nightfury, you will still get killed unless you move out of the way as Nightfury fires. Using the Nightfury to neutralize a DDL is a very bad idea since you will waste all if not most of the 300 damage of the Nightfury. This feature is simply included for fun as stated by the devs, and is not a viable strategy. This feature was added in v5.0.3 as a fun feature. The left GIF shows how the attempted but failed battle between the DDL and Nightfury (before the v5.0.3 update) while the right GIF shows the actual epic battle between the DDL and Nightfury (after the v5.0.3 update).
 
+<img src="/Cookbook/nfvsddl.gif" style={{zoom:1.25}}/>
+
+- 天尘座: I will call you Yama if you have Doomsday Speed Laser.
+- 天尘座: Please buy Mirage and battle DDL with Nightfury.
+
 ## Doomsday MIRV
 
 - Assaulting Pattern: Create multiple circles (in 3 to 5 circles according to the level) of red points (about 14) around it. After 3 seconds of charging, a forward-flying MIRV will be generated out of thin air at the red light point.
@@ -63,6 +68,8 @@ Traditional bullet-clearing skills are still the best way to deal with MIRVs, bu
 Unlike ordinary MIRVs, the MIRVs released by Doomsday MIRV do not have a flight time of 0.4 seconds and will explode immediately as long as you get close. If you're unlucky and have to clear the mission using some ships with no defensive skills, I've got some suggestions here. If you are using survival ships, you can choose to activate the MIRVs in the two rows first, and then retreat to the back row to dodge them slowly. If you are using a speedrun ship, try to pop the turret first instead of maximizing the output, unless you can directly kill the invader (such as vulture).
 
 Note: It is not recommended to graze the Doomsday MIRV. This skill puts forward very high requirements on timing and positioning, and is useless in most cases (pop them first is usually a better choice). If you don't listen to me and insist on grazing them, you can check the Shogun's Cookbook for detailed study.
+
+- 圆锥曲线: I'd like Doomsday Laser MIRV.
 
 ## Doomsday Super MIRV
 

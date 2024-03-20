@@ -4,6 +4,9 @@
 
 There are many types of dart turrets, but generally two main categories: tracking darts and dart spinners. In addition, the turret on the Sparrow and on the middle of the heron can also be equipped with a dart turret, but it can only fire forward.
 
+- 圆锥曲线: Go to hell, thanks. 🌹
+- Dark骑士: A simple dart mission is not difficult, even with a large spinner. What is more difficult is that the turret appears in the middle of the screen, and there are lasers on both sides. This restricts the area of movement, and you cannot use any positioning skills.
+
 ## Tiers and Patterns - Dart Tracker
 
 <img src="/turrets/dart_1.png" style={{zoom:1.25}}/>

@@ -4,6 +4,8 @@
 
 There are 3 types of MIRV turrets: launchers, spreads and bloomers. There are also 2 types of MIRVs, pellet MIRVs and laser MIRVs. Laser MIRVs have 2 tiers as well, I will refer T1 laser MIRVs as those that fire off 5 lasers, and T2 laser MIRVs as those that fire off 9 lasers (assuming each laser starts from the point of MIRV explosion).
 
+- 圆锥曲线: It will definitely be a lot more interesting if you add the exploding sound effect "Boom~" to it.
+
 ## Tiers and Patterns - MIRV Launchers
 
 <img src="/turrets/mirv_launcher_1.png" style={{zoom:1.25}}/>
@@ -35,6 +37,11 @@ Unlike pellet MIRVs, there is almost no good defensive options against laser MIR
 *Trivia: Aside from laser and pellet MIRVs, there was apparently supposed to be a dart MIRV as well, which fired 24 singular darts in all directions. However, it never got past the testing stage. You can see it here:*
 
 <img src="/Cookbook/dartmirv.gif" style={{zoom:1}}/>
+
+*Trivia: T1 and T2 laser MIRV have different appearances, T1 has 5 tentacles while T2 has 9.*
+
+<img src="/Terms/T1lmirv.jpg" style={{zoom:1}}/>
+<img src="/Terms/T2lmirv.jpg" style={{zoom:1}}/>
 
 ### Caged MIRV
 

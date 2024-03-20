@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 50.91 | 27.64 | 312.00 | 10 | 339.64 | 362.91 | 14 | 490.00 | 16 |
 
+## Comments
+
+- 弃坑中: Perfect normal attack, perfect experience of playing, perfect feel of speedrun, it's a pity that it hasn't Armor Piercing missiles like Kibarrax.
+
 ## Survival
 
 - Low DPS, and absolutely no defence at all. Once trapped, you are dead.

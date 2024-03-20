@@ -34,6 +34,11 @@
 
 As ship no.100, Disaris is equipped with a bonus laser with either Apex as extra 2 DPS.
 
+## Comments
+
+- 圆锥曲线: "FUCK Let's explode!!"
+- hank: With an Omega APEX, I feel very good when one-shotting Condors and Rocs with huge amount of bullets.
+
 ## Survival
 
 - BEMP clears all bullets around you instantly.
@@ -56,7 +61,11 @@ As ship no.100, Disaris is equipped with a bonus laser with either Apex as extra
 
 ## Trivia
 
+- One round of main and one laser = armored raven.
+- Disaris is one of the only 5 ships which are asymmetrical (NC-271, Widget, Icarus, Monsoon, Disaris)
 - Stinger that lies down because tired from standing.
+
+<img src="/Terms/Disaris-Stinger.jpg" style={{zoom:1}}/>
 
 ## APEX 1
 

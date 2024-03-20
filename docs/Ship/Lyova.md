@@ -1,6 +1,6 @@
 # Lyova
 
-> It's like the trajectory of a katana slashed by the Shogun.
+> A yellow-green bullet-clearing fairy.
 
 <img src="/ships/ship_77.png" style={{zoom:1}}/>
 

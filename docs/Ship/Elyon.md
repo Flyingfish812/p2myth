@@ -9,13 +9,13 @@
 - No: 26
 - Ship: Elyon
 - Affinity: High Impact
-- Type: Full Offense (FO)
+- Type: Pseudo-FO
 - Main Weapon: Blaze Laser
 - Aura: Laser Storm
 - Zen: Kappa Drive
 - Rarity: Common
 - Price: 500
-- Main Description: A short burst of 2 forward firing lasers, followed by a small pause, then a longer burst of the same 2 lasers.
+- Main Description: A 3-period weapon with damage ratio of 1:2:4.
 - Upgrade Info: 
 
 | Level | 1 | 2 | 3 | 4 | 5 | Ult |
@@ -83,3 +83,4 @@ The Laser Storm that can break the shield means that in the shield missions, you
 
 The ability to get rid of LS faster alleviates the major problem brought about by a poor Aura Zen combination. Dense waves can quickly cause particle overflow from killing invaders very quickly due to its pseudo-FO nature. This apex allows Elyon to go significantly faster by doubling the amount of LS it can pull off.
 
+At the end of the first period of the main weapon, activating the full aura can achieve the optimal output state because the combined time of the second and third periods of the main weapon exactly matches the high energy of the Laser Storm. If the energy supply is sufficient, it can even form a loop, making it quite enjoyable to dodge bullets with Kappa Drive. If it's a small aura, wait until the third period of the main weapon to use it, focusing damage to kill one invader at a time — provided there are invaders within the aura.

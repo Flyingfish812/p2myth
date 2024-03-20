@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 52.36 | 30.55 | 250.09 | 58 | 280.64 | 302.45 | 60 | 387.00 | 66 |
 
+## Comments
+
+- 五香fish: An offensive ship, it's better to maximize the main's AOE damage when playing. Alpha APEX highly recommended.
+
 ## Survival
 
 - No defense other than ML. Plus ML is no reliable defence, especially in Blight where they are fast bullets and lasers.
@@ -55,7 +59,7 @@
 
 ## Trivia
 
-- Nothing trivia :(
+- The cooldown time for the Mega Laser is exactly 4 rounds of main weapons.
 
 ## APEX 1
 

@@ -37,6 +37,7 @@ The reconstruction project started on January 29, 2024, and we are currently ste
 - 菁鸟 (Author of Phoenix 2 Stories)
 - Soulfire (Contributor of gallery)
 - MonkeMagic (Contributor of gallery)
+- 圆锥曲线 (Aid from community)
 
 ## Special Thanks
 

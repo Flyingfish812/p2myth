@@ -58,6 +58,7 @@
 ## Trivia
 
 - Dragonfly Epsilon is one of the 4 apexes with an additional hidden change as well, changing its main weapon into a sort of rainbow colored laser gun, tightening the spread of the main.
+- Its main's DPS is lower than Corsair's Tracking Minigun.
 
 ## APEX 1
 

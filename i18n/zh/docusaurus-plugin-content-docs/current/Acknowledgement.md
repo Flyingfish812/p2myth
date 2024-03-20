@@ -37,6 +37,7 @@ sidebar_position: 3
 - 菁鸟 (Phoenix 2同人文创作者)
 - Soulfire (画廊作品贡献者)
 - MonkeMagic (画廊作品贡献者)
+- 圆锥曲线 (场外援助)
 
 ## 特别感谢
 

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 45.09 | 55.27 | 303.00 | 15 | 348.09 | 358.27 | 18 | 493.00 | 14 |
 
+## Comments
+
+- Dark骑士: Frequently used in shielded missions in the past, and it's harder and harder to use in the present.
+
 ## Survival
 
 - Exarch’s unique main works on a range triggered mechanism, where if an invader goes into range of each of its prisms, it will fire. The angles of each of the prisms at the front of Exarch, taking upward vertical vector as 0° are: -22°, -17°, -13°, -8°, -4°, -0°, 0°, 4°, 8°, 13°, 17°, 22°. There are also prisms at the back of Exarch, taking the downward vertical vector as 0°, the angles are: -22°, -17°, -11°, 11°, 17°, 22°. There is no angular range of each its prisms, it only fires at that specific angle.

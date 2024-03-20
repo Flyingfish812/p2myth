@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.1.1
+
+- Version: 1.1.1
+- Update time: 2024-03-20
+
+Fixed some content errors. And now you can find comments from players on several pages.
+
 ## V1.1.0
 
 - Version: 1.1.0

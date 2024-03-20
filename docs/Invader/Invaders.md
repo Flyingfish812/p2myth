@@ -18,6 +18,9 @@ The sparrow is equipped with a fixed turret (which means it cannot turn around).
 
 They can also be equipped with caged MIRVs, that means the MIRV (bullet only) will explode as soon as you kill the sparrow. Unless you are skilled enough, be sure to have a bullet-clearing skill with you.
 
+- 圆锥曲线: Miss sparrow with endless pooping.
+- hank: Love colliding others like a basketball player.
+
 ### Turret Types
 
 The turrets on sparrows are fixed and face front.
@@ -182,6 +185,10 @@ Condor is a tough invader with 6 turrets. They can occupy half of your screen. W
 
 Condors need huge amount of energy. Since you may have several condors in one mission, you have to decide a strategy for all the condors you will meet. They can give you energy enough for one full aura, but it's hard to obtain them at once.
 
+<img src="/terms/condor.jpg" style={{zoom:0.4}}/>
+- 天尘座: You dare to fight me? You little bastard (the front row invaders), you really have never seen the world!
+- 圆锥曲线: For Miss Condor who lost her shield, the punishment given by Sister Mirage is ...
+
 ### Turret Types
 
 All type of turrets are available for condor. If not mentioned, all the turrets should be considered as T1-T4.
@@ -213,6 +220,8 @@ All type of turrets are available for condor. If not mentioned, all the turrets 
 Roc is the hardest boss in the game, and it's the only invader that needs 8 seconds to be deployed. A roc hardly move, and it can only come at back. Its welcome party may vary from none to lots of small invaders.
 
 Previously, roc may only appear in the last wave as the final boss. In the current version, roc can appear in any wave of act 5. When you have to confront a roc, be sure to have enough energy and have a good strategy. If it's not the final wave, be sure you are safe to finish the rest waves.
+
+- 圆锥曲线: You give him a porn video? How hard it is!
 
 ### Turret Types
 

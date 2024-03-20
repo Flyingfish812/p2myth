@@ -31,6 +31,11 @@
 |--|--|--|--|--|--|--|--|--|
 | 61.09 | 60.80 | 276.55 | 30 | 337.35 | 337.64 | 32 | 440.73 | 38 |
 
+## Comments
+
+- LWM: Although the ship itself is not strong, but the feeling of impact is really great.
+- Dark骑士: The main weapon has the best experience among the tracking ones that I have played so far. It has a large attack range, high hit rate and high rate of fire. It is equivalent to an enhanced version of the Yigothu's main weapon. Unfortunately, the zen has caused the appearance rate of the Mist Star to be low.
+
 ## Survival
 
 - As the main fires in bursts, while the first of the flux seekers fire, engage Kappa to charge up a large SEMP. Disengage Kappa once the last of the flux seekers fire off. Obviously, don't do it when your Aura is already full.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 55.27 | 24.73 | 244.36 | 60 | 269.09 | 299.64 | 63 | 388.55 | 63 |
 
+## Comments
+
+- 圆锥曲线: Behave with courtesy towards Delta Orion, and you can enjoy a lazy life.
+
 ## Survival
 
 - Orion is probably one of the easiest defensive ships to use.
@@ -55,6 +59,8 @@
 
 - Orion is extremely boring because there is nothing else to do other than to move around a bit and dodge, and PD and TP when you are threatened.
 - PD is kind of satisfying to hear and the impact of Orion's photon scatter is not bad, but the playstyle of the ship is so boring, it just doesn't deserve to be played after you are clearing a mission with it. Orion works but it's just so boring to play. You are literally just sitting around waiting for bullets to come and get you.
+- In current version, it's fun to watch a firework show in MIRV Spam mission by staying at the top left corner. Especially when there are huge amounts of MIRVs on the screen and you TP into them ... Ah~♥
+- You can pop a turret painlessly thanks to the fact that the position of the core and the main weapon are different, just put the turret in that hole.
 
 ## Trivia
 

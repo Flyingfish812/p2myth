@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 36.36 | 40.73 | 298.36 | 16 | 334.73 | 339.09 | 31 | 444.91 | 35 |
 
+## Comments
+
+- Dark骑士：Trinity's Teleport is useless, it will be greater if changing the darkfire into a lance.
+
 ## Survival
 
 - Trinity's TP deals railgun damage, which actually does 15 damage instead of the 8 damage stated.
@@ -68,7 +72,8 @@
 - Trinity was only introduced into Phoenix 2 at v2.5.
 - Trinity is one of the 5 ships that got brought over from Phoenix 2's predecessor game, Phoenix HD.
 - Although Trinity technically has a unique Zen, under the Zen filter, if TP is selected, Trinity also appears as one of the filtered ships.
-- Trinity used to be slightly more invincible due to a technique.
+- Trinity used to be slightly more invincible due to a technique, but no one knows what it was. The editor guess it's to TP into the bullet hell then graze to use a small Chrono Field, and then you repeat this process.
+- Calculatrice of invader's HP.
 
 ## APEX 1
 

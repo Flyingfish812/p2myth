@@ -55,3 +55,5 @@ Speed Laser is a very troublesome turret. Unlike ordinary tracking lasers, speed
 There are many ways to deal with them. Since they need their core to appear in the fan-shaped range in front of them to charge up, we can fly from one side to the other at the bottom to activate all the speed lasers at the beginning. You can also try to prioritize popping the speed lasers, which will save you a lot of trouble. If you are lucky, the speed laser will just miss you while you are standing still, this method is not recommended because it relies on a lot of luck. For example, when a tier 3 speed laser is aimed at you and the invader moves to the left, you can stand on the left laser first, wait for the right laser to finish shooting, and then slowly move to the right to avoid the left laser.
 
 The most annoying situation is when it is mixed with bullets. Since the speed laser is an instant attack, unlike the bullets flying forward, this will make it impossible for you to dodge and graze the bullets. At this time, you must give priority to popping the speed laser in the back row.
+
+- hank: Why this thing from hell!
