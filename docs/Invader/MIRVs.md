@@ -40,8 +40,8 @@ Unlike pellet MIRVs, there is almost no good defensive options against laser MIR
 
 *Trivia: T1 and T2 laser MIRV have different appearances, T1 has 5 tentacles while T2 has 9.*
 
-<img src="/Terms/T1lmirv.jpg" style={{zoom:1}}/>
-<img src="/Terms/T2lmirv.jpg" style={{zoom:1}}/>
+<img src="/terms/T1lmirv.jpg" style={{zoom:1}}/>
+<img src="/terms/T2lmirv.jpg" style={{zoom:1}}/>
 
 ### Caged MIRV
 

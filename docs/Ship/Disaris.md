@@ -65,7 +65,7 @@ As ship no.100, Disaris is equipped with a bonus laser with either Apex as extra
 - Disaris is one of the only 5 ships which are asymmetrical (NC-271, Widget, Icarus, Monsoon, Disaris)
 - Stinger that lies down because tired from standing.
 
-<img src="/Terms/Disaris-Stinger.jpg" style={{zoom:1}}/>
+<img src="/terms/Disaris-Stinger.jpg" style={{zoom:1}}/>
 
 ## APEX 1
 

@@ -53,6 +53,8 @@
 - 毒刺是作为唯三拥有不停转的风扇的战机（奥兰、毒刺、提拉特厄尔）。
 - 睡醒了站一会儿的戴沙利斯。
 
+<img src="/terms/Disaris-Stinger.jpg" style={{zoom:1}}/>
+
 ## 皮肤形式1
 
 <img src="/ships/ship_93_apex_1.png" style={{zoom:1}}/>

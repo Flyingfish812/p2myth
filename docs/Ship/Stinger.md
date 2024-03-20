@@ -54,6 +54,8 @@
 - Stinger is one of the only 3 ships with fans constantly spinning (Oran, Stinger, Tillat'Or).
 - Disaris wake up and stand for a while.
 
+<img src="/terms/Disaris-Stinger.jpg" style={{zoom:1}}/>
+
 ## APEX 1
 
 <img src="/ships/ship_93_apex_1.png" style={{zoom:1}}/>

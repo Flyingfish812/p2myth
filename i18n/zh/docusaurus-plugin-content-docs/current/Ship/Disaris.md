@@ -65,7 +65,7 @@
 - 戴沙利斯是仅有的五架不对称的飞机之一（NC-271、维杰特、伊卡鲁斯、季风、戴沙利斯）
 - 站累了躺一会儿的毒刺。
 
-<img src="/Terms/Disaris-Stinger.jpg" style={{zoom:1}}/>
+<img src="/terms/Disaris-Stinger.jpg" style={{zoom:1}}/>
 
 ## 皮肤形式1
 

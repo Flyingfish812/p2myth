@@ -40,8 +40,8 @@
 
 *冷知识：两种激光分导式多弹头外观有区别，T1会伸出五个触角，而T2会伸出九个。*
 
-<img src="/Terms/T1lmirv.jpg" style={{zoom:1}}/>
-<img src="/Terms/T2lmirv.jpg" style={{zoom:1}}/>
+<img src="/terms/T1lmirv.jpg" style={{zoom:1}}/>
+<img src="/terms/T2lmirv.jpg" style={{zoom:1}}/>
 
 ### 自爆菊花
 
