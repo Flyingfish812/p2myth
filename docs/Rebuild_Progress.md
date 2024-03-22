@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.1.2
+
+- Version: 1.1.2
+- Update time: 2024-03-22
+
+New cookbook added for Phoenix.
+
 ## V1.1.1
 
 - Version: 1.1.1
