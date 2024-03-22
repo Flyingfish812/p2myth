@@ -24,19 +24,19 @@
 
 比如说，在第一幕以麻雀为主的进攻中，你就可以使用这个技巧：
 
-<img src="/phoenixCB/phoenix1.png" style={{zoom:0.25}}/>
+<img src="/PhoenixCB/phoenix1.png" style={{zoom:0.25}}/>
 
 形成方阵的四个麻雀，你可以通过埋炮在一瞬间处理掉一列的麻雀。通常来说，埋的炮完全足够消灭两个麻雀，因此当敌机停稳的一瞬间你就可以拉向另一侧消灭剩下的麻雀。这就极大地节省了你的操作数。
 
-<img src="/phoenixCB/phoenix20.gif" style={{zoom:1}}/>
+<img src="/PhoenixCB/phoenix20.gif" style={{zoom:1}}/>
 
 这个技能的使用范围非常广泛，下至麻雀与小型：
 
-<img src="/phoenixCB/phoenix4.png" style={{zoom:0.25}}/>
+<img src="/PhoenixCB/phoenix4.png" style={{zoom:0.25}}/>
 
 上至大鹏：
 
-<img src="/phoenixCB/phoenix12.png" style={{zoom:0.25}}/>
+<img src="/PhoenixCB/phoenix12.png" style={{zoom:0.25}}/>
 
 都可以充分使用埋炮技巧。这个技巧有时候甚至会产生决定性的变化，我们会在接下来的描述中进行说明。
 
@@ -56,11 +56,11 @@
 
 我们用一个例子来演示一下，在这一波进攻中一共有5个小型敌机。在使用破坏性波浪前我们要做的是将所有小型敌机地血量尽可能压低，而后在一次破坏性波浪中全部消灭：
 
-<img src="/phoenixCB/phoenix18.gif" style={{zoom:1}}/>
+<img src="/PhoenixCB/phoenix18.gif" style={{zoom:1}}/>
 
 当然，第二个要点实施起来是非常有难度的，因为你需要对多少时间的输出能将血量压低有一个大概的印象，而这属于肌肉记忆的范畴。因此一个补救措施是，假如你不确定血量是否压得够低，你可以放过那些聚到一起的，即使要补刀也不会移动很大的距离导致主炮浪费。
 
-<img src="/phoenixCB/phoenix5.png" style={{zoom:0.25}}/>
+<img src="/PhoenixCB/phoenix5.png" style={{zoom:0.25}}/>
 
 ### 麻雀的困境
 
@@ -68,17 +68,17 @@
 
 举个例子，假如在1-3和1-4都是一个小型配4个麻雀的情况下，你的能量并不足以连续两次都能把麻雀消灭。你可以选择控能量，通过集火小型再吸收一点能量后斩杀麻雀，也可以选择前一波使用主炮，而在后一波毫无顾忌地使用破坏性波浪。
 
-<img src="/phoenixCB/phoenix2-3.png" style={{zoom:0.25}}/>
+<img src="/PhoenixCB/phoenix2-3.png" style={{zoom:0.25}}/>
 
 顺便一提，大多数情况下后一种方案效率更高，因为前一种方案意味着控能量的精确程度要求高，你很容易失误。使用后一种方案时，你可以充分利用我们之前提到的埋炮技巧优先消灭两个麻雀后，集中精力对付剩下的敌机。
 
-<img src="/phoenixCB/phoenix19.gif" style={{zoom:1}}/>
+<img src="/PhoenixCB/phoenix19.gif" style={{zoom:1}}/>
 
 ### 擦弹
 
 并不是说专注于防御就不需要擦弹，如果弹幕非常密集而缓慢，你完全可以利用这大把的能量并将它们转化为你自身的输出。这一点通常是玩家在游玩的时候会忽略的要点。
 
-<img src="/phoenixCB/phoenix8.png" style={{zoom:0.25}}/>
+<img src="/PhoenixCB/phoenix8.png" style={{zoom:0.25}}/>
 
 ## 激光反射
 
@@ -100,59 +100,59 @@
 
     这是最基础的配置，通常出现在大型敌机上。大型敌机通常会装配有两个菊花台，它们提供的激光数量足以消灭场上所有的敌机。因此你的策略是很明显的，你不需要使用任何的破坏性波浪，只需等待激光菊花被激活后开盾反射即可。
 
-    <img src="/phoenixCB/phoenix9.png" style={{zoom:0.25}}/>
+    <img src="/PhoenixCB/phoenix9.png" style={{zoom:0.25}}/>
 
     此外有一个小细节。每一道激光发射前都会先出现一道白色冲击波，它们是有擦弹判定的。也就是说，在护盾激活前擦到尽可能多的脉冲可以恢复一部分光环。这些多出来的能量能让你在下一波更自如一些。
 
-    <img src="/phoenixCB/phoenix10.png" style={{zoom:0.25}}/>
+    <img src="/PhoenixCB/phoenix10.png" style={{zoom:0.25}}/>
 
     就像是这样：
 
-    <img src="/phoenixCB/phoenix22.gif" style={{zoom:1}}/>
+    <img src="/PhoenixCB/phoenix22.gif" style={{zoom:1}}/>
 
 2. 菊花台+喷子波浪
 
     这种配置多出现在中型敌机上。它的处理方式是尽可能地靠近更多的菊花后激活它们：
 
-    <img src="/phoenixCB/phoenix6.png" style={{zoom:0.25}}/>
+    <img src="/PhoenixCB/phoenix6.png" style={{zoom:0.25}}/>
     
     同时释放子弹电磁脉冲消除多余的东西，包括挡路的子弹以及周围的麻雀。
 
-    <img src="/phoenixCB/phoenix7.png" style={{zoom:0.25}}/>
+    <img src="/PhoenixCB/phoenix7.png" style={{zoom:0.25}}/>
     
     要注意的是，使用破坏性波浪的操作是非常有必要的，这不仅是使你能够找到正确的反射位置，同时也是及时消灭可能导致伤害溢出的潜在对象。这是因为激光会在消灭敌机后消灭，如果大量的激光只适用于消灭麻雀了，相当于大型的敌机就没有足够的伤害，这同样是致命的。
 
-    <img src="/phoenixCB/phoenix21.gif" style={{zoom:1}}/>
+    <img src="/PhoenixCB/phoenix21.gif" style={{zoom:1}}/>
 
 3. 大鹏
 
     大鹏的打法通常是绝大多数玩家会忽略的部分，因为玩家们通常认为大鹏也只需要一次反射即可消灭。但是大鹏的血量非常厚，如果选择的反射位置不当，很可能需要额外的主炮输出来弥补。
 
-    <img src="/phoenixCB/phoenix12.png" style={{zoom:0.25}}/>
+    <img src="/PhoenixCB/phoenix12.png" style={{zoom:0.25}}/>
 
     大鹏的起手一定是在底部进行埋炮，这是为了降低大鹏的血量以提供更大的容错空间。通过一个简单的计算就能发现，945血量的大鹏在每秒10伤害的激光反射下，需要95条激光才能完全消灭（激光的持续时间只有1秒）。而一个激光球所能提供的激光数量最多是9，意味着你的护盾必须覆盖尽可能多的激光。事实上，如果场上仅仅有20~30道激光就已经密密麻麻地覆盖住了全屏幕，你的肉眼是无法判断出是否有90道激光的。从这一点上，起手的**埋炮是必需的**。
 
     有时，来自侧面的喷子波浪很容易拦住你的路，因此在前部反射并不是一个好主意。在这里我们提供一个小技巧：俯冲到两个菊花台的中间位置进行反射。要注意的是激光菊花自身是有碰撞判定的，你需要准确躲开它们才能开盾反射（否则反射的激光数量不够）。一个安全的位置是两个菊花台尖角所指向的中间位置，这正好处于相邻两个激光菊花的中间位置，可以助你躲过碰撞判定：
 
-    <img src="/phoenixCB/phoenix12b.png" style={{zoom:0.5}}/>
+    <img src="/PhoenixCB/phoenix12b.png" style={{zoom:0.5}}/>
 
-    <img src="/phoenixCB/phoenix13.png" style={{zoom:0.25}}/>
+    <img src="/PhoenixCB/phoenix13.png" style={{zoom:0.25}}/>
 
     躲过这一轮菊花的碰撞判定后就可以开盾反射了。在这个位置你可以激活尽可能多的激光，而反射的位置也恰好能够消灭大鹏：
 
-    <img src="/phoenixCB/phoenix14.png" style={{zoom:0.25}}/>
+    <img src="/PhoenixCB/phoenix14.png" style={{zoom:0.25}}/>
 
     完整的演示如下：
 
-    <img src="/phoenixCB/phoenix24.gif" style={{zoom:1}}/>
+    <img src="/PhoenixCB/phoenix24.gif" style={{zoom:1}}/>
 
 ### 后排反射
 
 这个策略通常是前排有两个中型的时候所采用的，因为在前排时你会被大量的喷子阻拦而无法尽可能多地激活激光。它的要点比较简单，在最开始的埋炮后，俯冲至后排激活菊花，而后在使用一次破坏性波浪后开盾反射。
 
-<img src="/phoenixCB/phoenix11.png" style={{zoom:0.25}}/>
+<img src="/PhoenixCB/phoenix11.png" style={{zoom:0.25}}/>
 
-<img src="/phoenixCB/phoenix23.gif" style={{zoom:1}}/>
+<img src="/PhoenixCB/phoenix23.gif" style={{zoom:1}}/>
 
 ### 连续反射
 
@@ -160,15 +160,15 @@
 
 例如，在上一波的大鹏结束后，立即出现了如下的阵形：
 
-<img src="/phoenixCB/phoenix15.png" style={{zoom:0.25}}/>
+<img src="/PhoenixCB/phoenix15.png" style={{zoom:0.25}}/>
 
 此时你的护盾冷却刚刚开始，直接杵在屏幕中间强行开盾是不明智的。一是完全没有利用主炮破盾，二是冷却时间过长很容易出现失误。因此，我们建议你首先埋炮并用破坏性波浪消除第一轮的菊花，在第二轮再进行反射。在这段时间里，你不仅能够破除一些敌机护盾，还能降低再次开启护盾的冷却时间。
 
-<img src="/phoenixCB/phoenix16.png" style={{zoom:0.25}}/>
+<img src="/PhoenixCB/phoenix16.png" style={{zoom:0.25}}/>
 
 完整的演示：
 
-<img src="/phoenixCB/phoenix25.gif" style={{zoom:1}}/>
+<img src="/PhoenixCB/phoenix25.gif" style={{zoom:1}}/>
 
 ### 放弃反射
 
@@ -176,11 +176,11 @@
 
 在这种情况下，菊花台就变成了碍事的炮台，你必须将其优先拆除。对于中型来说，激光菊花释放后立即使用破坏性波浪即可有效地降低威胁。
 
-<img src="/phoenixCB/phoenix17.png" style={{zoom:0.25}}/>
+<img src="/PhoenixCB/phoenix17.png" style={{zoom:0.25}}/>
 
 而你的目标将是优先消灭前排的中型：
 
-<img src="/phoenixCB/phoenix26.gif" style={{zoom:1}}/>
+<img src="/PhoenixCB/phoenix26.gif" style={{zoom:1}}/>
 
 ## 总结
 
