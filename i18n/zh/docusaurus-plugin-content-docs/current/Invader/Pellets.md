@@ -81,18 +81,18 @@
 
 - 如果一道围墙只有9颗子弹，它会形成非常漂亮的间隔结构，你能很清晰地发现围墙中间的通道。
 
-<img src="/turrets/wall_T2-9.png" style={{zoom:0.75}}/>
+<img src="/turrets/wall_T2-9.PNG" style={{zoom:0.75}}/>
 
 - 如果一道围墙有10颗子弹，在第二圈上围墙的位置就稍微有些偏移了，你需要扭一扭才能躲过它们。
 
-<img src="/turrets/wall_T2-10.png" style={{zoom:0.75}}/>
+<img src="/turrets/wall_T2-10.PNG" style={{zoom:0.75}}/>
 
 - 如果一道围墙有11颗子弹，这个时候围墙已经出现了明显的交错排布，你无论如何都得避开一道围墙才能生存下来。
 
-<img src="/turrets/wall_T2-11.png" style={{zoom:0.75}}/>
+<img src="/turrets/wall_T2-11.PNG" style={{zoom:0.75}}/>
 
 - 如果一道围墙有12颗子弹，这个时候围墙已经完全交错排布，这会导致硬躲几乎不可能。
 
-<img src="/turrets/wall_T2-12.png" style={{zoom:0.75}}/>
+<img src="/turrets/wall_T2-12.PNG" style={{zoom:0.75}}/>
 
 通常而言，大型敌机会同时装备两个同等级的转盘。如果它是围墙，请一定要优先拆除其中一个，因为这种交错排布的围墙很容易使你无路可走。

@@ -81,18 +81,18 @@ But the T2 pellet wall is different, the difference of the bullet numbers may le
 
 - If the wall has 9 bullets, it will form a beautiful interval structure, and you can clearly see the channel in between the wall.
 
-<img src="/turrets/wall_T2-9.png" style={{zoom:0.75}}/>
+<img src="/turrets/wall_T2-9.PNG" style={{zoom:0.75}}/>
 
 - If the wall has 10 bullets, the wall will shift a bit at the second round, you need to twist a bit to avoid it.
 
-<img src="/turrets/wall_T2-10.png" style={{zoom:0.75}}/>
+<img src="/turrets/wall_T2-10.PNG" style={{zoom:0.75}}/>
 
 - If the wall has 11 bullets, there are already interlaced patterns for walls, you have to dodge one wall to survive.
 
-<img src="/turrets/wall_T2-11.png" style={{zoom:0.75}}/>
+<img src="/turrets/wall_T2-11.PNG" style={{zoom:0.75}}/>
 
 - If the wall has 12 bullets, the walls are completely interlaced, which means it's really hard to dodge.
 
-<img src="/turrets/wall_T2-12.png" style={{zoom:0.75}}/>
+<img src="/turrets/wall_T2-12.PNG" style={{zoom:0.75}}/>
 
 In general, the vultures will be equipped with 2 same spinners. If it's a wall, make sure that you can pop one first, because the interlaced walls will easily block you.
