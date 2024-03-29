@@ -1,6 +1,6 @@
 ---
 slug: from-collaborator
-title: 测试I型
+title: Test Type I
 authors: [yuanyuan]
 tags: [Maybe Introduction]
 ---
