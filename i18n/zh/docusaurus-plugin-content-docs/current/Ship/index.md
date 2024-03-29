@@ -1,3 +1,7 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import tag from '/src/css/tag.module.css';
+
 # 所有战机
 
 > 战机图鉴，用于查询战机信息
@@ -22,4 +26,22 @@
 
 ## 战机目录
 
-该部分正在重构中……
+施工中……
+
+<Tabs>
+  <TabItem value="shield" label="破盾" attributes={{className: tag.shield}}>
+    破盾战机：
+    <a href="Shinova">
+        <img src="/ships/ship_1.png" style={{zoom:0.2}}/>
+    </a>
+    <a href="NC-150">
+        <img src="/ships/ship_2.png" style={{zoom:0.2}}/>
+    </a>
+  </TabItem>
+  <TabItem value="armor" label="穿甲" attributes={{className: tag.armor}}>
+    穿甲战机：
+  </TabItem>
+  <TabItem value="hull" label="暴击" attributes={{className: tag.hull}}>
+    暴击战机：
+  </TabItem>
+</Tabs>

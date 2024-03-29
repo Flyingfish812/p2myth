@@ -23,6 +23,14 @@ iends and other players, we hope that all players can benefit from this site.
 
 :::
 
+:::info[Ongoing event: Felix-Felicis!]
+
+2024-03-29：
+
+The great community competition event "Felix-Felicis" held by One community is ongoing! This event is a joint event for players from BHS, Myth, One, welcome to join in the event! [For details](/docs/Event/Felix-Felicis.md)
+
+:::
+
 :::info[Blogs]
 
 2024-03-29：

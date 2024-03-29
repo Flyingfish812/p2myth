@@ -12,6 +12,7 @@ sidebar_position: 2
 We made some small updates:
 - Blogs are available on the site now.
 - Add a trivia for pellet wall.
+- And event pages! Find some hot and ongoing Phoenix 2 community events!
 
 ## V1.1.2
 

@@ -1,0 +1,20 @@
+.shield {
+  color: #3a77f9;
+}
+.shield[aria-selected='true'] {
+  border-bottom-color: #3a77f9;
+}
+
+.armor {
+  color: #ffb820;
+}
+.armor[aria-selected='true'] {
+  border-bottom-color: #ffb820;
+}
+
+.hull {
+  color: #ee4629;
+}
+.hull[aria-selected='true'] {
+  border-bottom-color: #ee4629;
+}

@@ -1,3 +1,7 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import tag from '/src/css/tag.module.css';
+
 # All Ships
 
 > An illustrated book for each ship.
@@ -22,4 +26,24 @@ Here are the upgrade prices for the ships:
 
 ## Ships
 
-(This section is under construction ...)
+Under reconstruction...
+
+<Tabs>
+  <TabItem value="shield" label="Shield" attributes={{className: tag.shield}}>
+    Shield Breaking ships:
+    <a href="Shinova">
+        <img src="/ships/ship_1.png" style={{zoom:0.2}}/>
+    </a>
+    <a href="NC-150">
+        <img src="/ships/ship_2.png" style={{zoom:0.2}}/>
+    </a>
+  </TabItem>
+  <TabItem value="armor" label="Armor" attributes={{className: tag.armor}}>
+    Armor Piercing ships:
+    1 2 3
+  </TabItem>
+  <TabItem value="hull" label="Hull" attributes={{className: tag.hull}}>
+    High Impact ships:
+    1 2 3
+  </TabItem>
+</Tabs>
