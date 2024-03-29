@@ -154,7 +154,7 @@ This strategy is typically used when there are two eagles in the front row becau
 
 <img src="/PhoenixCB/phoenix23.gif" style={{zoom:1}}/>
 
-### Continuous Reflextion
+### Continuous Reflection
 
 This strategy is aimed at situations where there are consecutive waves where shield reflection should be used to destroy invaders. Specifically, in consecutive waves where each wave has at least two MIRV Bloomers, the benefit of forcibly reflecting is higher than waiting for cooldown to recover and only using the main cannon.
 

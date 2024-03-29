@@ -23,6 +23,14 @@ iends and other players, we hope that all players can benefit from this site.
 
 :::
 
+:::info[Blogs]
+
+2024-03-29：
+
+Blogs are available now! Please click the link to visit the [blog page](/blog).
+
+:::
+
 ## Introduction
 
 Welcome to the Phoenix 2 wiki site! Here, you can find information about various ships in the game, including the detail of the ships, how to play, and trivia about the game, etc. I hope to be able to present a complete and clear game world of Phoenix 2 to everyone.

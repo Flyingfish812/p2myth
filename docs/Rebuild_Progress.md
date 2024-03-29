@@ -4,6 +4,15 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.1.3
+
+- Version: 1.1.3
+- Update time: 2024-03-29
+
+We made some small updates:
+- Blogs are available on the site now.
+- Add a trivia for pellet wall.
+
 ## V1.1.2
 
 - Version: 1.1.2
