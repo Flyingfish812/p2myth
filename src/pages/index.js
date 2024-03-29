@@ -9,6 +9,7 @@ import Translate from '@docusaurus/Translate';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import { translate } from '@docusaurus/Translate';
+import { Analytics } from '@vercel/analytics/react';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -58,6 +59,7 @@ export default function Home() {
         <div className={styles.center}>
           
         </div>
+        <Analytics />
       </main>
       </body>
     </Layout>
