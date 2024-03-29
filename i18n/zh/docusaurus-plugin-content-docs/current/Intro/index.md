@@ -18,7 +18,7 @@ sidebar_position: 1
 
 2024-03-29：
 
-由One社区举办的大型社区活动Felix-Felicis正在进行中！本次活动是集结BHS, Myth, One社区玩家的大型社区活动，欢迎各位玩家前来参与！[活动详情](/docs/Event/Felix-Felicis.md)
+由One社区举办的大型社区活动Felix-Felicis正在进行中！本次活动是集结BHS, Myth, One社区玩家的大型社区活动，欢迎各位玩家前来参与！[活动详情](/Event/Felix-Felicis.md)
 
 :::
 
