@@ -134,14 +134,15 @@ The final score of each team in this competition is the sum of the time used in 
 
 - If the ship you choose **ONLY** have main weapon to make damage, you will get -15s (not include Stun EMP, Reflex EMP, Ion Cannon, consider community missions have very few lasers, we treat Personal Shield as non damage ability).
 
-> The ship catalog section of this site (the "All ships" page) distinguishes between the attributes of Aura and Zen with colors. In short, if the ship you use has both a green Aura and a green Zen, then you can benefit from this time reduction bonus.
-> Our criterion is the ship recorded on the leaderboard. If the ship you are using has a red skill, but you have not used it in any wave, we will also not provide this bonus.
+    > The ship catalog section of this site (the "All ships" page) distinguishes between the attributes of Aura and Zen with colors. In short, if the ship you use has both a green Aura and a green Zen, then you can benefit from this time reduction bonus.
+    >
+    > Our criterion is the ship recorded on the leaderboard. If the ship you are using has a red skill, but you have not used it in any wave, we will also not provide this bonus.
 
 - If the ship you use is not fully upgraded, we will provide you with additional time reduction buffs based on the upgrading status of the ship.
 
 - If a player fails to complete a certain mission, he will receive a corresponding penalty time based on the number of waves he didn't complete. The penalty times for each wave of the Act 1 to 6 are 10, 11, 12, 13, 14, 15 seconds respectively.
 
-> For example, if a player only reaches 6-3 in one mission, indicating he has failed to complete two waves in Act 6, he will get a penalty time of 30 seconds in addition to the base time. If a player forgets to play a mission, he will receive a total penalty time of 300 seconds (4*(10+11+12+13+14+15)=300).
+    > For example, if a player only reaches 6-3 in one mission, indicating he has failed to complete two waves in Act 6, he will get a penalty time of 30 seconds in addition to the base time. If a player forgets to play a mission, he will receive a total penalty time of 300 seconds (4*(10+11+12+13+14+15)=300).
 
 - The final score is the total time of two members in 3 rounds, and the team with the shortest time wins the championship!
 
