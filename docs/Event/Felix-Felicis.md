@@ -110,6 +110,10 @@ ALL APEX are NOT ALLOWED!
 
 ## Final Score
 
+The final score of each team in this competition is the sum of the time used in three rounds of competition. The team with a lower total time will receive a higher ranking. Considering the differences in the strength of the ship themselves and the disparities in players' ship collection, we have also introduced **penalty time** debuff and **time reduction** buff mechanisms, which means that the final scores of participants will be added or subtracted. The following is the scoring mechanism that will be used in this competition:
+
+- The score of each round is composed of basic time and penalty time.
+
 - **Round 1**: Buhloo, Saber, Corsair get +10s debuff; Neni, Monsoon and Mistral get +5s debuff.
 
 <img src="/ships/ship_20.png" style={{zoom:0.25}}/>
@@ -130,13 +134,24 @@ ALL APEX are NOT ALLOWED!
 
 - If the ship you choose **ONLY** have main weapon to make damage, you will get -15s (not include Stun EMP, Reflex EMP, Ion Cannon, consider community missions have very few lasers, we treat Personal Shield as non damage ability).
 
+> The ship catalog section of this site (the "All ships" page) distinguishes between the attributes of Aura and Zen with colors. In short, if the ship you use has both a green Aura and a green Zen, then you can benefit from this time reduction bonus.
+> Our criterion is the ship recorded on the leaderboard. If the ship you are using has a red skill, but you have not used it in any wave, we will also not provide this bonus.
+
+- If the ship you use is not fully upgraded, we will provide you with additional time reduction buffs based on the upgrading status of the ship.
+
+- If a player fails to complete a certain mission, he will receive a corresponding penalty time based on the number of waves he didn't complete. The penalty times for each wave of the Act 1 to 6 are 10, 11, 12, 13, 14, 15 seconds respectively.
+
+> For example, if a player only reaches 6-3 in one mission, indicating he has failed to complete two waves in Act 6, he will get a penalty time of 30 seconds in addition to the base time. If a player forgets to play a mission, he will receive a total penalty time of 300 seconds (4*(10+11+12+13+14+15)=300).
+
 - The final score is the total time of two members in 3 rounds, and the team with the shortest time wins the championship!
 
-- All the results will be published once we finish the statistics, our site will also publish the results by then.
+All the results will be published once we finish the statistics, our site will also publish the results by then.
 
 ## Rewards (Tentative)
 
 We don't offer money awards in the event. For teams who get top during the event will have the chance to have a special title in the group chat.
+
+> For example, Discord server will award the winning team a special unique two of a kind *once in a lifetime* super exclusive role: **Poo Poo Head Champion** (color to be chosen by winners).
 
 ## Appendix
 
