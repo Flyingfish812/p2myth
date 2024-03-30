@@ -18,3 +18,66 @@
 .hull[aria-selected='true'] {
   border-bottom-color: #ee4629;
 }
+
+.defensive {
+  color: #009900;
+}
+.defensive[aria-selected='true'] {
+  border-bottom-color: #009900;
+}
+
+.doubleDefense {
+  color: #003300;
+}
+.doubleDefense[aria-selected='true'] {
+  border-bottom-color: #003300;
+}
+
+.balanced {
+  color: #00cc00;
+}
+.balanced[aria-selected='true'] {
+  border-bottom-color: #00cc00;
+}
+
+.offensive {
+  color: #ff9933;
+}
+.offensive[aria-selected='true'] {
+  border-bottom-color: #ff9933;
+}
+
+.pseudoFO {
+  color: #ff6600;
+}
+.pseudoFO[aria-selected='true'] {
+  border-bottom-color: #ff6600;
+}
+
+.fullOffense {
+  color: #ff0000;
+}
+.fullOffense[aria-selected='true'] {
+  border-bottom-color: #ff0000;
+}
+
+.lightFury {
+  color: #6699ff;
+}
+.lightFury[aria-selected='true'] {
+  border-bottom-color: #6699ff;
+}
+
+.closeCombat {
+  color: #9900ff;
+}
+.closeCombat[aria-selected='true'] {
+  border-bottom-color: #9900ff;
+}
+
+.versatile {
+  color: #ff33cc;
+}
+.versatile[aria-selected='true'] {
+  border-bottom-color: #ff33cc;
+}

@@ -9,8 +9,10 @@
 Although we will players from those three communities to participate,but this not a competition between comms,it's a challenge between teams,hope everyone enjoy the challenge,enjoy the game!
 
 - Players need to fill in a form to sign up, the link is at the bottom of the page.
+- Organizer: Community One
 - Start Time: April 4th, 2024, at 15:00 (GMT+0), the community mission #3.
-- Community name: Felix-Felicis
+- Competition Held in Community: Felix-Felicis
+- All registered players are asked to quit your current community before the start of the event, and join the competition community (Felix-Felicis). After the competition, you can quit and return to your original community.
 
 ## Rules
 
@@ -130,7 +132,17 @@ ALL APEX are NOT ALLOWED!
 
 - The final score is the total time of two members in 3 rounds, and the team with the shortest time wins the championship!
 
+- All the results will be published once we finish the statistics, our site will also publish the results by then.
+
+## Rewards (Tentative)
+
+We don't offer money awards in the event. For teams who get top during the event will have the chance to have a special title in the group chat.
+
 ## Appendix
+
+Our site only serves as a promoter and reporter during the competition, and will release competition-related content from time to time. If there are adjustments to the rules, the organizers will announce the adjustment information in communities respectively. Please refer to the organizer's information.
+
+At the same time, all players and spectators are welcome to publish relevant reports of the competition. We accept article submissions. And we also encourage everyone to publish event-related videos on Bilibili, Youtube and other platforms. Please do not make personal attacks during promotion.
 
 Due to the large number of participants, please keep the name on the leaderboard the same as the ID on the sign-up form throughout the event for the sake of statistics.
 

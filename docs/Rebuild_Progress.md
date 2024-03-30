@@ -4,6 +4,15 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.1.4
+
+- Version: 1.1.4
+- Update time: 2024-03-30
+
+The ships' categories are available, you can search for your ship by category.
+
+Also, we have updated the descriptions for the event "Felix-Felicis". 
+
 ## V1.1.3
 
 - Version: 1.1.3
