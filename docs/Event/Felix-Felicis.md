@@ -8,7 +8,7 @@
 
 Although we will players from those three communities to participate,but this not a competition between comms,it's a challenge between teams,hope everyone enjoy the challenge,enjoy the game!
 
-- Players need to fill in a form to sign up, the link is at the bottom of the page.
+- Players need to fill in a form to sign up, the link is at the bottom of the page. **The deadline for signing up is April 3, 04:00 (GMT+0)**.
 - Organizer: Community One
 - Start Time: April 4th, 2024, at 15:00 (GMT+0), the community mission #3.
 - Competition Held in Community: Felix-Felicis
@@ -114,15 +114,17 @@ The final score of each team in this competition is the sum of the time used in 
 
 - The score of each round is composed of basic time and penalty time.
 
-- **Round 1**: Buhloo, Saber, Corsair get +10s debuff; Neni, Monsoon and Mistral get +5s debuff.
+- **Round 1**: Buhloo, Saber, Corsair, and Naya get +10s debuff; Neni, Monsoon, Mistral, and Havoc get +5s debuff.
 
 <img src="/ships/ship_20.png" style={{zoom:0.25}}/>
 <img src="/ships/ship_51.png" style={{zoom:0.25}}/>
 <img src="/ships/ship_61.png" style={{zoom:0.25}}/>
+<img src="/ships/ship_96.png" style={{zoom:0.25}}/>
 <br/>
 <img src="/ships/ship_84.png" style={{zoom:0.25}}/>
 <img src="/ships/ship_98.png" style={{zoom:0.25}}/>
 <img src="/ships/ship_94.png" style={{zoom:0.25}}/>
+<img src="/ships/ship_22.png" style={{zoom:0.25}}/>
 
 - **Round 2**: Photurius gets +5s debuff.
 
@@ -139,6 +141,8 @@ The final score of each team in this competition is the sum of the time used in 
     > **(Note)** Ulted Stun EMP, Reflex EMP, Ion Cannon will deal extra damage. If you use these types of ship, even if you never used the skill for once, you cannot have the time reduction buff. But in other words, un-ulted green skills can surely benefit the buff. (Whether offering a video of main-weapon-only run is available is still under discussion)
 
 - If the ship you use is not fully upgraded, we will provide you with additional time reduction buffs based on the upgrading status of the ship.
+
+    > Taking the ulted 6-6-6 ship as the benchmark, every un-ulted level will get a 1s reduction. For example, a 4-4-4 ship is 6 levels from ulted, it will receive a 6 second time reduction bonus.
 
 - If a player fails to complete a certain mission, he will receive a corresponding penalty time based on the number of waves he didn't complete. The penalty times for each wave of the Act 1 to 6 are 10, 11, 12, 13, 14, 15 seconds respectively.
 
