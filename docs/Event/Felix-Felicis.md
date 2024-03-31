@@ -132,11 +132,11 @@ The final score of each team in this competition is the sum of the time used in 
 
 <img src="/ships/ship_7.png" style={{zoom:0.25}}/>
 
-- If the ship you choose **ONLY** have main weapon to make damage, you will get -15s (not include Stun EMP, Reflex EMP, Ion Cannon, consider community missions have very few lasers, we treat Personal Shield as non damage ability).
+- **Main Weapon Challenge**: If the ship you choose **ONLY** have main weapon to make damage, you will get -15s (not include Stun EMP, Reflex EMP, Ion Cannon (Note). Considering that community missions have very few lasers, we treat Personal Shield as non damage ability).
 
-    > The ship catalog section of this site (the "All ships" page) distinguishes between the attributes of Aura and Zen with colors. In short, if the ship you use has both a green Aura and a green Zen, then you can benefit from this time reduction bonus.
+    > The ship catalog section of this site (the "All ships" page) distinguishes between the attributes of Aura and Zen with colors. In short, if the ship you use has both a green Aura and a green Zen, then you can benefit from this time reduction bonus (Attention to exceptions below).
     >
-    > Our criterion is the ship recorded on the leaderboard. If the ship you are using has a red skill, but you have not used it in any wave, we will also not provide this bonus.
+    > **(Note)** Ulted Stun EMP, Reflex EMP, Ion Cannon will deal extra damage. If you use these types of ship, even if you never used the skill for once, you cannot have the time reduction buff. But in other words, un-ulted green skills can surely benefit the buff. (Whether offering a video of main-weapon-only run is available is still under discussion)
 
 - If the ship you use is not fully upgraded, we will provide you with additional time reduction buffs based on the upgrading status of the ship.
 
