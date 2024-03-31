@@ -24,7 +24,7 @@ ALL APEX are NOT ALLOWED!
 
 - Rule: **Speedrun** in community missions for 3 rounds.
 - **Each team have two players**, composed of one old player & one new player, or two middle-skill players.
-- In every round, **two members in one team cannot use the same ship**.
+- In every round, **two members in one team cannot use the same ship**, so communication between two members is necessary. We recommend that you join our QQ group for the competition (In the appendix at the bottom of the page). For non-Chinese players and Discord users, we can convey your message to the other player.
 
 - **Ban list**: EX, Wraith, Exarch, Crab, Jeria, Shogun, Baqlor
 
@@ -159,6 +159,8 @@ We don't offer money awards in the event. For teams who get top during the event
 > For example, Discord server will award the winning team a special unique two of a kind *once in a lifetime* super exclusive role: **Poo Poo Head Champion** (color to be chosen by winners).
 
 ## Appendix
+
+QQ group for the competition: 125439381
 
 Our site only serves as a promoter and reporter during the competition, and will release competition-related content from time to time. If there are adjustments to the rules, the organizers will announce the adjustment information in communities respectively. Please refer to the organizer's information.
 
