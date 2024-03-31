@@ -71,7 +71,7 @@
 ## Trivia
 
 - Shogun was only introduced into Phoenix 2 at v3.1.
-- Shogun is one of the 5 ships that got brought over from Phoenix 2's predecessor game, Phoenix HD.
+- Shogun is one of the 5 ships that got brought over from Phoenix 2's predecessor game, Phoenix HD (Phoenix, Shogun, Trinity, Mirage, Corsair).
 - Shogun's Aura is unique to itself. Its Aura also has the highest radius in the game when maxed.
 - It would not had been possible to replicate its weapon from Phoenix HD in Phoenix 2, as every slash in Phoenix HD is done on the invaders by one graze of a bullet. The pure volume of bullets in Phoenix 2 would thus make it too OP (For details, please refer to the cool operation of a player using the Shogun in the MIRV Spam mission).
 - Just like the katana slashes in the predecessor game Phoenix HD, the color of the slashes change. However, they only change between main weapon level upgrades. The image shows at which level does Shogun's main change color.

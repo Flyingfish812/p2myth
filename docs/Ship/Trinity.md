@@ -70,7 +70,7 @@
 ## Trivia
 
 - Trinity was only introduced into Phoenix 2 at v2.5.
-- Trinity is one of the 5 ships that got brought over from Phoenix 2's predecessor game, Phoenix HD.
+- Trinity is one of the 5 ships that got brought over from Phoenix 2's predecessor game, Phoenix HD (Phoenix, Shogun, Trinity, Mirage, Corsair).
 - Although Trinity technically has a unique Zen, under the Zen filter, if TP is selected, Trinity also appears as one of the filtered ships.
 - Trinity used to be slightly more invincible due to a technique, but no one knows what it was. The editor guess it's to TP into the bullet hell then graze to use a small Chrono Field, and then you repeat this process.
 - Calculatrice of invader's HP.

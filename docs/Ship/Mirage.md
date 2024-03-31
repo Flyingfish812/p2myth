@@ -67,7 +67,7 @@
 ## Trivia
 
 - Mirage was only introduced into Phoenix 2 at v3.5.
-- Mirage is one of the 5 ships that got brought over from Phoenix 2's predecessor game, Phoenix HD.
+- Mirage is one of the 5 ships that got brought over from Phoenix 2's predecessor game, Phoenix HD (Phoenix, Shogun, Trinity, Mirage, Corsair).
 - Mirage's Zen, while similar to ML, is basically a super buffed version of ML. Nightfury is unique to itself.
 - The main firing bears similarities to its Phoenix HD counterpart, as the Mirage in Phoenix HD has tracking lasers as well as straight firing lasers.
 - Mirage's main is the only ship that alternates its type of attacks between homing and straight lasers.

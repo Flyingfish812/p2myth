@@ -55,7 +55,7 @@
 
 ## Trivia
 
-- Phoenix is one of the 5 ships that got brought over from Phoenix 2's predecessor game, Phoenix HD.
+- Phoenix is one of the 5 ships that got brought over from Phoenix 2's predecessor game, Phoenix HD (Phoenix, Shogun, Trinity, Mirage, Corsair).
 - Phoenix is also the only ship from Phoenix HD that received the ship rarity of Rare while the other 4 ships from Phoenix HD are Super Rare in rarity.
 - It is possible that the decision of the Aura and Zen of Phoenix are directly influenced from the pick-ups in Phoenix HD itself. There is a pick-up which clears all bullets currently on screen, and another pick-up that deploys a personal shield around your ship, although it is completely mobile, but lasts only a short while (about the same max duration of PS though).
 - Both Phoenix apexes are 2 of the 4 apexes that have an additional hidden change to them, adding the vintage missiles from Phoenix HD to the main. The missiles are additional DPS on top of the base 31.25 DPS, making Phoenix apexes very worthwhile to get, and is also a vintage purpose. 2 missiles kill a Sparrow.

@@ -66,8 +66,8 @@
 ## Trivia
 
 - Corsair was only introduced into Phoenix 2 at v2.4.
-- Corsair is one of the 5 ships that got brought over from Phoenix 2's predecessor game, Phoenix HD.
-- Corsair is one of the 4 ships that are asymmetrical. Even though Corsair is mostly symmetrical, the mount on the left side is the tracking laser while the one on the right is its tracking minigun.
+- Corsair is one of the 5 ships that got brought over from Phoenix 2's predecessor game, Phoenix HD (Phoenix, Shogun, Trinity, Mirage, Corsair).
+- Corsair is one of the only 5+1 ships which are asymmetrical (NC-271, Widget, Icarus, Monsoon, Disaris, and Corsair not noticably asymmetrical). Even though Corsair is mostly symmetrical, the mount on the left side is the tracking laser while the one on the right is its tracking minigun.
 - Corsair's Zen is unique to itself.
 - The minigun on the right side of Corsair is initially not present in gameplay when you first unlock Corsair. This is also reflected when you first unlock it in the warp gate, or receive a main / Aura upgrade to Corsair with the Zen not unlocked. The tracking minigun only appears after you unlock its Zen.
 - Sigma Corsair's tracking railgun was buffed in v4.0.1, shortly after the release of apexes in v4.0. The buff increases the damage of each railgun shot without increasing the firing rate.

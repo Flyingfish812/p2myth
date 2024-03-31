@@ -55,7 +55,7 @@
 ## Trivia
 
 - Widget was only introduced into Phoenix 2 at v4.2.
-- Widget is one of the 5 ships that are asymmetrical (NC-271, Widget, Icarus, Monsoon, Disaris).
+- Widget is one of the only 5+1 ships which are asymmetrical (NC-271, Widget, Icarus, Monsoon, Disaris, and Corsair not noticably asymmetrical).
 
 ## APEX 1
 

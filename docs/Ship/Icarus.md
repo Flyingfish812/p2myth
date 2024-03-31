@@ -73,7 +73,7 @@
 ## Trivia
 
 - Icarus was only introduced into Phoenix 2 at v3.4.
-- Icarus is one of the 5 ships that are asymmetrical (NC-271, Widget, Icarus, Monsoon, Disaris).
+- Icarus is one of the only 5+1 ships which are asymmetrical (NC-271, Widget, Icarus, Monsoon, Disaris, and Corsair not noticably asymmetrical).
 - Icarus' 4 wings start to glow, filling up from bottom to top as the main starts to charge its next shot, and fires when it reaches the top. It then depletes the glow in the same way after the main fires.
 
 ## APEX 1

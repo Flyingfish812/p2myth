@@ -62,7 +62,7 @@ As ship no.100, Disaris is equipped with a bonus laser with either Apex as extra
 ## Trivia
 
 - One round of main and one laser = armored raven.
-- Disaris is one of the only 5 ships which are asymmetrical (NC-271, Widget, Icarus, Monsoon, Disaris)
+- Disaris is one of the only 5+1 ships which are asymmetrical (NC-271, Widget, Icarus, Monsoon, Disaris, and Corsair not noticably asymmetrical).
 - Stinger that lies down because tired from standing.
 
 <img src="/terms/Disaris-Stinger.jpg" style={{zoom:1}}/>
