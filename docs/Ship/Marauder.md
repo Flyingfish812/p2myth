@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 8.73 | 52.36 | 165.55 | 97 | 174.27 | 217.91 | 97 | 281.18 | 97 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_76.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Notorious reputation of camping. This ship really loves its personal space. Use Kappa to generate a near unlimited supply of Phalanx and shove bullets away to no end.

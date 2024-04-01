@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 52.36 | 29.09 | 170.73 | 96 | 199.82 | 223.09 | 95 | 291.82 | 95 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_73.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Horrible main and Zen synergy. Because the main weapon is a continuous stream, it becomes impossible to abuse Kappa when the bulk of invaders are still on field, otherwise you lose significant DPS.

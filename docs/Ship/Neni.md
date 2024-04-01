@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 66.91 | 50.91 | 268.91 | 42 | 319.82 | 335.82 | 34 | 416.00 | 50 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_84.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - 菁鸟: A great straight-attack ship. I'm playing like a sniper in P2.

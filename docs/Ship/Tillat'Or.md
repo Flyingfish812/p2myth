@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 71.27 | 24.73 | 260.18 | 51 | 284.91 | 331.45 | 42 | 412.18 | 54 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_25.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - A common technique to employ is to use TP first, then upon arrival, activate barrier. In some ways, this acts as an extended clearance range of TP, if you are able to avoid the bullets inside the barrier after you land. This technique is more useful in MIRV/Shuriken missions.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 34.91 | 48.00 | 291.82 | 20 | 326.73 | 339.82 | 30 | 448.91 | 30 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_63.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Uhb has a slightly narrow targeting cone which sometimes makes targets hard to hit. It will attempt to hit a target outside its cone, however, but you need to shift yourself closer to the target to hit.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 27.64 | 71.27 | 287.18 | 25 | 314.82 | 358.45 | 17 | 482.82 | 17 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_78.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - The strongest Barrier-MB kit of the 3. Because of its strength in Unprotected missions, MB simply wipes Ravens clean. You can even say that Ravens just don't exist on most waves.

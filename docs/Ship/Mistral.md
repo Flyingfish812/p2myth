@@ -34,6 +34,10 @@
 
 *Despite being FO, Mistral struggles to keep up with other classic FO ships, because its main weapon is unable to deal burst damage, moreover, both means of dealing AoE damage just aren’t lethal enough to wipe out invaders straight away, unless... ...hmmm... ... (pondering.jpg)*
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_94.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Mistral’s Aura and Zen are both offensive. In other words, it has no defensive capabilities at all.

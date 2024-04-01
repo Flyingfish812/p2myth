@@ -31,6 +31,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 78.55 | 30.55 | 275.18 | 31 | 305.73 | 353.73 | 20 | 451.91 | 25 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_70.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Predator has a very technical and surgical gameplay. It requires using barriers to precisely block off boomerangs and cutting off bullet lanes.

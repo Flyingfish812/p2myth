@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 48.00 | 29.09 | 238.64 | 63 | 267.73 | 286.64 | 71 | 367.91 | 70 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_67.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - With REMP as its only real defence, Scuuxun has very little to rely on for defence. Use REMP wisely. It is best used in daily missions about 1s before lasers fire so that you have enough time to strafe and avoid them.
@@ -84,6 +88,9 @@ The increased REMP range makes a ton of difference in a bullet heavy mission, gi
 - Form: Delta
 - Price: 20000
 - Score: 1.82 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_67_delta.gif" style={{zoom:1}}/>
 
 This apex makes its T’Kari spikes have slight homing capabilities. The slight homing of the T’Kari spikes allow Scuuxun to offset slightly to one side and still be able to hit its invaders, useful against slightly tracking lasers.
 

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 53.82 | 50.91 | 286.09 | 27 | 337.00 | 339.91 | 29 | 448.45 | 31 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_20.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - No defence at all. Straight firing weapon makes it all the worse.

@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.2.0
+
+- Version: 1.2.0
+- Update time: 2024-04-01
+
+Now we have illustrations for each ship! We also add a comparison of Doomsday MIRV and Doomsday Super MIRV's appearance.
+
 ## V1.1.4
 
 - Version: 1.1.4

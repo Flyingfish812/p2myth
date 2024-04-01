@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 74.18 | 48.00 | 271.64 | 38 | 319.64 | 345.82 | 25 | 441.27 | 37 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_90.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - A very balanced ship with both Aura and Zen processing both an offensive and defensive aspect, Zimitr is able to wipe out invader fairly quickly and also have the capability to survive well enough.

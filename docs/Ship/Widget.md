@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 66.91 | 66.91 | 208.91 | 85 | 275.82 | 275.82 | 75 | 353.82 | 77 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_80.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - The Double Defence does buy it quite some time to kill off invaders on screen. Be sure to utilize PS Phase Out in order to maximize your survival.

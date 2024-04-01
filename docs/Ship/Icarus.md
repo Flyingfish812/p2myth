@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 45.09 | 68.36 | 310.64 | 12 | 355.73 | 379.00 | 12 | 494.64 | 12 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_74.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - Dark骑士: The combination of the asymmetrical structure and the Vorpal Lance skill is interesting. However, like the Wraith, the main weapon interval greatly reduces the experience. It is more difficult to shoot a few sparrows than a heron. How to use the main weapon well requires a lot of effort. If you have time to practice, it is a good ship in itself.

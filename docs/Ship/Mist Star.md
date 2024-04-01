@@ -31,6 +31,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 61.09 | 60.80 | 276.55 | 30 | 337.35 | 337.64 | 32 | 440.73 | 38 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_12.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - LWM: Although the ship itself is not strong, but the feeling of impact is really great.

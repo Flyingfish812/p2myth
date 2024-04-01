@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 77.09 | 36.36 | 259.91 | 52 | 296.27 | 337.00 | 33 | 445.00 | 34 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_36.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - No defense. Kappa allows you to dodge through tight gaps, but there's absolutely no way to clear them, and you just have to resort to clearing fast.
@@ -84,6 +88,9 @@ The extra power in MS can make all the difference in early waves in whether they
 - Form: Beta
 - Price: 10000
 - Score: 2.27 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_36_beta.gif" style={{zoom:1}}/>
 
 This apex improves the homing capabilities of its Daisy Cutters. The severely upgraded homing capabilities allow the Daisy Cutters to very reliably take down Ravens, and hit Sparrows with high accuracy, making Von Braun much less frustrating to play.
 

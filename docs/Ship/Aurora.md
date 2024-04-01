@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 24.73 | 13.09 | 287.18 | 26 | 300.27 | 311.91 | 53 | 412.82 | 53 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_35.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - 圆锥曲线: It's magical that you will learn all the other ship's gameplay just by playing Aurora for several times.
@@ -99,5 +103,8 @@ With the abundance of so many particles in daily missions, it is so easy to pull
 - Form: Tau
 - Price: 40000
 - Score: 0.82 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_35_tau.gif" style={{zoom:1}}/>
 
 This apex makes playing Aurora safer in the bullet hells of MIRV/Shuriken missions. You can simply sit back and let the nuke home onto its targets by itself. However, the homing nuke can be counterintuitive as attempts made to control where which invader it hits may end up making the nuke miss instead. The unpredictability of which invader the nuke is actually targeting makes it very difficult to make decisions to get up close to invaders. Because of this, this apex can make Aurora sometimes slower because it targets the wrong invaders, which can be bad at times because you need to slightly regulate your Aura usage, especially in heavy waves.

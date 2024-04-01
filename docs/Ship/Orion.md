@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 55.27 | 24.73 | 244.36 | 60 | 269.09 | 299.64 | 63 | 388.55 | 63 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_56.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - 圆锥曲线: Behave with courtesy towards Delta Orion, and you can enjoy a lazy life.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 62.55 | 34.91 | 287.45 | 23 | 322.36 | 350.00 | 23 | 465.09 | 22 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_61.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - Dark骑士: I bought the Railgun APEX out of curiosity. It really only has a nice name. The main gun has almost no feeling of impact. If it weren't for the output ability of the MS, I'm afraid that it wouldn't have a chance to be noticed.

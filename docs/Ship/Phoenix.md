@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 74.18 | 32.00 | 288.55 | 21 | 320.55 | 362.73 | 15 | 494.18 | 13 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_19.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Despite the fact the 2 defences it has don't quite have a synergy, their near mutual exclusiveness makes it so defensive and covers Phoenix insanely well.

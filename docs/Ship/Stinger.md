@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 43.64 | 71.27 | 243.27 | 61 | 286.91 | 314.55 | 50 | 414.91 | 51 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_93.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Barrier is the only defensive option. You have to utilize the inner-lining in order to block off a mass of bullets.

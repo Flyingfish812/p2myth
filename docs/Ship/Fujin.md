@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 48.00 | 53.82 | 269.18 | 41 | 317.18 | 323.00 | 46 | 423.91 | 46 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_7.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - No defence other than ML which can clear bullets between waves.

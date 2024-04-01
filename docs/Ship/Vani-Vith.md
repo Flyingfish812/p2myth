@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 66.91 | 24.73 | 286.09 | 28 | 310.82 | 353.00 | 21 | 450.64 | 27 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_41.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Its main is somewhat piercing as each burst consists of 3 projectiles when maxed. It can usually hit 2 Sparrows in a column (maximum 3, but it's quite rare). However, it is not a very reliable piercing weapon per say and there are times that one Sparrow can absorb all 3 projectiles at once.

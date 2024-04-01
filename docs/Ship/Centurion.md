@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 61.09 | 24.73 | 241.36 | 62 | 266.09 | 302.45 | 61 | 413.18 | 52 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_92.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - PS as the only defense is able to block off lasers and break through surrounding bullets at the right moment.

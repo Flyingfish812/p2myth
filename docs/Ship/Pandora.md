@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 37.82 | 55.27 | 179.18 | 93 | 217.00 | 234.45 | 93 | 311.25 | 90 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_97.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - PD as a defensive means is very effective against bullets.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 33.45 | 36.36 | 232.64 | 67 | 266.09 | 269.00 | 80 | 342.64 | 81 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_6.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - The combination of BEMP + PS enables Jericho to hold its ground for quite a long time.
@@ -72,6 +76,9 @@
 - Form: Alpha
 - Price: 5000
 - Score: 2.09 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_6_alpha.gif" style={{zoom:1}}/>
 
 This apex makes the Inferno Seekers lock onto active turrets instead of simply any target points on invaders, making it a much more effective turret popper.
 

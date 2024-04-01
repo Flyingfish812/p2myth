@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 74.18 | 48.00 | 324.82 | 8 | 372.82 | 399.00 | 7 | 546.27 | 2 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_79.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - Dark骑士: It is a practical ship that considers both attack and defense. It is very effective in dealing with speed laser missions. It is also very efficient in popping turrets. The main weapon and the sense of core need training. The output strength of the ship: Sigma > Base > Epsilon. If you use Sigma, you need to stand front in order to be faster, and Epsilon needs to stand back in order to survive. Note that Nimbus is very weak in darts. Even the most stubborn Epsilon does not kill the dart turret in the front row quickly after using stun EMP. Subsequent attacks will be Very difficult.

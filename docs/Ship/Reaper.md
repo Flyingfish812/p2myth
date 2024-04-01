@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 49.45 | 40.73 | 227.18 | 71 | 267.91 | 276.64 | 73 | 370.45 | 69 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_81.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - With absolutely no forms of defensive abilities, once you are stuck, it's the end for you.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 24.73 | 77.09 | 308.18 | 14 | 332.91 | 385.27 | 10 | 503.09 | 11 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_39.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Although a lot about Prime X is to go fast, it is not very strict on the speed aspect. TP is a great saving grace which gets you out of sticky situations. There is leniency since both the main and Aura are burst fire.

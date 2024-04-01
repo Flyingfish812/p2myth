@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 45.09 | 55.27 | 303.00 | 15 | 348.09 | 358.27 | 18 | 493.00 | 14 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_57.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - Dark骑士: Frequently used in shielded missions in the past, and it's harder and harder to use in the present.
@@ -108,6 +112,9 @@ To be honest, the Exarch probably doesn't need such an APEX. But considering tha
 - Form: Omega
 - Price: 50000
 - Score: 3.45 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_57_omega.gif" style={{zoom:1}}/>
 
 This apex gives each of the prisms a small angular range instead of simply being fixed at their original angle, thus having a better catch rate for invaders, and even allowing the corner prisms to fire when it normally does not do so when faced with large invaders. The angular range of each prism is about ±2° of the original fixed angle.
 

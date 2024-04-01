@@ -34,6 +34,11 @@
 
 As ship no.100, Disaris is equipped with a bonus laser with either Apex as extra 2 DPS.
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_100.gif" style={{zoom:1}}/>
+<img src="/illustration/main_100_omega.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - 圆锥曲线: "FUCK Let's explode!!"

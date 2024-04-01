@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 66.91 | 78.55 | 333.82 | 5 | 400.73 | 412.36 | 3 | 545.45 | 3 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_91.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - Niu: Mysterious main weapon that has a low lower bound and a high upper bound. Skilled players prefire main weapons and sweeps wave after wave, noob like me even miss the sparrows in act 1.

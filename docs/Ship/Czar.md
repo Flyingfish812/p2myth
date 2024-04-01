@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 68.36 | 32.00 | 263.45 | 47 | 295.45 | 331.82 | 41 | 428.36 | 43 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_21.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - As a ship with no need to care about aiming, all you need to care about is dodging.

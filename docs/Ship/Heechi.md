@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 21.82 | 71.27 | 177.82 | 94 | 199.64 | 249.09 | 88 | 308.00 | 93 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_38.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - 圆锥曲线: Heechi + Boomerang Spam = An episode that cummed a lot.
@@ -76,6 +80,9 @@
 - Form: Beta
 - Price: 10000
 - Score: 1.36 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_38_beta.gif" style={{zoom:1}}/>
 
 This apex reduces the interval time between each burst of quantum seekers fired, with each burst containing lesser quantum seekers than the original.
 

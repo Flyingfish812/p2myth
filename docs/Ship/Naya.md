@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 33.45 | 46.55 | 222.95 | 73 | 256.41 | 269.50 | 78 | 358.30 | 74 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_96.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - 菁鸟: If you are not a fan of Naya, think carefully before you buy it.

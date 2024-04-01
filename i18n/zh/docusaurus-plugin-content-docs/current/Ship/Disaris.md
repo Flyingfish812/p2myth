@@ -34,6 +34,11 @@
 
 作为第100号战机，戴沙利斯的任一皮肤都附赠一道2DPS的激光（每下2伤害）作为额外输出。
 
+- 主武器图示：
+
+<img src="/illustration/main_100.gif" style={{zoom:1}}/>
+<img src="/illustration/main_100_omega.gif" style={{zoom:1}}/>
+
 ## 玩家评论
 
 - 圆锥曲线：“妈的跟你爆了！！”

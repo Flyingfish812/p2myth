@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 60.80 | 50.91 | 251.73 | 56 | 302.64 | 312.53 | 52 | 398.71 | 58 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_8.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Very bad synergy between it's main and Barrier. The slow moving projectiles mean that going forward to place barriers upfield wastes DPS since you will not stack up projectiles for the next wave.

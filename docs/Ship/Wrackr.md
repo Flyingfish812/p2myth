@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 42.18 | 66.91 | 265.91 | 45 | 308.09 | 332.82 | 39 | 450.09 | 28 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_16.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Because the volume of bullets in Unprotected Laser/Dart missions aren't a lot, PD is often able to last you quite some time.
@@ -68,6 +72,9 @@
 - Form: Alpha
 - Price: 5000
 - Score: 2.64 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_16_alpha.gif" style={{zoom:1}}/>
 
 This apex improves its seismic blasters such that it eliminates the randomness in the spread of each of its 2 blasters, making it a strictly forward firing weapon.
 

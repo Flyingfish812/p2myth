@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 60.80 | 74.18 | 310.36 | 13 | 371.16 | 384.55 | 11 | 521.45 | 8 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_43.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Easiest MB ship to use. Ever. You hardly need to worry about wrong positioning due to CF. Just drop in a CF, and charge MB such that MBc hits the biggest invader on screen. That's all. It's so easy to use.

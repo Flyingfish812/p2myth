@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 50.91 | 45.09 | 336.27 | 4 | 381.36 | 387.18 | 9 | 517.00 | 10 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_65.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - The only survivability comes from its VL. This allows some last minute escape from misaligned darts.

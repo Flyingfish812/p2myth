@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 30.55 | 40.73 | 288.00 | 22 | 318.55 | 328.73 | 44 | 438.91 | 39 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_11.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - A deployed upfield barrier around invaders allows it to move around safely for a brief moment of time to focus fire its powerful main Phase Disruptor to take out invaders quickly. This is pretty repeatable every wave (Act 3 and above), making Razor easy to use.

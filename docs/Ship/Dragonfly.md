@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 52.36 | 29.09 | 266.45 | 44 | 295.55 | 318.82 | 49 | 419.73 | 48 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_45.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Dragonfly relies a lot on being able to pull off MB when the wave arrives. Failure to pull off MB will likely result in certain death.
@@ -71,6 +75,9 @@
 - Form: Epsilon
 - Price: 25000
 - Score: 3.27 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_45_epsilon.gif" style={{zoom:1}}/>
 
 This apex also changes its main weapon to a laser minigun of tighter spread which travels much faster.
 

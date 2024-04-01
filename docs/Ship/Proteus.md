@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 16.00 | 58.18 | 217.64 | 78 | 233.64 | 275.82 | 74 | 361.45 | 72 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_53.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Proteus' main weapon is quite unique, it is what i call "Delayed Positional Deployment" where the weapon is first set down at a position, allowed to "charge up" for a while, before it fires straight ahead to hit a target.
@@ -87,6 +91,9 @@ A somewhat useful apex, this apex can be used to some effect in MIRV/Shuriken mi
 - Form: Gamma
 - Price: 15000
 - Score: 3.64 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_53_gamma.gif" style={{zoom:1}}/>
 
 This apex increases the blast radius of its photon detonators from 110 to 130, an 18% increase.
 

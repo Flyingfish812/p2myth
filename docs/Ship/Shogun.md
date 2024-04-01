@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 43.64 | 78.55 | 340.36 | 2 | 384.00 | 418.91 | 1 | 568.36 | 1 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_68.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - Dark骑士: This ship with a strong Japanese cultural color of is also one of the first ships to be discovered by speedrun players. Its main weapon is highly recognizable. It is neither a projectile nor a light. Its real-time tracking characteristics are the only one. Both the attack method and the aura tend to change the game mechanics. Its aura reminds me of scenes in anime: Domain expansion - Fukuma Mizushi.

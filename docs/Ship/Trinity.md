@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 36.36 | 40.73 | 298.36 | 16 | 334.73 | 339.09 | 31 | 444.91 | 35 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_64.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - Dark骑士：Trinity's Teleport is useless, it will be greater if changing the darkfire into a lance.

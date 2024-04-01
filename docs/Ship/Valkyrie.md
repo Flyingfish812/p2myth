@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 52.36 | 43.64 | 246.27 | 59 | 289.91 | 298.64 | 64 | 393.00 | 61 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_52.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Valkyrie's main is pretty good at sniping turrets due to its rather highly focused fire. However, bear in mind one stream of bullets will likely to miss.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 61.09 | 24.73 | 271.36 | 39 | 296.09 | 332.45 | 40 | 454.64 | 24 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_86.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - This ship can be anywhere it wants to be. A combination of TP as well as a homing main allows this ship continue to deal damage even though it needs to TP out of a spot to escape a bullet mess.

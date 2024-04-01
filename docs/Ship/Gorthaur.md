@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 71.27 | 36.36 | 228.82 | 70 | 265.18 | 300.09 | 62 | 386.27 | 67 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_37.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Gorthaur has a very awkward Aura Zen combination which is very difficult to use.

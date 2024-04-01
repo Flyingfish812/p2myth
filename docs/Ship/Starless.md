@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 78.55 | 36.36 | 265.91 | 46 | 302.27 | 344.45 | 26 | 435.55 | 40 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_87.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - REMP gives it a fair bit of survivability from its ability to clear a respectable amount of bullets.

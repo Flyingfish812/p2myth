@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 66.91 | 45.09 | 256.09 | 53 | 301.18 | 323.00 | 47 | 421.73 | 47 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_62.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Antioch has a very difficult to handle main weapon. Its main weapon is slightly tracking which can throw off your aim, especially when you are very near to 2 points which can be targeted (Such points include turrets, cockpits and even the sides of a Vulture or bigger invader).

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 32.00 | 68.36 | 238.36 | 64 | 270.36 | 306.73 | 55 | 387.45 | 65 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_40.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Sakura relies on spamming the smallest barriers possible to keep it alive.
@@ -95,6 +99,9 @@ Despite the layout of daily missions rendering barrier placements very difficult
 - Form: Phi
 - Price: 45000
 - Score: 4.27 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_40_phi.gif" style={{zoom:1}}/>
 
 This apex also tightens the spread of its Edge Projector, reducing the number of swords per burst from 11 to 7, making each sword deal more damage. Each sword is now enough to destroy a Sparrow (as opposed to 2 swords needed to destroy one).
 

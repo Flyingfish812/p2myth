@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 74.18 | 60.80 | 327.82 | 6 | 388.62 | 402.00 | 4 | 537.27 | 5 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_24.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - BEMP gives it a lot of survivability in MIRV/Shuriken missions, where bullets get extremely dense.

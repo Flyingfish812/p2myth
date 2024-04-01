@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 37.82 | 16.00 | 196.64 | 88 | 212.64 | 234.45 | 94 | 314.64 | 89 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_10.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Having 2 forms of defensive abilities, Yoth Hola is able to keep up for quite some time. However, PD will not last long and PS has very limited bullet clearing capabilities.
@@ -65,6 +69,9 @@
 - Form: Beta
 - Price: 10000
 - Score: 2.36 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_10_beta.gif" style={{zoom:1}}/>
 
 This apex equips 6 lasers around Yoth Hola, which only fire if they are in range of an invader. These 6 lasers work as Cone Triggered Independent.
 

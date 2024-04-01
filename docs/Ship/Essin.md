@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 32.00 | 66.91 | 211.36 | 82 | 243.36 | 278.27 | 72 | 359.55 | 73 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_33.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - You will be surprised, but PS works very well on Essin. Not only can PS be quite abusable (about once every wave, or sometimes if the wave lasts long enough, twice), shielding yourself from bullets and lasers alike, but launching LS before using PS is extremely useful. You can stay safe and let LS and PS Laser Reflect do the work, and then possibly wait for some of the invaders to be killed before making your next move.
@@ -67,6 +71,9 @@
 - Form: Alpha
 - Price: 5000
 - Score: 2.00 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_33_alpha.gif" style={{zoom:1}}/>
 
 This apex improves the homing capabilities of its cyclone cannon.
 

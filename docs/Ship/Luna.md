@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 66.91 | 68.36 | 274.36 | 33 | 341.27 | 342.73 | 28 | 466.55 | 21 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_82.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Despite the close combat nature of the ship, where going up close to invaders is required for Luna to deal full damage, it boots double defences to keep it up.

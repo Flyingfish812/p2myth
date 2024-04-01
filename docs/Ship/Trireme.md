@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 32.00 | 77.09 | 293.18 | 19 | 325.18 | 370.27 | 13 | 490.82 | 15 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_17.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - 天尘座: A mysterious bug where the rate of fire is sometimes linked to the frame rate...

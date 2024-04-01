@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 61.09 | 34.91 | 274.09 | 34 | 309.00 | 335.18 | 36 | 426.27 | 45 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_23.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - PS is its only defence. This works very well in its missions it is intended for, but in Unprotected missions, you will face a lot of problems with darts since they are fast and you can quickly get overwhelmed.

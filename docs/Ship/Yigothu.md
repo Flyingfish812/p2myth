@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 24.73 | 36.36 | 297.00 | 17 | 321.73 | 333.36 | 38 | 447.36 | 32 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_54.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Yigothu has the best Aura Zen combination. The 2 of them go hand in hand extremely well. CF slows down the bullets and stacks them up, while REMP clears the mess of stacked up bullets.

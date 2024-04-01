@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 66.91 | 8.73 | 220.09 | 76 | 228.82 | 287.00 | 70 | 365.55 | 71 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_48.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Gladius' main is unimpressive. However, even though its aiming is Average, it hits invaders reliably enough. The wide spread of the main means that smaller invaders will still get hit. The main is nothing more than a support.

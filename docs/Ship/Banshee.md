@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 43.64 | 61.09 | 235.36 | 66 | 279.00 | 296.45 | 67 | 397.91 | 60 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_89.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - hank: I recommend this ship if you want to start Goliath Missile, and it's better with Phi's bullet-clearing effect. You will feel good if you can play it well.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 50.91 | 74.18 | 273.55 | 35 | 324.45 | 347.73 | 24 | 456.27 | 23 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_18.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - The main of Cinnri is pretty annoying. It does not have perfect homing, so there is quite a noticeable chance that shots will actually miss.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 49.45 | 53.82 | 208.09 | 86 | 257.55 | 261.91 | 82 | 342.09 | 82 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_26.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - No defense. Kappa allows you to carefully dodge between dart streams, but there's absolutely no way to clear them, and you just have to resort to clearing fast. And LS isn't the fastest way to do that either.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 27.64 | 74.18 | 325.09 | 7 | 352.73 | 399.27 | 6 | 519.27 | 9 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_4.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Particularly reliable against MIRV/Shuriken missions, BEMP ruthlessly eliminates bullets.

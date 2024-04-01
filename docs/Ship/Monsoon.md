@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 24.73 | 48.00 | 255.41 | 54 | 280.14 | 303.41 | 58 | 389.21 | 62 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_98.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Among Monsoon’s three offensive means, ML is the only one with defensive capabilities as it clears bullets in its path. In other words, you need to replace defense with offense.

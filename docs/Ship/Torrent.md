@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 66.91 | 36.36 | 260.73 | 50 | 297.09 | 327.64 | 45 | 432.36 | 41 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_55.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Torrent's main weapon is really strong for its fast tracking, with a 31.25 DPS. This means Torrent kills quite fast.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 66.91 | 40.73 | 229.91 | 68 | 270.64 | 296.82 | 66 | 388.45 | 64 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_31.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - PD is primarily used as an offensive tool to get up close to invaders to maximize damage from the main.

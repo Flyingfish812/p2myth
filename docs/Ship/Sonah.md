@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 48.00 | 52.36 | 250.36 | 57 | 298.36 | 302.73 | 59 | 398.18 | 59 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_60.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Each burst of Sonah's main lasts for 3.167s, which implies a burst damage of 79.167.
@@ -77,6 +81,9 @@
 - Form: Alpha
 - Price: 5000
 - Score: 3.00 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_60_alpha.gif" style={{zoom:1}}/>
 
 This apex makes Firestorm target active turrets only. Once a turret is destroyed, it goes for the next active turret.
 

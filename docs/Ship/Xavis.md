@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 29.09 | 52.36 | 183.00 | 92 | 212.09 | 235.36 | 92 | 297.55 | 94 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_85.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - In Daily Missions, IC is not going anywhere due to how dense waves can get frequently. However, in heavier waves, Xavis will still stand a chance. Despite that, the lack of large enough means of AoE attack put this ship at a several disadvantage.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 36.36 | 66.91 | 268.36 | 43 | 304.73 | 335.27 | 35 | 443.27 | 36 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_58.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Because of how each of its Aura and Zen are so capable of covering the different types of dangers, with a minor overlap between Aura and Zen, Njörun is extremely capable of surviving anything that is thrown at it with ease. However, it does require the right hands to pull it off as misuse of its Aura and Zen will result in bad results.

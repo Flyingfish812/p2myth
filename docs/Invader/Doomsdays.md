@@ -84,3 +84,8 @@ Its characteristic is a very huge MIRV bomb. When there are not too many bullets
 Super MIRV cannot be instantly eliminated by ult-level point defense, but it can be eliminated by other bullet-clearing skills, including teleport.
 
 It should be noted that if you leave the super MIRV alone, you'd better leave it alone and let it fly away. Otherwise, when it explodes in the lower part of the screen, it will be equivalent to a MIRV bloomer close to your face, which is a very dangerous situation. If there is such a super MIRV in a wave of invader attacks, it is a good choice to give priority to activate it.
+
+*Trivia: Doomsday MIRV's appearance is different from Doomsday Super MIRV. In particular, the sliders are facing exterior for DDM, while interior for DDSM:*
+
+<img src="/turrets/ddm.png" style={{zoom:0.5}}/>
+<img src="/turrets/ddsm.png" style={{zoom:0.5}}/>

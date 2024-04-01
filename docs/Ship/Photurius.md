@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 48.00 | 74.18 | 287.18 | 24 | 335.18 | 361.36 | 16 | 475.36 | 19 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_29.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Photurius' survivability unfortunately comes from the fact that it is very fast. Killing quickly is of absolute essence.

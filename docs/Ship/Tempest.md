@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 40.73 | 34.91 | 272.73 | 37 | 307.64 | 313.45 | 51 | 405.64 | 55 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_9.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Tempest relies a lot on its pure firepower, both from its main weapon and its ML. Try your best to go up to the invaders' face to blast your main weapon on them. Retreat where necessary.

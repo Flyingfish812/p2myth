@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 55.27 | 66.91 | 185.18 | 91 | 240.45 | 252.09 | 87 | 339.91 | 83 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_3.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Synergy between PD and Kappa allows you to spam PD infinitely.

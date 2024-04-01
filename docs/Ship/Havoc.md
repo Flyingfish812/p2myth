@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 52.36 | 30.55 | 250.09 | 58 | 280.64 | 302.45 | 60 | 387.00 | 66 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_22.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - 五香fish: An offensive ship, it's better to maximize the main's AOE damage when playing. Alpha APEX highly recommended.
@@ -72,6 +76,9 @@
 - Form: Alpha
 - Price: 5000
 - Score: 3.27 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_22_alpha.gif" style={{zoom:1}}/>
 
 This apex increases the blast radius of its Mass Driver projectiles.
 

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 34.91 | 74.18 | 213.00 | 81 | 247.91 | 287.18 | 69 | 357.00 | 75 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_1.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Synergy between BEMP and Kappa allows infinite spam of BEMP, which can be used as a desperate last minute attempt to survive, especially in MIRV/Shuriken missions. Use the time slowdown of Kappa Overdrive to carefully graze bullets and refill Aura.

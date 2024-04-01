@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 37.82 | 37.82 | 216.55 | 79 | 254.36 | 254.36 | 86 | 329.09 | 86 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_59.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Despite the short main burst with a somewhat long interval, Boxer's main actually feels quite weak. It improves a bit with crits but it doesn't quite feel enough to punch through invaders quickly.
@@ -69,6 +73,9 @@
 - Form: Beta
 - Price: 10000
 - Score: 2.36 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_59_beta.gif" style={{zoom:1}}/>
 
 This apex which makes the 3 Flash Cutters completely independent of each other, each of them only firing when there is a target point in front of it. Essentially, this turns its main weapon into a Cone Triggered - Independent Type.
 

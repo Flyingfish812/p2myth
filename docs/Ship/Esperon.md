@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 36.36 | 27.64 | 158.45 | 98 | 186.09 | 194.82 | 99 | 271.62 | 98 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_95.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Phalanx is the only defense, coupled with a weak main weapon, as a result, Esperon is not very survivable.

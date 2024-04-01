@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 78.55 | 55.27 | 273.00 | 36 | 328.27 | 351.55 | 22 | 471.00 | 20 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_72.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - Dark骑士: If you cannot clear a mission without darts, boomerangs, and lasers, then it's right to use it. It can survive nearly all regular bullet hells, and it's very friendly to beginners. Delta Klyn is the easiest ship to earn credits, but it has a slow clearing speed.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 16.00 | 37.82 | 222.00 | 75 | 238.00 | 259.82 | 83 | 330.18 | 85 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_47.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - As Hunter's main is side by side, it can be hard to pop turrets off. This makes it hard to pop off MIRV Bloomers especially with so many MIRVs on field.

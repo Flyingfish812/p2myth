@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 37.82 | 40.73 | 195.27 | 89 | 233.09 | 236.00 | 91 | 310.18 | 92 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_71.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - As a ship with no need to aim, survival is quite important for Lorilou despite its offensive nature since Lorilou isn't very fast per say.

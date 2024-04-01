@@ -32,6 +32,11 @@
 |--|--|--|--|--|--|--|--|--|
 | 32.00 | 36.36 | 186.55 | 90 | 218.55 | 222.91 | 96 | 286.18 | 96 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_83.gif" style={{zoom:1}}/>
+<img src="/illustration/main_83_scratch.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Phalanx is used primarily as a movement tool in order to allow Zhetass to move sideways from invader to invader.

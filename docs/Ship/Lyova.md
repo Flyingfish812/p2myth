@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 78.55 | 74.18 | 315.82 | 9 | 390.00 | 394.36 | 8 | 521.45 | 7 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_77.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Lyova's double AoE bullet capabilities keep it alive for really long. Being able to alternate between using both means of bullet clearing makes Lyova so survivable.

@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 43.64 | 27.64 | 310.91 | 11 | 338.55 | 354.55 | 19 | 479.45 | 18 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_5.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - SEMP allows you to have breathing space to navigate around to kill Ravens fast and refill your Aura again. The stun duration is also great for popping off dangerous turrets such as spinners and MIRV Bloomers.

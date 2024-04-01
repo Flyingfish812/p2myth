@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 27.20 | 34.91 | 261.00 | 48 | 288.20 | 295.91 | 68 | 399.00 | 57 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_75.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Mirage's main is difficult to use. The many tracking laser bursts followed by the final straight and long laser burst can be difficult to follow. It takes quite a bit of getting used to and it's a rhythm that you must catch. This means that you need to have advanced planning on how you want to land your final burst, whether you want to use it to hit the cockpit of a Vulture or sweep a bunch of Sparrows. Ironically this means that despite being advertised as an instant tracking main, you actually have to aim, and the aiming can be annoying.

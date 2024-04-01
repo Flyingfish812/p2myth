@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 50.91 | 48.00 | 279.82 | 29 | 327.82 | 330.73 | 43 | 449.64 | 29 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_46.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Hime's main DPS is pretty lackluster. It relies a lot of its ML to deal the bulk of its damage to invaders. However, the lack of need to aim means you can focus on dodging.

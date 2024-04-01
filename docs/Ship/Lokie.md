@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 32.00 | 53.82 | 215.45 | 80 | 247.45 | 269.27 | 79 | 350.55 | 78 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_49.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - 圆锥曲线: Prefire or close combat, that is a problem.

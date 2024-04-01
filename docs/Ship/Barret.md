@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 68.36 | 52.36 | 229.91 | 69 | 282.27 | 298.27 | 65 | 370.82 | 68 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_50.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Barret has a very technical and topsy-turvy gameplay that involves a lot of hit and run. By topsy-turvy, Barret has to TP upfield to stun priority targets.

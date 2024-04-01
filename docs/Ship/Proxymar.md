@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 50.91 | 27.64 | 312.00 | 10 | 339.64 | 362.91 | 14 | 490.00 | 16 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_13.gif" style={{zoom:1}}/>
+
 ## Comments
 
 - 弃坑中: Perfect normal attack, perfect experience of playing, perfect feel of speedrun, it's a pity that it hasn't Armor Piercing missiles like Kibarrax.

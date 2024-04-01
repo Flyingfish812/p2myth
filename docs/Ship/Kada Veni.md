@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 32.00 | 43.64 | 210.82 | 83 | 242.82 | 254.45 | 85 | 311.18 | 91 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_15.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - Because of the horrendous aiming of the main, Kada Veni should be confined to the bottom of the screen.
@@ -68,6 +72,9 @@
 - Form: Alpha
 - Price: 5000
 - Score: 2.00 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_15_alpha.gif" style={{zoom:1}}/>
 
 This apex improves the tracking ability of the Pulse Batteries. The improved aiming makes it a little less frustrating to play with and allows you to move around the field without worrying about missing too much. However, being too close to the invaders will still cause it to miss. Due to the improved aiming, you can no longer ultilize the technique where you go to the edge of the field and hope the pulse batteries curve around the invaders to reach upfield invaders, making upfield Ravens that survive the MB an issue.
 

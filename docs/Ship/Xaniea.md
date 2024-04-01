@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 68.36 | 49.45 | 253.64 | 55 | 303.09 | 322.00 | 48 | 429.45 | 42 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_30.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - While Xaniea does rely on killing fast, it has TP, it's saving grace in times of being threatened.

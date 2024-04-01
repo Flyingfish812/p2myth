@@ -32,6 +32,10 @@
 |--|--|--|--|--|--|--|--|--|
 | 8.73 | 48.00 | 200.18 | 87 | 208.91 | 248.18 | 89 | 321.27 | 87 |
 
+- Main Weapon Illustration:
+
+<img src="/illustration/main_14.gif" style={{zoom:1}}/>
+
 ## Survival
 
 - The infinite SEMP spam ship. As the main Meson Laser fires, release your touch to engage Kappa to charge up a large SEMP. Disengage Kappa once the lasers stop firing. Obviously, don't do it when your Aura is already full.
@@ -84,6 +88,9 @@ This apex helps for heavier waves, where you sometimes need to quickly fire anot
 - Form: Delta
 - Price: 20000
 - Score: 3.00 / 5
+- Main Weapon Illustration:
+
+<img src="/illustration/main_14_delta.gif" style={{zoom:1}}/>
 
 This apex upgrades the main weapon such that there is absolute zero leakage in DPS. Meson Lasers that killed Invaders before the burst ends will be redirected into a new burst that is separate from the initial burst. This also means that the rhythm of the Meson Lasers can be thrown off slightly, although the timing between the first and last burst fired off is generally not more than 1s off.
 
