@@ -796,7 +796,7 @@ In the following categories, ships' tiers are divided into 5 levels. For level A
     <a href="Krillou" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_5.png" style={{zoom:0.2,marginRight:'50px'}}/>Krillou</a><br/>
     <a href="Widget" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_80.png" style={{zoom:0.2,marginRight:'50px'}}/>Widget</a><br/>
     <a href="Arietis" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_31.png" style={{zoom:0.2,marginRight:'50px'}}/>Arietis</a><br/>
-    <a href="Mist Star" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_94.png" style={{zoom:0.2,marginRight:'50px'}}/>Mist Star</a><br/>
+    <a href="Mist Star" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_12.png" style={{zoom:0.2,marginRight:'50px'}}/>Mist Star</a><br/>
     <a href="NC-271" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_69.png" style={{zoom:0.2,marginRight:'50px'}}/>NC-271</a><br/>
     <a href="Photurius" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_29.png" style={{zoom:0.2,marginRight:'50px'}}/>Photurius</a><br/>
     <a href="Saber" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_51.png" style={{zoom:0.2,marginRight:'50px'}}/>Saber</a><br/>
@@ -839,7 +839,7 @@ In the following categories, ships' tiers are divided into 5 levels. For level A
     <a href="Essin" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_33.png" style={{zoom:0.2,marginRight:'50px'}}/>Essin</a><br/>
     <a href="Monsoon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_98.png" style={{zoom:0.2,marginRight:'50px'}}/>Monsoon</a><br/>
     <a href="Kada Veni" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_15.png" style={{zoom:0.2,marginRight:'50px'}}/>Kada Veni</a><br/>
-    <a href="Mistral" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_12.png" style={{zoom:0.2,marginRight:'50px'}}/>Mistral</a><br/>
+    <a href="Mistral" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_94.png" style={{zoom:0.2,marginRight:'50px'}}/>Mistral</a><br/>
     <a href="Vuxine" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_28.png" style={{zoom:0.2,marginRight:'50px'}}/>Vuxine</a><br/>
     <a href="Naya" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_96.png" style={{zoom:0.2,marginRight:'50px'}}/>Naya</a><br/>
     <a href="Kibarrax" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_88.png" style={{zoom:0.2,marginRight:'50px'}}/>Kibarrax</a><br/>
@@ -880,7 +880,7 @@ In the following categories, ships' tiers are divided into 5 levels. For level A
     <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>Buhloo</a><br/>
     <a href="Warden" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_99.png" style={{zoom:0.2,marginRight:'50px'}}/>Warden</a><br/>
     <a href="Saber" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_51.png" style={{zoom:0.2,marginRight:'50px'}}/>Saber</a><br/>
-    <a href="Mistral" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_12.png" style={{zoom:0.2,marginRight:'50px'}}/>Mistral</a><br/>
+    <a href="Mistral" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_94.png" style={{zoom:0.2,marginRight:'50px'}}/>Mistral</a><br/>
     <a href="Prime X" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_39.png" style={{zoom:0.2,marginRight:'50px'}}/>Prime X</a><br/>
     <a href="Wrackr" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_16.png" style={{zoom:0.2,marginRight:'50px'}}/>Wrackr</a><br/>
     <a href="UHB" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_63.png" style={{zoom:0.2,marginRight:'50px'}}/>UHB</a><br/>
@@ -938,7 +938,7 @@ In the following categories, ships' tiers are divided into 5 levels. For level A
     <a href="X-81" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_66.png" style={{zoom:0.2,marginRight:'50px'}}/>X-81</a><br/>
     <a href="Czar" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_21.png" style={{zoom:0.2,marginRight:'50px'}}/>Czar</a><br/>
     <a href="Boxer" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_59.png" style={{zoom:0.2,marginRight:'50px'}}/>Boxer</a><br/>
-    <a href="Mist Star" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_94.png" style={{zoom:0.2,marginRight:'50px'}}/>Mist Star</a><br/>
+    <a href="Mist Star" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_12.png" style={{zoom:0.2,marginRight:'50px'}}/>Mist Star</a><br/>
     <a href="Xavis" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_85.png" style={{zoom:0.2,marginRight:'50px'}}/>Xavis</a><br/>
     <a href="Mirage" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_75.png" style={{zoom:0.2,marginRight:'50px'}}/>Mirage</a><br/>
     <a href="Gorthaur" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_37.png" style={{zoom:0.2,marginRight:'50px'}}/>Gorthaur</a><br/>
@@ -1004,7 +1004,7 @@ In the following categories, ships' tiers are divided into 5 levels. For level A
     <a href="Photurius" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_29.png" style={{zoom:0.2,marginRight:'50px'}}/>Photurius</a><br/>
     <a href="Stinger" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_93.png" style={{zoom:0.2,marginRight:'50px'}}/>Stinger</a><br/>
     <a href="Qhelqod" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_78.png" style={{zoom:0.2,marginRight:'50px'}}/>Qhelqod</a><br/>
-    <a href="Mistral" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_12.png" style={{zoom:0.2,marginRight:'50px'}}/>Mistral</a><br/>
+    <a href="Mistral" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_94.png" style={{zoom:0.2,marginRight:'50px'}}/>Mistral</a><br/>
     <a href="Banshee" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_89.png" style={{zoom:0.2,marginRight:'50px'}}/>Banshee</a><br/>
     <a href="Xaniea" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_30.png" style={{zoom:0.2,marginRight:'50px'}}/>Xaniea</a><br/>
     <a href="NC-150" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_2.png" style={{zoom:0.2,marginRight:'50px'}}/>NC-150</a><br/>
@@ -1040,7 +1040,7 @@ In the following categories, ships' tiers are divided into 5 levels. For level A
     <a href="Naya" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_96.png" style={{zoom:0.2,marginRight:'50px'}}/>Naya</a><br/>
     <a href="Essin" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_33.png" style={{zoom:0.2,marginRight:'50px'}}/>Essin</a><br/>
     <a href="Njorun" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_58.png" style={{zoom:0.2,marginRight:'50px'}}/>Njorun</a><br/>
-    <a href="Mist Star" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_94.png" style={{zoom:0.2,marginRight:'50px'}}/>Mist Star</a><br/>
+    <a href="Mist Star" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_12.png" style={{zoom:0.2,marginRight:'50px'}}/>Mist Star</a><br/>
     <a href="Saber" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_51.png" style={{zoom:0.2,marginRight:'50px'}}/>Saber</a><br/>
     <a href="Havoc" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_22.png" style={{zoom:0.2,marginRight:'50px'}}/>Havoc</a><br/>
   </TabItem>
