@@ -21,6 +21,11 @@ The details of this skill are listed as follows:
 - Score: 3.82 / 10
 - Useful Levels: 1, Ult
 - Priority Level: 1 / 8
+- Illustration: The first one shows that you can attract energy particles quickly; The second one shows that you can generate energy particles of your own; The third one shows that you can slow down the game time.
+
+<img src="/skills/kd_energy.gif" style={{zoom:1}}/>
+<img src="/skills/kd_generate.gif" style={{zoom:1}}/>
+<img src="/skills/kd_slow.gif" style={{zoom:1}}/>
 
 ## Comments
 

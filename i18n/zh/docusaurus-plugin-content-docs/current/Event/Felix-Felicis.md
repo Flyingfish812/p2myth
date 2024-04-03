@@ -38,75 +38,108 @@
 
 - **第一轮可使用战机**：主炮为31.25dps的战机（共46种）
 
-<img src="/ships/ship_1.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_3.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_4.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_5.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_11.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_16.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_19.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_20.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_22.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_24.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_25.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_26.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_32.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_33.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_39.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_41.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_42.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_44.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_45.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_47.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_50.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_51.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_52.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_53.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_55.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_58.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_59.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_61.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_62.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_64.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_67.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_70.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_73.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_77.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_78.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_79.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_83.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_84.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_85.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_87.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_92.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_93.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_94.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_96.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_97.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_98.png" style={{zoom:0.25}}/>
+- - 无任何加成/减益的战机：
+
+    <img src="/ships/ship_4.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_5.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_11.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_16.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_24.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_26.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_32.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_33.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_39.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_41.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_44.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_45.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_50.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_52.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_53.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_55.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_59.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_62.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_64.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_67.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_70.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_73.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_77.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_78.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_79.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_85.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_87.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_92.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_93.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_97.png" style={{zoom:0.25}}/>
+
+- - 本轮含有罚时5秒减益的战机：浩劫、内尼、米斯特拉尔、季风
+
+    <img src="/ships/ship_22.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_84.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_94.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_98.png" style={{zoom:0.25}}/>
+
+- - 本轮含有罚时10秒减益的战机：布洛、军刀、海盗、纳雅
+
+    <img src="/ships/ship_20.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_51.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_61.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_96.png" style={{zoom:0.25}}/>
+
+- - 本轮可参与主炮挑战获得减时15秒加成的战机：施诺华、塔尔察赫、提拉特厄尔、和风号、猎手、泽塔司
+
+    <img src="/ships/ship_1.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_3.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_25.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_42.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_47.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_83.png" style={{zoom:0.25}}/>
+
+- - 本轮可候补参与主炮挑战的战机：凤凰、尼耶伦号
+
+    <img src="/ships/ship_19.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_58.png" style={{zoom:0.25}}/>
 
 - **第二轮可使用战机**：主炮为34.38dps的战机+奥罗拉（共9种）
 
-<img src="/ships/ship_2.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_8.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_9.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_29.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_30.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_31.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_35.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_37.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_49.png" style={{zoom:0.25}}/>
+- - 无任何加成/减益的战机：
+
+    <img src="/ships/ship_2.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_8.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_9.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_30.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_31.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_49.png" style={{zoom:0.25}}/>
+
+- - 本轮含有罚时5秒减益的战机：彩虹莹
+
+    <img src="/ships/ship_29.png" style={{zoom:0.25}}/>
+
+- - 本轮可参与主炮挑战获得减时15秒加成的战机：奥罗拉
+
+    <img src="/ships/ship_35.png" style={{zoom:0.25}}/>
+
+- - 本轮可候补参与主炮挑战的战机：索伦
+
+    <img src="/ships/ship_37.png" style={{zoom:0.25}}/>
 
 - **第三轮可使用战机**：主炮为37.5dps的战机（共8种）
 
-<img src="/ships/ship_7.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_23.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_36.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_40.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_69.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_72.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_74.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_82.png" style={{zoom:0.25}}/>
+- - 无任何加成/减益的战机：
+
+    <img src="/ships/ship_23.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_36.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_69.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_72.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_74.png" style={{zoom:0.25}}/>
+
+- - 本轮含有罚时10秒减益的战机：风神
+
+    <img src="/ships/ship_7.png" style={{zoom:0.25}}/>
+
+- - 本轮可参与主炮挑战获得减时15秒加成的战机：樱花、月神
+
+    <img src="/ships/ship_40.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_82.png" style={{zoom:0.25}}/>
 
 ## 成绩计入方式
 
@@ -114,31 +147,13 @@
 
 - 每一轮的成绩由基础用时（排行榜上记录的用时）和罚时组成。
 
-- **第一轮**：布洛、军刀、海盗、纳雅获得罚时10秒的debuff，内尼、季风、米斯特拉尔、浩劫获得罚时5秒debuff。
-
-<img src="/ships/ship_20.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_51.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_61.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_96.png" style={{zoom:0.25}}/>
-<br/>
-<img src="/ships/ship_84.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_98.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_94.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_22.png" style={{zoom:0.25}}/>
-
-- **第二轮**：彩虹莹获得罚时5秒的debuff
-
-<img src="/ships/ship_29.png" style={{zoom:0.25}}/>
-
-- **第三轮**：风神获得罚时10秒的debuff
-
-<img src="/ships/ship_7.png" style={{zoom:0.25}}/>
+- 每一轮的战机分为无加成组和加成/减益组，根据你所选择的战机会自动带有不同的加成/减益，我们已在规则介绍中罗列出了这些详细情况。
 
 - **主炮挑战**：在所有轮的比赛中如果你所使用的飞机【**只有**】主炮造成伤害（社区激光非常少个人盾算作纯防御，眩晕光环和离子炮等不包括在内【注】），该飞机获得减时15秒的buff。
 
-    > 本站的战机目录板块（“所有战机”页面）以颜色区分了光环与禅宗的属性。简而言之，如果你使用的战机同时拥有绿色光环与绿色禅宗，那么你基本上就能享受到这个减时加成（注意有例外）。
+    > 在规则介绍中我们已列出每一轮可参与主炮挑战的战机。候补名单的含义为，如果本轮任务的激光含量非常少，那么这些战机也将被纳入主炮挑战的范围。
     >
-    > 【**注**】满级的眩晕电磁脉冲、反射电磁脉冲、离子加农炮会有伤害加成。如果你使用了这一类战机，即使你一次技能都未使用也无法享受加成。但换言之，没满级的绿色技能一定能享受减时加成。（提供未使用任何技能的完整通关视频能否获得加成，该规则仍在商讨中）
+    > 【**注**】满级的眩晕电磁脉冲、反射电磁脉冲、离子加农炮会有伤害加成。但如果你的战机条目是未满级的（即无伤害加成），你的成绩也可破例纳入主炮挑战的加成中。
 
 - 如果你使用的战机未满级，我们会根据战机的升级情况为你提供额外的减时buff。
 
@@ -168,4 +183,4 @@
 
 由于参与人数很多，请选手在全程比赛过程中榜单上的名字保持和报名表上的id相同，以便统计。
 
-[报名链接](https://docs.qq.com/form/page/DQWxHZkFiWnpBZEZt)
+报名已截止。本次比赛的分组安排等信息可于[日程表页面](Schedule.md)查看

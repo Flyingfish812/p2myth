@@ -21,6 +21,9 @@ The details of this skill are listed as follows:
 - Score: 6.00 / 10
 - Useful Levels: 1, (sometimes 5), Ult
 - Priority Level: 2 / 8
+- Illustration:
+
+<img src="/skills/barrier.gif" style={{zoom:1}}/>
 
 ## Comments
 

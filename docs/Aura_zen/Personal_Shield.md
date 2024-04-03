@@ -23,6 +23,11 @@ The details of this skill are listed as follows:
 - Score: 5.91 / 10
 - Useful Levels: 1, Ult
 - Priority Level: 1 / 8
+- Illustration: The fiest one shows you how to defend yourself from assaults; The second one shows that you can reflect lasers to deal damage; The third one shows that you can use PS as an eraser to clear bullets nearby.
+
+<img src="/skills/ps_defense.gif" style={{zoom:1}}/>
+<img src="/skills/ps_reflect.gif" style={{zoom:1}}/>
+<img src="/skills/ps_eraser.gif" style={{zoom:1}}/>
 
 ## Comments
 

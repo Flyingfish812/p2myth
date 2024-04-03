@@ -22,6 +22,9 @@ sidebar_position: 9
 - 有用的等级：3级、5级、终极
 - 优先级：2 / 8
 - *100的强度对应24颗子弹或两道完整的激光（1秒）*
+- 技能演示：
+
+<img src="/skills/phalanx.gif" style={{zoom:1}}/>
 
 ## 评价
 

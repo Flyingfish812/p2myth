@@ -23,6 +23,9 @@ sidebar_position: 14
 - 评分：7.55 / 10
 - 有用的等级：1级、大概4~终极
 - 优先级：3 / 8
+- 技能演示
+
+<img src="/skills/ml.gif" style={{zoom:1}}/>
 
 ## 评价
 
@@ -118,6 +121,9 @@ sidebar_position: 14
 - 评分：6.45 / 10
 - 有用的等级：1级、终极
 - 优先级：3 / 8
+- 技能演示：
+
+<img src="/skills/nf.gif" style={{zoom:1}}/>
 
 ## 评论
 

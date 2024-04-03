@@ -22,6 +22,9 @@ The details of this skill are listed as follows:
 - Useful Levels: 3, 5, Ult
 - Priority Level: 2 / 8
 - *A strength of 100 equals to 24 bullets or 2 complete lasers (1s)*
+- Illustration:
+
+<img src="/skills/phalanx.gif" style={{zoom:1}}/>
 
 ## Comments
 

@@ -21,6 +21,10 @@ The details of this skill are listed as follows:
 - Score: 8.09 / 10
 - Useful Levels: 1, Ult
 - Priority Level: 2 / 8
+- Illustration: The first one shows how to stun enemy turrets; The second one shows how to deal damage to invaders.
+
+<img src="/skills/semp_stun.gif" style={{zoom:1}}/>
+<img src="/skills/semp_damage.gif" style={{zoom:1}}/>
 
 ## Comments
 

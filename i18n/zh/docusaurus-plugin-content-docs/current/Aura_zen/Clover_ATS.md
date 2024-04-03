@@ -23,6 +23,9 @@ sidebar_position: 20
 - 评分：2.91 / 10
 - 有用的等级：1级
 - 优先级：4 / 8
+- 技能演示：
+
+<img src="/skills/cats.gif" style={{zoom:1}}/>
 
 ## 评价
 

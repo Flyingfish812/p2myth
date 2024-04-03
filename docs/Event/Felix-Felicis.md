@@ -38,75 +38,108 @@ ALL APEX are NOT ALLOWED!
 
 - **Round 1**: Ships with 31.25-DPS main weapon (46 in total).
 
-<img src="/ships/ship_1.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_3.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_4.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_5.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_11.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_16.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_19.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_20.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_22.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_24.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_25.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_26.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_32.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_33.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_39.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_41.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_42.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_44.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_45.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_47.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_50.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_51.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_52.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_53.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_55.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_58.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_59.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_61.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_62.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_64.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_67.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_70.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_73.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_77.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_78.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_79.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_83.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_84.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_85.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_87.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_92.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_93.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_94.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_96.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_97.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_98.png" style={{zoom:0.25}}/>
+- - Ships without time reduction / penalty:
+
+    <img src="/ships/ship_4.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_5.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_11.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_16.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_24.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_26.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_32.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_33.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_39.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_41.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_44.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_45.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_50.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_52.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_53.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_55.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_59.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_62.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_64.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_67.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_70.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_73.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_77.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_78.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_79.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_85.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_87.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_92.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_93.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_97.png" style={{zoom:0.25}}/>
+
+- - Ships with a 5s penalty this round: Havoc, Neni, Mistral, Monsoon
+
+    <img src="/ships/ship_22.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_84.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_94.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_98.png" style={{zoom:0.25}}/>
+
+- - Ships with a 10s penalty this round: Buhloo, Saber, Corsair, Naya
+
+    <img src="/ships/ship_20.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_51.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_61.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_96.png" style={{zoom:0.25}}/>
+
+- - Ships that can join in the *main weapon challenge* and get 15s reduction: Shinova, Tar'cah, Tillat'Or, Zephyr, Hunter, Zhetass
+
+    <img src="/ships/ship_1.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_3.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_25.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_42.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_47.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_83.png" style={{zoom:0.25}}/>
+
+- - Waiting list for the *main weapon challenge*: Phoenix, Njorun
+
+    <img src="/ships/ship_19.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_58.png" style={{zoom:0.25}}/>
 
 - **Round 2**: Ships with 34.38-DPS main weapon, and Aurora (9 in total).
 
-<img src="/ships/ship_2.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_8.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_9.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_29.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_30.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_31.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_35.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_37.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_49.png" style={{zoom:0.25}}/>
+- - Ships without time reduction / penalty:
+
+    <img src="/ships/ship_2.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_8.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_9.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_30.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_31.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_49.png" style={{zoom:0.25}}/>
+
+- - Ships with a 5s penalty this round: Photurius
+
+    <img src="/ships/ship_29.png" style={{zoom:0.25}}/>
+
+- - Ships that can join in the *main weapon challenge* and get 15s reduction: Aurora
+
+    <img src="/ships/ship_35.png" style={{zoom:0.25}}/>
+
+- - Waiting list for the *main weapon challenge*: Gorthaur
+
+    <img src="/ships/ship_37.png" style={{zoom:0.25}}/>
 
 - **Round 3**: Ships with 37.5-DPS main weapon (8 in total).
 
-<img src="/ships/ship_7.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_23.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_36.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_40.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_69.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_72.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_74.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_82.png" style={{zoom:0.25}}/>
+- - Ships without time reduction / penalty:
+
+    <img src="/ships/ship_23.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_36.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_69.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_72.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_74.png" style={{zoom:0.25}}/>
+
+- - Ships with a 10s penalty this round: Fujin
+
+    <img src="/ships/ship_7.png" style={{zoom:0.25}}/>
+
+- - Ships that can join in the *main weapon challenge* and get 15s reduction: Sakura, Luna
+
+    <img src="/ships/ship_40.png" style={{zoom:0.25}}/>
+    <img src="/ships/ship_82.png" style={{zoom:0.25}}/>
 
 ## Final Score
 
@@ -114,31 +147,13 @@ The final score of each team in this competition is the sum of the time used in 
 
 - The score of each round is composed of basic time and penalty time.
 
-- **Round 1**: Buhloo, Saber, Corsair, and Naya get +10s debuff; Neni, Monsoon, Mistral, and Havoc get +5s debuff.
-
-<img src="/ships/ship_20.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_51.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_61.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_96.png" style={{zoom:0.25}}/>
-<br/>
-<img src="/ships/ship_84.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_98.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_94.png" style={{zoom:0.25}}/>
-<img src="/ships/ship_22.png" style={{zoom:0.25}}/>
-
-- **Round 2**: Photurius gets +5s debuff.
-
-<img src="/ships/ship_29.png" style={{zoom:0.25}}/>
-
-- **Round 3**: Fujin gets +10s debuff.
-
-<img src="/ships/ship_7.png" style={{zoom:0.25}}/>
+- The ships in each round are divided into no-buff groups and buff/debuff groups. Depending on the ship you choose, they will automatically have different buffs/debuffs. We have listed these ships in the rules above.
 
 - **Main Weapon Challenge**: If the ship you choose **ONLY** have main weapon to make damage, you will get -15s (not include Stun EMP, Reflex EMP, Ion Cannon (Note). Considering that community missions have very few lasers, we treat Personal Shield as non damage ability).
 
-    > The ship catalog section of this site (the "All ships" page) distinguishes between the attributes of Aura and Zen with colors. In short, if the ship you use has both a green Aura and a green Zen, then you can benefit from this time reduction bonus (Attention to exceptions below).
+    > In the rules session, we have listed the ships that can participate in the main weapon challenge in each round. The meaning of the waiting list is that if the lasers in this mission are very few, then these ships will also be included in the main gun challenge.
     >
-    > **(Note)** Ulted Stun EMP, Reflex EMP, Ion Cannon will deal extra damage. If you use these types of ship, even if you never used the skill for once, you cannot have the time reduction buff. But in other words, un-ulted green skills can surely benefit the buff. (Whether offering a video of main-weapon-only run is available is still under discussion)
+    > **(Note)** Ulted Stun EMP, Reflex EMP, Ion Cannon will deal extra damage. But if your ship is un-ulted for these skills (i.e. without an extra damage), you can also benefit the buffs of the main weapon challenge.
 
 - If the ship you use is not fully upgraded, we will provide you with additional time reduction buffs based on the upgrading status of the ship.
 
@@ -168,4 +183,4 @@ At the same time, all players and spectators are welcome to publish relevant rep
 
 Due to the large number of participants, please keep the name on the leaderboard the same as the ID on the sign-up form throughout the event for the sake of statistics.
 
-[Sign-up Link](https://docs.google.com/forms/d/e/1FAIpQLSewNG5rzOhzbOUZTY4PojtT8oc5Pd3bk3bOZ_7PM-7v--85hg/viewform?usp=sf_link)
+Sign-up has ended. You can see the group info in the [Schedule page](Schedule.md).

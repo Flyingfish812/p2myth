@@ -21,6 +21,9 @@ sidebar_position: 10
 - 评分：4.73 / 10
 - 有用的等级：3级、终极
 - 优先级：6 / 8
+- 技能演示：
+
+<img src="/skills/ic.gif" style={{zoom:1}}/>
 
 ## 评价
 

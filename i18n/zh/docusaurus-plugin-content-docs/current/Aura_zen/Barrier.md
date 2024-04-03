@@ -21,6 +21,9 @@ sidebar_position: 3
 - 评分：6.00 / 10
 - 有用的等级：1级、（有时5级）、终极
 - 优先级：2 / 8
+- 技能演示：
+
+<img src="/skills/barrier.gif" style={{zoom:1}}/>
 
 ## 评价
 

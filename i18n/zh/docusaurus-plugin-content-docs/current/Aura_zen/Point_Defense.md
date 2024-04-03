@@ -22,6 +22,9 @@ sidebar_position: 6
 - 评分：4.91 / 10
 - 有用的等级：大概4~终极
 - 优先级：4 / 8
+- 技能演示：
+
+<img src="/skills/phalanx.gif" style={{zoom:1}}/>
 
 ## 评价
 

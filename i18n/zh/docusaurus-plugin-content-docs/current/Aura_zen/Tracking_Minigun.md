@@ -25,6 +25,9 @@ sidebar_position: 21
 - 评分：6.91 / 10
 - 有用的等级：1级
 - 优先级：1 / 8
+- 技能演示：
+
+<img src="/skills/tm.gif" style={{zoom:1}}/>
 
 ## 评价
 

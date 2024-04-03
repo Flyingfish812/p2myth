@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.2.1
+
+- Version: 1.2.1
+- Update time: 2024-04-03
+
+Now we have illustrations for all the skills! Also, please check that the updates on the event.
+
 ## V1.2.0
 
 - Version: 1.2.0

@@ -20,6 +20,9 @@ Consistent burst damage Aura. Easy to pick up, hard to master. Generally reliabl
 - Score: 9.09 / 10
 - Useful Levels: 1-5, Ult not very important
 - Priority Level: 2 / 8
+- Illustration:
+
+<img src="/skills/ms.gif" style={{zoom:1}}/>
 
 ## Comments
 

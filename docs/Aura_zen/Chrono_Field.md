@@ -21,6 +21,10 @@ The details of this skill are listed as follows:
 - Score: 8.27 / 10
 - Useful Levels: 1, Ult
 - Priority Level: 8 / 8
+- Illustration: The first one shows that you are invincible in the field, the second one shows that you can do a chrono hop thanks to the phase out time.
+
+<img src="/skills/cf_immune.gif" style={{zoom:1}}/>
+<img src="/skills/cf_phase.gif" style={{zoom:1}}/>
 
 ## Comments
 

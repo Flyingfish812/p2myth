@@ -23,6 +23,9 @@ sidebar_position: 19
 - 评分：6.09 / 10
 - 有用的等级：4级以上
 - 优先级：1 / 8
+- 技能演示：
+
+<img src="/skills/fl.gif" style={{zoom:1}}/>
 
 ## 评价
 

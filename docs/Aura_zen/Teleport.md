@@ -22,6 +22,9 @@ The details of this skill are listed as follows:
 - Score: 8.18 / 10
 - Useful Levels: 1, Ult
 - Priority Level: 7 / 8
+- Illustration:
+
+<img src="/skills/tp.gif" style={{zoom:1}}/>
 
 ## Comments
 
@@ -116,6 +119,9 @@ To be honest, the bonus of this APEX is somewhat difficult to understand because
 - Numeric Interpretation: The Darkfire shot deals an AOE damage of range 100.
 - Score: 2.55 / 5
 - Ships with the APEX: Trinity (Delta)
+- Illustration: This is the base effect, and the APEX will change the damage to AOE damage.
+
+<img src="/skills/trinity_tp.gif" style={{zoom:1}}/>
 
 > Editor: A moderate-range explosive attack.
 

@@ -20,6 +20,9 @@ sidebar_position: 1
 - 评分：8.36 / 10
 - 有用的等级：所有，尤其是终极
 - 优先级：4 / 8
+- 技能演示：
+
+<img src="/skills/bemp.gif" style={{zoom:1}}/>
 
 ## 评价
 

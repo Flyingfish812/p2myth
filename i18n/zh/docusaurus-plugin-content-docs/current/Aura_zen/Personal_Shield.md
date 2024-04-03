@@ -23,6 +23,11 @@ sidebar_position: 18
 - 评分：5.91 / 10
 - 有用的等级：1级、终极
 - 优先级：1 / 8
+- 技能演示：图一演示了护盾的防御功能，图二演示了护盾的激光反射，图三演示了你可以把它当作橡皮擦来擦除附近的子弹。
+
+<img src="/skills/ps_defense.gif" style={{zoom:1}}/>
+<img src="/skills/ps_reflect.gif" style={{zoom:1}}/>
+<img src="/skills/ps_eraser.gif" style={{zoom:1}}/>
 
 ## 评价
 

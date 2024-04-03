@@ -20,6 +20,9 @@ The details of this skill are listed as follows:
 - Score: 8.36 / 10
 - Useful Levels: All, Especially Ult
 - Priority Level: 4 / 8
+- Illustration:
+
+<img src="/skills/bemp.gif" style={{zoom:1}}/>
 
 ## Comments
 

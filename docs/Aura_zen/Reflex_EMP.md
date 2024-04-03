@@ -23,6 +23,10 @@ The details of this skill are listed as follows:
 - Score: 9.09 / 10
 - Useful Levels: 1, Approximately 3-5, Ult
 - Priority Level: 5 / 8
+- Illustration: The first one shows how to clear bullets; The second one shows how to use it to deal damage.
+
+<img src="/skills/remp_bullet_clear.gif" style={{zoom:1}}/>
+<img src="/skills/remp_damage.gif" style={{zoom:1}}/>
 
 ## Comments
 

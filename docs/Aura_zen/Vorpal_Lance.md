@@ -21,6 +21,10 @@ The details of this skill are listed as follows:
 - Score: 9.18 / 10
 - Useful Levels: 2, 5, (sometimes Ult)
 - Priority Level: 2 / 8
+- Illustration: The first one shows that it can hit the back invader; The second one shows how to clear bullets.
+
+<img src="/skills/vl_pierce.gif" style={{zoom:1}}/>
+<img src="/skills/vl_bullet_clear.gif" style={{zoom:1}}/>
 
 ## Comments
 

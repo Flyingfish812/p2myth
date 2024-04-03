@@ -23,6 +23,9 @@ The details of this skill are listed as follows:
 - Score: 2.91 / 10
 - Useful Levels: 1
 - Priority Level: 4 / 8
+- Illustration:
+
+<img src="/skills/cats.gif" style={{zoom:1}}/>
 
 ## Comments
 

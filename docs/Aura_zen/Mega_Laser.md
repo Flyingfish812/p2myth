@@ -23,6 +23,9 @@ The details of this skill are listed as follows:
 - Score: 7.55 / 10
 - Useful Levels: 1, Approximately 4-Ult
 - Priority Level: 3 / 8
+- Illustration:
+
+<img src="/skills/ml.gif" style={{zoom:1}}/>
 
 ## Comments
 
@@ -121,6 +124,9 @@ The bigger brother of ML. Packs a serious punch, decimating frontline Vultures o
 - Score: 6.45 / 10
 - Useful Levels: 1, Ult
 - Priority Level: 3 / 8
+- Illustration:
+
+<img src="/skills/nf.gif" style={{zoom:1}}/>
 
 ## Comments
 

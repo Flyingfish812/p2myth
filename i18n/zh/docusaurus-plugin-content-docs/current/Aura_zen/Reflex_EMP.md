@@ -23,6 +23,10 @@ sidebar_position: 17
 - 评分：9.09 / 10
 - 有用的等级：1级、大概3~5级、终极
 - 优先级：5 / 8
+- 技能演示：图一演示了如何清除子弹，图二演示如何对敌机造成伤害。
+
+<img src="/skills/remp_bullet_clear.gif" style={{zoom:1}}/>
+<img src="/skills/remp_damage.gif" style={{zoom:1}}/>
 
 ## 评价
 

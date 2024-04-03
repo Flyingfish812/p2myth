@@ -21,6 +21,10 @@ sidebar_position: 8
 - 评分：9.18 / 10
 - 有用的等级：2级、5级、有时终极
 - 优先级：2 / 8
+- 技能演示：图一演示了它能击中后排敌机，图二演示了如何消弹。
+
+<img src="/skills/vl_pierce.gif" style={{zoom:1}}/>
+<img src="/skills/vl_bullet_clear.gif" style={{zoom:1}}/>
 
 ## 评价
 

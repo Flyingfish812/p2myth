@@ -19,6 +19,9 @@ sidebar_position: 12
 - 评分：8.82 / 10
 - 有用的等级：没有特别优先的
 - 优先级：2 / 8
+- 技能演示：
+
+<img src="/skills/bs.gif" style={{zoom:1}}/>
 
 ## 评价
 

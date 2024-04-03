@@ -21,6 +21,10 @@ sidebar_position: 7
 - 评分：8.27 / 10
 - 有用的等级：1级、终极
 - 优先级：8 / 8
+- 技能演示：图一演示你在光环内是无敌的，图二演示在0.5秒消逝时间内你仍保持无敌状态，因此可以完成超时空跳跃。
+
+<img src="/skills/cf_immune.gif" style={{zoom:1}}/>
+<img src="/skills/cf_phase.gif" style={{zoom:1}}/>
 
 ## 评价
 

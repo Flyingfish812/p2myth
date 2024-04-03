@@ -22,6 +22,9 @@ The details of this skill are listed as follows:
 - Score: 4.91 / 10
 - Useful Levels: Approximately 4-Ult
 - Priority Level: 4 / 8
+- Illustration:
+
+<img src="/skills/pd.gif" style={{zoom:1}}/>
 
 ## Comments
 

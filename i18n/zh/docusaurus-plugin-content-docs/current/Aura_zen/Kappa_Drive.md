@@ -21,6 +21,11 @@ sidebar_position: 13
 - 评分：3.82 / 10
 - 有用的等级：1级、终极
 - 优先级：1 / 8
+- 技能演示：图一演示了更快地吸收能量粒子，图二演示你可以凭空产生能量，图三演示你的游戏时间可以被减慢。
+
+<img src="/skills/kd_energy.gif" style={{zoom:1}}/>
+<img src="/skills/kd_generate.gif" style={{zoom:1}}/>
+<img src="/skills/kd_slow.gif" style={{zoom:1}}/>
 
 ## 评价
 

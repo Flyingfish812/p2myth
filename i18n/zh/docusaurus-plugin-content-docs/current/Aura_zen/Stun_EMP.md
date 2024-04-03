@@ -21,6 +21,10 @@ sidebar_position: 2
 - 评分：8.09 / 10
 - 有用的等级：1级、终极
 - 优先级：2 / 8
+- 技能演示：图一演示了眩晕敌机炮台，图二演示了对敌机造成伤害。
+
+<img src="/skills/semp_stun.gif" style={{zoom:1}}/>
+<img src="/skills/semp_damage.gif" style={{zoom:1}}/>
 
 ## 评价
 
