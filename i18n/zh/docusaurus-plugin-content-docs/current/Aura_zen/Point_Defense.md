@@ -24,7 +24,7 @@ sidebar_position: 6
 - 优先级：4 / 8
 - 技能演示：
 
-<img src="/skills/phalanx.gif" style={{zoom:1}}/>
+<img src="/skills/pd.gif" style={{zoom:1}}/>
 
 ## 评价
 
