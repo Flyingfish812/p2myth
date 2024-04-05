@@ -14,6 +14,14 @@ PC端与平板横屏模式的用户，请点击右上角的语言切换按钮选
 
 :::
 
+:::info[Phoenix 2 Survey]
+
+2024-04-05：
+
+Dear players, hope that you can spend a few minutes on this survey. We are very interested in your feedback and opinions. The result will be publish every 15 replies. [Link to Survey](https://docs.google.com/forms/d/e/1FAIpQLSflHodYJSqPE0A9bH4xvkWjO9ccupA-eZ62-pbd-xKfopK7cA/viewform)
+
+:::
+
 :::info[To visitors]
 
 2024-03-20：
@@ -28,14 +36,6 @@ iends and other players, we hope that all players can benefit from this site.
 2024-03-29：
 
 The great community competition event "Felix-Felicis" held by One community is ongoing! This event is a joint event for players from BHS, Myth, One, welcome to join in the event! [For details](/docs/Event/Felix-Felicis.md)
-
-:::
-
-:::info[Blogs]
-
-2024-03-29：
-
-Blogs are available now! Please click the link to visit the [blog page](/blog).
 
 :::
 

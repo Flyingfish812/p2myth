@@ -6,6 +6,14 @@ sidebar_position: 1
 
 ## 公告栏
 
+:::info[Phoenix 2小调查]
+
+2024-04-05：
+
+亲爱的玩家们，希望你可以花费几分钟的时间填写一下这份Phoenix 2调查表，我们很期待收到你对游戏的反馈。问卷调查的结果会在每收到15份回复时发布。[调查链接（Google）](https://docs.google.com/forms/d/e/1FAIpQLSflHodYJSqPE0A9bH4xvkWjO9ccupA-eZ62-pbd-xKfopK7cA/viewform)
+
+:::
+
 :::info[致玩家们]
 
 2024-03-20：
