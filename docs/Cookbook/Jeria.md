@@ -94,7 +94,7 @@ We use some invader configurations from the first act as a demonstration.
 
     One raven requires two shots to deal with it, while the remaining two sparrows should be tackled by diving to the front row for elimination, also to avoid empty shots.
 
-    <img src="/JeriaCB/jeria13.gif" style={{zoom:0.5}}/>
+    <img src="/JeriaCB/jeria13.gif" style={{zoom:1}}/>
 
     There are many variations of this, such as the raven being in the back or front, or the raven and two sparrows being in the same row (front or back). The strategies for these situations are similar, all following the simple principle of prioritizing prefire positions for invaders in the back row.
 
@@ -104,14 +104,14 @@ We use some invader configurations from the first act as a demonstration.
 
     If you encounter this configuration in the first wave, you only need to prefire two shots on one side. For the remaining raven, we will choose to dive and eliminate.
 
-    <img src="/JeriaCB/jeria14.gif" style={{zoom:0.5}}/>
+    <img src="/JeriaCB/jeria14.gif" style={{zoom:1}}/>
 
 - Extra: Continuous Prefire
 
     The prefire technique can lead to many new gameplay strategies, and it's impossible to list and explain all possible configurations. When you're in the game, remember one principle: the moment the last shot of the previous wave ends is the best time to prefire for the next wave.
 
     For example, in the community mission demonstration below, act 1 only has a small number of invader combinations that can be instantly eliminated using the prefire technique. When the invaders of the previous wave are killed, immediately prefire for the next wave to form a cycle:
-    <img src="/JeriaCB/jeria15.gif" style={{zoom:0.5}}/>
+    <img src="/JeriaCB/jeria15.gif" style={{zoom:1}}/>
 
 In summary, the prefire technique can be considered the essence of Jeria's main weapon. Its role is to maximize the damage of the main weapon while avoiding wasting damage due to the chaotic movement of invaderes. When you need to prefire, always prioritize targeting invaders in the back row. Prefire technique not only makes it easy for you to pass through the early waves but also provides significant assistance in the later waves. Generally, the moment the last shot of the previous wave is fired is the best time for you to prefire for the next wave.
 

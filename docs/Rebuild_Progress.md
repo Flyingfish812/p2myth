@@ -11,6 +11,8 @@ sidebar_position: 2
 
 The first part of Jeria's Cookbook is now available.
 
+Document search on this site is on test. It's normal if it doesn't function well.
+
 ## V1.2.1
 
 - Version: 1.2.1

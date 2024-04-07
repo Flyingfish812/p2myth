@@ -165,6 +165,13 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Flyingfish812, All right reserved. Built with Docusaurus.`,
       },
+      algolia:{
+        appId: "CGXJG0OWTY",
+        apiKey: "4ca857df281c25d0d4029c1d838396af",
+        indexName: "p2myth",
+        contextualSearch: true,
+        debug: false,
+      },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
