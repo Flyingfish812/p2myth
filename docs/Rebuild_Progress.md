@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.2.2
+
+- Version: 1.2.2
+- Update time: 2024-04-07
+
+The first part of Jeria's Cookbook is now available.
+
 ## V1.2.1
 
 - Version: 1.2.1

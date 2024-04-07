@@ -183,4 +183,6 @@ At the same time, all players and spectators are welcome to publish relevant rep
 
 Due to the large number of participants, please keep the name on the leaderboard the same as the ID on the sign-up form throughout the event for the sake of statistics.
 
+A feedback survey will be available when the 3rd round starts, please stand by.
+
 Sign-up has ended. You can see the group info in the [Schedule page](Schedule.md).

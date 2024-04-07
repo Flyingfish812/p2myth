@@ -35,16 +35,16 @@ We will list the schedule of the ongoing event here.
     | Team  23 | Davin XII  (vomer)              | H                |
     | Team  24 | Jazz Plays  Animation           | 希阳             |
     | Team  25 | i toast  toast                  | 文璇             |
-    | Team  26 | Elysium                         | 早               |
+    | Team  26 | Davin II                        | 早               |
     | Team  27 | sleet                           | 浪子             |
     | Team  28 | Ultimate  Phase                 | 哇咔咔           |
     | Team  29 | i toast  crunch                 | 半旧             |
     | Team  30 | cronascratos                    | 达拉斯老司机     |
     | Team  31 | Miltllama                       | 🐬苏🐬          |
     | Team  32 | Adeline G                       | Sylvester        |
-    | Team  33 | Marco                           | 爱打飞机的律师   |
-    | Team  34 | Angel  Alberto Palacios Sanchez | 皓灬Scorpion丿   |
-    | Team  35 | Fvrvain                         | _-西风烈-_       |
+    | Team  33 | Alex                            | 爱打飞机的律师   |
+    | Team  34 | Niu                             | 皓灬Scorpion丿   |
+    | Team  35 | Fvrvain                         | \_-西风烈-\_     |
     | Team  36 | 🐋Syz°.fish🐬                  | One.vic          |
 
 - In-game nicknames
@@ -76,14 +76,20 @@ We will list the schedule of the ongoing event here.
     | Team  23 | H                | 冲刺！冲刺！      |
     | Team  24 | 我永远喜欢清纯蛋 | jazz Plays  Shmup |
     | Team  25 | 文璇             | i toast  toast    |
-    | Team  26 | 早               | Elysium           |
+    | Team  26 | 早               | Phoenix Pilot     |
     | Team  27 | prodigal         | sleet🏳️            |
     | Team  28 | 哇咔咔           | Hi                |
     | Team  29 | 半旧             | i toast  crunch   |
     | Team  30 | 达拉斯老司机     | cronascratos      |
     | Team  31 | 🐬苏🐬          | 🦙                |
     | Team  32 | Sylvester        | Illuminara34      |
-    | Team  33 | 爱打飞机的律师   | Marz              |
-    | Team  34 | 皓灬Scorpion丿   | Plcios 824        |
+    | Team  33 | 爱打飞机的律师   | Nyoom！Alex：D     |
+    | Team  34 | 皓灬Scorpion丿   | Niu               |
     | Team 35  | \_-西风烈-\_       | Fvrvain           |
     | Team 36  | One.vic          | 🐋Syz.FELIX🐬     |
+
+- Member changes:
+
+- - Team 26: Elysium → Davin II (Phoenix Pilot)
+- - Team 33: Marz → Alex (Nyoom！Alex：D)
+- - Team 34: Angel  Alberto Palacios Sanchez → Niu (Niu)
