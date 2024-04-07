@@ -167,7 +167,7 @@ const config = {
       },
       algolia:{
         appId: "CGXJG0OWTY",
-        apiKey: "4ca857df281c25d0d4029c1d838396af",
+        apiKey: "09c01bbd31788a6821798e8d86704b74",
         indexName: "p2myth",
         contextualSearch: true,
         debug: false,
