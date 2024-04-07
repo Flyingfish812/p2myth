@@ -112,7 +112,7 @@ We list the ships by different categories. Since some lists are very long, you h
     <a href="Cinnri" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_18.png" style={{zoom:0.2,marginRight:'50px'}}/>Cinnri</a><br/>
     <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>Buhloo</a><br/>
     <a href="Geist" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_23.png" style={{zoom:0.2,marginRight:'50px'}}/>Geist</a><br/>
-    <a href="Tillat'or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'or</a><br/>
+    <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'Or</a><br/>
     <a href="Elyon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_26.png" style={{zoom:0.2,marginRight:'50px'}}/>Elyon</a><br/>
     <a href="Aurora" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_35.png" style={{zoom:0.2,marginRight:'50px'}}/>Aurora</a><br/>
     <a href="Gorthaur" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_37.png" style={{zoom:0.2,marginRight:'50px'}}/>Gorthaur</a><br/>
@@ -159,7 +159,7 @@ We list the ships by different categories. Since some lists are very long, you h
   <TabItem value="double-defense" label="Double Defense" attributes={{className: tag.doubleDefense}}>
     <a href="Phoenix" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_19.png" style={{zoom:0.2,marginRight:'50px'}}/>Phoenix</a><br/>
     <a href="Czar" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_21.png" style={{zoom:0.2,marginRight:'50px'}}/>Czar</a><br/>
-    <a href="Tillat'or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'or</a><br/>
+    <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'Or</a><br/>
     <a href="Aurora" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_35.png" style={{zoom:0.2,marginRight:'50px'}}/>Aurora</a><br/>
     <a href="Gorthaur" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_37.png" style={{zoom:0.2,marginRight:'50px'}}/>Gorthaur</a><br/>
     <a href="Hunter" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_47.png" style={{zoom:0.2,marginRight:'50px'}}/>Hunter</a><br/>
@@ -293,7 +293,7 @@ We list the ships by different categories. Since some lists are very long, you h
     <a href="Jn'dur" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_8.png" style={{zoom:0.2,marginRight:'50px'}}/>Jn'dur</a><br/>
     <a href="Razor VI" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_11.png" style={{zoom:0.2,marginRight:'50px'}}/>Razor VI</a><br/>
     <a href="Kada Veni" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_15.png" style={{zoom:0.2,marginRight:'50px'}}/>Kada Veni</a><br/>
-    <a href="Tillat'or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'or</a><br/>
+    <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'Or</a><br/>
     <a href="Gorthaur" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_37.png" style={{zoom:0.2,marginRight:'50px'}}/>Gorthaur</a><br/>
     <a href="Heechi" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_38.png" style={{zoom:0.2,marginRight:'50px'}}/>Heechi</a><br/>
     <a href="Sakura" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_40.png" style={{zoom:0.2,marginRight:'50px'}}/>Sakura</a><br/>
@@ -446,7 +446,7 @@ We list the ships by different categories. Since some lists are very long, you h
   <TabItem value="teleport" label="Teleport" attributes={{className: tag.defensive}}>
     <a href="Trireme" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_17.png" style={{zoom:0.2,marginRight:'50px'}}/>Trireme</a><br/>
     <a href="Czar" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_21.png" style={{zoom:0.2,marginRight:'50px'}}/>Czar</a><br/>
-    <a href="Tillat'or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'or</a><br/>
+    <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'Or</a><br/>
     <a href="Xaniea" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_30.png" style={{zoom:0.2,marginRight:'50px'}}/>Xaniea</a><br/>
     <a href="Aurora" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_35.png" style={{zoom:0.2,marginRight:'50px'}}/>Aurora</a><br/>
     <a href="Prime X" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_39.png" style={{zoom:0.2,marginRight:'50px'}}/>Prime X</a><br/>
@@ -551,7 +551,7 @@ We list the ships by different categories. Since some lists are very long, you h
     <a href="Czar" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_21.png" style={{zoom:0.2,marginRight:'50px'}}/>Czar</a><br/>
     <a href="Havoc" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_22.png" style={{zoom:0.2,marginRight:'50px'}}/>Havoc</a><br/>
     <a href="Juggernaut" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_24.png" style={{zoom:0.2,marginRight:'50px'}}/>Juggernaut</a><br/>
-    <a href="Tillat'or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'or</a><br/>
+    <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'Or</a><br/>
     <a href="Vuxine" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_28.png" style={{zoom:0.2,marginRight:'50px'}}/>Vuxine</a><br/>
     <a href="Photurius" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_29.png" style={{zoom:0.2,marginRight:'50px'}}/>Photurius</a><br/>
     <a href="Arietis" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_31.png" style={{zoom:0.2,marginRight:'50px'}}/>Arietis</a><br/>
@@ -672,7 +672,7 @@ We list the ships by different categories. Since some lists are very long, you h
     <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>Buhloo</a><br/>
     <a href="Havoc" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_22.png" style={{zoom:0.2,marginRight:'50px'}}/>Havoc</a><br/>
     <a href="Juggernaut" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_24.png" style={{zoom:0.2,marginRight:'50px'}}/>Juggernaut</a><br/>
-    <a href="Tillat'or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'or</a><br/>
+    <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'Or</a><br/>
     <a href="Elyon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_26.png" style={{zoom:0.2,marginRight:'50px'}}/>Elyon</a><br/>
     <a href="Atlas" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_32.png" style={{zoom:0.2,marginRight:'50px'}}/>Atlas</a><br/>
     <a href="Essin" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_33.png" style={{zoom:0.2,marginRight:'50px'}}/>Essin</a><br/>
@@ -775,7 +775,7 @@ In the following categories, ships' tiers are divided into 5 levels. For level A
     <a href="Razor VI" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_11.png" style={{zoom:0.2,marginRight:'50px'}}/>Razor VI</a><br/>
     <a href="Torrent" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_55.png" style={{zoom:0.2,marginRight:'50px'}}/>Torrent</a><br/>
     <a href="Predator" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_70.png" style={{zoom:0.2,marginRight:'50px'}}/>Predator</a><br/>
-    <a href="Tillat'or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'or</a><br/>
+    <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'Or</a><br/>
     <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>Vani-Vith</a><br/>
     <a href="Zimitr" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_90.png" style={{zoom:0.2,marginRight:'50px'}}/>Zimitr</a><br/>
     <a href="Gorthaur" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_37.png" style={{zoom:0.2,marginRight:'50px'}}/>Gorthaur</a><br/>
@@ -955,7 +955,7 @@ In the following categories, ships' tiers are divided into 5 levels. For level A
     <a href="502-Q8" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_44.png" style={{zoom:0.2,marginRight:'50px'}}/>502-Q8</a><br/>
     <a href="Esperon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_95.png" style={{zoom:0.2,marginRight:'50px'}}/>Esperon</a><br/>
     <a href="Yoth-Hola" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_10.png" style={{zoom:0.2,marginRight:'50px'}}/>Yoth-Hola</a><br/>
-    <a href="Tillat'or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'or</a><br/>
+    <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'Or</a><br/>
     <a href="Barret" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_50.png" style={{zoom:0.2,marginRight:'50px'}}/>Barret</a><br/>
     <a href="Ogon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_27.png" style={{zoom:0.2,marginRight:'50px'}}/>Ogon</a><br/>
     <a href="Aurora" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_35.png" style={{zoom:0.2,marginRight:'50px'}}/>Aurora</a><br/>
@@ -1054,7 +1054,7 @@ In the following categories, ships' tiers are divided into 5 levels. For level A
     <a href="X-81" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_66.png" style={{zoom:0.2,marginRight:'50px'}}/>X-81</a><br/>
     <a href="Scuuxun" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_67.png" style={{zoom:0.2,marginRight:'50px'}}/>Scuuxun</a><br/>
     <a href="Yoth-Hola" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_10.png" style={{zoom:0.2,marginRight:'50px'}}/>Yoth-Hola</a><br/>
-    <a href="Tillat'or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'or</a><br/>
+    <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>Tillat'Or</a><br/>
     <a href="Tempest" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_9.png" style={{zoom:0.2,marginRight:'50px'}}/>Tempest</a><br/>
     <a href="NC-271" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_69.png" style={{zoom:0.2,marginRight:'50px'}}/>NC-271</a><br/>
     <a href="Starless" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_87.png" style={{zoom:0.2,marginRight:'50px'}}/>Starless</a><br/>

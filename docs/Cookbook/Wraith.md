@@ -139,7 +139,7 @@ For these types of sweeps, the key is to go fast as to avoid invaders drifting t
 
 The most underrated component of Wraith is the importance of MB. It is recommended to never have MB cooldown fully recovered since it typically indicates missed opportunities. For example, the time between entering 3-1 and entering 4-1 is often close to 12 seconds (assuming only a 3-1 MB is used), which is why it is often advantageous to use an additional MB in act 3 (for example, MB on 3-1, 3-2 or 3-1, 3-3).
 
-For general details about MB, I refer users to the [Proxymar guide](https://p2myth.club/Cookbook/Proxymar), which covers much of the MB basics. 
+For general details about MB, I refer users to the [Proxymar guide](https://p2myth.club/docs/Cookbook/Proxymar), which covers much of the MB basics. 
 
 Now for specific techniques:
 

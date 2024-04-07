@@ -172,10 +172,11 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Flyingfish812, All right reserved. Built with Docusaurus.`,
       },
-      algolia:{
+      algolia: {
         appId: 'CGXJG0OWTY',
         apiKey: '09c01bbd31788a6821798e8d86704b74',
         indexName: 'p2myth',
+        searchParameters: {},
         contextualSearch: true,
         debug: false,
       },
