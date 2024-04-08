@@ -174,10 +174,10 @@ const config = {
       },
       algolia: {
         appId: 'CGXJG0OWTY',
-        apiKey: '09c01bbd31788a6821798e8d86704b74',
+        apiKey: 'c1352c3376d0a0208860dc865649f1c5',
         indexName: 'p2myth',
         searchParameters: {},
-        contextualSearch: true,
+        contextualSearch: false,
         debug: false,
       },
       prism: {

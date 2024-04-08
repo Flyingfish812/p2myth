@@ -10,10 +10,6 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import { translate } from '@docusaurus/Translate';
 import { Analytics } from '@vercel/analytics/react';
-import algoliasearch from 'algoliasearch/lite';
-
-const searchClient = algoliasearch('CGXJG0OWTY', '09c01bbd31788a6821798e8d86704b74');
-const index = searchClient.initIndex('p2myth');
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -60,9 +56,6 @@ export default function Home() {
         <br></br>
       <HomepageHeader/>
       <main className={clsx(styles.center, styles.transparent)}>
-        <div className={styles.center}>
-          
-        </div>
         <Analytics />
       </main>
       </body>
