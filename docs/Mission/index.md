@@ -6,6 +6,8 @@ This page provides you with Technical Details & General Approach to each Mission
 
 Notice: The mission debriefing for all 3 types of missions, Daily, Community and Specialist, will only come at the fastest, 15 minutes after the mission reset time.
 
+Since the editor himself doesn't like the community missions, you can [visit this page](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/community-missions) to get a full view of community missions, including the currently active communities as well as their refresh time of community missions.
+
 ## Briefing
 
 The configurations of daily missions are more and more ridiculous nowadays. For instance, Doomsday MIRVs may appear in Laser Spam missions (a mixture of both pellet and laser MIRVs, in mission type 6), and all Ravens in MIRV Spam missions may be equipped with level 2 MIRV launchers.

@@ -4,6 +4,15 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.2.3
+
+- Version: 1.2.3
+- Update time: 2024-04-08
+
+Document search is now available, click on the right top corner and you can search for contents in our site.
+
+We have updated links in some pages, as a compliment of contents that we haven't included here.
+
 ## V1.2.2
 
 - Version: 1.2.2

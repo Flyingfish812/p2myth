@@ -93,3 +93,9 @@ We will list the schedule of the ongoing event here.
 - - Team 26: Elysium → Davin II (Phoenix Pilot)
 - - Team 33: Marz → Alex (Nyoom！Alex：D)
 - - Team 34: Angel  Alberto Palacios Sanchez → Niu (Niu)
+
+### Results
+
+Results for round 1:
+
+<img src="/events/felix-felicis-round-1.jpg" style={{zoom:1}}/>

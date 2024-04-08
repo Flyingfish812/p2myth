@@ -28,6 +28,10 @@ Here are the upgrade prices for the ships:
 
 We list the ships by different categories. Since some lists are very long, you have to choose a tab in a category according to the ships you want to find.
 
+We also offer you a recommendation table. Noticing that it's only a recommendation of ships for beginners, it's better for you to get a full look at the ships before you buy or upgrade a ship.
+
+[Beginner-friendly tier list](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/beginner-friendliness-list)
+
 <Tabs>
   <TabItem value="none" label="Affinity"/>
   <TabItem value="shield" label="Shield" attributes={{className: tag.shield}}>

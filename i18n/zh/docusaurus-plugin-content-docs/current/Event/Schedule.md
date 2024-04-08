@@ -93,3 +93,9 @@
 - - Team 26: Elysium → Davin II (Phoenix Pilot)
 - - Team 33: Marz → Alex (Nyoom！Alex：D)
 - - Team 34: Angel  Alberto Palacios Sanchez → Niu (Niu)
+
+### 比赛结果
+
+第一轮成绩公布：
+
+<img src="/events/felix-felicis-round-1.jpg" style={{zoom:1}}/>

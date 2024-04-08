@@ -4,7 +4,22 @@
 
 Due to some technical failure, we have lost track of the history version of Phoenix 2 before 5.5. So we just list the changes of versions after 5.5.
 
+You can [click here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/phoenix-2-version-history) to check the full history version of Phoenix 2.
+
 ## Version History
+
+### 6.3.9 Feb 7, 2024
+A new wave difficulty indicator has been added to mission intel. It shows which waves are the most challenging for pilots attempting the mission.
+
+Daily Missions are updated. Existing Invaders and their turrets will be deployed in new ways to provide new experiences and more variation, get ready!
+
+- Very Sparrow dense waves are removed.
+- Heavier waves are introduced.
+- Most waves are heavier now, so AoE damage means are slightly less effective.
+- Waves with smaller invaders in front and behind of a Vulture are re-introduced.
+- Eagles can now appear in front of Condors. 4 Ravens can still appear behind a Condor.
+- The Doomsday MIRV weapon  is retired.
+- The Doomsday Super MIRV weapon  is introduced, first to the gold ranks (Colonel, Major & Commander), and then to Marshal rank.
 
 ### 6.3.8 Feb 4, 2024
 This update adds Hindi support for Phoenix 2.

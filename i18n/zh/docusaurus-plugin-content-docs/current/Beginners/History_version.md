@@ -4,7 +4,22 @@
 
 由于不可抗力的原因，版本5.5之前的更新记录已无法追溯，因此本页面只呈现自版本5.5开始的历史记录。
 
+完整的历史版本记录可[点击此处](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/phoenix-2-version-history)查看。
+
 ## 历史版本
+
+### 6.3.9 Feb 7, 2024
+A new wave difficulty indicator has been added to mission intel. It shows which waves are the most challenging for pilots attempting the mission.
+
+Daily Missions are updated. Existing Invaders and their turrets will be deployed in new ways to provide new experiences and more variation, get ready!
+
+- Very Sparrow dense waves are removed.
+- Heavier waves are introduced.
+- Most waves are heavier now, so AoE damage means are slightly less effective.
+- Waves with smaller invaders in front and behind of a Vulture are re-introduced.
+- Eagles can now appear in front of Condors. 4 Ravens can still appear behind a Condor.
+- The Doomsday MIRV weapon  is retired.
+- The Doomsday Super MIRV weapon  is introduced, first to the gold ranks (Colonel, Major & Commander), and then to Marshal rank.
 
 ### 6.3.8 Feb 4, 2024
 This update adds Hindi support for Phoenix 2.

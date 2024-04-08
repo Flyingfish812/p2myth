@@ -28,6 +28,10 @@ import tag from '/src/css/tag.module.css';
 
 我们以不同的分类罗列战机，由于有些列表过于长，你需要根据你想查询的战机手动选择类别。
 
+我们也为你提供一份战机推荐表。注意，这份推荐表旨在为新手推荐战机，我们建议玩家在购入或升级某一架战机前对这个战机先有全面的了解。
+
+[新手向战机推荐表（英语版）](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/beginner-friendliness-list)
+
 <Tabs>
   <TabItem value="none" label="武器类型"/>
   <TabItem value="shield" label="破盾" attributes={{className: tag.shield}}>
