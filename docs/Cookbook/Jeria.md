@@ -119,4 +119,38 @@ In summary, the prefire technique can be considered the essence of Jeria's main 
 
 We make the two skills together, because they are usually paired with the prefire skill.
 
-To be continued ...
+Most of the time, the combination of these skills is slowly cultivated by players based on their feelings, so it's not to say that a certain configuration needs to adopt such techniques to be the best solution. However, within these various "feelings", there are still some patterns to follow. In this section, the editor hopes that after players have watched the listed technique illustrations, you will **intentionally** apply these techniques in missions. Once your gaming awareness is trained to a certain level, these skills will naturally be applied through muscle memory, reaching a state where you can score high based on intuition.
+
+Attention, players!
+
+- Don't waste your mains before Vorpal Lance
+
+    <img src="/JeriaCB/jeria16.gif" style={{zoom:1}}/>
+
+    This technique emphasizes that during the transition between two waves, it's usually possible to fire the main weapon twice, though most of the time they would be wasted. However, in act 1 and 2, as shown in the inverted triangle formation above, you can prefire to use those two shots to eliminate one of the ravens. Then, while the remaining two ravens have not moved yet, quickly penetrate them with a Vorpal Lance.
+
+- Prefire enough in wave 1 of each act
+
+    <img src="/JeriaCB/jeria17.gif" style={{zoom:1}}/>
+
+    Similar to the prefire at the start of the game, this is another extension of the prefire technique. In the act 1, where there are fewer invaders, players can fully develop their awareness of prefiring. However, starting from act 2, as the density of invaders increases, the accuracy required for prefiring greatly increases. As a result, act 2 often becomes a challenging area for Jeria players. Dealing with these less dense invaders, the Vorpal Lance seems superfluous, and Reflex EMP is not sufficient, leading to a gap in performance during this scene.
+
+    The accuracy of the main weapon can become a decisive factor in creating a gap under specific configurations. More accurate main weapon fire, as demonstrated in the illustration above, can save you a Reflex EMP to be used in attacks where it's harder to control the main weapon. It is often said that Jeria's speedrunning lies in the operation of various skills, and more proficient mastery can allow you to more naturally manage the use of each function.
+
+    <img src="/JeriaCB/jeria20.gif" style={{zoom:1}}/>
+
+    Another reason for this claim is that herons and eagles usually require additional main weapon fire to be eliminated. For example, in the formation shown above, a single Reflex EMP is not enough to eliminate herons, each of which needs an additional three shots from the main weapon or one Vorpal Lance. But if you prefire, the extra four shots from the main weapon can save you a lot of effort. Think about it, if you don't prefire, you would have to compensate with two Vorpal Lances or six shots from the main weapon, sacrificing either time or energy.
+
+- Vorpal Lance the line-ups
+
+    <img src="/JeriaCB/jeria18.gif" style={{zoom:1}}/>
+
+    This statement is easy to understand, precisely because it takes into account the characteristics of the Vorpal Lance's straight-line attack. The more invaders there are in a single column, the greater the benefit of the Lance. Therefore, in early attacks, we usually don't use Reflex EMP on vertically aligned invaders. The same principle applies during intense attacks later on; when invaders cluster together, don't hesitate to fire the Lance.
+
+- REMP the enemies in a row
+
+    <img src="/JeriaCB/jeria19.gif" style={{zoom:1}}/>
+
+    Clearly, such a configuration is not very friendly to either the main weapon or the Vorpal Lance, but fortunately, we have the Reflex EMP to deal with this situation well. When you see a horizontal row of invaders, especially a row of sparrows, don't hesitate, just rush in and reflect. Of course, it's important to note that prefiring is still very important, whether against herons, shielded ravens, or eagles, it's worth it to prefire before rushing into the invaders to release the Reflex EMP.
+
+- To be continued ...
