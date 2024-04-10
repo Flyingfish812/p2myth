@@ -11,3 +11,4 @@ Phoenix 2游戏运营方并不会举行很多官方的活动，但这并不妨�
 - [活动简介](Felix-Felicis.md)
 - 报名已截止
 - [赛程](Schedule.md)
+- [赛事反馈表](https://docs.qq.com/form/page/DQXZYS0JLZVZIV1Vw)
