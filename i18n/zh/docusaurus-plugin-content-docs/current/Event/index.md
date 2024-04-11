@@ -6,7 +6,7 @@ Phoenix 2游戏运营方并不会举行很多官方的活动，但这并不妨�
 
 ### Felix-Felicis
 
-- 由One社区主办的大型活动，BHS、Myth、One社区玩家的联合比赛。
+- 由皓°-Scorpion丿（One社区）主办的大型活动，BHS、Myth、One社区玩家的联合比赛。
 - 开始时间：2024年4月4日晚23点（UTC+8）
 - [活动简介](Felix-Felicis.md)
 - 报名已截止
