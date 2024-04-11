@@ -98,4 +98,8 @@
 
 第一轮成绩公布：
 
-<img src="/events/felix-felicis-round-1.jpg" style={{zoom:1}}/>
+<img src="/events/felix-felicis-round-1.jpg" style={{zoom:0.8}}/>
+
+第二轮成绩公布：
+
+<img src="/events/felix-felicis-round-2.jpg" style={{zoom:0.8}}/>

@@ -98,4 +98,8 @@ We will list the schedule of the ongoing event here.
 
 Results for round 1:
 
-<img src="/events/felix-felicis-round-1.jpg" style={{zoom:1}}/>
+<img src="/events/felix-felicis-round-1.jpg" style={{zoom:0.8}}/>
+
+Results for round 2:
+
+<img src="/events/felix-felicis-round-2.jpg" style={{zoom:0.8}}/>
