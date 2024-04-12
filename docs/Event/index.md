@@ -6,7 +6,7 @@ The devs of the Phoenix 2 do not hold many official events, but this does not pr
 
 ### Felix-Felicis
 
-- A grand event held by 皓°-Scorpion丿, from One community, a joint competition for players from BHS, Myth, One.
+- A grand event held by 皓°-Scorpion丿, a joint competition for players from BHS, Myth, One.
 - Start time: April 4th, 2024, at 15:00 (GMT+0).
 - [Introduction](Felix-Felicis.md)
 - Registration has ended

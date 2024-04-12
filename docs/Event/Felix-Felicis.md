@@ -9,7 +9,7 @@
 Although we will players from those three communities to participate,but this not a competition between comms,it's a challenge between teams,hope everyone enjoy the challenge,enjoy the game!
 
 - Players need to fill in a form to sign up, the link is at the bottom of the page. **The deadline for signing up is April 3, 04:00 (GMT+0)**.
-- Organizer: 皓°-Scorpion丿, the Community One
+- Organizer: 皓°-Scorpion丿
 - Start Time: April 4th, 2024, at 15:00 (GMT+0), the community mission #3.
 - Competition Held in Community: Felix-Felicis
 - All registered players are asked to quit your current community before the start of the event, and join the competition community (Felix-Felicis). After the competition, you can quit and return to your original community.
