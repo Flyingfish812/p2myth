@@ -90,3 +90,11 @@
 - 评分：2.82 / 5
 
 这个皮肤使你能在某些极其危险的阵型中打出更高的爆发伤害，尤其是那些充满菊花炮台的阵型。你应该提前一两波开始攒穿刺长矛的计数器点数。等合适的时机到来时，5发穿刺长矛能直接融化除大型或更大敌机以外的所有敌机。除此之外，这个皮肤对速通没什么特别大的帮助，因为很少有接连的用不到穿刺长矛的几波敌阵，使你难以有机会攒到4发以上并在之后某波中一次性使用。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EiO8TyazRKE?si=wE5NQ6hkgOwaxKFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=594509033&bvid=BV1hq4y147Ed&cid=543358467&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

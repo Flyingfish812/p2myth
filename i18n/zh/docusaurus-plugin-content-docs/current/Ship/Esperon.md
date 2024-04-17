@@ -84,3 +84,11 @@
 - 评分：1.73 / 5
 
 它给禅宗带来了短时的眩晕效果，作为生存向的提升，它能给你在激光关重置一些危险的激光并给你带来一定的生存空间。它的劣势在于克洛威尔ATS只有四发导弹，除了大型敌机，在密集的敌机群中它几乎发挥不了什么作用。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6TVWHuhlQo?si=xgSMmWMoVwBYhZNW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=589153340&bvid=BV1vB4y1N7wX&cid=371121839&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

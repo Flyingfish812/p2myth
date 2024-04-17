@@ -99,3 +99,10 @@ Speedrun options limited to unprotected missions. Generally speaking, to clear t
 
 This thing decimates Shield invaders. The insane damage boost of this apex to Shield invaders not only decimate ALL Shield Ravens instantly (due to how easy is it to set up MB anywhere you need), but severely cripples the shields of invaders, requiring only 1 or 2 more bursts of the main to strip them completely for Vultures. The best part is how this apex synergizes so well with its HI weapon, with the SB MB so quickly stripping the shield, allowing crits to be quickly scored and thus destroying even the biggest of invaders so quickly. In fact, it is so powerful, it is even recommended you pull off 2 SB MBs on a Shield Roc, as the SB bonus from SB MB is so humongous that it is faster to use SB MB than to use your main. You can basically think of Phi Baqlor as base Baqlor in Hull, except that it's a bit faster to kill invaders, and you have to watch out for shurikens and pellets that can randomly flood the field. However, the insane speed of killing invaders make deploying CF so easy, that you almost never have a time where you don't have a CF deployed, or even if you do, there is very little left to deal with. Speedrunning in General Shield missions have never been so easy with Phi Baqlor, with it quite easily obtaining a Top 1% in the S4 league without much of a sweat, with only the need to land MBc correctly.
 
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sI96OuK94OQ?si=mhAjTouSeMOcZJ3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=62871282&bvid=BV1ot411N7SH&cid=109220898&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

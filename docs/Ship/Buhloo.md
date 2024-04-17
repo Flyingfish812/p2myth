@@ -84,3 +84,11 @@ As a speedrunning ship with absolutely no defence at all, this apex boosts it sp
 - Score: 3.18 / 5
 
 Gamma Buhloo's presence is very low, because the bonus brought by Laser Storm's High Power APEX is too efficient. Most of the time, you don't need to be at the bottom to charge bombs, because you can take advantage of the long duration of the main weapon to make full use of this time to charge bombs. Once again, you can also choose to finish a wave with Laser Storm and use this time to charge up a bomb in the middle of the screen. In short, it doesn't have the difficulty of charging bombs like the Wraith, so this APEX is not that necessary.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/04ZL34OfOPk?si=lT8RDqIZWF7y_pRH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=445000520&bvid=BV1Qj411D7SA&cid=1172262344&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

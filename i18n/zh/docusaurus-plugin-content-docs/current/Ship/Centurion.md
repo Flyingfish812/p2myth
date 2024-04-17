@@ -85,3 +85,11 @@
 - 评分：1.55 / 5
 
 这个皮肤的增益原本是为了加强护盾的橡皮擦技能而设计，但实战过程中依赖橡皮擦技能会导致主炮的节奏受到影响。相比而言，没有这一加成的原皮手感更好一些。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sDaLtMeW2q8?si=La9arBHiicCBBt98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=917962259&bvid=BV1Mu4y1a7xd&cid=1321215218&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

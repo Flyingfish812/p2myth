@@ -88,3 +88,11 @@
 更快释放激光风暴的能力缓解了光环和禅宗组合不佳带来的问题。由于它二攻机的特性，密集波可能导致在杀死敌机时能量溢出。这个皮肤允许伊莲释放更多的激光风暴来提速。
 
 在第一段主炮结束时开启满光环能达到最佳输出状态，因为第二段和第三段主炮加起来的时间与激光风暴高能量刚好契合，如果能量供应足够甚至能形成循环，再用卡帕注意躲弹玩起来相当欢乐；如果是小光环就等到第三段主炮再开，集中火力打死一个算一个——前提是光环里有敌机。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AhoCrxrKByQ?si=vFco9PQ1I1vWGSl9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1851634491&bvid=BV1pW421c7CG&cid=1466273908&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

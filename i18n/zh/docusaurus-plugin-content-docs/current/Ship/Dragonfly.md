@@ -96,3 +96,11 @@
 - 评分：1.82 / 5
 
 很可惜的一点是，如果把离子加农炮的两个皮肤放在同一架战机上选择的话，一定是爆炸放大器比过充更强力。不仅是出于爆炸放大器可以增加伤害，更是因为过充的离子加农炮的眩晕半径比起爆炸放大器来说没好到哪里去。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LhfIJADD074?si=6xi4R8TuFqnS94no" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=319411556&bvid=BV1pw411y7Ae&cid=1291874442&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

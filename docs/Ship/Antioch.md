@@ -90,3 +90,11 @@ This apex is really fun! Because of the wider VL, it is significantly easier to 
 - Score: 2.82 / 5
 
 This apex is good for the extra push that you require on certain waves that are extremely dangerous, particularly, those that are MIRV heavy. You would then stockpile on VLs in the previous wave or 2, so that you will reach the full 5 VLs, capable of wiping out even the toughest invaders discounting Vultures and above. Otherwise, it only helps very slightly for speedrunning, as there are rarely consecutive waves where VL just isn't necessary and you can fill slightly beyond 4 VLs to push for a better time in other waves ahead.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EiO8TyazRKE?si=wE5NQ6hkgOwaxKFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=594509033&bvid=BV1hq4y147Ed&cid=543358467&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

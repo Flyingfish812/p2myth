@@ -88,3 +88,11 @@
 - 评分：1.55 / 5
 
 增加的清弹范围使你能更加冒险地瞬移进敌阵中释放歌利亚导弹。除此之外，它带来的提升微乎其微。不像大剑的另一个皮肤，这个皮肤的效果在瞬移后立竿见影，而不用计算歌利亚导弹的提前量。这使这个皮肤更适合新手一些。当然，相比另一个皮肤，这个皮肤清除子弹的范围更小。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COfnVWKlf_U?si=H5F7fwQXPrfSKqcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=955063744&bvid=BV1fW4y1S7ZW&cid=1172685420&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

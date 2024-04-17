@@ -92,3 +92,11 @@ Due to the aggressive style of Arietis, constantly spamming PD to get closer to 
 - Score: 2.55 / 5
 
 The increase in damage for ML helps to plow through larger invaders much faster, so that less MIRVs are being pumped into the field, which allows PD to keep up with eliminating MIRVs even before they explode. It also allows for desperate ML riding where the massive graze from the mess of bullets can allow it to regain some PD when threatened with too many shuriken launchers. This is particularly demonstrated in 5-4.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ru5L1kcnWNw?si=mIezAwbfS4B5GZ0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=398522865&bvid=BV1Eo4y1V7GE&cid=1127830599&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

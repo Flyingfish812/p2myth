@@ -108,3 +108,12 @@ With the abundance of so many particles in daily missions, it is so easy to pull
 <img src="/illustration/main_35_tau.gif" style={{zoom:1}}/>
 
 This apex makes playing Aurora safer in the bullet hells of MIRV/Shuriken missions. You can simply sit back and let the nuke home onto its targets by itself. However, the homing nuke can be counterintuitive as attempts made to control where which invader it hits may end up making the nuke miss instead. The unpredictability of which invader the nuke is actually targeting makes it very difficult to make decisions to get up close to invaders. Because of this, this apex can make Aurora sometimes slower because it targets the wrong invaders, which can be bad at times because you need to slightly regulate your Aura usage, especially in heavy waves.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jyDbYO3Yn_4?si=znR6uVXkXDxDSyEy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=685847962&bvid=BV1XU4y1q7E7&cid=768942550&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>
+

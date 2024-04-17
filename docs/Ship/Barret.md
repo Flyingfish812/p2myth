@@ -91,3 +91,11 @@ A very powerful crowd clearer, particularly when Barret in base form struggles a
 - Score: 3.27 / 5
 
 As mentioned, Barret suffers from crowds of invaders due to the difficulty of IC to clear out small invaders quickly, as the blast radius of IC isn’t very huge. TP allows Barret extreme mobility to be able to TP behind and spam 2 or 3 ICs to clear out Ravens, catching the Sparrows in between. This makes this apex very viable, and turns IC into a heavily offensive tool, in fact, a pseudo VL (since you can go anywhere to spam IC), other than the fact it clears in clusters rather than columns. While it does take at least 2 ICs to clear out Ravens behind quickly compared to 1 VL, VL is generally unable to efficiently deal with Sparrows, which this enhanced IC can. Just be careful because due to the heavily offensive nature of IC in this apex, it is easy to run out of ICs when you go around happily spamming them. This means you can die by exhausting all of the ICs and getting trapped. A very fun and viable apex. The significantly buff to IC allows Barret to punch through small invaders quickly, but still be able to deal against larger invaders with deadly weapons such as boomerangs and spinners.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I1HP7Bgk-Cc?si=O71amGcCcBHdj2ue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=532660122&bvid=BV1pu411E7Zx&cid=1247148940&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

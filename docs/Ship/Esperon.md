@@ -85,3 +85,10 @@ This Apex upgrades Phalanx in a meaningful way, as Phalanx can now be used as a 
 
 This Apex enables Clover ATS to have stun utility, improving survivability, as you can reset a few dangerous laser turrets in laser-heavy missions. The disadvantage is that Clover ATS only launches 4 missiles, meaning its effectiveness is minimal in dense invader crowds, hence it only works when there are a few larger invaders on the field.
 
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D6TVWHuhlQo?si=xgSMmWMoVwBYhZNW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=589153340&bvid=BV1vB4y1N7wX&cid=371121839&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

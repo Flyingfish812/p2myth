@@ -108,3 +108,11 @@ With the piercing mechanic for railgun, this puts its Aura MS and Zen into less 
 - Score: 2.18 / 5
 
 The buff to MS gives this apex a slight advantage over its Sigma Apex since it retains its rather devastating raw damage from the minigun, but gains some AoE damage from explosive MS. The explosive MS works very well against very dense waves where the impact of the blast damage can be felt with the wave vaporizing much faster. Heavier waves can still be dealt with reasonably well with the raw damage output from both minigun and MS. However, the prevalence of many dense waves in daily mission still make the Sigma Apex much better, although this apex gives it slightly better capability to deal against larger invaders compared to the Sigma Apex and base form.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BWCxynnZwMs?si=KQJopnAu-4cKhH53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=283716255&bvid=BV1Pc41147Lm&cid=1403770120&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -88,3 +88,11 @@ Love to go right up to the invaders’ face? This apex is for you. The ability o
 - Score: 1.55 / 5
 
 The increase in clearance space allows you to take slightly higher risks in going in for the kill when TP-ing in to launch GMs. Otherwise, it is only a tiny buff which doesn’t change the playstyle of Claymore. Unlike its Lambda Apex, the effect is immediate upon arrival of TP, rather than needing to account for GM travel time for bullet clearance, which makes it slightly easier for less skilled players. The result is the clearance space is smaller for the Delta Apex.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COfnVWKlf_U?si=H5F7fwQXPrfSKqcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=955063744&bvid=BV1fW4y1S7ZW&cid=1172685420&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

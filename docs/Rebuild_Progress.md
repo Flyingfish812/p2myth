@@ -4,6 +4,15 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.3.0
+
+- Version: 1.3.0
+- Update time: 2024-04-17
+
+Congradulations on the completion of the event Felix-Felicis! We have published the summary of this event.
+
+Also, we have now enabled the video illustrations for ships on each page. Due to the heavy workload, only a small part of the ships have been added. We will continue to add the other ships soon.
+
 ## V1.2.3
 
 - Version: 1.2.3

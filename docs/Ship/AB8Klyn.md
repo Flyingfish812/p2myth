@@ -103,3 +103,11 @@ This APEX enhances Klyn's speedrun potential. Like most other ships with this AP
 - Score: 3.45 / 5
 
 This apex makes any affinity of MIRV/Shuriken mission a total cakewalk, no matter how difficult the mission may be. You just need to tap to use PD whenever you feel the need to. The energy usage of this apex is so efficient due to how many bullets are there on field, and how the depletion of Aura is quite minimal. To reduce usage even further, just pop in an REMP every now and then (ensuring it's sufficiently cooled down, which shouldn't be a problem). The REMP also helps in clearing invaders faster from the AoE damage it provides to eliminate Ravens faster. It is so easy to gain enough Aura purely by grazing even in the very rare case you run out of Aura, which is something so easy to do with so many bullets around. While you can simply take it very easy and simply rhythmically tap to use BEMP PD to get an easy clear, it is also possible to get decent times with this apex by using it more aggressively to set yourself up for better REMP positions for maximum AoE damage.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mb8SZoDn_OA?si=NEJnlOWEQHS5rbMD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=689974615&bvid=BV1c24y127Rm&cid=884501919&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

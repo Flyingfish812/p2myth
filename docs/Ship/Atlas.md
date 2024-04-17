@@ -95,3 +95,11 @@ Very useful in dense waves, this apex is able to vaporize invaders quickly. Howe
 - Score: 2.00 / 5
 
 The bigger PS is an insane buff for Atlas when well utilized. It will block off a whole mess of pellets released by MIRV Deathonators headed your way, thus requiring less dodging between the released pellets. It is also severely more effective against using Phase Out to escape shuriken clouds. The increase in laser catch rate for laser reflection, particularly from laser spreads is also nice, adding a bit more damage.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fc2OKLJWW3s?si=Gcpwc7Xgbg35K8zi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=430972725&bvid=BV1gG411J7yj&cid=843570071&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -97,3 +97,11 @@
 - 评分：3.82 / 5
 
 这个皮肤非常到位地给予了狺女在弹幕海中的生存能力。虽然双重范围伤害杀敌较快，但单次伤害较低，所以可能会有不少敌机幸存，尤其是那些较大的会发射很多子弹的敌机。歌利亚导弹的巨大爆炸范围意味着清除子弹的范围同样巨大。有了这个皮肤后，你在用歌利亚导弹轰炸完敌机后，手上最好留1至2点计数器点数，帮助后续生存，特别是在很肉的敌阵里。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AM1OodHCyv0?si=4G3Czh3aLvL5gEnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=827345932&bvid=BV1Sg4y1N7N2&cid=1164147601&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

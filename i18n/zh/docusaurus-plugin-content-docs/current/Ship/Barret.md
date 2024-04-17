@@ -91,3 +91,11 @@
 - 评分：3.27 / 5
 
 如前所述，当巴雷特遭受大量敌机时，由于离子加农炮的爆炸半径不是很大，因此很难快速清除小型敌机。瞬移使巴雷特具有极高的机动性，能够在后面到后面，然后用 2 到 3 发离子加农炮清除小型，同时击杀掉中间的微型。这使得这个皮肤非常可行，它将离子加农炮变成一个极具攻击性的技能，有了这个皮肤后，离子加农炮可以看作一个伪长矛（因为你可以在任何地方用离子加农炮），只是它以集群为目标而不是以列为目标。虽然和 1 个 长矛相比，确实需要至少 2 发离子加农炮才能快速清除后面的小型，但长矛通常无法有效地对付微型，增强型离子加农炮却可以做到这一点。请小心，因为由于此皮肤的离子加农炮具有很强的攻击性，当你愉快地使用离子加农炮时，很容易很快耗尽了离子加农炮。这意味着你可能会因耗尽所有离子加农炮并被困而死亡。一个非常有趣且可行的皮肤。离子加农炮的显著增强使巴雷特能够快速击穿小型敌机，也能够对抗那些带有回旋镖和旋转炮等危险炮台的大型敌机。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I1HP7Bgk-Cc?si=O71amGcCcBHdj2ue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=532660122&bvid=BV1pu411E7Zx&cid=1247148940&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

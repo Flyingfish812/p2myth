@@ -99,3 +99,11 @@
 - 评分：4.27 / 5
 
 这是具有开创意义的皮肤，将定点防御的子弹雷管嫁接到子弹电磁脉冲上，使得其变成了一种非常具有娱乐性的技能。它可以在你面对大量敌机弹幕时带来非常有效的反击，使用得当时能消灭大多数敌机，甚至秒杀神鹰与大鹏。在敌机弹幕过于碍事时，它甚至有能力作为竞速机在排行榜上占据一席之地。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qEdGw7Fk6M0?si=R8LNZkO_drGjnO7z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1450066603&bvid=BV1gv421i7ZY&cid=1428713997&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

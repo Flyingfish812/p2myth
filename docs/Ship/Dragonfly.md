@@ -96,3 +96,11 @@ The increased IC damage and blast radius allows Dragonfly to quickly plow throug
 - Score: 1.82 / 5
 
 It's a pity that if you put the two APEXes of the Ion Cannon on the same ship, the Blast Amplifier will definitely be more powerful than the Overcharge. Not only because the Blast Amplifier can increase damage, but also because the stun radius of an Overcharged Ion Cannon is not much better than that of an Blast Amplifier.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LhfIJADD074?si=6xi4R8TuFqnS94no" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=319411556&bvid=BV1pw411y7Ae&cid=1291874442&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -85,3 +85,11 @@ This Apex makes Centurion more viable in Armored missions than Unprotected missi
 - Score: 1.55 / 5
 
 The benefit of this Apex was originally designed to improve the eraser-like bullet clearing capability of PS. However, in reality, relying too much on Shield Booster PS interrupts the main weapon’s rhythm. Comparatively, the ship handles better without this Apex.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sDaLtMeW2q8?si=La9arBHiicCBBt98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=917962259&bvid=BV1Mu4y1a7xd&cid=1321215218&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

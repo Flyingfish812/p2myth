@@ -167,7 +167,7 @@ The final score of each team in this competition is the sum of the time used in 
 
 All the results will be published once we finish the statistics, our site will also publish the results by then.
 
-## Rewards (Tentative)
+## Rewards
 
 We don't offer money awards in the event. For teams who get top during the event will have the chance to have a special title in the group chat.
 
@@ -185,4 +185,4 @@ Due to the large number of participants, please keep the name on the leaderboard
 
 A feedback survey is available now, here's the [link](https://forms.gle/e1zusEcd1jLQxS4w9).
 
-Sign-up has ended. You can see the group info in the [Schedule page](Schedule.md).
+You can see the group info in the [Schedule page](Schedule.md). And you can see the summary of the event at the [summary page](Summary.md)

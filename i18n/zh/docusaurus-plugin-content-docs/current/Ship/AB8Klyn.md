@@ -103,3 +103,11 @@
 - 评分：3.45 / 5
 
 这个皮肤使任何敌机属性的烟花盛宴任务变得小菜一碟，不论这种任务看起来有多难。你只需在你觉得需要的时候点击屏幕使用定点防御即可。而且这个皮肤使能量使用变得极其的高效，因为场上铺满子弹，而每用一次只耗费极少能量。你甚至可以时不时地使用反射电磁脉冲来进一步减少能量消耗（前提是确保它充分冷却，而这应该不成问题）。反射电磁脉冲也能加速消灭小型，因为它造成范围伤害。而且，就算你在极端情况下把能量用完了，你也可以非常轻松地擦弹，因为场上到处都是子弹。此外，虽然你可以通过有规律地点击屏幕来很惬意地通关，但这个皮肤同样能带来一定的速度提升，因为你可以更激进地冲入敌阵来最大化反射电磁脉冲的范围伤害。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mb8SZoDn_OA?si=NEJnlOWEQHS5rbMD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=689974615&bvid=BV1c24y127Rm&cid=884501919&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -1,14 +1,14 @@
-# 赛程安排
+# Schedule
 
-本页面将会记录比赛赛程安排。
+We will list the schedule of the ongoing event here.
 
 ## Felix-Felicis
 
-### 分组表
+### Groups
 
-- 分组安排
+- Participants and groups
 
-    | 组别     | 组员1                            | 组员2            |
+    | Team     | Member 1                        | Member 2         |
     | -------- | ------------------------------- | ---------------- |
     | Team 1   | Candy                           | Myth.菁鸟        |
     | Team  2  | MonkeMagic                      | cyx的爹          |
@@ -44,18 +44,18 @@
     | Team  32 | Adeline G                       | Sylvester        |
     | Team  33 | Alex                            | 爱打飞机的律师   |
     | Team  34 | Niu                             | 皓灬Scorpion丿   |
-    | Team  35 | Fvrvain                         | \_-西风烈-\_       |
+    | Team  35 | Fvrvain                         | \_-西风烈-\_     |
     | Team  36 | 🐋Syz°.fish🐬                  | One.vic          |
 
-- 游戏内名称
+- In-game nicknames
 
-    | 组别     | 组员1             | 组员2            |
+    | Team     | Member 1         | Menber 2          |
     | -------- | ---------------- | ----------------- |
     | Team 1   | Myth.菁鸟        | 百鬼あやめ        |
     | Team  2  | cyx的爹          | 🐵🪄(Davin  VII)  |
     | Team  3  | Itvara           | Davin III         |
     | Team  4  | 林黛玉棒打白骨精 | 🔸⬜🔶▫️           |
-    | Team  5  | WOO！又回来啦！  | ٩(ˊᗜˋ*)و          |
+    | Team  5  | WOO！又回来啦！  | ٩(ˊᗜˋ\*)و          |
     | Team  6  | Roger、          | Yhar0n            |
     | Team  7  | 晓不晓得         | _A_H_II           |
     | Team  8  | 💤                | Vega              |
@@ -77,29 +77,33 @@
     | Team  24 | 我永远喜欢清纯蛋 | jazz Plays  Shmup |
     | Team  25 | 文璇             | i toast  toast    |
     | Team  26 | 早               | Phoenix Pilot     |
-    | Team  27 | prodigal         | sleet🏳️          |
+    | Team  27 | prodigal         | sleet🏳️            |
     | Team  28 | 哇咔咔           | Hi                |
     | Team  29 | 半旧             | i toast  crunch   |
     | Team  30 | 达拉斯老司机     | cronascratos      |
     | Team  31 | 🐬苏🐬          | 🦙                |
     | Team  32 | Sylvester        | Illuminara34      |
-    | Team  33 | 爱打飞机的律师   | Nyoom！Alex：D      |
-    | Team  34 | 皓灬Scorpion丿   | Niu                |
-    | Team 35  | \_-西风烈-\       | Fvrvain           |
+    | Team  33 | 爱打飞机的律师   | Nyoom！Alex：D     |
+    | Team  34 | 皓灬Scorpion丿   | Niu               |
+    | Team 35  | \_-西风烈-\_       | Fvrvain           |
     | Team 36  | One.vic          | 🐋Syz.FELIX🐬     |
 
-- 组员变更：
+- Member changes:
 
 - - Team 26: Elysium → Davin II (Phoenix Pilot)
 - - Team 33: Marz → Alex (Nyoom！Alex：D)
 - - Team 34: Angel  Alberto Palacios Sanchez → Niu (Niu)
 
-### 比赛结果
+### Results Round 1
 
-第一轮成绩公布：
+<img src="/events/felix-felicis-round-1.jpg" style={{zoom:0.6}}/>
 
-<img src="/events/felix-felicis-round-1.jpg" style={{zoom:0.8}}/>
+### Results Round 2
 
-第二轮成绩公布：
+<img src="/events/felix-felicis-round-2.jpg" style={{zoom:0.6}}/>
 
-<img src="/events/felix-felicis-round-2.jpg" style={{zoom:0.8}}/>
+### Final results
+
+<img src="/events/felix-felicis-final.jpg" style={{zoom:1}}/>
+
+Congradulations for Team 10: Dubguy and 星莹, for winning the championship!

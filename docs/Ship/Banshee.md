@@ -97,3 +97,11 @@ The capability to spam more FLs helps Banshee in achieving a bit more speed. Whi
 - Score: 3.82 / 5
 
 This apex precisely gives Banshee the bullet clearance it needs to survive a bullet hell. Although Banshee is still pretty fast with double forms of AoE damage, because they all deal pretty low damage, it may still leave a couple of invaders, particularly larger ones behind which still can pump a lot of bullets onto the field. The huge radius of GM means a huge bullet clearance. Because of the capability to clear bullets, you will want to keep 1 or 2 GMs at hand after firing off most of them at the start of the wave to help you last throughout the wave, especially if the wave is a heavy wave.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AM1OodHCyv0?si=4G3Czh3aLvL5gEnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=827345932&bvid=BV1Sg4y1N7N2&cid=1164147601&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -84,3 +84,11 @@
 - 评分：3.18 / 5
 
 绿皮布洛的存在感非常低，因为激光风暴的高能量皮肤带来的加成实在是太高效了。大多数时候，你并不需要苟在最底下蓄力炸弹，因为你可以利用主炮持续时间长的特点充分利用这段时间蓄力炸弹。再次一点，你还可以选择使用激光风暴收尾，并利用这个时间在屏幕中间蓄力炸弹。总之，它并没有幻影那样的蓄力炸弹难的困境，因此这个皮肤也不是那么有必要。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/04ZL34OfOPk?si=lT8RDqIZWF7y_pRH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=445000520&bvid=BV1Qj411D7SA&cid=1172262344&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

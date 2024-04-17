@@ -91,3 +91,11 @@ The AP ML makes Cinnri easier to play on Armored missions, especially when its s
 - Score: 4.64 / 5
 
 Because of the need for Cinnri to constantly blast SEMP to deal damage due to its lackluster main DPS, the significant increase in SEMP damage turns Cinnri into an insane AoE damage dealer. When faced with crowds of invaders, this apex simply decimates them all so quickly, making this apex so satisfying. Simply pull off the ML to kill some of the Ravens to gain enough Aura for full SEMP, then blast it away and in no time, you'll be blasting more of them until before you know it, the whole wave is gone. The only problem with this apex is because it kills so fast, ML might struggle to keep up from insufficient cooldown time given to it.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTf3xwTqOM8?si=qRllmnLVL8yx-v-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=362349953&bvid=BV1k94y167vC&cid=1236687218&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

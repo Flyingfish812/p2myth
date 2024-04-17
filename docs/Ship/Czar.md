@@ -90,3 +90,11 @@ This apex is INSANELY FUN! The SEMP + TP combo makes Ravens instantly disappear 
 - Score: 2.00 / 5
 
 This apex is super stressful. The primary objective of this apex seems to be optimisation of the wonky main, using the increased number of Teleports to line yourself up with smaller invaders such as Ravens and Sparrows that are clearly not targeted by the main’s wonky targeting system. Because it’s so hard to read what target is the main actually aiming at, optimisation of this apex is extremely difficult and thus, this apex still makes optimisation a real pain. Beyond the initial first few Acts, this apex really is just an increased defence against MIRVs and darts like other ships with this apex.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h9J-DaJLHz4?si=SRh4ILfuqGWUwhCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=740630391&bvid=BV1wk4y1E7eC&cid=1116576492&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

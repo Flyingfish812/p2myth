@@ -90,3 +90,11 @@
 - 评分：2.00 / 5
 
 这个皮肤没啥用。它的主要目的似乎是优化不稳定的主炮，增加瞬移的数量来让你与较小的敌机（例如微型和小型）对齐，这些敌机显然不是主炮不稳定的瞄准系统的目标。因为很难理解实际的目标是什么，所以当你用这个皮肤时感觉很难上手。除了最开始的几关之外，这个皮肤实际上只是增强了对菊花弹和速射的防御，就像其他有这个皮肤的战机一样。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h9J-DaJLHz4?si=SRh4ILfuqGWUwhCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=740630391&bvid=BV1wk4y1E7eC&cid=1116576492&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -108,3 +108,11 @@
 - 评分：2.18 / 5
 
 这个皮肤所带来的提升比西格玛皮肤略高一筹，因为它保留了追踪轻机枪的强大输出能力，同时赋予导弹齐袭造成范围伤害的能力。在极其密集的敌阵中提升尤为明显，因为清场速度显著提升。较肉的敌阵还是能通过导弹齐袭和追踪轻机枪的伤害处理。然而，由于每日任务中密集敌阵频繁出现，西格玛皮肤依然是更好的选择，虽然陶皮肤对单体较大敌机的输出相比无皮肤和西格玛皮肤略高一些。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BWCxynnZwMs?si=KQJopnAu-4cKhH53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=283716255&bvid=BV1Pc41147Lm&cid=1403770120&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

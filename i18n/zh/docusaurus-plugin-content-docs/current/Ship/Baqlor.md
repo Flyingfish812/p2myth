@@ -98,3 +98,11 @@
 - 评分：4.64 / 5
 
 有了这个皮肤，你可以在护盾关用巴克洛尔。这个皮肤对护盾敌机的疯狂伤害提升不仅会立即消灭所有护盾小型（因为在你需要的任何地方蓄力巨炸是多么容易），而且可以很快拆掉敌机的盾牌，只需要再补 1 到 2 发主炮就能把大型打掉。最棒的是这个皮肤可以和主炮的暴击特性相配合，这样就能迅速地打掉护盾，然后紧接暴击，进而迅速地摧毁甚至是最大的敌机。事实上，这个皮肤很强，建议你可以在护盾大鹏身上放 2 个炸弹，因为盾碎器的奖励是如此巨大，以至于使用盾碎器比使用主炮更快。在船体关，有没有这个皮肤影响不大。快速击杀意味着你可以很容易地用超时空场，以至于你的超时空场几乎不会消失。在护盾关用菲亚巴克洛尔竞速是比较简单的，如果你控制好释放炸弹的位置，你可以轻松地打到前 1%。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sI96OuK94OQ?si=mhAjTouSeMOcZJ3b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=62871282&bvid=BV1ot411N7SH&cid=109220898&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

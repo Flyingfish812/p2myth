@@ -108,3 +108,11 @@
 <img src="/illustration/main_35_tau.gif" style={{zoom:1}}/>
 
 这个皮肤可以让你在菊花喷子类中更安全地使用奥罗拉。你可以简单地坐下来，让主炮自动瞄准目标。然而，自动瞄准的子弹可能是违反直觉的，因为当你试图控制它攻击哪个敌机时，往往主炮会命不中。主炮瞄准的不可预测性使你不能决定是否应该靠近敌机。正因为如此，这个皮肤有时会让奥罗拉变慢，因为它瞄准了错误的敌机，这有时可能很糟糕，因为你需要调整你的光环使用，尤其是在重波中。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jyDbYO3Yn_4?si=znR6uVXkXDxDSyEy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=685847962&bvid=BV1XU4y1q7E7&cid=768942550&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

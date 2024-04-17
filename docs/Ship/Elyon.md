@@ -88,3 +88,11 @@ The Laser Storm that can break the shield means that in the shield missions, you
 The ability to get rid of LS faster alleviates the major problem brought about by a poor Aura Zen combination. Dense waves can quickly cause particle overflow from killing invaders very quickly due to its pseudo-FO nature. This apex allows Elyon to go significantly faster by doubling the amount of LS it can pull off.
 
 At the end of the first period of the main weapon, activating the full aura can achieve the optimal output state because the combined time of the second and third periods of the main weapon exactly matches the high energy of the Laser Storm. If the energy supply is sufficient, it can even form a loop, making it quite enjoyable to dodge bullets with Kappa Drive. If it's a small aura, wait until the third period of the main weapon to use it, focusing damage to kill one invader at a time — provided there are invaders within the aura.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AhoCrxrKByQ?si=vFco9PQ1I1vWGSl9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1851634491&bvid=BV1pW421c7CG&cid=1466273908&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -91,3 +91,11 @@
 - 评分：4.64 / 5
 
 由于欣瑞需要持续地用眩晕电磁脉冲打伤害以补足主武器的输出缺陷，这个皮肤会大幅提升它的范围伤害能力。在面对一大群敌机时，这个皮肤可以将它们迅速消灭，非常舒爽。你只需蓄力巨型激光来击杀一些小型，以获得足够能量来释放最大半径的眩晕电磁脉冲。你可以重复这样做，不知不觉中敌机已被全部消灭。唯一问题巨型激光可能会来不及冷却，因为杀敌太快了。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTf3xwTqOM8?si=qRllmnLVL8yx-v-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=362349953&bvid=BV1k94y167vC&cid=1236687218&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

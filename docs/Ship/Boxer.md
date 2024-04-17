@@ -96,3 +96,11 @@ However, in daily missions where invaders are literally everywhere, there is sim
 - Score: 2.36 / 5
 
 A great defensive apex that tremendously boosts Boxer’s shoveling capability, allowing it to do more Phalanx shovelings as the smaller Phalanx allows for respectable clearance space, while still allowing the original larger Phalanx to be alive (although damaged) if the shoveling is carefully controlled.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qram_Ja3TDM?si=3n5N8S_ZX946lun3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=817202586&bvid=BV1UG4y1b7VX&cid=879701156&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

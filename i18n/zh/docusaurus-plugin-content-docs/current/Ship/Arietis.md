@@ -92,3 +92,11 @@
 - 评分：2.55 / 5
 
 巨激增加的伤害，可以让白羊座更容易地拆掉更大的敌机，这样你就可以避免敌机射出更多的菊花弹，定点防御也能更轻松地消掉菊花弹。一般在 5-4 中，合理使用咸鱼突刺和定点防御，可以让你在面对喷子波浪和菊花弹时不那么慌张。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ru5L1kcnWNw?si=mIezAwbfS4B5GZ0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=398522865&bvid=BV1Eo4y1V7GE&cid=1127830599&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>
