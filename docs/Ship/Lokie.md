@@ -93,3 +93,11 @@ This is actually a very impressive improvement to Lokie, not only being able to 
 - Score: 3.36 / 5
 
 The combination of its slow moving deadly Tremor Field that floods the field together with a supercharged LS allow Lokie to kill impressively fast. The shortened duration of LS also allows Lokie to dispose of its particles fast enough in that there is significantly less particle wastage, especially when particles can come in fast in dense waves.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LgCaU-WdoHg?si=LKVUEzUUz-1cQuMT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=881393476&bvid=BV1hK4y1q71L&cid=1409616227&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

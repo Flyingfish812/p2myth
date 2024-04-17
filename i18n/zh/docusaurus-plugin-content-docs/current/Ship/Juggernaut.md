@@ -98,3 +98,11 @@
 - 评分：3.80 / 5
 
 在菊花弹或喷子任务中，菊花台的发射速度非常快，这意味着传统上很难在稍微远一点的位置为巨炸蓄力。然而，这个皮肤可以让你在更远的前场蓄力并缩短蓄力的时间，或者只是让你更容易在菊花弹爆开之前准备好巨炸。这也使得核心炸更容易落在中型的前面，考虑到时间紧迫，这可能是极其困难的。在前几波中，你可以连续释放巨炸。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FItvw8z6_a8?si=e-4rU_0rRdBovGR3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=746871821&bvid=BV1HC4y1V7A1&cid=1290407974&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -119,3 +119,11 @@ To be honest, the Exarch probably doesn't need such an APEX. But considering tha
 This apex gives each of the prisms a small angular range instead of simply being fixed at their original angle, thus having a better catch rate for invaders, and even allowing the corner prisms to fire when it normally does not do so when faced with large invaders. The angular range of each prism is about ±2° of the original fixed angle.
 
 The better Phase Prism catch rate of Exarch makes Exarch feel a lot more smooth to play. Sometimes, Sparrows can slip between Phase Prisms which can cause a bit of frustration. This apex fixes that. The better capability of each of the Phase Prisms to catch invaders translate to a slight increase in effective DPS. Particularly, the cornermost Phase Prisms are able to see more action.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/82i7JebvhS4?si=bYFHL-fljJeXhcvR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=914598998&bvid=BV1Lu4y1z7w8&cid=1227506121&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

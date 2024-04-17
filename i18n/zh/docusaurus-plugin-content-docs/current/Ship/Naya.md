@@ -92,3 +92,11 @@
 - 评分：2.91 / 5
 
 它的意义在于，能更好地适应护盾关。它提醒你在护盾关应当优先使用禅宗破开敌机的护盾，再充分发挥主炮的暴击性能。但非常可惜的一点是，虽然是破盾，但一架敌机基本上只能吃一轮的破盾伤害。即使是护盾值高达405的大鹏，在一轮禅宗过后的冷却恢复时间里，主炮与光环的输出也足以将大鹏的护盾破开。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zHyfX9-Ygv8?si=ZrRGS2ruXrWbK-nY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=903685493&bvid=BV1EP4y1D77P&cid=919716203&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

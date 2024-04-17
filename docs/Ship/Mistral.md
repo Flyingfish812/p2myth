@@ -93,3 +93,11 @@ Who would have thought that it could go [this fast](https://www.bilibili.com/vid
 This Apex benefits Mistral hugely in Unprotected laser missions, because MB spamming wipes out invaders so fast. You hardly have chance of lacking GM if no larger invaders are present. Therefore, Mistral can be used to its full potential as an FO ship.
 
 Who would have thought that it could go [this fast](https://www.bilibili.com/video/BV1Ju4y1A75j/) (yeah right no problem at all)
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IBy0Fx9GiU0?si=Sj2iUKMBuPgAh3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=921413771&bvid=BV1Ju4y1A75j&cid=1346841848&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

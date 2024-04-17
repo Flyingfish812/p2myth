@@ -99,3 +99,11 @@ The larger the invader, the more useful this apex is. The ability to strip an in
 The quick recovery of PS enables its abuse, particularly against continuous rounds of laser bursts. This is particularly against the heaviest or densest of waves, a prime example being 5-4. With the rather huge density of bullets on field, PS can also be comfortably used to Phase Out against walls of bullets when it is not worthwhile to reflect lasers. Just be careful to make sure the reflection of lasers does not kill off the last invaders of a wave so that it can be used again in the next wave.
 
 In particular, this apex is the best tool to train your PS skills. BEMP allows you to make up for careless mistakes if you do not optimize PS enough. The increased usage of PS, as well as having BEMP as a fallback plan in case of sub-optimal results, allows you to experiment with abusing PS Phase Out to clear out as many bullets as possible.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XR2b3e1RxOw?si=vusw3vkFg3HNQRon" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=263322157&bvid=BV1te411N7kM&cid=910262418&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

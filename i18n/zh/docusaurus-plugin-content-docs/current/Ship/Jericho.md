@@ -99,3 +99,11 @@
 护盾的快速恢复使你能够随意适用它，特别是针对连续几轮激光爆发。这尤其适用于密集波或肉波，一个典型的例子是 5-4。由于战场上的子弹密度相当大，当不值得反射激光时，护盾也可以轻松地用于对抗子弹墙。只是要小心，确保激光的反射不会杀死一波最后的敌机，以便它可以在下一波中再次使用。
 
 特别的，你可以用这个皮肤来练习护盾的使用。子弹电磁脉冲可以弥补你在乱用护盾的情况下所犯的错误。护盾使用量的增加，以及在结果不理想的情况下将子弹电磁脉冲作为后手，使你可以尝试随便用护盾的无敌来清除尽可能多的子弹。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XR2b3e1RxOw?si=vusw3vkFg3HNQRon" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=263322157&bvid=BV1te411N7kM&cid=910262418&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

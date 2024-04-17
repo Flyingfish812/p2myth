@@ -91,3 +91,11 @@ This apex improves the tracking ability of the Pulse Batteries. The improved aim
 - Score: 2.73 / 5
 
 A powerful apex, particularly against dense Raven crowds or Heron dense waves, this apex has the potential to wipe dense waves quickly. Barrier has just enough strength withstand the onslaught of bullets for MB to go off just before the Phase Out of barrier fades, allowing it to be used further upfield, only running the risk of turret collision. However, there is a bit of RNG since Ravens can quickly run away from the smaller MB radius.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zDM41Y3TCP0?si=OKysykCVtFPkRWOi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=627323659&bvid=BV1pt4y1v7Nd&cid=240921019&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

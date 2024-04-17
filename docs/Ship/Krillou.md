@@ -91,3 +91,11 @@ The extreme density of invaders in daily mission make this apex extremely powerf
 - Score: 1.73 / 5
 
 The need for Krillou to charge upfield means this apex can be slightly beneficial to preventing unnecessary stupid deaths resulting from stray bullets being fired during the initial wave (which is hard to prevent) or bullets from previous waves. Other than the slight boost from being a bit easier, this apex is honestly not much a help.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wibfZI9YTfg?si=bbNj8mB1RNrAK3vf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=360181025&bvid=BV1iX4y1s7nd&cid=1174934238&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

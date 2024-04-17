@@ -93,3 +93,11 @@ Having 2 layers of Phalanx for bullets to plow through can make all the differen
 - Score: 2.55 / 5
 
 A frustrating to use apex, and can be still difficult to take full advantage of the increased ML damage due to how a majority of waves are dense but not heavy. This means the additional ML damage is still likely to be wasted. However, when faced with waves with Vulture or above behind, they are able to soak up the additional damage from the apex boost. That being said, such waves are quite rare, making this apex’s boost very minimal to such waves.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kIRGP0rDLnQ?si=CUSPRse4Gur04YnW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=831397519&bvid=BV1r34y1A75F&cid=1279615174&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

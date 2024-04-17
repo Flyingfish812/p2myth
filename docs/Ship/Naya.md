@@ -92,3 +92,11 @@ This is one the few Apexes with negative scores in the first version of rating t
 - Score: 2.91 / 5
 
 This Apex makes Naya more viable in Shielded missions. You should now use Clover ATS to break invaders’ shields first, then utilize the main weapon to score critical hits. However, it’s a shame that most invaders are only hit by one round of the SB damage. Even for a Roc with a whopping shield HP of 405, after using SB Clover ATS, the combined damage from the main weapon and VLs is enough to destroy its shield when the Zen is cooling down. 
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zHyfX9-Ygv8?si=ZrRGS2ruXrWbK-nY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=903685493&bvid=BV1EP4y1D77P&cid=919716203&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

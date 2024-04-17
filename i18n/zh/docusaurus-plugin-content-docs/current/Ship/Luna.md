@@ -96,3 +96,11 @@
 - 评分：4.27 / 5
 
 这个皮肤与月神的玩法也有一定的协同性，因为你不仅能通过瞬移来靠近敌机以最大化主武器输出，你还能直接造成范围伤害。然而，瞬移的伤害不足以秒杀护盾小型。这会带来巨大问题，因为你很有可能会撞到炮台。这个皮肤的优势在于，月神可以利用起平时用不太到的瞬移来做有意义的事情，也就是打伤害。然而，扑向敌机来打伤害这一操作还是很危险，尤其是在一波持续一定时间后场上滞留了大量子弹时，你可能会难以充分利用这个皮肤的效果。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tr8hEtXHa-E?si=gCTKE1HHtD7MtZZe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=906032259&bvid=BV13M4y1979P&cid=987395157&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

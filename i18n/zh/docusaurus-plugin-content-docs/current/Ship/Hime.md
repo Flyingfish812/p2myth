@@ -99,3 +99,11 @@
 这个皮肤会改变你对伊梅的使用方式。其中一个很明显的改变是，处理小型群的时候，你可以将巨激分成两列，这会带来更大的覆盖范围。第二个是，你可以更好的拆炮台，你只需一个巨激就可以拆掉大型上的两个炮台。每发巨激之间的延迟时间足够长，你可以快速从一个菊花台切换到另一个菊花台，然后摧毁它们。在后面的关卡中，因为能量比较少，同时拆掉两个菊花台会比较难，你可能在从一个菊花台移动到另一个的途中死掉。所以在后面的关卡中，你需要拆你面前的炮台就行了。
 
 充分利用超时空场，当你需要拆两个炮台的时候，如果当前这个超时空场不够大，你可以移动到新的位置再释放一个。这需要你留一些能量来让你这么做。这会带来一个问题是，你可能会浪费掉当前超时空场的时间，间接相当于你浪费了能量。需要注意的是，随机性也会影响你，任何一次射击如果没有对准的话，都可能导致效果不佳并且炮台无法被拆掉。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/txBVOyNzdo0?si=GkHL_Ro61JYNPQPl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=660869066&bvid=BV1jh4y1Y7w8&cid=1261731771&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

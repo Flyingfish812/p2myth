@@ -100,3 +100,10 @@
 
 穿甲导弹齐袭能对装甲敌机造成大量伤害，这使奇魃拉斯可以在装甲激光任务中大展身手。在高血量敌机频繁出现时，它甚至可以与幻影（主武器属性为无保护，所以装甲敌机会带来阻碍）相抗衡，取得鹰章。主武器的优化变得次要了一些，因为穿甲导弹齐袭和巨型炸弹的致命组合能快速蒸发敌机。事实上经常发生的是，奇魃拉斯飞这类任务比飞无保护激光/速射任务的用时更少，因为装甲敌机血量少（而穿甲导弹齐袭对装甲造成满额伤害，但是，装甲小型在被巨型炸弹炸过后还会剩一丝血）。你只需在用完巨型炸弹和导弹齐袭后找准位置，让一轮主武器的爆发带走剩下的敌机即可。
 
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YqH8LgxnR5s?si=XBswWOLmlA52Kcro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1652342936&bvid=BV13j421979U&cid=1484741221&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

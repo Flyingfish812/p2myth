@@ -93,3 +93,11 @@ This apex increases the maximum stun duration from 3s to 4s. While SEMP is very 
 - Score: 2.27 / 5
 
 This apex encourages you to use SEMP in smaller bursts even more often. SEMP partially reverts to its level 1 status where you use SEMP purely as a reset tool. The shorter time needed to achieve the same radius for less main weapon downtime to use Kappa can make all the difference in being able to quickly reset dangerous turrets such as high tier spinners and MIRV Bloomers, and can be a huge life saver. However, be very careful as the SEMP duration does not change, which means for the same radius of SEMP, the turret(s) that were stunned stay stunned for a shorter time. Thus, it is a bad idea to stand near tracking dart turrets after launching an SEMP.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-raESPND9Bk?si=Bhs73RHF5kWh-oct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=532771046&bvid=BV1pu411N7yL&cid=1249959377&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

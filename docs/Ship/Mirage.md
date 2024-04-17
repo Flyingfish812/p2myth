@@ -105,3 +105,11 @@ The extra stun time is useful against turrets that fire fast bullets such as dar
 - Score: 2.18 / 5
 
 The effect of this APEX is not particularly obvious. The only difference is that you can get a larger range of aura with the same energy. Most of the time, this bonus is redundant. Instead of worrying about this little range increase, it is better to try to use Bullet EMP among the invaders to expand its effective range.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a65isRoxsWo?si=A7zuwxUzLkAUAnIf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=825833056&bvid=BV1pg4y157sA&cid=1119666198&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

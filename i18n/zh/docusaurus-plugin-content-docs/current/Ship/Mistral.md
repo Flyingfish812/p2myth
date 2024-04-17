@@ -93,3 +93,11 @@
 它为米斯特拉尔在一类任务中带来了突出表现。在无保护的激光任务中，由于可以快速蓄力巨型炸弹，在没有大型敌机的情况下几乎不会断歌利亚导弹。因此可以充分地发挥出它作为三攻机的潜力。
 
 当初谁能想到这玩意[竞速](https://www.bilibili.com/video/BV1Ju4y1A75j/)起来这么猛啊（更恼）
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IBy0Fx9GiU0?si=Sj2iUKMBuPgAh3sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=921413771&bvid=BV1Ju4y1A75j&cid=1346841848&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

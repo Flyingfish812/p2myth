@@ -102,3 +102,11 @@ Aside from having the niche use of being better able to deal against MIRV Bloome
 - Score: 2.36 / 5
 
 The additional shoveling power from double Phalanxes increases Hunter’s survivability by a fair bit. That's it, nothing more to say.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/flfmmsOMxyo?si=FqSXFG1myI56H10B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=253443162&bvid=BV1TY41187V3&cid=492477160&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

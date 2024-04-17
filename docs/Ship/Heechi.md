@@ -103,3 +103,11 @@ There is very minimal benefit in this apex other than the fact it can potentiall
 For its mission type, with so many lasers, this apex gives Heechi a tremendous DPS boost from the many lasers present in the type of mission Heechi is designed for. Due to the gameplay style of Heechi, almost never utilizing the barrier inner lining anyway, the Delta apex is perfect for it. You don't even need to change the way you use Heechi, yet you get such a tremendous boost from it. The only problem left, is when you are faced with bullet heavy waves with very few lasers, however, so long these waves are not right after each other, the particles from the previous waves should be sufficient to give enough particles to spam many many small barriers around yourself. It becomes more important, thus, to spam smaller barriers, to the extent that the smallest deployable barrier should just be placed, and you should not allow the barrier Aura size to grow any further.
 
 For Rocs this apex may still struggle at due to insufficient lasers, causing the need to sacrifice your main weapon DPS to Kappa and quickly generate the smallest deployable barrier before all your barriers run out. Once they run out however, you must be either very lucky or be very careful not to get hit by any of the remaining lasers from laser MIRVs. Try to then graze off pellet spinners or lasers from laser MIRVs to generate the smallest barrier more quickly before any tracking lasers can fire again.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SUFtV5ILRNY?si=2d4BYTeOkg0E7gmD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=693413652&bvid=BV1b24y1z7Ux&cid=981769777&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

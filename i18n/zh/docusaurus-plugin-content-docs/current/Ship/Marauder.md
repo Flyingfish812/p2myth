@@ -85,3 +85,11 @@
 - 评分：3.27 / 5
 
 在激光频繁出现的任务，比如子弹/喷子/激光任务中，这个皮肤还挺有趣的。然而，由于子弹和喷子密度大，你需要注意在反弹激光时不要被困在角落。因此，在被子弹和喷子包围前，你需要确保你能通过前推逃生。除此之外，反弹激光比较安全，你甚至可以顶着几道子弹反弹激光，只需注意在反弹时快速替换耐久度即将耗尽的方阵即可。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31VGNdDNLEA?si=ITngw03oZrl9kEu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=778517242&bvid=BV1Vy4y1R792&cid=984695735&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

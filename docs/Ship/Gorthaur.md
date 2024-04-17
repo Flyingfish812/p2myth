@@ -95,3 +95,11 @@ Reflector Barrier is very effective, but this APEX renders your Personal Shield 
 - Score: 2.27 / 5
 
 This apex knows no fear of boomerangs or pellet MIRVs. The increased recovery speed of PS allows Barrier and PS to be used in alternate turns comfortably (i.e. Barrier, PS, Barrier, PS, and so on) to relentlessly block them off, unless the barrier deployed is very small and fades too fast. Deploying Barrier at the right time, just before the boomerangs or MIRVs approach in close range allows enough time for PS to cool down after being used before the Barrier, and thus, making PS available for the next wave of MIRVs and/or boomerangs. Otherwise, even if the barrier is of minimum size, 2 such barriers deployed will allow PS to recover and be used again to block off these dangerous threats that many ships struggle with.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z5BwG21TRv0?si=4UsGPcZ-vxRvdF43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=875295849&bvid=BV1mN4y1k7ab&cid=1317492398&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

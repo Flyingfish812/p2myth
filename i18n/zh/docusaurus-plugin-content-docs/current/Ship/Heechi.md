@@ -103,3 +103,11 @@
 对于有很多激光的任务，这个皮肤为希崎带来了巨大的 DPS 提升。 由于希崎的游戏风格，几乎用不到屏障间隙，所以这个皮肤非常适合它。你甚至不需要改变使用希崎的游戏方式，但你却能从中获得巨大的提升。剩下的唯一问题是，当你面对激光很少的弹幕海时，只要这些波不是紧随其后，前一波提供的能量应该足够你在周围释放多个小屏障。因此，较小的屏障变得更加重要，以至于应该放置最小的屏障，并且你要学会控制光环，让它不要太大。
 
 对于大鹏来说，由于激光不足，这个皮肤可能仍然很困难，导致需要牺牲你的主炮 DPS 给卡帕，并在所有屏障用完之前快速生成最小的可用屏障。然而，一旦它们用完，你要么非常幸运，要么非常小心，不要被激光菊花弹剩余的激光击中。然后尝试擦弹或者擦激光，以便在任何跟踪激光再次发射之前更快地产生最小的屏障。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SUFtV5ILRNY?si=2d4BYTeOkg0E7gmD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=693413652&bvid=BV1b24y1z7Ux&cid=981769777&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

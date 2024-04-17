@@ -99,3 +99,11 @@ Because of the tracking dart turrets being aimed at you, it is difficult to stay
 - Score: 4.82 / 5
 
 The AP MS is able to deal enormous damage against Armored Invaders, and opens up viability for Kibarrax to be used in all Armored Laser missions. It can even rival Wraith (which can struggle against armored invaders due to the affinity mismatch) to take a BoB when there are a lot of larger invaders around. The main becomes less of a concern to optimize due to how quickly AP MS vaporizes everything, in fact, sometimes even faster than when in Unprotected Laser/Dart missions due to the reduced health of armored invaders (since MS deals full damage, it is of no consequence, although Ravens will still have a fraction of health after MB). All you need to do is to position yourself properly after setting off MB and firing off MS, allowing a burst of the main to go off.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YqH8LgxnR5s?si=XBswWOLmlA52Kcro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1652342936&bvid=BV13j421979U&cid=1484741221&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -106,3 +106,11 @@
 - 评分：2.18 / 5
 
 这个皮肤的效果并不是特别明显，唯一的区别在于同样的能量你可以获得更大范围的光环。大多数时候这个加成都是多余的，与其纠结这一点点的射程提升，不如尝试在敌机群中使用子弹电磁脉冲，扩大其有效范围。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a65isRoxsWo?si=A7zuwxUzLkAUAnIf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=825833056&bvid=BV1pg4y157sA&cid=1119666198&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

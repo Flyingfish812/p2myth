@@ -91,3 +91,11 @@ The capability to instantly blow up Ravens with an REMP is immensely satisfying 
 - Score: 4.64 / 5
 
 A very powerful apex, the usage of BEMP + REMP together completely devastates Raven crowds. Just be careful to let REMP cooldown sufficiently before heading into the next wave otherwise there will be too much handle, as shown by me intentionally delaying 5-1 to allow REMP to cool for 5-2, which would be impossible without using REMP for damage. Some waves also require for BEMP to be delayed slightly so that you can buy a bit more time to destroy some of the invaders.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uwUt3JarQ9s?si=Jkn6zYTvLNGi5A1B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=403746116&bvid=BV1KV411L7eB&cid=1205193038&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -98,6 +98,16 @@
 
 非常好的皮肤，高功率激光风暴提供的火力增强使风神能够更快的消灭敌机。丰富的能量也意味着你可以轻松获得全尺寸的激光风暴，有效地提高激光风暴的 DPS。激光风暴能快速拆掉炮台，使风神能够更有效对抗更大的敌机，包括大鹏，你可以看到大鹏炮台被拆的很快。
 
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tX-lCoul3TU?si=C2nuEbx6n5v95lRt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=558045404&bvid=BV1He4y1y76H&cid=832335043&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>
+
+风神之怒系列：
+
 [风神一怒，地动山摇 - 1](https://www.bilibili.com/video/BV1CL4y1w7xE/)
 
 [风神一怒，地动山摇 - 2](https://www.bilibili.com/video/BV1VW4y1S7Uo/)

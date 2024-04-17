@@ -91,3 +91,11 @@
 - 评分：1.73 / 5
 
 克里欧需要向前冲，这意味着这个皮肤对于防止因第一波（很难防止）发射的子弹或前一波的子弹而造成的不必要的愚蠢死亡略有好处。老实说，除了变得更容易一些而带来的轻微提升之外，这个皮肤并没有多大帮助。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wibfZI9YTfg?si=bbNj8mB1RNrAK3vf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=360181025&bvid=BV1iX4y1s7nd&cid=1174934238&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

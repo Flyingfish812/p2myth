@@ -94,3 +94,11 @@
 - 评分：2.27 / 5
 
 这个皮肤可以使你更频繁地使用小半径的眩晕电磁脉冲，就像1级时那样用来重置炮台。你可以用更少的能量来获得相同的半径，也就意味着可以更少地牺牲主武器输出以使用卡帕冲击。这对于重置高等级转盘和菊花台很有效，并可以在关键时刻保命。然而眩晕持续时间并不增加，所以相同的半径带来的眩晕时间更短一些。因此在释放眩晕电磁脉冲后尽量不要靠近追踪速射炮台。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-raESPND9Bk?si=Bhs73RHF5kWh-oct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=532771046&bvid=BV1pu411N7yL&cid=1249959377&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -92,3 +92,10 @@ The Twin Lances have always been a very effective reinforcement for Vorpal Lance
 
 A very powerful apex, especially in dense and/or heavy waves where invaders die very quickly from VL, making particles scatter around the screen very quickly. Particles from heavier invaders such as Eagles also get absorbed very fast, allowing VL spamming to kept up and simply keep obliterating wave after wave.
 
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CwHsYm7EIu8?si=RakpIYjeMlVh1XVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=361754435&bvid=BV1294y1e7mj&cid=1221705832&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -100,3 +100,10 @@ This apex is a game changer for Hime. Its gameplay feels very different and ther
 
 Because Hime has CF, it can deploy a new CF at its new location if you need to perform double turret sniping but the currently deployed CF is not big. This requires some luck as you need particles for at least a deployable second CF. However, this means you potentially waste CF time in the old CF which you had to depart from, and thus, also particle wastage indirectly. Unfortunately, RNG is a big factor here. A misalignment of either shots can result in less optimal results and turrets not being popped properly.
 
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/txBVOyNzdo0?si=GkHL_Ro61JYNPQPl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=660869066&bvid=BV1jh4y1Y7w8&cid=1261731771&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

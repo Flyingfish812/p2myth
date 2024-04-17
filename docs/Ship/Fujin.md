@@ -98,6 +98,16 @@ However, given that an apex can generally only be accessed after a long time you
 
 A very powerful apex, the increase in firepower provided by High Power LS allows Fujin to obliterate invaders at frightening speeds. The abundance of particles also mean many LS continue to be launched at full Aura size, effectively doubling the DPS provided by LS. The quick action of LS to strip invaders of turrets makes Fujin powerful against larger invaders, including Rocs where you could see that the Roc quickly had its turrets stripped.
 
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tX-lCoul3TU?si=C2nuEbx6n5v95lRt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=558045404&bvid=BV1He4y1y76H&cid=832335043&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>
+
+Series: Fujin's Fury
+
 [When Fujin gets angry, the space and the invaders shake - 1](https://www.bilibili.com/video/BV1CL4y1w7xE/)
 
 [When Fujin gets angry, the space and the invaders shake - 2](https://www.bilibili.com/video/BV1VW4y1S7Uo/)

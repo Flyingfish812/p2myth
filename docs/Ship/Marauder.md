@@ -85,3 +85,11 @@ There is nothing to say, the antigrav APEX is almost useless, because you don't 
 - Score: 3.27 / 5
 
 This apex is pretty fun to play with on missions with many lasers like Pellet/Shuriken/Laser missions, but the rather high density of pellets and shurikens mean that you must be careful not to corner yourself while watching Phalanx reflect the lasers back to the invaders. Ensure you can get out of your spot before shurikens and pellets stack on you by shoveling a passageway. Otherwise, it’s pretty safe to just sit there and reflect lasers, and you can even afford a few lanes of incoming pellets so long you replace your Phalanx quickly enough to sustain laser reflect and not die.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31VGNdDNLEA?si=ITngw03oZrl9kEu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=778517242&bvid=BV1Vy4y1R792&cid=984695735&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

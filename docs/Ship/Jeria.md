@@ -97,3 +97,11 @@ This Apex makes VL considerably more forgiving to play with, as you are more lik
 - Score: 4.91 / 5
 
 This Apex benefits Jeria more in Unprotected missions than Shielded missions, because the increased damage makes REMP one-shot Unprotected Ravens, which means that you no longer have to use the main weapon to finish them off. As a result, the ceiling for speed-running is significantly raised.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zbrp1Pi0PdA?si=cbPFA5UBm5FZAiWd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=579427207&bvid=BV1p64y157YP&cid=1358916721&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

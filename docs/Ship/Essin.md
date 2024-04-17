@@ -92,3 +92,11 @@ This apex is a great joy to use, as you no longer have to worry about Essin’s 
 - Score: 4.18 / 5
 
 A very powerful apex against larger invaders, quickly decimating them before they pump out too many bullets to overwhelm Essin’s limited defence capabilities. The timing of the Super Reflect can be easily caught so long you remember to use LS only just before using PS for Super Reflect, otherwise the LS sounds will mask the invader laser firing sounds and make it hard to estimate the timing.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uqFoXsRs4cU?si=dPzjN4rxEIdE1ehw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=401522569&bvid=BV1jd4y1f7kY&cid=1141193726&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

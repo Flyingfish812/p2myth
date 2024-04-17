@@ -85,3 +85,11 @@
 - 评分：3.00 / 5
 
 它的提升对于季风而言就是实打实的提升了。分成两束激光射击的好处在于可以选择进攻更多的目标，总伤害也有所提升。主炮的一个缺点在于横排扫射难度较大，双击激光可以有效地清除同一侧敌机，或是距离较远的敌机，减轻主炮扫射的难度。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvFbmlqsaDE?si=1ftRdp5v1uJgiNvD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=261011125&bvid=BV15e411T75v&cid=849129574&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

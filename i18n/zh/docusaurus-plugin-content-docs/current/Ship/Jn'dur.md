@@ -97,3 +97,11 @@
 - 评分：3.18 / 5
 
 增加巨炸的范围使约翰迪尔能够更舒适地停留在屏幕底部，这样它可以用更多主炮来摧毁一些前排敌机，也不需要移动到可能会被子弹击中的地方。这是一个更轻松的皮肤，你可以待在屏幕底部，仍然能够在更少的子弹射向你的情况下生存，而前场的小型会因为射程的增加而被打掉。它还可以让你打掉通常无法被巨炸触及的前场小型。这在密集波中非常有用，因为在这种情况下，向上冲将非常困难。不幸的是，因为有时需要向前快速收集更多能量，以便在屏障被全部摧毁之前释放屏障，所以有时最好在收集能量后停留在更靠前的地方蓄力巨炸，这时伽马皮肤其实更有用。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yYAg6IA29Ac?si=i3LQeFpx_LFVmM8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=528613422&bvid=BV15u411t7Ee&cid=1126404534&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

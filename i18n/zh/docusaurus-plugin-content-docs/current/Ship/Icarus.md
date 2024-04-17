@@ -107,3 +107,11 @@
 - 评分：4.27 / 5
 
 这个皮肤是使得伊卡鲁斯真正具有竞速能力的皮肤。伊卡鲁斯主炮对于瞄准麻雀非常不友好，穿刺长矛又不值得单独用于消灭麻雀，因此冷却速度快的瞬移就非常适合消灭落单的敌机。当你位于前三幕，敌机密度没那么高的时候，通常需要主炮消灭一列敌机，而后使用瞬移消灭剩下的一些。使用时需要注意瞬移的冷却时间，如果时间太长会导致瞬移的收益降低。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DywOy1s4A5c?si=CT1FF5nCYoYK2V0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=275766137&bvid=BV1tF411r7sz&cid=1263351625&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

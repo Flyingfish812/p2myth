@@ -93,3 +93,11 @@
 - 评分：2.55 / 5
 
 这个皮肤很难用，因为在密集阵型多于较肉阵型的任务中，你很难打满那提升的总伤害，这就意味着伤害很可能溢出。然而，在后排有大型或更大的敌机时，这些敌机能吃满伤害。但是，这种敌阵出现的频率不高，因此这个皮肤带来的实际提升很小。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kIRGP0rDLnQ?si=CUSPRse4Gur04YnW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=831397519&bvid=BV1r34y1A75F&cid=1279615174&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -91,3 +91,11 @@
 - 评分：0.55 / 5
 
 在肉波和密集波中很有用的一个皮肤，可以让你更快的收集能量。也能更快收集大敌机掉落的能量，这可以让你不停地用长矛。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CwHsYm7EIu8?si=RakpIYjeMlVh1XVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=361754435&bvid=BV1294y1e7mj&cid=1221705832&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

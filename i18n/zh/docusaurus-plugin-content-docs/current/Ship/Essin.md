@@ -92,3 +92,11 @@
 - 评分：4.18 / 5
 
 对抗更大型的敌机时很有用，可以在弹幕淹没之前消灭它们。超级反射的时机掌握，只要记住在使用互动你进行超级反射之前才使用激光风暴，否则激光风暴的声音会掩盖敌机激光发射的声音，从而很难估计时机。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uqFoXsRs4cU?si=dPzjN4rxEIdE1ehw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=401522569&bvid=BV1jd4y1f7kY&cid=1141193726&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -107,3 +107,11 @@ This apex only helps in very crowded missions with lots of Ravens, where there i
 - Score: 4.27 / 5
 
 This APEX is what makes Icarus truly capable of speedrunning. The Icarus main weapon is very unfriendly to targeting sparrows, and the Vorpal Lance is not worth using alone to kill sparrows, so Teleport with a fast cooldown rate is very suitable for killing lone invaders. When you are in the first three acts and the invader density is not that high, you usually need the main weapon to kill a column of invaders, and then use Teleport to destroy the remaining ones. When using it, you need to pay attention to the cooldown time of Teleport. If the time is too long, the benefits of Teleport will be reduced.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DywOy1s4A5c?si=CT1FF5nCYoYK2V0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=275766137&bvid=BV1tF411r7sz&cid=1263351625&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

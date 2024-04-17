@@ -95,3 +95,11 @@ A very powerful apex which strongly synergizes with the playstyle of Luna due to
 - Score: 4.27 / 5
 
 Synergizing well with its playstyle, this allows you to TP on the front of invaders to deal damage, also maximizing the main's damage as well. However, the TP damage is insufficient to kill a Shielded Raven, which can be a huge issue, particularly collision with a turret can become an issue. Because it's not frequent to use TP for Luna, this apex allows TP for more chances to be used in a more useful way, dealing damage. Needing to dive right onto the front of invaders also make it very risky to utilize this apex ability to its max, especially as the wave drags on since bullets will start to flood the field and make it difficult to jump right onto invaders.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tr8hEtXHa-E?si=gCTKE1HHtD7MtZZe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=906032259&bvid=BV13M4y1979P&cid=987395157&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

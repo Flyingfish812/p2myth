@@ -91,3 +91,11 @@
 - 评分：4.64 / 5
 
 这个皮肤非常强大，因为子弹电磁脉冲和反射电磁脉冲的组合伤害能完全消灭一整群小型。你只需注意在进入下波前让反射电磁脉冲充分冷却，不然很难处理。正如我这里展示的，我故意在5-1拖延了时间，使反射电磁脉冲充分冷却，以便在5-2使用，而这波如果没有它的范围伤害就会非常难打。有时你也需要稍微延迟一些时间释放子弹电磁脉冲，这会为击杀部分敌机争取时间。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uwUt3JarQ9s?si=Jkn6zYTvLNGi5A1B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=403746116&bvid=BV1KV411L7eB&cid=1205193038&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

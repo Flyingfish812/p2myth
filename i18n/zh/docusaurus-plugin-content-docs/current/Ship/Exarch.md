@@ -119,3 +119,11 @@
 这个皮肤使每个棱镜都有很小的角度范围，而不是简单地固定在它们的原始角度，从而对敌机有更好的捕捉率，甚至允许角棱镜在面对大型敌机时通常不会发射。每个棱镜的角度范围约为原始固定角度的±2°。
 
 总督号更好的相位棱镜捕捉率使总督号玩起来感觉更流畅。有时，微型会在相位棱镜之间逃走，这可能会引起一些挫败感。这个皮肤解决了这个问题。每个相位棱镜捕捉敌机的能力越好，有效DPS也会略有增加。特别是，最角落的相位棱镜能够看到更多的动作。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/82i7JebvhS4?si=bYFHL-fljJeXhcvR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=914598998&bvid=BV1Lu4y1z7w8&cid=1227506121&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

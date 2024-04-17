@@ -97,3 +97,11 @@ This apex is powerful. You can release a lot more particle disruptors and delay 
 - Score: 3.18 / 5
 
 The increase in MB range allows Jn’Dur to stay more comfortably at the bottom of the screen to release more particle disruptors to destroy some of the front row invaders, as well as not needing to go slightly upfield and be in possible danger of going point blank with bullets. It is a more relaxed apex where you can sit back at the bottom of the screen and still be able to survive with less bullets being pumped at you with the upfield Ravens getting destroyed by the increased range. It also allows you to particularly hit upfield Ravens that are normally be unable to be touched by MB. This can be useful in the densest waves where going upfield will be very difficult. Unfortunately, because it is sometimes desirable to go slightly upfield to quickly collect more particles to spam deploy barriers before the barriers around you all get destroyed, it is better to sometimes just stay a bit more upfield to charge MB after collecting the particles instead, making the Gamma Apex more viable.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yYAg6IA29Ac?si=i3LQeFpx_LFVmM8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=528613422&bvid=BV15u411t7Ee&cid=1126404534&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

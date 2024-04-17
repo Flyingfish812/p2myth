@@ -93,3 +93,11 @@
 - 评分：3.36 / 5
 
 缓慢移动的主炮淹没了整个屏幕，再加上激光风暴增加的伤害，洛基的杀戮速度令人印象深刻。激光风暴持续时间的缩短还使洛基能够足够快地处理能量，从而显著减少能量浪费，尤其是在密集波有很多能量时。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LgCaU-WdoHg?si=LKVUEzUUz-1cQuMT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=881393476&bvid=BV1hK4y1q71L&cid=1409616227&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

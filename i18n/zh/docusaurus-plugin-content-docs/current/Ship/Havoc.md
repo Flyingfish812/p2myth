@@ -97,3 +97,11 @@
 - 评分：1.91 / 5
 
 集中的激光风暴使浩劫能够快速对付更大的敌机，在子弹淹没屏幕之前迅速拆掉危险的炮台。该效果仅对大型及以上的敌机最为明显。这可以让你先拆掉大型的一个炮台，然后再去拆另一个。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRracme6DmA?si=H3_1BFdODwNB08D4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=990825085&bvid=BV1Bx4y1M7WG&cid=977973398&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

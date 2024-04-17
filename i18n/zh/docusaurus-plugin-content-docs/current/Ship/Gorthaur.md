@@ -95,3 +95,11 @@
 - 评分：2.27 / 5
 
 有了这个皮肤后，你就可以不怕回旋镖或菊花弹。护盾的冷却很快，这样可以让你轻松地交替使用屏障和护盾（即屏障，护盾，屏障，护盾等）来无情地阻挡它们，除非屏障非常小并且消失得太快。要学会在正确的时间释放屏障，你可以在回旋镖或菊花弹靠近你之前释放屏障，这样护盾可以有足够的时间来恢复，从而使护盾可用于下一波菊花弹或回旋镖。即使屏障的尺寸很小，释放 2 个这样的屏障也足以使护盾恢复，这样护盾可以再次用于阻挡即将到来的威胁。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z5BwG21TRv0?si=4UsGPcZ-vxRvdF43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=875295849&bvid=BV1mN4y1k7ab&cid=1317492398&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

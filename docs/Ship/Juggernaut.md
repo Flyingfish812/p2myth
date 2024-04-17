@@ -98,3 +98,11 @@ This thing decimates Armor Ravens immediately. An MB combined with Destructive B
 - Score: 3.80 / 5
 
 The very fast firing nature of MIRV Launchers in MIRV/Shuriken missions means it is traditionally more difficult to charge MB slightly further upfield. However, this apex allows you to charge further upfield with a reduced charge time, or simply makes it easier for you to pull off MBs before the MIRVs explode. It also makes it easier to land MBc on frontline Eagles which can be extremely difficult given the tight timing. You can also chain MBs together without too much hassle in the early acts.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FItvw8z6_a8?si=e-4rU_0rRdBovGR3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=746871821&bvid=BV1HC4y1V7A1&cid=1290407974&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

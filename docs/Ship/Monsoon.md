@@ -85,3 +85,11 @@ In fact, the benefit of this Apex is unnecessary, because it should be a basic s
 - Score: 3.00 / 5
 
 This Apex is a solid boost to Monsoon, because the two separate MLs enable flexibility in target selection. In addition, the total damage is increased. Since it’s hard to sweep horizontally with Nova Surge, ML Double Shot helps to effectively wipe out invaders either on one side of the field or further apart, reducing the difficulty of main sweeping.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LvFbmlqsaDE?si=1ftRdp5v1uJgiNvD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=261011125&bvid=BV15e411T75v&cid=849129574&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>
