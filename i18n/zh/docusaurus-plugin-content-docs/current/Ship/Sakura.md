@@ -106,3 +106,11 @@
 这个皮肤将每发主炮发射的剑数从 11 减少到 7，使每把剑造成更多伤害。现在每把剑都足以摧毁一个微型（而不是需要两把剑才能摧毁一个）。
 
 这个皮肤用起来很别扭，你需要跳进敌机群中，对它们造成伤害，然后快速从喷子波浪和菊花弹幕中退出来，回到下面的屏障中。可能真正的风险通常来自菊花弹爆开前已经存在的随机子弹，这些子弹可以穿过菊花弹之间仅有的缝隙。增加的伤害可以让每发剑都能杀死微型，只能让樱花玩起来不那么烦人。然而，增加的伤害也能打掉小型，所以理想情况是在爆炸性瞬移之后，将主炮瞄准小型群。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W9RmpWT99do?si=ppT_cP1lK2hEbJ__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1751848333&bvid=BV1wx421y7pC&cid=1470859477&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

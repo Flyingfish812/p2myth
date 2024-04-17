@@ -89,3 +89,11 @@ The main bonus of this APEX is to increase the damage output. Other than that, i
 - Score: 1.82 / 5
 
 As a survivability-increasing APEX, this APEX stuns turrets in a larger area. If this APEX isn't enough to keep you alive, consider releasing the Ion Cannon early to stun the back row and take full advantage of Zen's slowing effect. If you still can't clear missions safely, it is recommended to change your ship directly.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E25DYnBLM8Y?si=wqa4P_uBuNEWcE78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=605480005&bvid=BV1k84y1C7ph&cid=899729408&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

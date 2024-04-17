@@ -89,3 +89,11 @@
 - 评分：1.82 / 5
 
 作为一个增加生存能力的皮肤，这个皮肤在更大的范围内眩晕炮台。如果这个皮肤不足以让你活得更安全，请考虑提前释放离子加农炮眩晕后排，并充分利用禅宗的减速效果。如果你还不能安全的通关，建议直接换个飞机吧。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E25DYnBLM8Y?si=wqa4P_uBuNEWcE78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=605480005&bvid=BV1k84y1C7ph&cid=899729408&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

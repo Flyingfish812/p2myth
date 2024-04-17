@@ -94,3 +94,11 @@ This apex makes Neni slightly less of a pain to play, particularly against Raven
 - Score: 3.18 / 5
 
 For most of the part, because Neni’s main already packs such a huge punch, the extra damage is pretty much useless since part of the main’s damage will likely be leaked after finishing off an invader that took extra damage from the AP ML. It is only useful when there is a huge invader behind, such as a Vulture or above.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FWewirGByP0?si=Nm2447-eKESjLOb-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1352219229&bvid=BV1Rz421Z7t9&cid=1477253525&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

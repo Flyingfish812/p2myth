@@ -95,3 +95,11 @@ Landing safe teleports can be really tricky at times due to the mess of bullets 
 - Score: 4.82 / 5
 
 This apex can be quite fun to bring out on Armor Laser missions as it can teleport freely around the field to avoid all the lasers and spam MS. However, unless you really love Trireme, there are significantly better options out there which are more fun and more viable compared to this apex.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ftpW7y2Es7Y?si=kOsmWHD3UmgivzeZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1500441658&bvid=BV1LU421o7zc&cid=1434439008&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

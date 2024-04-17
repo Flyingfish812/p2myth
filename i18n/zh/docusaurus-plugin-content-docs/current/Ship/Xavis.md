@@ -89,3 +89,11 @@
 - 评分：3.27 / 5
 
 在极密集的敌阵中，这个皮肤赋予了萨维斯突破重重敌机以触及后排敌机的能力，尤其是那些装备高等级回旋镖或菊花炮台的后排敌机。然而，需要多发离子加农炮才能摧毁大量的敌机来创造生存空间。其实，这个皮肤并没有改变萨维斯的先天缺陷，也就是它所有进攻手段都为向前发射这一特性（主武器、光环和禅宗）。因此，操作还是比较困难，但还好增加的爆炸范围稍微缓解了这个问题。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HduG6HNR6I4?si=2mBDOjiEGOlAIXQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=271917118&bvid=BV17c41137vN&cid=1152150709&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

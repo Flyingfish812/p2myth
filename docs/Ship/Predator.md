@@ -93,3 +93,11 @@ Really helpful for crowded days as this means taking out Ravens much faster. You
 - Score: 1.91 / 5
 
 This apex can be useful if you know how to set-up upfield barriers properly. This involves destroying invaders with spread turrets (especially dart spread turrets) or MIRVs first. Doing so allows you to use the downtime between bursts to quickly head upfield to dump a barrier there, without being trapped between lanes of bullets. Pulled off right, this apex can buy you more time to snipe down invaders which carry turrets as mentioned above.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nn1KADrBtH8?si=G8Ci8uIqVWosBcWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=559612815&bvid=BV1Ae4y1m7gP&cid=875885068&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

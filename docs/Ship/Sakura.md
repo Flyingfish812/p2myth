@@ -106,3 +106,11 @@ Despite the layout of daily missions rendering barrier placements very difficult
 This apex also tightens the spread of its Edge Projector, reducing the number of swords per burst from 11 to 7, making each sword deal more damage. Each sword is now enough to destroy a Sparrow (as opposed to 2 swords needed to destroy one).
 
 A pretty awkward apex to use, the Explosive TP can be used dangerously to get right into the thick of the action and heavily damage Ravens before quickly extracting yourself from the mess of shurikens and MIRV pellets back into your barrier placed downfield. The real risk usually comes in the random bullets already there before the explosion of MIRVs, as swiping a path inbetween the MIRVs with a small leeway distance is able to get past the pellets released before they spread out. The increased damage of the Edge Projectiles also kills Sparrows with one of it, making Sakura a little less annoying to play. However, hitting a Raven straight on will also eliminate it, making it usually more ideal to aim between Raven crowds so as to eliminate as many of them after dealing explosive TP damage.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W9RmpWT99do?si=ppT_cP1lK2hEbJ__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1751848333&bvid=BV1wx421y7pC&cid=1470859477&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

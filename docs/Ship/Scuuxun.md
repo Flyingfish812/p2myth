@@ -94,3 +94,10 @@ The increased REMP range makes a ton of difference in a bullet heavy mission, gi
 
 This apex makes its T’Kari spikes have slight homing capabilities. The slight homing of the T’Kari spikes allow Scuuxun to offset slightly to one side and still be able to hit its invaders, useful against slightly tracking lasers.
 
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k2zOqtaNkYA?si=B4b2Ru8DD1g3fsr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=856966996&bvid=BV1ZV4y1W7HB&cid=801946061&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

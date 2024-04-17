@@ -90,3 +90,11 @@ Despite Xaniea’s AP weapon type, SB LS is powerful enough to rip the shields o
 If anything, Xaniea Tau is one of the most aesthetically pleasing apex to play, with a combination of green pods from its main, blue LS from SB LS, yellow/golden from the Aura radius, as well as red from the bullets and lasers on screen. Playing this ship feels like mixing everything together on a color palette, especially if you do so on a dark background such as in Gau Prime or Arcology CQ-6. Aesthetics alone can simply justify buying this apex for a great visual and gameplay experience.
 
 You wanna know? I have something [♂great♂](https://www.bilibili.com/video/BV1yF41197Dz/) in my room.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iP1REuaukvU?si=hYPFyM9cq7WKC4dQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=697845229&bvid=BV1nm4y1y7KE&cid=1104958351&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -91,3 +91,11 @@ This apex helps Proxymar to charge at an extreme corner of the field and still b
 - Score: 1.73 / 5
 
 This apex can help Proxymar in slightly bullet heavier laser missions such as Laser/Pellet and Pellet/Shuriken/Laser missions to create more breathing space to escape the mess of bullets after charging MB.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ji4NUu6EH6g?si=31JL84uq1bqxMRpC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=789354458&bvid=BV1dC4y1R7VU&cid=1289839180&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

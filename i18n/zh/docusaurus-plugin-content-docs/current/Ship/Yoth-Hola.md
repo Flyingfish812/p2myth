@@ -90,3 +90,11 @@
 - 评分：1.00 / 5
 
 该皮肤仅在护盾消失且被激光菊花弹包围时才有用。它还有助于消除在肉波或密集波中敌机发射的流弹，但老实说，你可以节省一点光环能量来使用定点防御。否则，这就是一个无用的皮肤。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16sYsBdwobk?si=wAXUIwMf_rduucJn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=573692435&bvid=BV1Qz4y147yQ&cid=1205191177&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

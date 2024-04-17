@@ -98,3 +98,11 @@ A somewhat useful apex, this apex can be used to some effect in MIRV/Shuriken mi
 This apex increases the blast radius of its photon detonators from 110 to 130, an 18% increase.
 
 A very fun apex, this apex is a huge joy to use especially in dense, Sparrow infested waves. The compounded blast damage is particularly satisfying to hear when the increased blast radius reaches so many Sparrows from just one Photon Detonator, so imagine how much more satisfying it is with tons of them hitting these invaders. The huge explosion also eliminates invaders faster and allow PD to have a chance to keep up with the bullets on field.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OJJ-tGAz5GE?si=CLIMJBLJkNsp2wvC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=312809015&bvid=BV1QP411m7kC&cid=1106983951&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

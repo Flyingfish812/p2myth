@@ -108,3 +108,11 @@ As Trinity’s main weapon is strictly forward firing, the increase in CF size a
 - Score: 2.55 / 5
 
 This apex makes the railgun that Trinity fires upon arrival from TP explode on impact with an invader, with a very small blast radius. Damage is unchanged. The blast damage is AP (meaning it does not suffer from damage reduction from Invader Armor) if the darkfire shot lands on the cockpit of armored invaders.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QdurlW_0CcA?si=otmlFHl-falZjuOq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=274194094&bvid=BV1Lc411c7fo&cid=1218714173&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

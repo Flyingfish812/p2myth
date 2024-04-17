@@ -99,3 +99,11 @@ Unfortunately, this apex is not much of a help. It only helps on some rare occas
 - Score: 4.45 / 5
 
 The representative of the barrier reflector. When talking about barrier reflection, almost everyone will think of this ship. One of the uses of the reflector is to charge MB in advance, that is, before the invaders are destroyed, hide in the barrier to charge the Mega Bomb, and wait for the barrier to reflect the laser fired by the invaders to destroy them. Another way to use it is in unprotected missions, by charging in the barrier and waiting for the reflection of invaders in the back to destroy the vulture in the front, and then releasing Mega Bombs to destroy the small invaders in the back. Mega Bombs and barrier reflections can be said to complement each other, and the best effect can be achieved when the two are combined.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g79xr7q82rM?si=aRFGTmdYC1FRTHON" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=704011692&bvid=BV1Tm4y1V7po&cid=1281870391&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

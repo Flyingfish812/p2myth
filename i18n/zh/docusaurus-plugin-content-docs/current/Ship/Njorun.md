@@ -96,3 +96,11 @@
 - 评分：4.18 / 5
 
 如果你需要训练如何使用超级反射，那么这个皮肤就是你的不二之选。当你在超时空场中完全无敌时，激光仍然可以被反射，这使得这个皮肤非常易于使用。你不必担心因频繁使用而导致护盾延迟释放带来的死亡。这使得释放超级反射变得非常容易，而不必担心死亡。你可以晚一点释放护盾，即使激光已经直接射向你，你仍然可以生存，但只要你有超时空场的保护，你就会完全没事。超时空场使尼耶伦号成为疯狂的大鹏杀手，使其能够打得相当快，尽管不如其他一些超级反射皮肤或激光任务中一些最好的竞速机那么快。这个皮肤也很有趣，因为看着敌机从激光反射的疯狂伤害提升中被摧毁真是太有趣了。超时空场还允许护盾冷却，这样如果前一波消亡得太快，下一次超级反射的计时会变得更容易。因此，使用超时空场作为保护，允许在没有反射的情况下发射一次激光可能更有利。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MZ36oD_WI6w?si=4X7ldAq1qTJtloZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=968295573&bvid=BV1Vp4y1X7HF&cid=193716841&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -96,3 +96,11 @@ This apex encourages an interesting charge forward gameplay where you would take
 - Score: 4.18 / 5
 
 If you need a training mode for Super Reflect apexes, this apex is the way to go. The fact that lasers can still be reflected while you are completely invincible in CF makes this apex very easy to use. You need not worry about dying from a delayed deployment of PS from overheating it from a recent use. This makes it very easy to land a Super Reflect without the worry of dying. You can deploy PS a bit late and still survive even as lasers or DDLs shoot straight at you, but so long you are protected by CF, you will be totally fine. The Super Reflect makes Njörun an insane Roc killer, enabling it to go pretty fast, although not as fast as some of its other Super Reflect apexes, or some of the best speedrunners in laser missions. This apex is also a fun one to have since it's so fun to watch the invaders decimated from the insane damage boost from laser reflect. CF also allows PS to cool down such that it’ll become easier to time the next Super Reflect, if the previous wave died too fast. It may thus be more advantageous to allow one burst of lasers to be fired without a reflect, using CF as protection.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MZ36oD_WI6w?si=4X7ldAq1qTJtloZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=968295573&bvid=BV1Vp4y1X7HF&cid=193716841&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

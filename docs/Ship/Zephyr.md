@@ -90,3 +90,11 @@ This apex makes Zephyr slightly less of a pain to play as you can burst fire PD 
 - Score: 4.18 / 5
 
 The slightly less density of bullets in Armor General/Boomerang missions compared to MIRV/Shuriken missions allow PD to eliminate bullets quick enough such that the PD lasers start clearing out the bullets further upfield, quickly damaging invaders and dealing pretty massive damage. A properly regulated Kappa refills PD enough for it to plow through darts and reach even MIRVs to be eliminated in one laser rather than allowing it to detonate which will waste PD due to significantly more bullets on field.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G_B_vo8hFHQ?si=xnmOW0Lpv5-8xN8D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=574364779&bvid=BV1sz4y1p7up&cid=1221528921&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

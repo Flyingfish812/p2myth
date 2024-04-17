@@ -89,3 +89,11 @@ Tempest benefits massively from the thin ML, as riding up the ML is able to gain
 - Score: 2.18 / 5
 
 The extra BEMP range gained, even just by grazing or collecting a few particles more can make all the difference in extending your safety range by a tiny bit. This can make a huge difference in whether or not you can pull off an extra ML charge, especially when dealing against very heavy or dense waves where multiple ML charges are needed that wave to clear most of the threats before the MIRVs start exploding in your face without an Aura refill option. Even when that happens, the faster increase in range is able to save you from death just by grazing and spam tapping in desperate hope of survival, which is very possible if you know how to weave between bullets a fair bit.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mp_8G5BTlbI?si=wrklT7-_bGR3wAI_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1002759633&bvid=BV13x4y1Y7Cg&cid=1500206846&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

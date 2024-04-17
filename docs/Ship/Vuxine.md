@@ -90,3 +90,11 @@ There has never been an apex more useless than this. The elimination of MIRVs th
 - Score: 0.55 / 5
 
 The faster pull in of particles can sometimes make a difference on whether or not it is possible to PD away MIRVs before they start to explode in your face almost simultaneously. This makes gameplay much faster and easier by doing less of the slowed Kappa PD gameplay which can be very painful.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FpXxeJIje_M?si=NNnh_0SLaN2eyVQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=496519149&bvid=BV13K411a7Bj&cid=1414171759&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

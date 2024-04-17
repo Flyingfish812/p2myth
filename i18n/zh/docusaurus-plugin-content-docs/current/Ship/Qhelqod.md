@@ -99,3 +99,11 @@
 - 评分：4.45 / 5
 
 屏障反射器的代表，说起屏障反射几乎所有人都会条件反射般地想起这个战机。反射器的用法之一是提前蓄力，即在敌机还未被消灭时就躲在屏障内蓄力巨型炸弹，等待屏障将敌机射过来的激光反射出去消灭敌机。另一种用法是在无保护关卡中，通过在屏障内蓄力等待后排敌机的反射消灭前排大型，再释放巨型炸弹消灭后排的小型敌机。巨型炸弹和屏障反射可以说相辅相成，两者结合起来才能发挥出最佳效果。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g79xr7q82rM?si=aRFGTmdYC1FRTHON" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=704011692&bvid=BV1Tm4y1V7po&cid=1281870391&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

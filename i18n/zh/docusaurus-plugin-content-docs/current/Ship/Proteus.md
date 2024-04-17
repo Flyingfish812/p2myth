@@ -98,3 +98,11 @@
 这个皮肤将其主炮的爆炸半径从 110 增加到 130，增加了 18%。
 
 这是一个非常有趣的皮肤，这个皮肤使用起来非常愉快，尤其是在密集的微型海中。增加的爆炸半径可以让一发主炮就打中很多微型，复合的爆炸伤害尤其令人满意，类似多米诺骨牌一样。巨大的爆炸也更快地消灭了敌机，让定点防御可以及时消掉场上的子弹。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OJJ-tGAz5GE?si=CLIMJBLJkNsp2wvC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=312809015&bvid=BV1QP411m7kC&cid=1106983951&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

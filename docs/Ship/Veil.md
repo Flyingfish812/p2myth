@@ -93,3 +93,11 @@ Arguably, this is the most useful MBc BEMP Apex of all the ships that have this 
 - Score: 4.64 / 5
 
 This apex is insane and helps so much in speedrunning. One of the most annoying things about Veil is it's sustained burst which makes it extremely difficult to optimize, especially when you are trying to run around and kill rapidly moving Ravens. This apex completely eliminates this problem and you can focus your main on bigger invaders which are much easier to hit and thus a lot less optimization to do. SB MB not only decimates Shielded Ravens, but leaves no mercy to other shielded invaders, stripping their shield immediately, up until an Eagle. Landing MBc on 2 Eagles will devastate them, making them go down even before they can pump insane amounts of shurikens or MIRVs on field.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6A-vJdElNzM?si=TqRLz6uYY9V_BeVJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=405041439&bvid=BV1xG411o7PF&cid=1242586613&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

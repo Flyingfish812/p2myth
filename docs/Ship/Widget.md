@@ -88,3 +88,11 @@ Despite the power of the Super Reflect Apex, this Super Reflect Apex is arguably
 - Score: 4.18 / 5
 
 The sheer number of bullets in MIRV/Shuriken missions mean a ton of damage can be done to invaders of all types. With such an abundant supply of particles from the near instantaneous deaths of so many Ravens, the DPS of Widget is severely enhanced. What's more, you can also purposely activate MIRVs if the damage is not sufficient, which means more bullets to deal damage with. This is usually done when Vultures and above are about to die, so that you make sure you don't want out of PD just in case you need the defence. Otherwise, MIRVs from MIRV Bloomers just vaporize straight after they are emitted from PD, which ensures your PD doesn't drain too fast, yet be able to deal decent damage from the sheer amount of MIRVs eliminated.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHn9RC4fTE4?si=q8t8daAwKoShiHrq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=555393846&bvid=BV1sv4y1u7Ce&cid=761265653&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

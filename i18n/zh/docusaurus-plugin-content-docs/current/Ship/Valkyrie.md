@@ -88,3 +88,11 @@
 - 评分: 2.73 / 5
 
 这个皮肤在日常任务中非常有用，尤其是在密集的关卡中，尤其是那些有很多中小型的关卡中，因为压缩爆炸的伤害会很快摧毁它们。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LhCvjkxoSWE?si=M1F3N6lrdvDOmxBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1953219390&bvid=BV14C411V7BX&cid=1502647982&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -105,3 +105,11 @@ For Nimbus, this APEX enhancement is very real. 5 more points of damage means th
 - Score: 3.00 / 5
 
 This apex will wreck absolute havoc among invaders when there are Ravens scattered all over the field at different corners. The increased REMP range is able to reach them all, even in the final Act 5 (or Act 6). The damage boost when dealing with larger invaders at the corners of the field is nice as well (which are normally not reachable by normal REMP), although it’s true power comes in extreme Raven crowds.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WYcGcnOlK24?si=4sbaRLNmWL2pDB5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=646457567&bvid=BV13e4y1E72K&cid=859241701&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

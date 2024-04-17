@@ -104,3 +104,11 @@ For missions where you need to pop turrets, this APEX may be of some use, becaus
 <img src="/illustration/main_27_phi.gif" style={{zoom:1}}/>
 
 This apex massively improves Ogon's tracking speed to Very Fast. It is no doubt an extremely huge buff to Ogon and you no longer have to worry about a wonky main that is so difficult to land, and thus, will be able to kill much faster. It is also less frustrating to use as you can now be anywhere you want on the field to dodge incoming fire without worrying about not doing any damage at all as the main struggles to keep up. However, despite the extreme buff to Ogon, the abysmal DPS coupled with a horrible Aura Zen combination, still make Ogon a weak ship that is still difficult to use in the higher leagues. There is simply not enough justification for you to spend so much credits just to buy an apex that doesn't help you very much in the higher leagues. For the meme, however, you can justify that. Or if you somehow like Ogon so much for its light shows, which is sort of still awesome with the lasers constantly scattering about (although in my opinion, the original slow re-targeting looks more awesome, this target switching is too abrupt and fast).
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yPFhESR1QNA?si=dhv2Y3dZ_N1vAAXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=664496479&bvid=BV18a4y1d7Xv&cid=1360348478&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

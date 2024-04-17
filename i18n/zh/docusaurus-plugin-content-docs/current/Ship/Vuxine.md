@@ -91,3 +91,11 @@
 - 评分：0.55 / 5
 
 有时加快能量收集的速度可以让你在菊花弹爆开之前将其消掉，并且加快通关速度。这样可以尽量减少使用卡帕的次数（可能会非常痛苦）。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FpXxeJIje_M?si=NNnh_0SLaN2eyVQ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=496519149&bvid=BV13K411a7Bj&cid=1414171759&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -92,3 +92,11 @@ The increase in PS size not only allow for better laser coverage or bullet clear
 - Score: 2.27 / 5
 
 This apex is potentially more useful against Pellet/Shuriken/Laser missions, where Phalanx can be dedicated to eliminate the massive amount of bullets while PS can be used to ward off laser bursts. It is quite useful against constant laser bombardment, the increased usage of PS wave after wave even if it is a light wave allows for better safety rather than using Phalanx against lasers which isn't terribly reliable.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yAWMo0P6apY?si=vOgYaHsU4SA8mVYW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=249345376&bvid=BV1xv411E7W7&cid=373004498&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

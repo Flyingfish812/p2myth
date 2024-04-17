@@ -94,3 +94,10 @@ In the hells of MIRV/Shuriken missions, the increased clearance in space allows 
 
 Despite it's innocent looking apex which just seems to be a small buff, the increase in its killing capability puts this apex on par with many of the higher level speedrunning ships in armor missions. The capability of MS to kill off Ravens much faster also entails a higher survivability, since these Ravens can pump in so many MIRVs on field quickly if not disposed of, making Prime X significantly easier to use.
 
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KUk1eEm1KLo?si=KJxy-dK3uHPX0cba" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=272754431&bvid=BV1iF411d7A4&cid=1177613429&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -88,3 +88,11 @@
 - 评分：4.18 / 5
 
 菊花/喷子任务中会出现大量子弹，这也就意味着这个皮肤能对各种敌机造成成吨伤害。小型几乎会被瞬间消灭，带来大量能量，因此这个皮肤能提升不少维杰特的每秒伤害。而且你可以主动引爆菊花，并消除它们以造成更多伤害。这个操作通常在大型或其它上方敌机快被消灭时才使用，这样你就能保证能量不会被耗尽，以便在防御时使用。除此之外，在面对菊花台时，你需要在菊花一发射时就将它们立即消除，来确保能量不会消耗过快。由于菊花数量众多，直接消除它们也能造成可观的伤害。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHn9RC4fTE4?si=q8t8daAwKoShiHrq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=555393846&bvid=BV1sv4y1u7Ce&cid=761265653&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

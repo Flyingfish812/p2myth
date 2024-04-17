@@ -104,3 +104,11 @@
 <img src="/illustration/main_27_phi.gif" style={{zoom:1}}/>
 
 这个皮肤极大地将奥贡的跟踪速度提高到非常快。毫无疑问，这对奥贡来说是一个极其巨大的增益，你不再需要担心难以控制的不稳定主炮，因此能够更快地杀死敌机。使用起来也不那么令人沮丧，因为你现在可以在屏幕上的任何地方来躲避弹幕，而不必担心因为主炮很难跟上而不会造成任何伤害。然而，尽管奥贡得到了极大的增强，但糟糕的 DPS 加上可怕的光环禅宗组合，仍然使奥贡是一架在元帅级别难以使用的弱战机。根本没有足够的理由让你花费这么多积分只是为了购买一个对你在元帅级别中通关没有多大帮助的皮肤。或者，如果你非常喜欢奥贡的灯光表演，激光不断散射，这仍然很棒（尽管在我看来，最初的缓慢重新瞄准看起来更棒，这种目标切换太突然和太快） 。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yPFhESR1QNA?si=dhv2Y3dZ_N1vAAXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=664496479&bvid=BV18a4y1d7Xv&cid=1360348478&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

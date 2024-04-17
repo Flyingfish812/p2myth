@@ -90,3 +90,11 @@
 如果说有什么不同的话，那就是哈尼亚-陶是最赏心悦目的皮肤之一，它拥有绿色的主炮，蓝色的激光风暴以及黄色的光环。玩这架战机感觉就像在调色板上将所有颜色混合在一起，尤其是在深色背景下这样做时。仅凭美观就足以证明购买此皮肤以获得出色的视觉和游戏体验是合理的。
 
 你想懂？我房里有一些[好康的](https://www.bilibili.com/video/BV1yF41197Dz/)。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iP1REuaukvU?si=hYPFyM9cq7WKC4dQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=697845229&bvid=BV1nm4y1y7KE&cid=1104958351&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -91,3 +91,11 @@
 - 评分：4.18 / 5
 
 这款皮肤极大地增强了塔尔察赫的攻击性，它对抗大量敌机非常时有效，子弹雷管将塔尔察赫转变成一架攻击型战机，在敌机浪潮到来时迅速消耗定点防御可以对最前线的入侵者造成毁灭性伤害，迅速清理出通道。当光环稍微耗尽时，也可以间隔使用卡帕，迅速在击杀前方敌机后重新填充光环。只需小心不要过度使用光环和过度吸收能量，它甚至可以对抗转盘炮，靠近时可以对携带该炮台的敌机造成巨大伤害。在某些情况下，光环足够并有一些运气的情况下，炮台将在中途被摧毁。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RsBayeJZZqw?si=_5t2mqIqKnRVEKWl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=911228891&bvid=BV1fM4y1i78E&cid=1130972716&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

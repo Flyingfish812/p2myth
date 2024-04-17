@@ -94,3 +94,11 @@
 - 评分：1.91 / 5
 
 如果你清楚地知道如何利用上半区的屏障，这个皮肤会有一定的帮助。这需要你优先解决各种转盘（尤其是速射转盘）和菊花炮台。这样一来，你就可以在主武器的开火间隔中飞到上半区并在那里放置屏障，而不用担心被一道道子弹困住。如果操作得当，这个皮肤能为你争取更多的时间，并使你能够持续地消灭装备那些炮台的敌机。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nn1KADrBtH8?si=G8Ci8uIqVWosBcWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=559612815&bvid=BV1Ae4y1m7gP&cid=875885068&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

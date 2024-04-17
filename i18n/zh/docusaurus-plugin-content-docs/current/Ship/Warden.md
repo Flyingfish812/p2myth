@@ -89,3 +89,11 @@
 - 评分：2.09 / 5
 
 三叉戟综合而言就是负面的提升，因为伤害分散导致无法完全消灭大部分敌机。但在看守人这里的表现稍微修正了一些，这得多亏了快速追踪的主炮可以高效地收掉残血敌机，让三叉戟的劣势没那么明显了。此外，你还有不分裂的聚焦长矛可以当作替代品，这些因素将三叉戟不利的一面掩盖住了。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tu9XEZVNoSU?si=qRriNaJJX71HKhX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=556948505&bvid=BV1Pv4y1c73G&cid=801664993&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -94,3 +94,11 @@
 - 评分：2.55 / 5
 
 这个皮肤在较肉的敌阵中偶尔有帮助。然而敌机更有可能躲开巨型激光，使伤害浪费。普通巨型激光能打中的小型这时有可能也会打不中。但总的来说，伤害提升还是明显的。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QFtAZ7mNSnU?si=tPGnRg-wAESrGKdK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=917449828&bvid=BV1Eu4y1W7Tx&cid=1306058846&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

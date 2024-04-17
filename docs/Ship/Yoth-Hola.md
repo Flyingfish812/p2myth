@@ -90,3 +90,11 @@ The boost in speed that this apex gives is pretty miniscule as each individual l
 - Score: 1.00 / 5
 
 This apex is only useful when exiting PS when surrounded by laser MIRVs. It also slightly helps in eliminating stray bullets emitted by invaders in very heavy and/or dense waves, but you could honestly just spare that little bit of Aura energy to use PD. Otherwise, a useless apex.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16sYsBdwobk?si=wAXUIwMf_rduucJn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=573692435&bvid=BV1Qz4y147yQ&cid=1205191177&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -86,3 +86,11 @@
 - 评分：4.45 / 5
 
 作为屏障最有用的提升，激光反射的额外输出给毒刺带来了更多的可玩性。由于本身输出的手段比较单一，屏障反射能让你更多地关注屏障的摆放。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yLAWf_KM7o4?si=AxMnAT37jNa_24sr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=438063627&bvid=BV1mj411M7aE&cid=1042130832&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

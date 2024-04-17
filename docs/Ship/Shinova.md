@@ -86,3 +86,11 @@ The faster increase in BEMP range can be life saving. The capability to very qui
 - Score: 4.64 / 5
 
 The inaccurate main of Shinova is one of its biggest downfalls, which this apex fixes since Destructive BEMP can take care of the cumbersome Sparrows that can easily escape the slow moving projectiles. Kappa also means that holding on to Kappa at expense of firing may be even beneficial for the cooldown phase of later waves where only Sparrows upfield remain, provided enough Sparrows are left on field.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AabTdOD7HHg?si=u2whdsm8CqmH81gV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=213258596&bvid=BV1Ha411v73V&cid=581147693&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

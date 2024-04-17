@@ -90,3 +90,11 @@
 - 评分：4.64 / 5
 
 由于彩虹萤需要不断地眩晕敌机，有了这个皮肤后，高的 AoE 伤害配合主炮，将彩虹萤变成了一个可怕的伤害制造者。它可以轻松对付密集波和更大型的敌机，只要你能让它们被眩晕住。对于大型敌机来说，它仍然会像普通的彩虹萤一样发挥作用，但对于密集波来说，这个皮肤现在可以轻松应对这种情况。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pj-eqB11LUo?si=AtqiZLSzGYDcl11J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=687770744&bvid=BV1zU4y1z7uc&cid=826014110&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

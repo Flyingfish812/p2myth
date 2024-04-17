@@ -111,3 +111,11 @@
 - 评分：4.91 / 5
 
 幕府将军的终极形态，比起专注于擦弹的另一个皮肤甚至更加强大。究其原因在于，越难的任务弹幕越多，而弹幕量增多后擦弹的效益与是否使用皮肤已经无关了。此外，更密集的弹幕也意味着你不能悠闲地硬躲弹幕，同时需要考虑如何高效灭敌。因此，高伤害的反射电磁脉冲配上一轮满光环足以消灭一波中的绝大多数敌机，比起擦弹多获取那么一点点光环大小来说，效益确实更高。最后一点就是，有时候多出的10点伤害（在装甲任务中为7点）能带来质的变化。俗话说得好，伤其十指不如断其一指，你也不想屏幕上留下很多残血的敌机吧？
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJEgzlwPEcg?si=pvNIhWkQqzoGIoTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=666312222&bvid=BV1ua4y127DL&cid=1406154032&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

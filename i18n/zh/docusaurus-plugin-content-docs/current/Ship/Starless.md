@@ -95,3 +95,11 @@
 - 评分：2.27 / 5
 
 从那个冷知识来看，这个皮肤很像是皮肤设计者没活了硬整出来的。多数情况下，歌利亚导弹与穿刺长矛的处境类似，它们都不会积攒到把所有的计数器都满了在一起释放。当然，你也可以尝试以下连续释放6次大范围伤害（包括反射电磁脉冲），对于中型与小型敌机群来说这也是不俗的爆发。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f6iBqe_ISjI?si=DaWOooqVwDT2NV8x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=395861578&bvid=BV1jo4y1B786&cid=1049425966&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -107,3 +107,11 @@ This apex benefits more for survivability purposes, as the increased REMP range 
 - Score: 2.27 / 5
 
 Generally more useful against larger invaders, particularly against boss invaders which are Condors and Rocs, this apex allows you to use the turret slowdown opportunity to go point blank with the turret, sitting right on top of it so as to pop it off as quickly as possible. The slowdown of turrets on other invaders smaller than a Vulture doesn’t really help otherwise due to how quickly you regain particles from using REMP after stripping the shields of invaders, recovering Aura quickly. The increased CF range is also hardly of a help, although in heavier waves that don’t have Ravens or Sparrows, this will help launching an REMP slightly more optimally.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sfeCWG88ttY?si=RJHfGTqqtnttvOrB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=349202119&bvid=BV1hR4y1S7AK&cid=937164172&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -89,3 +89,11 @@ The capability to stun many turrets make this apex very powerful. This is especi
 - Score: 3.27 / 5
 
 In the extremely dense composition of waves, this apex gives Xavis some viability in plowing through invaders to reach the more dangerous ones, particularly those that carry high tier boomerang or MIRV turrets. However, it requires several ICs to be fired just to destroy a sizeable amount of invaders to create breathing space. It also does not fix the inherent weakness of Xavis, it only possessing forward firing mechanisms (All 3 attributes, Main, Aura and Zen) thus still making Xavis Gamma difficult to pilot, although the blast radius increase alleviates this problem slightly.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HduG6HNR6I4?si=2mBDOjiEGOlAIXQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=271917118&bvid=BV17c41137vN&cid=1152150709&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

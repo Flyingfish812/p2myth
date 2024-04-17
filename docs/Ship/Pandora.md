@@ -84,3 +84,11 @@ This Apex slightly resolves the problem of the tendency for Clover ATS to deal e
 - Score: 3.45 / 5
 
 This Apex is a very powerful upgrade to PD because it significantly improves its effectiveness in bullet-heavy missions. However, when compared with other ships with this Apex, its effect is not very pronounced on Pandora. Plus, it’s more expensive for some reason.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41CvmC_9TJE?si=OzsR3TThtvLB84Dt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=313343306&bvid=BV1GP41117vV&cid=1121042272&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

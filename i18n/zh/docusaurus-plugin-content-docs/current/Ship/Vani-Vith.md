@@ -1,6 +1,6 @@
 # 瓦尼威斯
 
-> 白白胖胖的，但是很灵活。
+> 白白胖胖的（虱子），但是很灵活。
 
 <img src="/ships/ship_41.png" style={{zoom:1}}/>
 
@@ -92,3 +92,11 @@
 - 评分：1.55 / 5
 
 这个皮肤为瓦尼维斯在菊花喷子类任务中使用提供了可行性，因为在消除屏幕上的数十个菊花弹时，增加的间隙范围可能意味着很多。无论如何，这不会很容易，因为你仍然经常需要使用瞬移，这会导致瞬移的冷却时间变长。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sMPL5mGVxL0?si=YhHPKQIkowF_2xXL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=514597058&bvid=BV1Ug41167Ua&cid=805894276&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

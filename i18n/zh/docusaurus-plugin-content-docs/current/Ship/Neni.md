@@ -94,3 +94,11 @@
 - 评分：3.18 / 5
 
 多数情况下，由于内尼的主武器伤害不俗，在穿甲巨型激光击中装甲敌机造成更多伤害后，接下来的主武器的输出容易溢出。这使巨型激光穿甲伤害变得没有意义。不过，当后排有大型或更大的敌机时，这个皮肤还是有用的。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FWewirGByP0?si=Nm2447-eKESjLOb-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1352219229&bvid=BV1Rz421Z7t9&cid=1477253525&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

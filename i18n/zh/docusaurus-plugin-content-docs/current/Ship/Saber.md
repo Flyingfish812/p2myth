@@ -100,3 +100,11 @@
 - 评分：2.82 / 5
 
 由于军刀手握两个 AoE 技能，在面对日常任务中的微型海时，使用反射可能导致长矛的快速累积，有浪费能量的风险。这个皮肤缓解了这一点。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yj0e8zBGAUQ?si=eHDYp3KwzDFeQ9If" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=997060897&bvid=BV1Ts4y1v79K&cid=1157700833&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

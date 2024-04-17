@@ -93,3 +93,11 @@
 - 评分：4.82 / 5
 
 尽管它看起来似乎只是一个小增益，但这个皮肤杀伤能力的增加使普赖姆X在装甲类任务中，可以和许多竞速机不相上下。导弹能够更快地消灭小型也意味着更强的生存能力，因为这些小型如果不处理的话，会带来后续的麻烦。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KUk1eEm1KLo?si=KJxy-dK3uHPX0cba" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=272754431&bvid=BV1iF411d7A4&cid=1177613429&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

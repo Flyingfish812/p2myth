@@ -94,3 +94,11 @@
 - 评分：3.00 / 5
 
 这个皮肤可以救命，因为增加的清弹范围能使乌布号快速转移到场上的另一侧，来躲避大量的回旋镖。增加的范围刚好能够消除4级回旋镖炮台发射的回旋镖。它也有机会造成更多伤害，因为它能覆盖到更多敌机。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ykvE9OJfC14?si=z85FskDvxBS4COCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1901022780&bvid=BV1Bm411S756&cid=1449851304&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -97,3 +97,11 @@ This apex. Is. Just. Lazy Mode. You can practically sit in one bottom corner of 
 - Score: 1.55 / 5
 
 A rather useful apex especially against the massive spread and flood of shurikens everywhere in MIRV/Shuriken missions, this apex allows you to have more breathing room when teleporting into a mess of shurikens, in order to avoid some pellets released from a few MIRV detonations. It will also eliminate more MIRVs on arrival, especially when forward firing MIRVs are in dozens and can be quite spread out at times. That being said, it is inferior to the Delta Apex which basically turns such missions into a total cakewalk.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aol48WicPgs?si=6oCCsT0N4v4Lenub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=484127718&bvid=BV1DT411z7Ho&cid=1072328124&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

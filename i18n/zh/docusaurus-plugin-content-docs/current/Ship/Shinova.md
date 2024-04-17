@@ -86,3 +86,11 @@
 - 评分：4.64 / 5
 
 施诺华最大的缺点之一就是主炮瞄不准，这个皮肤正好弥补了这一缺点。因为破坏性子弹电磁脉冲可以很好的处理麻雀。在麻雀海之前释放卡帕，延缓麻雀入场时间，等到子弹电磁脉冲的范围足够覆盖麻雀的时候，释放子弹电磁脉冲。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AabTdOD7HHg?si=u2whdsm8CqmH81gV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=213258596&bvid=BV1Ha411v73V&cid=581147693&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

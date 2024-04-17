@@ -88,3 +88,11 @@ An extremely powerful apex, this apex completely eliminates the frustrating prob
 - Score: 3.00 / 5
 
 A very useful apex for days with MIRV Deathonators, the increased REMP range destroys all the Sparrows very quickly and clears the troublesome MIRV Deathonators pellets. It also significantly improves Zimitr’s defences, especially when it has the capability to clear out more darts. The increased REMP range also catches more invaders than normally possible, which is hindered by the density of waves, since there is a real chance of turret collision.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/82UbB-W1FFc?si=WwBwBuzj4Xix9sb2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=900853699&bvid=BV1uN4y1K7D4&cid=840876570&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -88,3 +88,11 @@
 - 评分: 1.55 / 5
 
 这个皮肤使提拉特厄尔更容易处理菊花弹/喷子类任务。特别是，它意味着你可以在一个瞬移中消掉更多的菊花弹。这使得它在寻找瞬移点位时更加灵活，这样你的到达点就不会因为正常瞬移提供的间隙空间不足而受到菊花弹在你脸上爆炸的欢迎，不足以清除一些菊花弹，导致意外的子弹击中你的核心，让你没有时间做出反应。请确保在你到达时立即释放一个小屏障，这样你的周围就不会有更多的子弹。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3P9lhR65BGY?si=GaWWaHDvnfJyFOlb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=952430454&bvid=BV1Gs4y1P7wu&cid=1094681879&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

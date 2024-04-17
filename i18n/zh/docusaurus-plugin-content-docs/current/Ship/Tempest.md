@@ -89,3 +89,11 @@
 - 评分：2.18 / 5
 
 获得额外的子弹电磁脉冲范围，即使只是少收集一些能量，也可以让你的安全范围扩大一点点。这对你是否可以再蓄力一个巨激可能会产生巨大的影响，特别是在应对非常重或密集波的时候，如果这时候你没有光环，但又要多次释放巨激，以便在菊花弹爆开之前清除大部分威胁。即使发生这种情况，快速增加的范围也能够让你免于死亡，自由地穿梭于弹幕中，前提是你知道如何擦弹。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mp_8G5BTlbI?si=wrklT7-_bGR3wAI_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1002759633&bvid=BV13x4y1Y7Cg&cid=1500206846&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

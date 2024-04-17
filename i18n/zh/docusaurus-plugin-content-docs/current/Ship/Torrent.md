@@ -91,3 +91,11 @@
 - 评分：2.27 / 5
 
 在奔流号应该留在底部使用护盾反射激光的情况下，这个皮肤可以帮助奔流号攻击到前场的敌机，因为退出护盾后将很难在弹幕中移动。它还可以让你释放更多小的眩晕电磁脉冲，以造成更多的范围伤害，尽管这更多是为了竞速的目的。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kFiP8Wmg1rc?si=ujL1z_KiZzK6vtqj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=399068836&bvid=BV1Co4y1g753&cid=1143178417&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

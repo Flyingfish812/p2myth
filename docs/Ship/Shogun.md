@@ -111,3 +111,11 @@ The more the bullets, the more blissful it is. Particularly when you have a lot 
 - Score: 4.91 / 5
 
 Shogun's ultimate form, which is even more powerful than the other APEX that focuses on grazing bullets. The reason is that the more difficult the mission, the more bullets there are, and when the amount of bullets increases, the effectiveness of grazing has nothing to do with whether to use APEX. In addition, denser bullets also mean that you can't dodge the bullets leisurely, and you need to consider how to destroy the invaders efficiently. Therefore, a high-damage Reflex EMP coupled with a full aura is enough to kill most invaders in a wave. It is indeed more effective than getting a little more aura size by grazing. The final point is that sometimes an extra 10 points of damage (7 points in armor missions) can make a qualitative difference. As the saying goes, it's better to cut off one of the enemy's ten fingers than to injure them. You don't want to leave a lot of invaders with little health on the screen, right?
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJEgzlwPEcg?si=pvNIhWkQqzoGIoTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=666312222&bvid=BV1ua4y127DL&cid=1406154032&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

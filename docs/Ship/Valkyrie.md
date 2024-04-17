@@ -88,3 +88,11 @@ With Phalanx already being capable of repelling off the many pellets and shurike
 - Score: 2.73 / 5
 
 This apex is extremely useful in daily missions, especially in dense waves, particularly those with many Herons, as the Compressed Blast damage will decimate them very quickly.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LhCvjkxoSWE?si=M1F3N6lrdvDOmxBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1953219390&bvid=BV14C411V7BX&cid=1502647982&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

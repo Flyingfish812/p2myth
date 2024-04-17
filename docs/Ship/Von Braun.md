@@ -94,3 +94,10 @@ The extra power in MS can make all the difference in early waves in whether they
 
 This apex improves the homing capabilities of its Daisy Cutters. The severely upgraded homing capabilities allow the Daisy Cutters to very reliably take down Ravens, and hit Sparrows with high accuracy, making Von Braun much less frustrating to play.
 
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RrhLAv8oHv4?si=DVSmM2-x_j8tVo50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=391012688&bvid=BV12d4y1s7xV&cid=917157253&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

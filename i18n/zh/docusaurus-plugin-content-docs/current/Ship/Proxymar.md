@@ -91,3 +91,11 @@
 - 评分：1.73 / 5
 
 在子弹稍多的激光/子弹和子弹/喷子/激光任务中，这个皮肤能在蓄力禅宗后创造逃生空间。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ji4NUu6EH6g?si=31JL84uq1bqxMRpC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=789354458&bvid=BV1dC4y1R7VU&cid=1289839180&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

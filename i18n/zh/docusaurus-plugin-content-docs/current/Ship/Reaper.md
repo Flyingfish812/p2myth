@@ -90,3 +90,11 @@
 - 评分：2.55 / 5
 
 这个皮肤增加了收割机在子弹较多的任务中的可玩性，比如综合/回旋镖任务。你可以顺着聚焦长矛往上飞，就像穿刺长矛那样，来帮助脱离险境。然而，它在激光/速射任务中帮助不大，因为子弹不够多。总的来说，这个皮肤在较低段位的综合/回旋镖任务和社区任务中有一定发挥空间。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bQYZHcPlxIw?si=4oBnVJyOHRE-JhSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=692456952&bvid=BV1e24y1e7NN&cid=954448213&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

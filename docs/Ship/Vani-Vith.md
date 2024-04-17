@@ -1,6 +1,6 @@
 # Vani-Vith
 
-> White and fat, but very flexible.
+> White and fat (louse), but very flexible.
 
 <img src="/ships/ship_41.png" style={{zoom:1}}/>
 
@@ -92,3 +92,11 @@ A very enjoyable apex for Vani-Vith, this apex makes chasing down Sparrows and R
 - Score: 1.55 / 5
 
 This apex opens up viability for Vani-Vith to be used in MIRV/Shuriken missions, as the increased clearance range can mean a lot when eliminating the dozens of MIRVs on screen. It’s definitely still not easy by any means since you will often still need to abuse TP a lot leading to some pretty long charge times.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sMPL5mGVxL0?si=YhHPKQIkowF_2xXL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=514597058&bvid=BV1Ug41167Ua&cid=805894276&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -92,3 +92,11 @@
 - 评分: 2.27 / 5
 
 这个皮肤在子弹/喷子/激光任务中会带来更多潜在帮助。方阵可以处理大量的子弹，而个人护盾可以有效阻挡激光。面对持续的敌方激光火力时，这个皮肤特别有用。你可以一波又一波地频繁使用个人护盾来阻挡并反弹激光，这比方阵更可靠。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yAWMo0P6apY?si=vOgYaHsU4SA8mVYW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=249345376&bvid=BV1xv411E7W7&cid=373004498&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

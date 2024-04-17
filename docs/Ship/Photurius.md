@@ -90,3 +90,11 @@ The Double ML allows Photurius to better deal against larger invader turrets, in
 - Score: 4.64 / 5
 
 Because of the constant need for Photurius to keep the invaders stunned, this apex turns Photurius into a monstrous damage dealer from both an insane AoE damage and standard damage from its high DPS. It will deal with both crowds and large invaders easily, so long, you can keep them stunned. For large invaders, it would still play like normal Photurius, but for crowds, this apex now makes it easy to deal with such situations.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pj-eqB11LUo?si=AtqiZLSzGYDcl11J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=687770744&bvid=BV1zU4y1z7uc&cid=826014110&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

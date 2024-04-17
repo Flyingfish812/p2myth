@@ -91,3 +91,11 @@ This APEX strengthens the defensive ability of Point Defense, and combined with 
 - Score: 4.18 / 5
 
 A very powerful tool to deal against crowds of invaders, Bullet Detonator turns Tar’Cah into an offensive ship where quickly draining PD when the wave first arrives can deal devastating damage to quickly clear out the frontline invaders. Kappa can also be spammed at intervals where the Aura is running slightly low to quickly refill the Aura after killing some invaders in front. Just be careful not to overuse it and overfill on particles. It can even be used against bullet spinners where going near can deal massive damage to the invader carrying that turret. In some cases, with a sufficient Aura and some luck, the spinner turret will be destroyed halfway.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RsBayeJZZqw?si=_5t2mqIqKnRVEKWl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=911228891&bvid=BV1fM4y1i78E&cid=1130972716&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -107,3 +107,11 @@
 - 评分: 2.27 / 5
 
 通常对较大的敌机更有用，特别是对付神鹰和大鹏时，这个皮肤允许你利用炮台减速的机会与炮台直接接触，在炮台的正上方，以便尽快将其拆掉。减慢比大型还小的敌机的炮台并没啥用，因为在破掉敌机的盾后，你可以通过使用反射快速收集能量，快速恢复光环。增加的超时空场射程也无济于事，尽管在没有小型或微型的较重波中，这将有助于更优化地用反射。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sfeCWG88ttY?si=RJHfGTqqtnttvOrB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=349202119&bvid=BV1hR4y1S7AK&cid=937164172&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -102,3 +102,11 @@
 - 评分：3.27 / 5
 
 在密集波中，增加伤害的离子加农炮是一个极其强大的皮肤，这样就可以当它击晕中型以上敌机时，更快速地打掉小型。反射可以在适当的时候使用，只是为了造成额外的范围伤害。面对大型的敌机，离子加农炮可以抑制 3 级和 4 级喷子炮的发射。反射可以用作保命手段，用离子加农炮来清屏，虽然这样会浪费几发离子加农炮。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bxwF2PbEXoc?si=w-L2BssX0zJuPYm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=785733580&bvid=BV1Y14y1R71o&cid=1190079442&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

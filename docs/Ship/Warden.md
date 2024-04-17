@@ -89,3 +89,11 @@ FTL FL can be considered as an instant firing piercing laser beam which effectiv
 - Score: 2.09 / 5
 
 Generally speaking, this Apex upgrades VL in a negative way, because the distributed damage makes it unable to eliminate most invaders. But why its performance is slightly better? This is because Warden’s fast tracking main weapon is able to finish off the severely damaged invaders efficiently, alleviating Trident VL’s disadvantage. Furthermore, FL works as a substitute for a single shot of the original VL. Overall, these factors somewhat make up for the downsides of this Apex. 
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tu9XEZVNoSU?si=qRriNaJJX71HKhX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=556948505&bvid=BV1Pv4y1c73G&cid=801664993&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

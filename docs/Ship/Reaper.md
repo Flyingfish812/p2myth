@@ -91,3 +91,10 @@ This apex opens up new viability to Reaper, allowing its use in Shielded Laser/P
 
 This apex helps in giving it some viability in slightly bullet heavier missions, such as General/Boomerang missions. Being able to ride up the FL like riding a VL helps to get it out of some tight situations. However, because Laser/Dart missions don't feature many bullets, it doesn't help much in its mission type, but can see some use in lower rank General/Boomerang or community missions.
 
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bQYZHcPlxIw?si=4oBnVJyOHRE-JhSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=692456952&bvid=BV1e24y1e7NN&cid=954448213&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

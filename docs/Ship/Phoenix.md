@@ -97,3 +97,11 @@ Other than that, the destructive BEMP is extremely useful in eliminating Sparrow
 Both APEXes of Phoenix will give two additional missiles as output. The increase in DPS from the extra vintage missiles already make this apex really good, as the continuous stream of the main weapon can sometimes be difficult to estimate when to quickly switch target to another invader. The vintage missiles are thus able to clean up and kill off whatever you may have overestimated. Just bear in mind that the missiles may take some time to travel to the severely weakened targets so it can sometimes take some time to clear them off at the end of the wave. However, it is very useful when running very low on BEMP and you are unable to reach that side of the screen.
 
 In fact, the supersize shield is quite redundant for the Phoenix, because the Phoenix's shield is already sufficient. However, by increasing the shield size by 50%, this APEX can do something in certain situations. For example, you can reflect more lasers from a roc when using the Personal Shield. If you reflect more laser MIRVs, it may be easier to kill Roc with only one reflection.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wn9QS0uPQnM?si=nfsNs07ezOY4ibAP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=996831018&bvid=BV1is4y1i7eX&cid=1148761482&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

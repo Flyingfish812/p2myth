@@ -93,3 +93,11 @@
 <img src="/illustration/main_14_delta.gif" style={{zoom:1}}/>
 
 这个皮肤使主武器完全不会浪费伤害。在一轮介子激光结束前，如果敌机已被消灭，它会被重新定向到新的一轮激光里，并与初始的那轮激光分离。这也意味着主武器节奏会被少许打乱，但第一轮和最后一轮的激光的结束时间差通常不会超过1秒。这个皮肤使奥兰更易于使用，因为你不再需要通过转移位置使主武器选择其它目标。这些变动使优化主武器变得更加轻松。然而，相较于没有皮肤时，这个皮肤会更常使介子激光不同步开火，这也就使卡帕冲击的使用变得更困难，因为所有的3轮爆发与下一轮爆发的间隔时间更短了。然而，这种不同步不会对操作带来太大影响。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ccmA77wwGyA?si=p379o8_g8WB4UEXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=311700969&bvid=BV1zN411P7Sg&cid=1073233621&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

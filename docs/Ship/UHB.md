@@ -94,3 +94,11 @@ The close combat fighting style of Uhb makes the Explosive MS Apex extremely pot
 - Score: 3.00 / 5
 
 A lifesaving apex, the increase in clearance range allow Uhb to quickly strafe to the other side in order to avoid the insane number of boomerangs in General/Boomerang missions. The increased range is just barely enough to avoid T4 Boomerang barrages. The increase range also deals more AoE damage to invaders since it can now cover more ground.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ykvE9OJfC14?si=z85FskDvxBS4COCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1901022780&bvid=BV1Bm411S756&cid=1449851304&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

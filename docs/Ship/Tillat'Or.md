@@ -88,3 +88,11 @@ Unfortunately, unlike the other Barrier Reflect Apexes, Tillat’Or loses out du
 - Score: 1.55 / 5
 
 This apex makes it easier for Tillat’Or to tackle MIRV/Shuriken missions. Particularly, the extended clearance means that you can delete more MIRVs in one TP. This makes it much more flexible in finding a spot to TP to, such that your arrival location will not be greeted by MIRVs exploding in your face due to the insufficient clearance space normal TP provides, being unsufficient to clear out some of the MIRVs, leading to unexpected MIRV pellets in your face with no time to react. Just be sure to deploy your small barrier immediately when you arrive so that you wouldn’t be greeted with more pellets in your face.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3P9lhR65BGY?si=GaWWaHDvnfJyFOlb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=952430454&bvid=BV1Gs4y1P7wu&cid=1094681879&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -97,3 +97,11 @@
 凤凰的两个皮肤都会额外赠送两发导弹作为输出，复古飞弹带来的每秒伤害提升很有帮助。因为主武器为向前连发，这意味着难以判断何时应该切换目标，而飞弹能够清理因预判不足导致剩余的残血敌机。你只需注意飞弹需要时间飞行，所以在一波快结束时它们可能要花一些时间才能清场。这在子弹电磁脉冲半径不足导致无法飞到屏幕另一侧瞄准主武器时特别有帮助。
 
 事实上，超大的护盾对凤凰来说挺多余的，因为凤凰的护盾本来就够用了。然而，这个皮肤使护盾尺寸增加50%后，它能在某些情况下派上用场。例如使用护盾反射大鹏的激光时可以多反射一些。如果多反射的是几个激光菊花，那或许可以更容易地一波反射死大鹏。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wn9QS0uPQnM?si=nfsNs07ezOY4ibAP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=996831018&bvid=BV1is4y1i7eX&cid=1148761482&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

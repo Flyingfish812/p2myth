@@ -91,3 +91,11 @@ A very formidable apex in Laser/Dart missions, being able to take full advantage
 - Score: 2.27 / 5
 
 This apex helps Torrent reach upfield invaders in the case where Torrent should stay at the bottom to use PS to reflect lasers, since it would be difficult to navigate the bullet mess after exiting PS. It can also help in pulling off multiple small SEMPs in order to deal more AoE damage, although that is more for speedrunning purposes.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kFiP8Wmg1rc?si=ujL1z_KiZzK6vtqj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=399068836&bvid=BV1Co4y1g753&cid=1143178417&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

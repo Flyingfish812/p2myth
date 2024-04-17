@@ -93,3 +93,11 @@
 - 评分：4.64 / 5
 
 这个皮肤是疯狂的，并且对竞速很有帮助。面纱最烦人的事情之一是它主炮的持续射击，这使得优化变得极其困难，特别是当你四处奔跑并杀死快速移动的小型时。这个皮肤完全消除了这个问题，你可以将主要精力集中在更大的敌机上，这些敌机更容易击中，因此需要做的优化要少得多。 盾碎器不仅消灭了护盾小型，而且对其他护盾敌机也毫不留情，立即剥夺了他们的盾牌，直到中型。将巨炸在 2 架中型上释放将会摧毁它们，甚至在它们发射大量喷子或菊花弹之前就将它们击落。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6A-vJdElNzM?si=TqRLz6uYY9V_BeVJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=405041439&bvid=BV1xG411o7PF&cid=1242586613&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

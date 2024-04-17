@@ -102,3 +102,11 @@ It is a HUGE buff to Sonah. In base form, Sonah locks on to one turret, dead or 
 - Score: 3.27 / 5
 
 An extremely powerful apex in dense waves, the Blast Amplified ICs vaporize Ravens very quickly while IC by nature is able to stun larger invaders such as Eagles and above. REMP can be used whenever appropriate just to deal the extra AoE damage. A well fired IC against larger invaders should prevent flooding from T3 and T4 patterned shuriken launchers. An REMP can be used defensively at last resort, making IC do the crowd clearing work instead, although you might need to waste a few more ICs without an offensive REMP.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bxwF2PbEXoc?si=w-L2BssX0zJuPYm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=785733580&bvid=BV1Y14y1R71o&cid=1190079442&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

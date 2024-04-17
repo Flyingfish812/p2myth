@@ -93,3 +93,11 @@
 - 评分：4.18 / 5
 
 这个皮肤的用法是擦菊花弹。首先你需要擦弹，其次要用擦到的能量把子弹消干净。简单来说这是个能量闭环，你从子弹那里擦来的能量最后要全部还回去，同时你也不用担心手里没有能量时怎么办。说白了，能量用光了，擦一个菊花弹回来就行了。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KMfsPPCiOzY?si=8usYRzEhNLstblMF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=1600983278&bvid=BV1Q1421Z7p7&cid=1443042251&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

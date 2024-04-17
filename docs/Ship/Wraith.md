@@ -98,3 +98,11 @@ For Wraith, the point of this APEX is that you can charge bombs at the bottom of
 - Score: 2.82 / 5
 
 This skin is equivalent to better than nothing, because Wraith's speedrun ability is already very strong, and in many cases a Mega Bomb with an expanded range is not needed. Why not try the high-capacity APEX at this time? You never know when you will need it.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rm0NSJnELbU?si=KS1onnIzUnBuoMrC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=443160013&bvid=BV1LL411a7RS&cid=1116068708&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

@@ -96,3 +96,10 @@ This apex upgrades the main weapon such that there is absolute zero leakage in D
 
 This upgrades Oran pretty significantly and makes it much easier to use, as you no longer need to attempt to redirect the burst by re-positioning yourself towards another invader. It makes optimization on Oran much easier and also the zero leakage of the instant tracking weapon means a lot less frustration with Oran. However, some of the Meson lasers go out of sync more often than base Oran. This makes abusing the main-Kappa synergy a bit more difficult as there is less time in between all 3 bursts and the next round of bursts to use Kappa. However, the off-sync is small and usually still quite manageable.
 
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ccmA77wwGyA?si=p379o8_g8WB4UEXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=311700969&bvid=BV1zN411P7Sg&cid=1073233621&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

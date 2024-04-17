@@ -84,3 +84,11 @@
 - 评分：3.45 / 5
 
 这个皮肤是对于定点防御非常有意义的提升之一，它使你能够在弹幕关拥有更好的防御手段。但相比于其它拥有这一皮肤的战机而言，这一皮肤用在潘多拉上效果没那么明显，而且它的价格也比其它的战机贵一些。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41CvmC_9TJE?si=OzsR3TThtvLB84Dt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=313343306&bvid=BV1GP41117vV&cid=1121042272&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

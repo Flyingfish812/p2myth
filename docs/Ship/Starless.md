@@ -95,3 +95,11 @@ Despite the increase in REMP damage, the interactions between REMP and GM remain
 - Score: 2.27 / 5
 
 According to that trivia, this apex looks very much like that the designer has used up his ideas. In most cases, Goliath Missiles are in a similar situation to Vorpal Lance that you fill all the counters and use them together. Of course, you can also try to use 6 consecutive AOE damage (including Reflex EMP). This is also a good burst for eagles and small invader groups.
+
+## Video Illustration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f6iBqe_ISjI?si=DaWOooqVwDT2NV8x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=395861578&bvid=BV1jo4y1B786&cid=1049425966&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

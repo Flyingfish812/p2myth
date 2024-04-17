@@ -90,3 +90,11 @@
 - 评分：4.18 / 5
 
 装甲回旋镖类任务比菊花喷子类任务的子弹密度要低一些，这使得定点防御能够足够快地消除子弹，从而你可以用定点防御来清除更远的子弹，造成更多的伤害。找到合适的位置，用卡帕来躲避速射流的同时重新填充定点防御，与菊花台保持一定的距离，在菊花弹爆开之前，用定点防御消掉它。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G_B_vo8hFHQ?si=xnmOW0Lpv5-8xN8D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=574364779&bvid=BV1sz4y1p7up&cid=1221528921&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

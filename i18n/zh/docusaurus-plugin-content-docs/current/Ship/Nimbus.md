@@ -106,3 +106,11 @@
 - 评分：3.00 / 5
 
 当有小型躲藏在各种不同角落时，这个皮肤能对它们造成重创。即使在第5幕（或第6幕），增加的范围也能够触及到它们。这意味着在面对较大的敌机时你能在（普通反射电磁脉冲的范围无法覆盖的）角落位置多打伤害，而这总是有用的。然而，当一大群小型出现时，这个皮肤才能发挥它的真正强大之处。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WYcGcnOlK24?si=4sbaRLNmWL2pDB5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=646457567&bvid=BV13e4y1E72K&cid=859241701&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

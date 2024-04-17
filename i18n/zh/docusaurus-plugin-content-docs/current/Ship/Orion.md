@@ -97,3 +97,11 @@
 - 评分：1.55 / 5
 
 这是一个相当有用的皮肤，尤其是在菊花弹/喷子类任务有很多弹幕时，这个皮肤可以让你在传送到一堆弹幕时有更多的喘息空间，以避免一些爆开的菊花弹。它还可以在到达时消掉很多菊花弹，特别是当发射的菊花弹有数十个且非常分散时。话虽如此，它不如德尔塔皮肤，后者基本上将此类任务变成了小菜一碟。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aol48WicPgs?si=6oCCsT0N4v4Lenub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=484127718&bvid=BV1DT411z7Ho&cid=1072328124&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>

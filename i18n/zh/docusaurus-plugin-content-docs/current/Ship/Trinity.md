@@ -108,3 +108,11 @@
 - 评分：2.55 / 5
 
 这个皮肤让星战船瞬移后轨道炮射出的炮弹在打击敌机时爆炸，在很小的范围内造成伤害。伤害数值不变。如果击中装甲敌机的驾驶舱，爆炸伤害会变为穿甲（不受装甲敌机的减伤效果影响）。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QdurlW_0CcA?si=otmlFHl-falZjuOq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=274194094&bvid=BV1Lc411c7fo&cid=1218714173&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"> </iframe>
