@@ -14,6 +14,14 @@ PC端与平板横屏模式的用户，请点击右上角的语言切换按钮选
 
 :::
 
+:::info[Felix-Felicis has finished]
+
+2024-04-17：
+
+The great community competition event "Felix-Felicis" is finished! You can find the [summary](/docs/Event/Felix-Felicis/Summary.md) of the event here.
+
+:::
+
 :::info[Phoenix 2 Survey]
 
 2024-04-05：
@@ -28,14 +36,6 @@ Dear players, hope that you can spend a few minutes on this survey. We are very 
 
 You can find useful links at the bottom of the page, including the version introduction of our site, the comment board and the link to another cooperating website. Please do not hesitate to share this site to your fr
 iends and other players, we hope that all players can benefit from this site.
-
-:::
-
-:::info[Ongoing event: Felix-Felicis!]
-
-2024-03-29：
-
-The great community competition event "Felix-Felicis" held by One community is ongoing! This event is a joint event for players from BHS, Myth, One, welcome to join in the event! [For details](/docs/Event/Felix-Felicis.md)
 
 :::
 
