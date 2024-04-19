@@ -147,10 +147,72 @@ Attention, players!
 
     This statement is easy to understand, precisely because it takes into account the characteristics of the Vorpal Lance's straight-line attack. The more invaders there are in a single column, the greater the benefit of the Lance. Therefore, in early attacks, we usually don't use Reflex EMP on vertically aligned invaders. The same principle applies during intense attacks later on; when invaders cluster together, don't hesitate to fire the Lance.
 
-- REMP the enemies in a row
+- REMP the invaders in a row
 
     <img src="/JeriaCB/jeria19.gif" style={{zoom:1}}/>
 
     Clearly, such a configuration is not very friendly to either the main weapon or the Vorpal Lance, but fortunately, we have the Reflex EMP to deal with this situation well. When you see a horizontal row of invaders, especially a row of sparrows, don't hesitate, just rush in and reflect. Of course, it's important to note that prefiring is still very important, whether against herons, shielded ravens, or eagles, it's worth it to prefire before rushing into the invaders to release the Reflex EMP.
 
-- To be continued ...
+- Operational requirement when you have 3 Lances
+
+    <img src="/JeriaCB/jeria21.gif" style={{zoom:1}}/>
+
+    During most Jeria missions, you usually only have three Vorpal Lances in your hand, but you need to face a wave of heavy attacks. If you are familiar with the damage of the Vorpal Lance, that is, how many lances each type of invader needs to be destroyed, you will be able to distribute the three lances in your hand better. Typically, herons require two lances, or one lance with a prefire, while eagles require three lances or two lances plus a prefire.
+
+    As demonstrated above, many times in dense attacks, there will be two herons, and our goal is mainly focused on them. The typical use of three lances is usually two shots on one side and one shot on the other side. Here are two solutions based on personal habits:
+
+    - Pre-aim at the position where you need to release the lance, and shoot two lances on this side directly after the invaders are in position, without using the prefire on this side for the herons;
+    - Prioritize using the prefire to break the shield of the herons on this side, then release only one lance, and quickly move to the other side to use two lances to eliminate the remaining herons.
+    
+    The difference between these two solutions is tiny, and you can choose one based on your habits and proficiency. Forcing yourself to adapt to the other playstyle might actually slow you down.
+
+    When there is only one eagle in the back row, all lances must hit them, otherwise, after you eliminate the herons, you will still have to deal with the eagle. This principle is straightforward. However, when there are two eagles in the back row, it's a bit different. Since the damage required for eagles is much higher than for herons, we usually prioritize attacks against the eagles. At this time, Reflex EMP plays an excellent auxiliary role.
+
+    - After using Reflex EMP, use one lance on the herons on each side. At this point, each heron only needs one shot to be killed, and the remaining lance can be left for the eagle. Depending on the situation, you can wait until the eagles gather before shooting the last lance, or aim it at the one side that hasn't had a heavy output from the main weapon yet;
+    - If unfortunately, Reflex EMP is on cooldown, then you must try to break the shields of the two eagles by pre-firing in the middle. Then use two lances, only two, to eliminate the two eagles. The herons in the front row can be dealt with using 4-5 shots of the main weapon or main weapon plus the remaining lance;
+    - If you are extremely lucky and all invaders converge in the middle, just throw all three lances in the middle without hesitation. This situation is relatively rare and requires players to be able to adapt on the fly.
+
+- Lance sweep is never a waste
+
+    <img src="/JeriaCB/jeria22.gif" style={{zoom:1}}/>
+
+    This technique is aimed at situations where all sorts of messy invaders are present in this wave. In such cases, carefully considering how to use Vorpal Lances, Reflex EMP, and the main weapon may lead to an optimal solution, but it's often difficult to achieve.
+
+    The basic principle of using 4 Vorpal Lances for lance sweep is to observe the approximate distribution of the invaders and throw the lances where the invaders overlap the most. The position selection typically includes:
+
+    - Positions where the edges of herons and ravens overlap;
+    - Positions where small invaders overlap with eagles.
+
+    Its method of throwing is quite rough, but you also need to remember the fact that herons require two lances (if pre-firing, herons require 4 shots of the main weapon, and when using Vorpal Lances directly, you still need to add 3 shots of the main weapon). Therefore, aim at the sides of the herons and eliminate this wave completely. Of course, if you can prefire, prioritizing breaking the shields of the eagles will make the effect more pronounced.
+
+    Generally, the Twin Lance APEX is more suitable for completing this skill. If you find that this mission requires you to use Vorpal Lances to sweep the map, give it a try. (This principle only applies to shield missions; for unprotected missions, always use the high-damage APEX for Reflex EMP, remember.)
+
+- 4 eagles? Everyone has headache
+
+    This is a rather heavy 4+2 setup: 4 eagles lined up in pairs, along with 2 herons. Generally, there are two main solutions:
+
+    - Having 4 Vorpal Lances, use two lances on each side, supplemented with Reflex EMP to eliminate all invaders;
+    - Having 3 lances, throw them at the middle while the eagles are still together.
+
+    The first method is more suitable for unprotected missions, as the eagles have thicker shields in shield missions, requiring a considerable amount of main weapon shots in addition to prefire to eliminate all eagles. The second method is more common, but it also requires all lances to hit each eagle, with a high element of luck. This approach can also be followed up with a Reflex EMP for extra damage, but the remaining two herons will need to be dealt with using the main weapon.
+
+    This formation can easily widen the gap between Jeria players. More accurately, players with better luck can achieve higher scores. The editor suggests that players should not overly pursue this kind of luck, as it can greatly drain your energy while making you angry.
+
+    As demonstrated in the illustration below, even in the scenario where all three eagles converge, the remaining one eagle can prevent you from achieving the optimal solution. Therefore, adaptability is more important than relying solely on summarized experience.
+
+    <img src="/JeriaCB/jeria23.gif" style={{zoom:1}}/>
+
+- Bosses are just with more HP
+
+    There's no skill involved when dealing with the Condor and the Roc. Due to their high health, it requires a considerable amount of main weapon shots to completely kill them no matter how you calculate the damage. From this perspective, dealing with these heavy invaders is actually the simplest: prioritize using the main weapon to break the shield, then use Vorpal Lances to pop the small turrets that cannot be grazed, and occasionally use Reflex EMP to supplement damage. Here are some summarized empirical data:
+
+    - The shielded Condor requires 7 shots of the main weapon to break the shield, while the Roc requires 11 shots;
+    - The shielded Condor can have up to 2 Reflex EMP, while the Roc can have 3 (subject to cooldown after killing them).
+    
+    Additionally, since they are essentially killed with the main weapon, it means you have opportunity to prefire for the next wave, so don't forget this point.
+
+## Conclusion
+
+Jeria is an extremely skill-dependent ship, and most of the gameplay introduced here is based on players' extensive exploration and summarization of general strategies. In missions, you not only need to fully understand the gameplay and mechanics of this ship but also need to integrate the relevant techniques of other ships (such as grazing), enabling you to adapt to different situations and make better decisions. These strategies are not the only ones; depending on the mission, there may be situations where you need to completely go against the principles mentioned above.
+
+There is a saying that 10k flights are enough for mastering other ships, while for Jeria it's just the beginning. If you are willing to practice with Jeria, be prepared for a large amount of gameplay.

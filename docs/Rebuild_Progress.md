@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.3.1
+
+- Version: 1.3.1
+- Update time: 2024-04-19
+
+We have updated the Jeria Cookbook.
+
 ## V1.3.0
 
 - Version: 1.3.0
