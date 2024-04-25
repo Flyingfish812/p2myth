@@ -14,17 +14,17 @@ PC端与平板横屏模式的用户，请点击右上角的语言切换按钮选
 
 :::
 
-:::info[Felix-Felicis has finished]
+:::info[Call for cover design]
 
-2024-04-17：
+2024-04-25:
 
-The great community competition event "Felix-Felicis" is finished! You can find the [summary](/docs/Event/Felix-Felicis/Summary.md) of the event here.
+As you can see, the current cover design of our site is very casual, so we calls for designs from players. If you have good suggestions, you can send your designs to flyingfish812@foxmail.com.
 
 :::
 
 :::info[Phoenix 2 Survey]
 
-2024-04-05：
+2024-04-05:
 
 Dear players, hope that you can spend a few minutes on this survey. We are very interested in your feedback and opinions. The result will be publish every 15 replies. [Link to Survey](https://docs.google.com/forms/d/e/1FAIpQLSflHodYJSqPE0A9bH4xvkWjO9ccupA-eZ62-pbd-xKfopK7cA/viewform)
 
@@ -32,7 +32,7 @@ Dear players, hope that you can spend a few minutes on this survey. We are very 
 
 :::info[To visitors]
 
-2024-03-20：
+2024-03-20:
 
 You can find useful links at the bottom of the page, including the version introduction of our site, the comment board and the link to another cooperating website. Please do not hesitate to share this site to your fr
 iends and other players, we hope that all players can benefit from this site.
@@ -91,4 +91,4 @@ If you meet any problems or bugs when browsing the site, please contact the admi
 
 Flyingfish812: flyingfish812@foxmail.com
 
-The One and the Only FBI: whowhosewherehowwhenwhatwhy@gmail.com
+The One and the Only FBI: DM him on the Discord Server

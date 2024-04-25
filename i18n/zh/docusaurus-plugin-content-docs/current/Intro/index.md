@@ -6,11 +6,11 @@ sidebar_position: 1
 
 ## 公告栏
 
-:::info[Felix-Felicis完美收官！]
+:::info[网站封面征稿]
 
-2024-04-17：
+2024-04-25：
 
-大型社区活动Felix-Felicis已顺利结束，你可以在这里找到[活动总结](Event/Felix-Felicis/Summary.md)。
+如你所见，目前网站的封面页设计非常随意，因此我们向广大玩家征集设计创意。如果你有好的建议，可以将你的设计发送至flyingfish812@foxmail.com。
 
 :::
 
@@ -82,4 +82,4 @@ Phoenix 2 图鉴网站项目旨在为游戏Phoenix 2创建一个图文并茂的�
 
 Flyingfish812: flyingfish812@foxmail.com
 
-The One and the Only FBI: whowhosewherehowwhenwhatwhy@gmail.com
+The One and the Only FBI: Discord服务器私信
