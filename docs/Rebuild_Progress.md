@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.3.3
+
+- Version: 1.3.3
+- Update time: 2024-05-02
+
+We have updated the Disaris Cookbook.
+
 ## V1.3.2
 
 - Version: 1.3.2
