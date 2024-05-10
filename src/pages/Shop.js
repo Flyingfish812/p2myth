@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ResultTable1 from '../components/ShopTable1';
+import ResultTable2 from '../components/ShopTable2';
 import '../css/Result.css';
 import * as XLSX from 'xlsx';
 
@@ -10,6 +11,7 @@ const ShipSearch = () => {
     const [result1, setResult1] = useState([]);
     const [result2, setResult2] = useState([]);
     const [shopData, setShopData] = useState([]);
+    const [nameData, setNameData] = useState([]);
     const [missionData1, setMissionData1] = useState([]);
     const [missionData2, setMissionData2] = useState([]);
 
@@ -18,15 +20,14 @@ const ShipSearch = () => {
             const response = await fetch('/Shop_table.xlsx');
             const data = await response.arrayBuffer();
             const workbook = XLSX.read(data, { type: 'buffer' });
-            const worksheet = workbook.Sheets['Shop Cycle'];
-            const missionSheet1 = workbook.Sheets['Gold'];
-            const missionSheet2 = workbook.Sheets['Marshal'];
-            const jsonData1 = XLSX.utils.sheet_to_json(worksheet);
-            const jsonData2 = XLSX.utils.sheet_to_json(missionSheet1);
-            const jsonData3 = XLSX.utils.sheet_to_json(missionSheet2);
+            const jsonData1 = XLSX.utils.sheet_to_json(workbook.Sheets['Shop Cycle']);
+            const jsonData2 = XLSX.utils.sheet_to_json(workbook.Sheets['Gold']);
+            const jsonData3 = XLSX.utils.sheet_to_json(workbook.Sheets['Marshal']);
+            const jsonData4 = XLSX.utils.sheet_to_json(workbook.Sheets['EN-ZH']);
             setShopData(jsonData1);
             setMissionData1(jsonData2);
             setMissionData2(jsonData3);
+            setNameData(jsonData4);
         };
         readXlsxFile();
     }, []);
@@ -84,7 +85,106 @@ const ShipSearch = () => {
 
     // Placeholder for search function two
     const handleSearchTwo = () => {
-        console.log('Search two with:', input2);
+        const searchQuery = input2.toLowerCase();
+        const filteredResults = nameData.filter((row) =>
+            row.ship_en.toLowerCase().includes(searchQuery)
+        );
+        let shipName = filteredResults[0].ship_en;
+        console.log(shipName);
+
+        // Step 2: Compute the current mission time and find the row in "Shop Cycle"
+        const currentTime = new Date();
+        const targetTime = new Date(Date.UTC(2024, 2, 19)); // Example: March 19, 2024
+        const offset = -currentTime.getTimezoneOffset() / 60;
+        const timeDiff = currentTime - targetTime;
+        const daysDiff = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
+        const hoursDiff = Math.floor((timeDiff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+        const exactDays = daysDiff + Math.floor(hoursDiff / 24)
+        const finalDays = exactDays % 100;
+        let finalHours = hoursDiff % 24;
+        finalHours -= finalHours % 6; // Adjust to the closest lower multiple of 6
+
+        const dayString = finalDays < 10 ? `0${finalDays}` : `${finalDays}`;
+        const hourString = finalHours < 10 ? `0${finalHours}` : `${finalHours}`;
+        const searchKey = `Day ${dayString}, ${hourString}00`;
+        const resultRowIndex = shopData.findIndex(row => row.Time === searchKey);
+        console.log(searchKey);
+
+        // Step 3: Find the nearest row with the ship's name
+        const shipColumns = ['Bronze', 'Silver'].includes(playerRank) ? ['Ship1', 'Ship2', 'Ship3'] : ['Ship1S', 'Ship2S', 'Ship3S'];
+        let nearestTimeDistance = Infinity;
+
+        shopData.forEach((row, index) => {
+            shipColumns.forEach(col => {
+                if (row[col] === shipName) {
+                    let distance = index - resultRowIndex;
+                    if (distance < 0) {
+                        distance = distance + 400;
+                    }
+                    if (Math.abs(distance) < Math.abs(nearestTimeDistance)) {
+                        nearestTimeDistance = distance;
+                    }
+                }
+            });
+        });
+
+        if (nearestTimeDistance === Infinity) {
+            console.error('No valid distance found for the ships.');
+            return;
+        }
+
+        let totalHours = exactDays * 24 + finalHours + 6 * nearestTimeDistance;
+        let outputDays = Math.floor(totalHours / 24);
+        let outputHours = totalHours % 24;
+        let result = [shipName, outputDays, outputHours, offset]
+
+        // Get the mission number
+        const missionColumns = ['Ship1', 'Ship2', 'Ship3', 'Ship4', 'Ship5'];
+        let nearestMissionDistance = Infinity;
+        let shipResult = [];
+        let missionNum;
+        if(playerRank === 'Gold'){
+            let missionRowIndex = missionData1.findIndex(row => row.Num === finalDays);
+            missionData1.forEach((row, index) => {
+                missionColumns.forEach(col => {
+                    if (row[col] === shipName) {
+                        let distance = index - missionRowIndex;
+                        if (distance < 0) {
+                            distance = distance + 100;
+                        }
+                        if (Math.abs(distance) < Math.abs(nearestMissionDistance)) {
+                            nearestMissionDistance = distance;
+                        }
+                    }
+                })
+            })
+            let resultRow = missionData1.find(row => row.Num === (finalDays + nearestMissionDistance) % 100);
+            missionNum = resultRow.Num;
+            shipResult.push(resultRow.Ship1, resultRow.Ship2, resultRow.Ship3, resultRow.Ship4, resultRow.Ship5)
+            result.push(missionNum, shipResult);
+        }else if(playerRank === 'Marshal'){
+            let missionRowIndex = missionData2.findIndex(row => row.Num === exactDays % 200);
+            missionData2.forEach((row, index) => {
+                missionColumns.forEach(col => {
+                    if (row[col] === shipName) {
+                        let distance = index - missionRowIndex;
+                        if (distance < 0) {
+                            distance = distance + 200;
+                        }
+                        if (Math.abs(distance) < Math.abs(nearestMissionDistance)) {
+                            nearestMissionDistance = distance;
+                        }
+                    }
+                })
+            })
+            let resultRow = missionData2.find(row => row.Num === (finalDays + nearestMissionDistance) % 200);
+            missionNum = resultRow.Num;
+            shipResult.push(resultRow.Ship1, resultRow.Ship2, resultRow.Ship3, resultRow.Ship4, resultRow.Ship5)
+            result.push(missionNum, shipResult);
+        }
+        
+        setResult2(result);
     };
 
     return (
@@ -99,13 +199,17 @@ const ShipSearch = () => {
                     For example, you can enter 1 to search for the next shop.
                 </p>
                 <p>If you would like to search by ships, you need to enter the ship you would like to buy,
-                    and it will tell you when you can have the chance to buy it.</p>
+                    and it will tell you when you can have the chance to buy it.
+                    For example, you can enter 'Phoenix' to search for when Phoenix will appear in the shop.
+                </p>
                 <p>
                     This page is based on the {' '}
                     <a href="https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/appendix-a-shop-cycle" target="_blank">shop cycle page</a>
                     {' '}on the GameFAQs Guide by FBI Light Rock.</p>
             </div>
-            <div>
+            <div className='display-block'>
+                <p>Important: Your rank will affect your search result. Please set your rank first.</p>
+                <hr/>
                 <p>You are currently ranked as: {' '}
                     <select value={playerRank} onChange={(e) => setPlayerRank(e.target.value)}>
                         {/* Add options for player ranks here */}
@@ -117,23 +221,34 @@ const ShipSearch = () => {
                 </p>
             </div>
             <div className='display-block'>
+                <p>(Search by shop)</p>
                 <p>
-                    You would like to search the shop after {' '}
-                    <input value={input1} onChange={(e) => setInput1(e.target.value)} />
-                    {' '} rounds. {' '}
-                    <button onClick={handleSearchOne}>Search it</button>
+                    You would like to search the shop after several resets:
+                    <input
+                        value={input1}
+                        onChange={(e) => setInput1(e.target.value)}
+                        placeholder="Enter the number of resets"
+                        className="shop-input"
+                    />
+                    <button onClick={handleSearchOne} className="shop-button">Search it</button>
                 </p>
+                <hr/>
                 <ResultTable1 results={result1} />
             </div>
             
             <div className='display-block'>
-                <p>(Still Under Construction)</p>
-                <p>
-                    Or, you would like to find when you can buy {' '}
-                    <input value={input2} onChange={(e) => setInput2(e.target.value)} />
-                    {' '} in the shop. {' '}
-                    <button onClick={handleSearchTwo}>Search it</button>
+                <p>(Search by ships)</p>
+                <p>Or, you would like to find when you can buy this ship in the shop:
+                    <input
+                        value={input2}
+                        onChange={(e) => setInput2(e.target.value)}
+                        placeholder="Enter the ship you want to search"
+                        className="shop-input"
+                    />
+                    <button onClick={handleSearchTwo} className="shop-button">Search it</button>
                 </p>
+                <hr/>
+                <ResultTable2 results={result2} />
             </div>
         </div>
     );

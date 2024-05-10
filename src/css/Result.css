@@ -66,5 +66,31 @@
 .redirect-button:hover {
     background-color: #0056b3; /* Darker shade on hover for visual feedback */
 }
+
+.shop-input {
+    display: inline-block;
+    align-items: center;
+    font-size: 15px; /* Increase font size for better visibility */
+    padding: 10px 15px; /* Increase padding for a taller and wider input field */
+    width: 50%; /* Set width relative to the parent container, adjust as needed */
+    max-width: 300px; /* Optional: Set a max-width to prevent the input from being too wide on larger screens */
+    margin-bottom: 15px; /* Add some space below the input field */
+}
+
+.shop-button {
+    display: inline-block;
+    align-items: center;
+    margin-top: 20px; /* Add space above the button */
+    padding: 10px 20px; /* Make the button taller and wider */
+    font-size: 16px; /* Increase font size for better visibility */
+    color: #ffffff; /* White text color */
+    background-color: #189f00; /* Use a distinctive background color, e.g., a shade of blue */
+    border: none; /* Remove the border */
+    border-radius: 5px; /* Optional: round the corners of the button */
+    cursor: pointer; /* Change cursor to pointer on hover for better UX */
+    text-align: center; /* Ensure text is centered */
+}
   
-  
+.shop-button:hover {
+    background-color: #005d00; /* Darker shade on hover for visual feedback */
+}

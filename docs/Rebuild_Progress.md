@@ -11,6 +11,8 @@ sidebar_position: 2
 
 The story "Galaxy Reburn" has the translation for the chapter 3.
 
+Also, a shop checker is available. You can find its link at the bottom of the home page.
+
 ## V1.3.3
 
 - Version: 1.3.3

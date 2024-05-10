@@ -53,7 +53,7 @@ const ResultTable1 = ({ results }) => {
                             </tr>
                         </tbody>
                     </table>
-                    <p>You are searching for mission #{results[0]+3000}, this shop set will be renewed in {results[1]+results[2]}:00 GMT+{results[2]}</p>
+                    <p>You are searching for mission #{results[0]+3000}, this shop set will be renewed at {results[1]+results[2]}:00 GMT+{results[2]}</p>
                 </div>
             ) : (
                 <p>No results found or incorrect data format.</p>
