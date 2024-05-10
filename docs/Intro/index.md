@@ -8,8 +8,6 @@ sidebar_position: 1
 
 :::info[致中文用户]
 
-[test](/Shop)
-
 PC端与平板横屏模式的用户，请点击右上角的语言切换按钮选择中文页面；
 
 移动端用户，请点击左上角菜单中Back to main menu选项后，在Languages里选择中文页面。
@@ -78,6 +76,8 @@ When you find any content that needs to be modified while browsing the website, 
 ## Useful Links
 
 [Update Progress](/docs/Rebuild_Progress.md)
+
+[Shop Checker](/Shop)
 
 [Comment Board](https://docs.google.com/document/d/1_jkdrGhIJJW54dpJPeAG3fi05eIgnP9Za5onfS-wuv8/edit?usp=sharing)
 

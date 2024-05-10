@@ -68,6 +68,8 @@ Phoenix 2 图鉴网站项目旨在为游戏Phoenix 2创建一个图文并茂的�
 
 [更新进度表](/Rebuild_Progress.md)
 
+[商店查询器](/Shop)
+
 [Phoenix 2 评论板](https://docs.qq.com/doc/DQXhKUlh1UlFvU0tM)
 
 [GameFAQs Guide](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/)
