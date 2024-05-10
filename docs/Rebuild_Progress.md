@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.3.4
+
+- Version: 1.3.4
+- Update time: 2024-05-10
+
+The story "Galaxy Reburn" has the translation for the chapter 3.
+
 ## V1.3.3
 
 - Version: 1.3.3

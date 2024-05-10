@@ -1,417 +1,403 @@
-# 第三章 太空花火
-
-:::info[Attention]
-
-This story is written in Chinese. If you are interested in the content, I recommend to use a translator.
-
-:::
+# Chapter 3: Fireworks in Space
 
 > Written by: 菁鸟
 
 ### 1
 
-谷神主星XI号太空港口，候车厅。
+Ceres Major XI Spaceport, Passenger Waiting Hall.
 
-此时并非正值什么节假日，候车厅仍然挤挤攘攘。谷神主星不仅是居住人数最多的星球，更是巨大的港口。行星的体积注定了它将会拥有海量的太空港口，向全银河联盟输送着来自谷神的物资。
+It was not a holiday season, yet the waiting hall was still crowded and bustling. Ceres Major was not only the most populous planet, but also an enormous port. The massive size of the planet meant it had to have a vast number of spaceports, sending resources from Ceres to the entire Galactic Alliance. 
 
-大厅广播的声音如同雷霆忽然炸开在众人头顶上空，将不住的嘈杂声打断，而后刹那又吵闹起来。
+The broadcast voice in the great hall suddenly boomed like thunder overhead, interrupting the incessant clamor, before erupting into noise again after a momentary silence.
 
-凤凰一个人坐在金属长椅上，抱着两个背包，看着人来人往，等待着朋友的归来。
+Phoenix sat alone on a metal bench, hugging two backpacks, watching people come and go as she awaited her friend's return.
 
-“赞美传送门！”
+"Praise the Warp Gate!"
 
-椅子旁边的电子屏幕闪出一段广告。
+An advertisement flashed on the electronic screen next to the bench.
 
-是民用传送门的广告。凤凰一边想，一边看去，只见电子屏上几位身材姣好的模特正滔滔不绝地介绍着。“真不是地方呢，这里可是最不待见传送门的传统太空船港口啊。”凤凰小声念叨着，“用得起传送门的人可不足候车厅里的千分之一。”
+It was an ad for civilian warp gates. Phoenix thought to herself as she glanced over, seeing a few gorgeous models enthusiastically introducing the product on the screen. "This is really not the place for that, at a traditional spaceship port that disdains warp gates." Phoenix muttered softly, "Probably not one in a thousand people in this waiting hall could afford a warp gate."
 
-“传送门——星际旅行的新工具，节省您宝贵时间的好伙伴。银河联盟军官方技术支持，与军队同款配置，保证您随时随地、想走就走！只需要29,999银河币便可享受……”
+"The Warp Gate - a new tool for interstellar travel, saving your precious time. Officially supported by Galactic Alliance Army technology, with military-grade configurations to ensure you can go anywhere, anytime! Just 29,999 Galaxy Credits for..."
 
-哈，问题就在这里。凤凰暗暗盘算着。传送门快是快，但这可抵得上一个普通谷神主星工人一个月的工资了……这种广告还是放在那颗叫生态建筑学的富人星球那边吧。
+Ah, there's the catch. Phoenix calculated silently. Warp gates are fast, sure, but that's equal to a month's salary for an ordinary Ceres worker...these ads should be on that rich eco-architecture planet instead.
 
-“久等了，凤凰！”
+"Sorry for the wait, Phoenix!"
 
-戴沙从拥挤的人潮中探出头来，手上端着两杯饮品。凤凰笑着接过一杯，随后把背包递回给戴沙。
+Disar emerged from the crowds, holding two drinks. Phoenix smiled and took one, handing her backpack back to Disar.
 
-广告板正循环播放着刚才的广告词。
+The advertisement board was looping the promo again.
 
-“传送门的广告啊，真是哪里都有。”戴沙也看向电子屏。
+"Warp gate ads. They're almost everywhere," said Disar, also looking at the screen.
 
-“其实也很想体验一次的，毕竟是之前都只有军方在用，民用还是这几年新兴的东西……”
+"I actually really want to try it sometime, since it was military-only until just a few years ago when it became available for civilians..."
 
-“等我们从泽亚奥纳回来的时候，就试一次吧？”戴沙饶有兴致地道。
+"Let's give it a shot when we get back from Zhey Auna," Disar said with interest.
 
-“可是很贵啊！”
+"But it's so expensive!"
 
-“你忘了吗，如果测试出是希普斯人的话，可是有两万八千银河币的补贴……再加上上次和上上次咱俩考了前五名的奖学金……”
+"Did you forget? If we test as Shipsians, there's a 28,000 Galaxy Credit subsidy...plus the scholarships we got for ranking in the top five last time and the time before..."
 
-“那岂不是白赚一次！！！”
+"Then it would be totally free!!!"
 
-“嘘小点声……”
+Phoenix's voice rose involuntarily, and Disar quickly covered her mouth.
 
-凤凰不由自主地加大了音量，戴沙连忙捂上了对方的嘴。
+"Attention passengers, flight 0716 to Zhey Auna is now arriving. Please proceed to the gate."
 
-“前往泽亚奥纳的0716号舰船即将抵达，请乘客朋友前往站台等待。”
+The broadcast came right on schedule.
 
-广播声如约响起。
+"That's us, Phoenix."
 
-“到了，凤凰。”
-
-“走吧，戴沙。”
+"Let's go, Disar."
 
 ### 2
 
-太空舰船的内部设计，与飞机大相径庭。舰船里并非是一排排的座椅，而是卧铺火车内部似的一个个小房间。
+The interior design of a spacecraft is vastly different from an airplane. Instead of rows of seats, there are small rooms like sleeper train cabins.
 
-在拥挤的人潮中，戴沙和凤凰终于寻得了自己的房间。标准的双人厢，站台的景象显现在窗户内，房间中间置有一张长桌，两侧则是可以当作单人床的两用沙发——在时长十数小时的路程中，睡一觉必不可少。
+After pushing through the crowds, Disar and Phoenix finally found their room. A standard double cabin, with the view from the gate visible through the window. In the middle was a long table, with convertible sofas that could serve as single beds on either side - essential for getting some sleep on the journey lasting over ten hours.
 
-二人刚将行李安置在桌下，广播声便从头顶的喇叭里响起。
+The two had just stowed their luggage under the table when the overhead speaker crackled with an announcement.
 
-“各位乘客请注意，欢迎您乘坐Z0716号太空舰船。我们将从谷神主星出发，历经19谷神时、九次折跃，到达泽亚奥纳。折跃过程中可能会出现头晕目眩等不适症状，请及时按下呼唤按钮向乘务人员寻求帮助……”
+"Attention passengers, welcome aboard the Z0716 spacecraft. We will depart from Ceres Major, make nine warp jumps over 19 Ceres hours, and arrive at Zhey Auna. During warp, you may experience dizziness or nausea, please press the call button immediately for assistance from our crew..."
 
-凤凰和戴沙津津有味地听着。
+Phoenix and Disar listened intently.
 
-“本舰船型号为多瓦肯194，配有安全保障措施，逃生舱位于舰船尾部，所经路线皆为联盟管辖内的安全地带。舱内重力模拟系统即将开启，舰船即将出发，祝您旅途愉快。”
+"This Dovacoon 194 model ship is equipped with safety measures, with escape pods at the rear. Our route stays within secured Alliance territory. The artificial gravity system will activate shortly before departure. Have a pleasant journey."
 
-凤凰有些好奇地翻动面前桌上的旅行手册，却被戴沙递上的另一摞纸打断。
+Phoenix flipped curiously through the travel brochure on the table, but was interrupted by another stack of papers Disar handed her.
 
-“为了这次旅行我可是做足了攻略哦，凤凰。什么时候会经过传送门，又会在哪一刻看到某个星球——我可是花了半个月才搜集到了这个完整的资料！”
+"I've prepared a full itinerary for this trip, Phoenix. What time we'll see a warp gate, which moment we'll catch a glimpse of a planet - it took me half a month to put together this complete guide!"
 
-“哇，戴沙好厉害……”凤凰迅速接过攻略，翻动着。几时几分几秒会看到什么样的景象，都标得清清楚楚，甚至还安排了充足的睡眠时间。
+"Wow, Disar, you're amazing..." Phoenix quickly took the itinerary, flipping through the pages detailing exactly what scenery would be visible at each hour, minute and second, with ample time scheduled for rest.
 
-“泽亚奥纳与谷神主星虽说每天都是24个小时，但昼夜情况相差甚远……所以倒时差也是必不可少的。”
+"Zhey Auna and Ceres may both have 24-hour days, but the day/night cycle is quite different...so adjusting for the time difference is essential," Disar pointed out a note in the guide proudly.
 
-戴沙指着攻略里的说明，洋洋得意道。
+Phoenix weighed the thick itinerary in her hands. "So what's our first stop?"
 
-凤凰掂量一下攻略的重量，问：“那我们的第一个景点是？”
+"Right here. Before entering space, the ship has to go through a launch trajectory where we can view the entirety of Ceres Major - about thirty minutes from now we'll take our first rest break."
 
-“就在这里。舰船进入太空前，要经历一段发射轨道，还可以俯瞰到谷神主星的全貌——大概三十分钟后，我们就可以开始第一次休息了。”
+Though a spacecraft, it still utilizes warp gate technology, just at lower public rates compared to private use.
 
-虽然是舰船，但也是要用上传送门科技的，只不过公用的价格要比那私人用的低上不少。
+The ship began moving slowly. Phoenix rushed to the window, but realized it wasn't the ship moving, but rather the launch rail underneath it.
 
-舰船开始缓缓移动。凤凰连忙趴到窗边，却发现动的并非舰船，而是其下方的弹射轨道。
+Soon the ship was rotated vertical, gradually ascending up what looked like a tunnel-like launch shaft.
 
-很快，舰船就被调转成竖直向上的样子，并沿着轨道逐渐向上攀升，进入了隧道似的发射井。
+"Boom!" A thunderous roar made them both jump, quickly looking outside - the side thrusters were glowing blue. The scenery in the launch shaft blurred rapidly.
 
-“轰”一声巨响，二人被吓得一激灵，连忙朝窗外看去——飞船侧翼的发动机正冒着蓝光。发射井内的景色高速变换着，很快将窗外的一切模糊。
+Almost instantly, the launch shaft disappeared, replaced by darkness. No, not complete darkness - points of faint light marked the existence of countless stars. Disar turned back, taking in the breathtaking view.
 
-也几乎是在刹那间，发射井消失了，取而代之的是一片黑暗。不，那并不是完全的黑暗——点点微光是无数恒星存在的证明。戴沙连忙向回看去，将震撼的景象尽收眼底。
+Ceres Major, the largest inhabited planet in the galaxy. Now the nurturing mother that raised untold humans finally revealed her face to her children.
 
-谷神主星，银河系最大的居人行星。此时，养育不尽人类的母亲终于向孩子们展现了她的面目。
+"So beautiful, that's Ceres Major."
 
-“好美，这就是谷神主星。”
+Disar sighed from the depths of her heart.
 
-戴沙发自肺腑地感叹。
+"Magnificent."
 
-“好壮观。”
+Phoenix practically pressed her face to the window.
 
-凤凰几乎把脸贴在了窗户上。
+"Alright, we've seen our first scenery - there's a half hour rest period coming up, after which we'll get to see a warp gate jump."
 
-“好，我们的第一个景观已经欣赏完了——接下来是一个半小时的休息时间，在那之后就能看到传送门折跃了。”
+Disar turned away, starting to prepare the beds.
 
-戴沙转过身去，一边整理着床铺一边招呼着凤凰。
+"Just a bit longer...I haven't had my fill yet, Disar."
 
-“再看一会儿嘛……我没看够，戴沙。”
-
-“好吧好吧，但必须要在一刻钟内入睡——否则时差倒不过来哦。”
+"Fine, but you have to be asleep within an hour - otherwise the time difference will throw you off."
 
 ### 3
 
-“……回来……先锋……”
+"...come back...Stri..."
 
-凤凰有些迷糊。
+Phoenix was a bit dazed.
 
-这是梦，我自己的梦境。她一口认定。
+This is a dream, my own dream, she determined.
 
-梦里有谁在喊我？
+Who is calling me in the dream?
 
-眼前朦朦胧胧的。有个人好像在离自己很近的地方说些什么。
+The scene before her eyes was blurry. Someone seemed to be saying something very close by.
 
-“闪……死……撤……”
+"Fla...dead...retreat..."
 
-死？谁死了？
+Dead? Who died?
 
-她想问出口，可下一秒自己便和对方越来越远。
+She wanted to ask out loud, but in the next second she was getting farther and farther away from the other person.
 
-“回……不……别去……”
+"Please...no...don't go..."
 
-“咔嚓——”
+"Crack--"
 
 ### 4
 
-一阵刺耳的声音传来。
+A piercing sound rang out.
 
-睡梦中的凤凰不耐烦地用被子盖住了自己的头。
+The sleeping Phoenix irritably covered her head with the blanket.
 
-“咔咔、咔嚓、滋滋——”
+"Crack crack, crackle, sizzle--"
 
-“喂……戴沙……你这闹钟铃声好吵……”
+"Hey...Disar...your alarm is so loud..."
 
-“喂——戴沙——醒醒——”
+"Hey--Disar--wake up--"
 
-凤凰无奈地睁开双眼，坐起身来。
+Phoenix reluctantly opened her eyes and sat up.
 
-“凤凰……别吵……还有三分钟……”
+"Phoenix...not so loud...three more minutes..."
 
-“嗯？那这是什么响声？”
+"Huh? What's that noise then?"
 
-“哪里有响声啊……凤凰你幻听了吧……”
+"What noise? You must be hearing things, Phoenix..."
 
-戴沙似醒非醒地回答着。
+Disar answered groggily.
 
-“你没听到吗？断断续续的、咔嚓咔嚓的声音，像电流一样。”
+"You didn't hear it? Intermittent cracking sounds, like electricity."
 
-“没有……”
+"No..."
 
-“真的没有？”
+"Really, you didn't hear it?"
 
-“都说了没有啦！”
+"I said no already!"
 
-戴沙也坐起身来，揉揉惺忪的睡眼。
+Disar also sat up, rubbing her sleepy eyes.
 
-“好吧，提前两分钟起床也未尝不可……”
+"Well, getting up two minutes early won't hurt..."
 
-凤凰皱眉看向窗外，随即眉头舒展。
+Phoenix frowned towards the window, but her expression soon relaxed.
 
-“戴沙快看，是传送门——”
+"Disar, look, it's a warp gate!"
 
-戴沙瞬间精神起来，也望向外面。
+Disar instantly became alert, also looking outside.
 
-巨大的环形太空装置悬浮着。在一颗小行星的轨道上稳定运作的传送门，似乎感受到舰船的接近，开始发出低沉的轰鸣声。
+A massive ring-shaped space installation hovered in place. The warp gate, stably operating in the orbit of a small planet, seemed to sense the approaching ship and began emitting a low rumbling hum.
 
-“第一次见到，果然好壮观。”
+"First time seeing one, it's really magnificent."
 
-“是啊，你说它会怎么……！！！！”
+"Yeah, I wonder how it will..."
 
-就在二人的注视之下，巨型传送门的一角突然炸开一片炫丽的火花。
+As they watched, a dazzling burst of sparks suddenly erupted from one side of the giant warp gate.
 
-“诶？”
+"Huh?"
 
-传送门停止了轰鸣，微微闪出的蓝光也消失了。有什么突破了爆炸产生的烟雾，从中冲出。
+The warp gate stopped humming, and the faint blue glow also disappeared. Something burst through the smoke from the explosion, shooting out.
 
-凤凰和戴沙几乎在一瞬间，就认出了那艘红灰白相间的小飞船。
+Phoenix and Disar instantly recognized the red, grey and white small spacecraft.
 
-小飞船倾泻出一片红色的子弹，向舰船冲来。
+The small craft unleashed a torrent of red projectiles towards the ship.
 
-“——虚空军！！！！”
+"--Void Army!!!"
 
-就在二人尖叫出声的同时，舰船内响起了巨大的警报声。
+As they screamed out, a deafening alarm blared throughout the ship.
 
-“警告，警告。敌袭，敌袭。屏障已开启，自动防御机制已开启。请各位乘客不要惊慌，逃生舱正在准备开启中。”
+"Warning. Under attack. Shields activated, auto-defenses online. Please remain calm. Escape Pods are being prepared."
 
-戴沙连忙将背包一把抓起，拉开双人厢的房门，只见走廊里乱作一团。警报声和尖叫声和在一起，几乎让人听不见广播中一遍遍重复的“请不要惊慌”。
+Disar quickly grabbed their bags, pulling open the cabin door to see chaos in the hallway. The alarm and screams drowned out the repeated "remain calm" from the broadcast.
 
-“凤凰，快过来！”
+"Phoenix, hurry!"
 
-戴沙有些焦急地喊着，凤凰立即拎起身旁的背包，跟着戴沙挤进了人潮。
+Disar called out anxiously. Phoenix immediately grabbed her bag and followed Disar into the crowd.
 
-几乎不必向前走动，便能被人群推动着向前走。
+They barely had to walk, being pushed along by the mass of people.
 
-凤凰紧紧盯着走廊的舷窗外，舷窗倒映着人群无助的眼神。淡紫色的护罩已经展开，将整个舰船包裹在内。
+Phoenix stared intently out the hallway windows, reflecting the helpless expressions of the crowd. A pale purple shield had deployed, enveloping the entire ship.
 
-她的大脑飞速运转着——传送门受损，舰船无法通过传送的方式立即逃脱。最后的可能有二：其一是通过舰船上的自卫机关把敌人消灭，其二便是在护罩被击破前逃离。
+Her mind raced - the damaged warp gate meant they couldn't immediately escape by warping away. There were two remaining possibilities: either defeat the enemy with the ship's defenses, or evacuate before the shields failed.
 
-多瓦肯194号舰船的自卫机关是……顶部的自动机炮、底部前后各一的自动重机枪……
+The Dovacoon 194's defenses were...automatic turrets on top, and front/rear autocannons below...
 
-凤凰看见大片红色子弹撞在护罩上，而舰船正在以全速前进，试图摆脱着敌人。
+Phoenix saw waves of red projectiles impacting the shields as the ship accelerated at full speed, trying to outrun the enemy.
 
-“叮——”
+"Ding!"
 
-一瞬间闪过的紫光击中护罩，护罩闪烁出蓝光。
+A momentary purple flash struck the shields, causing them to flicker blue.
 
-速射激光！？
+Speed lasers?!
 
-舰船剧烈晃动了刹那，人群开始惊叫，更加慌乱地朝逃生舱的位置挤动，把“不要惊慌”的提示完全抛诸脑后。
+The ship violently shuddered for an instant, and the crowd began screaming, shoving more frantically towards the escape pods, completely disregarding the "remain calm" instructions.
 
-然而，一道激光只是战斗开始的号角罢了。
+But that single laser was just the opening salvo.
 
-七八束来自中型敌机的紫色激光，轮番击打在护罩上，随之颤动的还有飞船。
+Seven or eight purple beams from mid-sized enemy craft bombarded the flickering shields in succession, shaking the ship each time.
 
-喇叭传来滋滋的声音。
+Crackling came over the speakers.
 
-“船长，护罩受损率已经达到百分之六十了！！”
+"Captain, shield integrity is down to 60 percent!!"
 
-播音员忙乱之中，勿将内部的声音接入了广播。
+In the chaos, the internal comms had been patched through to the broadcast.
 
-“混蛋的速射激光——逃生舱呢？逃生舱准备好了吗！”
+"Damn Speed Lasers--what about the escape pods? Are they ready to launch?"
 
-“报告，已经准备好了，随时可以投放诱饵！”
+"Reporting, pods are ready to deploy decoys at any time!"
 
-“银河联盟军的人呢？联系上了吗？”
+"Have we called the Alliance  Army yet?"
 
-“报告……刚才的震动使得我们和军队的通讯中断了！”
+"Reporting...the shaking cut off our comms with them!"
 
-“那还不赶快……”
+"Then hurry and..."
 
-打断了一切的是一声巨大的轰鸣。
+He was cut off by a tremendous boom.
 
-戴沙和凤凰眼睁睁地看着窗外的风景变了颜色。
+Disar and Phoenix watched in horror as the view outside changed color.
 
-“轰——”
+"Boom--"
 
-护罩被撕裂出一条巨大的缝隙，紧接着打入的是一束红色的激光。激光不偏不倚地打中了舰船顶部的自动机炮，而爆炸的巨响就来自于此。
+The shields were ripped open by a massive gash, immediately followed by a red laser beam punching through. The beam struck the top autocannon dead-center, the explosion deafening.
 
-下一刻倾泻的是更多紫色的速射激光，它们撕扯着护罩，将其搅成消失在宇宙的碎片。
+The next barrage was a hail of purple Speed Lasers, shredding what remained of the shields into scattered debris.
 
-红色的子弹撞在侧翼的自动机枪上，将其炸个粉碎。引擎不再冒出蓝色的光来，很快就停止了运转。
+Red projectiles slammed into the side autocannons, blasting them apart. The engines stopped glowing blue as they failed.
 
-不稳定的灯光与电子音增添了几分末日的气氛。
+Flickering lights and electronic whines added to the apocalyptic atmosphere.
 
-“请全体乘客迅速前往逃生舱避难，请全体乘客立即前往逃生舱避难……”
+"All passengers proceed immediately to the escape pods."
 
-“报告船长，护罩受损率百分之九十八！！”
+"Reporting, shields at 98 percent failure, Captain!"
 
-“报告船长，顶部自动机炮完全受损！”
+"Top autocannon completely destroyed, Captain!"
 
-“船长，信号发射器受损严重，通讯系统停止工作！”
+"Signal array severely damaged, communications offline, Captain!"
 
-“右侧引擎损坏！”
+"Starboard engine hit!"
 
-“我们要完了，船长！”
+"It’s over, Captain!"
 
-“立即投放诱饵，即刻准备发射逃生舱。”
+"Launch decoys immediately, prepare to fire escape pods."
 
-船长咬着牙说出了这一番话。
+The captain grit his teeth as he gave the orders.
 
 ### 5
 
-呼喊声、尖叫声和哭泣声交织在一起，填满整个船舱。时间似乎变得无限延长，每一秒钟都让人感到痛苦万分。
+Cries, screams, and sobs intertwined, filling the entire ship cabin. Time seemed to stretch endlessly, each excruciating second feeling like agony. 
 
-凤凰从人群中隐约看见头顶的指示牌：距离逃生舱还有10米。
+Through the crowd, Phoenix vaguely saw the overhead sign: 10 meters to the escape pods.
 
-“凤凰，你听见了吗？刚才的广播！”
+"Phoenix, did you hear that last announcement?!" Disar's voice came from the nearby crowd.
 
-不远处的人潮里传来戴沙的声音。
+"Yes!" Phoenix shouted back with all her might.
 
-“听见了！”
+"Use that stuff! Quickly!!"
 
-凤凰竭尽力量嘶喊着回答。
+In an instant, Phoenix recalled the medal and what Aries had told her about it.  
 
-“用那个！快！！”
+"This is the medal I received as a new recruit. There's an emergency beacon on the back - press the button three times in a life-threatening situation to call for support from the nearest Alliance soldiers."
 
-几乎在一瞬间，凤凰回想起了那枚勋章，以及白羊座的介绍。
+That's right...the medal! In her shirt pocket!
 
-“这是在下初为新兵时的勋章，背面有呼救器，遇到生命危险时只需要连按三次按钮，即可呼叫最近的银河联盟军支援。”
+Phoenix fought through the crowd, desperately clawing at her pocket, but it was too packed to even get her hand inside.
 
-没错……就是勋章！在上衣的口袋里！
+"I can't reach it--"
 
-凤凰拼了命地向自己的口袋抓去，然而实在太过拥挤，她连将手插进口袋里的余地都没有。
+Phoenix threw her whole weight against the people beside her, briefly creating enough space to reach in. But just as her fingers touched the medal, before she could pull it out, she was squeezed in again.
 
-“拿不出来——”
+"Damn it--!!"
 
-凤凰用全身力气撞向旁边的人，可算在一瞬间破开些许空间供自己伸手。可就在她触碰到勋章、还没来得及抽出手时，就再次被挤住了。
+Finally, her painfully compressed hand emerged from the pocket, clutching the medal tightly. Without hesitation, she thrust the small medal over her head.
 
-“可恶——！！！”
+She tried pressing the button on the back.
 
-终于，她挤压得有些疼的手从口袋里拿出，手心死死攥着那枚徽章。顺势，她将小小的勋章举过头顶。
+"Boom--"
 
-她试图按下其背后的按钮。
+A barrage of lasers slamming into the hull sent the cabin into violent shaking.
 
-“轰——”
+Loose objects flung around wildly from the intense shaking, clattering against the walls as they whipped past, becoming dangerous projectiles. 
 
-一连串打在船体上的激光使得舱体剧烈摇晃起来。
+Several people were thrown up and slammed back into the crowd, letting out anguished cries as they were struck. Phoenix barely managed to cling to a handrail and avoid being flung out.
 
-舱内的杂物随着剧烈的震动不停地飞溅着，发出撞击舱壁的响声，穿梭在四周，变成了危险的飞行物。
+In those few chaotic seconds, Disar and Phoenix were both squeezed into the escape pod entrance.
 
-几个人被抛起又摔在人群顶部，被砸中的人发出绝望的吼叫声。凤凰拼命抓紧了墙上的扶手才没有被整个扔出去。
+"Phoenix--are you okay?!"
 
-就在这数秒的空档里，戴沙和凤凰先后被挤入了逃生舱的入口。
+Disar called out frantically.
 
-“凤凰——你还好吗？！”
+"I'm fine, but the medal--"
 
-戴沙高声呼唤着对方。
+The shaking had knocked the medal from her grasp.
 
-“我没事，可是勋章——”
+"Where did it go--?!"
 
-在方才的晃动中，勋章从她的手中脱离。
+Disar's brow furrowed as she squeezed to the side of the entrance, then stepped directly onto the door handle, gripping the protruding edges to hang precariously on the frame. She scanned the floor amid the crowd, desperately trying to spot any trace of the medal.
 
-“掉到哪里去了——！！”
+A faint purple laser beam flashed through the window, illuminating the cabin.
 
-戴沙眉头紧皱，挤到入口一侧，然后直接踩上了门上的把手，双手紧抓着门两边的凸起，勉强把自己挂在了舱门边缘上。她慌乱地看向人群脚下的地面，意图找到勋的哪怕一丝踪迹。
+For just an instant, a tiny glint appeared outside the escape pod entrance.
 
-一束淡紫色的激光从窗外掠过，照亮了舱内。
+"I see it!"
 
-一个小小的光点，在逃生舱入口之外显现了一刹那。
+Disar shouted.
 
-“看到了！”
+"Where?!"
 
-戴沙高叫。
+"On the floor, outside the entrance!"
 
-“在哪？！”
+"I’m on it!!"
 
-“入口外的地上！”
+Phoenix immediately turned and fought against the flow of the crowd to get out. But the mass of people was overwhelming, making every inch excruciatingly slow.
 
-“我来！！”
+"Fifteen seconds left."
 
-凤凰立即动身，逆着人群向外挤去。然而人潮太过汹涌，几乎寸步难行。
+"Phoenix!! You won't make it back in time!!!"
 
-“距离逃生舱舱门关闭还有十五秒钟。”
+The end of the crowd was only five meters from the pod entrance now. Hearing the warning, they surged forward even faster.
 
-“凤凰！！你会来不及回来的！！！”
+"I saw the glint too--"
 
-人群的尽头离逃生舱不过五米远了。听到这样的广播，人群的速度更加快了几分。
+"Phoenix! Stop!!"
 
-“我也看到闪光了——”
+"Ten seconds."
 
-“凤凰！你！！”
+The medal had fully emerged into view.
 
-“警告，距离逃生舱舱门关闭还有十秒钟。”
+Phoenix was still five meters away.
 
-那枚勋章已经彻底显现出来。
+Disar swallowed hard.
 
-凤凰离它还有五米远。
+"Warning, gravity simulation disengaged."
 
-戴沙咽下一口唾沫。
+Only two or three people hadn't squeezed through the doors yet. Phoenix finally broke free of the crowd and dashed for the medal.
 
-“警告，重力模拟即将取消。”
+"Five second countdown."
 
-仅剩两三个人未能挤进舱门了。凤凰终于从人群中摆脱出来，冲向那枚勋章。
+"Five."
 
-“倒计时五秒钟。”
+Phoenix sprinted forward, now three meters from the medal.
 
-“五。”
+"Four."
 
-凤凰一个箭步冲上前去，距离勋章还有三米。
+Her foot hit the ground, then lifted again.
 
-“四。”
+"Three."
 
-脚落地、再抬起。
+In an instant, the gravity simulation cut out.  
 
-“三。”
+Phoenix was flung upwards, slamming into the cabin wall with a "thud."
 
-刹那间，重力模拟消失了。
+"Ughhh."
 
-凤凰猛地被抛向半空，“砰”一声撞在了舱壁上。
+"Two."
 
-“呃啊。”
+"Phoenix!!!"
 
-“二。”
+"One."
 
-“凤凰！！！”
+In that single second, Disar inside the escape pod made a decision of life or death.
 
-“一。”
+She poured all her strength into her legs, and kicked off.
 
-就在一秒钟内，身处在逃生舱中的戴沙做出了生与死的决定。
+Her body arced through the air in a straight line.
 
-她将力量倾注在双腿上，随后一蹬。
+Her target - the medal outside the escape pod.
 
-她的身躯在空中划出一道直线。
+"Door closing."
 
-终点是救生舱舱外的勋章。
+The twin doors slammed shut in half a second, followed by the sound of the pod detaching.
 
-“舱门已关闭。”
+Disar snatched the medal just as she crashed hard into the wall beside Phoenix.
 
-两重舱门在半秒内全部关闭，紧接着是逃生舱脱离的声音。
+They hadn't made it onto the escape pod.
 
-戴沙一把抓住了那枚勋章，和凤凰一样重重砸在了舱壁。
+"Disar, hurry press it--"
 
-她们没能登上逃生舱。
+One, two, three.
 
-“戴沙，快按——”
+Disar didn't hesitate, ignoring the pain as she immediately pressed the button.
 
-一、二、三。
+Then, the button lit up.
 
-戴沙顾不上碰撞带来的疼痛，立即按动按钮。
-
-随后，按钮亮了起来。
-
-“这里是银河联盟军。求救已收到，请报告情况。”
+"This is the Galactic Alliance Army. Distress signal received. Report your situation."

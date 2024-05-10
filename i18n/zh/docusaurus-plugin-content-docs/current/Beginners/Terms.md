@@ -104,6 +104,22 @@
 
     颁发给为Phoenix 2游戏或社区做出巨大贡献的玩家。如果EL认为你应得这个章，他会亲自联系你并在你的帐户上添加这个章，同时为你寄出实体章。
 
+- 老兵徽章（*又称老油条指示器*）
+
+    颁发给游玩超过1年的玩家的徽章，显示你在游戏里已经战斗了多少岁月。
+    
+    > 人人都说P2成瘾难戒，你看游戏里现在有多少老油条还是一直活跃着的
+    >
+    > 冷知识：Phoenix 2的发行日期是2016年7月28日，所以目前最老的老油条是老兵7获得者
+
+    <img src="/terms/v1.png" style={{zoom:0.75}}/>
+    <img src="/terms/v2.png" style={{zoom:0.75}}/>
+    <img src="/terms/v3.png" style={{zoom:0.75}}/>
+    <img src="/terms/v4.png" style={{zoom:0.75}}/>
+    <img src="/terms/v5.png" style={{zoom:0.75}}/>
+    <img src="/terms/v6.png" style={{zoom:0.75}}/>
+    <img src="/terms/v7.png" style={{zoom:0.75}}/>
+
 ## 敌机类
 
 - 敌机

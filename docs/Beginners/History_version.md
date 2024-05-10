@@ -8,6 +8,19 @@ You can [click here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs
 
 ## Version History
 
+### 6.3.10 May 8, 2024
+
+A new update has been applied, increasing stability and fixing several issues. Other improvements include the following:
+
+- Adds a new Veterancy indicator for pilots that have been playing for more than 1 year on the leaderboards. You’re amazing!
+- **Reduces screenshakes** when Eagles, Vultures, Condors and Rocs explode.
+
+    According to the dev, the screenshake is now more of a short shuffle rather than a rumbling.
+
+    Unfortunately, the dev thinks that the screenshake in this update is too little and plans to increase it slightly in the next update.
+    
+- Reduces screenshakes for Vuxine weapon impacts.
+
 ### 6.3.9 Feb 7, 2024
 A new wave difficulty indicator has been added to mission intel. It shows which waves are the most challenging for pilots attempting the mission.
 

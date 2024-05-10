@@ -104,6 +104,22 @@ Some terms in this guide will be repeated a lot, and thus, it is easier for you 
 
     The badge is awarded to players who have made outstanding contributions to the Phoenix 2 game or community. Along with a physical badge, EL will directly message you if he thinks that you deserve this badge.
 
+- Veteran Badge (a.k.a. Old hand indicator)
+
+    A badge awarded to players who have been playing for over a year, displaying how long you have battled in the game.
+    
+    > Everyone says P2 addiction is hard to quit, look at how many old players are still active in the game.
+    >
+    > Trivia: Phoenix 2 was released on July 28, 2016, so the oldest hand at present is the recipient of the "Veteran 7" badge.
+
+    <img src="/terms/v1.png" style={{zoom:0.75}}/>
+    <img src="/terms/v2.png" style={{zoom:0.75}}/>
+    <img src="/terms/v3.png" style={{zoom:0.75}}/>
+    <img src="/terms/v4.png" style={{zoom:0.75}}/>
+    <img src="/terms/v5.png" style={{zoom:0.75}}/>
+    <img src="/terms/v6.png" style={{zoom:0.75}}/>
+    <img src="/terms/v7.png" style={{zoom:0.75}}/>
+
 ## Invaders
 
 - Invader

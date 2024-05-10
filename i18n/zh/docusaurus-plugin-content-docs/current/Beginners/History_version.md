@@ -4,9 +4,17 @@
 
 由于不可抗力的原因，版本5.5之前的更新记录已无法追溯，因此本页面只呈现自版本5.5开始的历史记录。
 
-完整的历史版本记录可[点击此处](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/phoenix-2-version-history)查看。
+完整的历史版本记录可[点击此处](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/appendix-c-phoenix-2-version-history)查看。
 
 ## 历史版本
+
+### 6.3.10 May 8, 2024
+
+已应用新的更新，提高了稳定性并修复了多个问题。其他改进包括：
+
+- 为玩了超过1年的飞行员增加了新的资深指示器。你太棒了！
+- **减少**大型入侵者飞船爆炸时的**屏幕震动**。
+- 减少吾可辛武器影响的屏幕震动。
 
 ### 6.3.9 Feb 7, 2024
 A new wave difficulty indicator has been added to mission intel. It shows which waves are the most challenging for pilots attempting the mission.
