@@ -8,6 +8,10 @@ You can [click here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs
 
 ## Version History
 
+### 6.3.11 May 10, 2024
+
+Fixes a crash when running iOS 12.
+
 ### 6.3.10 May 8, 2024
 
 A new update has been applied, increasing stability and fixing several issues. Other improvements include the following:
