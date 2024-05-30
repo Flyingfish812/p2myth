@@ -4,7 +4,7 @@
 
 由于不可抗力的原因，版本5.5之前的更新记录已无法追溯，因此本页面只呈现自版本5.5开始的历史记录。
 
-完整的历史版本记录可[点击此处](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/appendix-c-phoenix-2-version-history)查看。
+完整的历史版本记录可[点击此处](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/appendix-d-phoenix-2-version-history)查看。
 
 ## 历史版本
 
