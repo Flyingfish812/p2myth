@@ -4,9 +4,13 @@
 
 Due to some technical failure, we have lost track of the history version of Phoenix 2 before 5.5. So we just list the changes of versions after 5.5.
 
-You can [click here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/phoenix-2-version-history) to check the full history version of Phoenix 2.
+You can [click here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/appendix-d-phoenix-2-version-history) to check the full history version of Phoenix 2.
 
 ## Version History
+
+### 6.3.11 May 10, 2024
+
+Fixes a crash when running iOS 12.
 
 ### 6.3.10 May 8, 2024
 
