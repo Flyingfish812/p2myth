@@ -2,6 +2,8 @@
 
 > 华丽的散射，华而不实的输出。
 
+> 源自拉丁语Aries，意为公羊。
+
 <img src="/ships/ship_31.png" style={{zoom:1}}/>
 
 ## 基本信息

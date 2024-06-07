@@ -2,6 +2,8 @@
 
 > Some kind of insect-like appearance.
 
+> Usually rendered in English as "God Most High"
+
 <img src="/ships/ship_26.png" style={{zoom:1}}/>
 
 ## Basic Info

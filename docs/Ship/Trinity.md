@@ -2,6 +2,8 @@
 
 > Very similar to someone in Assassin's Creed.
 
+> The Father, the Son, the Holy Spirit, three divine person, in unity.
+
 <img src="/ships/ship_64.png" style={{zoom:1}}/>
 
 ## Basic Info

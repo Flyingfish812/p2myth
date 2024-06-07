@@ -1,6 +1,6 @@
 # Lokie
 
-> It wouldn't feel out of place if it flew down from above and became a boss.
+> A member of the Aesir in Norse mythology, cunning and scheming.
 
 <img src="/ships/ship_49.png" style={{zoom:1}}/>
 

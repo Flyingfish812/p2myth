@@ -2,6 +2,8 @@
 
 > This main weapon reminds me of a saying: A mouthful of thick yellow phlegm is more threatening than an atomic bomb.
 
+> Xavius, antagonist in *World of Warcraft*, the Nightmare Lord.
+
 <img src="/ships/ship_85.png" style={{zoom:1}}/>
 
 ## Basic Info

@@ -2,6 +2,8 @@
 
 > 在超时空场内练习超级反射的使用时机真是一个好主意。
 
+> 13世纪由Snorri Sturluson创作的《埃达散文》中证实的女神。
+
 <img src="/ships/ship_58.png" style={{zoom:1}}/>
 
 ## 基本信息

@@ -2,6 +2,8 @@
 
 > I would have forgotten that there is such a ship without reminding.
 
+> Zephyrus, the god of the West wind in Greek mythology, gentle and favorable.
+
 <img src="/ships/ship_42.png" style={{zoom:1}}/>
 
 ## Basic Info

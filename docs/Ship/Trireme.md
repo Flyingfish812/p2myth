@@ -2,6 +2,8 @@
 
 > Isn’t it exciting to just throw the missile and TP away?
 
+> An ancient vessel used by the ancient maritime civilizations of the Mediterranean Sea, derives its name from its three rows of oars.
+
 <img src="/ships/ship_17.png" style={{zoom:1}}/>
 
 ## Basic Info

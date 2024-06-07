@@ -2,6 +2,8 @@
 
 > Let new players realize the danger of circling missiles as soon as they enter the game.
 
+> A city in the West Bank, Palestine
+
 <img src="/ships/ship_6.png" style={{zoom:1}}/>
 
 ## Basic Info

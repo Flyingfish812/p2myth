@@ -2,6 +2,8 @@
 
 > Gorgeous scattering, flashy output.
 
+> Derived from Latin word Aries, meaning "the ram."
+
 <img src="/ships/ship_31.png" style={{zoom:1}}/>
 
 ## Basic Info

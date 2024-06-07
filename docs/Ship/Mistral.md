@@ -2,6 +2,8 @@
 
 > Just because it can't usually get ahead doesn't mean you can ignore its potential.
 
+> A strong, cold, northwesterly wind that blows from southern France into the Gulf of Lion in the northern Mediterranean.
+
 <img src="/ships/ship_94.png" style={{zoom:1}}/>
 
 ## Basic Info

@@ -2,6 +2,8 @@
 
 > The intermittent machine gun fire made one wonder if it was fxxked.
 
+> The title character and the primary antagonist, through the forging of the One Ring, of J. R. R. Tolkien's *The Lord of the Rings*.
+
 <img src="/ships/ship_37.png" style={{zoom:1}}/>
 
 ## Basic Info

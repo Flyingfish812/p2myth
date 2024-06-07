@@ -2,6 +2,8 @@
 
 > Don't make mistake, this is not a game controller.
 
+> A historically important ancient city located in the Antakya region of present-day Turkey.
+
 <img src="/ships/ship_62.png" style={{zoom:1}}/>
 
 ## Basic Info

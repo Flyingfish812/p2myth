@@ -2,6 +2,8 @@
 
 > It looks like an onion ring, but it doesn't taste good.
 
+> A giant huntsman whom Zeus (or perhaps Artemis) placed among the stars as the constellation of Orion.
+
 <img src="/ships/ship_56.png" style={{zoom:1}}/>
 
 ## Basic Info

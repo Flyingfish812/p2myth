@@ -2,6 +2,8 @@
 
 > Versatile ship that can deal with all type of missions.
 
+> Translated as nimbostratus cloud in French.
+
 <img src="/ships/ship_79.png" style={{zoom:1}}/>
 
 ## Basic Info

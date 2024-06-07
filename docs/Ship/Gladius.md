@@ -2,6 +2,8 @@
 
 > One of the ships that looks like a fighter.
 
+> The type of sword that was used by ancient Roman foot soldiers starting from the 3rd century BC and until the 3rd century AD.
+
 <img src="/ships/ship_48.png" style={{zoom:1}}/>
 
 ## Basic Info

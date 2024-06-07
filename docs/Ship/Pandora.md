@@ -2,6 +2,8 @@
 
 > Its offensive means are so awkward to use (better than Orion, but more expensive than AB8/Klyn)
 
+> The first human woman created by Hephaestus on the instructions of Zeus.
+
 <img src="/ships/ship_97.png" style={{zoom:1}}/>
 
 ## Basic Info

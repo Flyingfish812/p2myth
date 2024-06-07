@@ -2,6 +2,8 @@
 
 > It's really a good idea to practice timing your Super Reflection in the Chrono Field.
 
+> A goddess attested in the Prose Edda, written in the 13th century by Snorri Sturluson.
+
 <img src="/ships/ship_58.png" style={{zoom:1}}/>
 
 ## Basic Info

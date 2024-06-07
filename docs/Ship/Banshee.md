@@ -2,6 +2,8 @@
 
 > It fits the name of the Banshee very well: it looks calm, but it hides murderous intent.
 
+> A female spirit in Irish folklore who heralds the death of a family member, usually by screaming, wailing, shrieking, or keening.
+
 <img src="/ships/ship_89.png" style={{zoom:1}}/>
 
 ## Basic Info

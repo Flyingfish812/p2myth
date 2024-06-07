@@ -2,6 +2,8 @@
 
 > Looks like Ogon, easier than Ogon.
 
+> A German noun with a significant degree of importance in German philosophy, meaning ghost, spirit, or mind.
+
 <img src="/ships/ship_23.png" style={{zoom:1}}/>
 
 ## Basic Info
