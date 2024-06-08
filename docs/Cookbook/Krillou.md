@@ -76,11 +76,11 @@ Additionally, the Compressed Blast has a range of only 200, so you have to charg
 
     For more complex situations, such as a wave that includes caged MIRVs, the strategy becomes more intricate. When the distance is greater, the circle of bullets from a caged MIRV can be seen as a fan-shaped area pointing straight ahead. Therefore, a common strategy is to slightly avoid the area directly below the caged MIRV to charge the bomb. Depending on the situation, the chosen response may vary. The example below shows one anticipation method:
 
-    <img src="/KrillouCB/krillou9.gif" style={{zoom:0.75}}/>
+    <img src="/KrillouCB/krillou10.gif" style={{zoom:0.75}}/>
 
     Another common handling technique is when your energy is sufficient to support two consecutive full auras. Use the first aura to deal with the caged MIRV, then use the Stun EMP again and charge the bomb after dodging these bullets. This can prevent difficult-to-predict bullet trajectories on the field, making bomb charging more efficient.
 
-    <img src="/KrillouCB/krillou10.gif" style={{zoom:0.75}}/>
+    <img src="/KrillouCB/krillou9.gif" style={{zoom:0.75}}/>
 
     If you're not very skilled at predicting bullet trajectories, there's an alternative solution. Bullets are fired based on whether your core is within the fan-shaped attack range. Therefore, you can choose to release the Stun EMP at the top while moving the Ship to the front row to charge the bomb. This method completely avoids all darts on the field, leaving only the most regular bullets to predict and dodge. The only downside is that it doesn't align with most players' natural operational instincts.
 
