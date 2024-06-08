@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.3.6
+
+- Version: 1.3.6
+- Update time: 2024-06-08
+
+We have updated the Krillou Cookbook.
+
 ## V1.3.5
 
 - Version: 1.3.5
