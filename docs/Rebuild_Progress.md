@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.3.7
+
+- Version: 1.3.7
+- Update time: 2024-06-16
+
+We have updated the Von Braun Cookbook.
+
 ## V1.3.6
 
 - Version: 1.3.6
