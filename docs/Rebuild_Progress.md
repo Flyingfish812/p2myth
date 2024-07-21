@@ -4,6 +4,17 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.3.8
+
+- Version: 1.3.8
+- Update time: 2024-07-21
+
+We wish you a happy 0721!
+
+The story "Galaxy Reburn" has updated the Chapter 6, the side chapter 1, and the translation for the chapter 4 and 5.
+
+We have updated the Qhelqod Cookbook.
+
 ## V1.3.7
 
 - Version: 1.3.7

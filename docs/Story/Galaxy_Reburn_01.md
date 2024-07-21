@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Chapter 1: Prologue: Phoenix 
 
 > Written by: 菁鸟

@@ -1,412 +1,407 @@
-# 第五章 她的意志
+---
+sidebar_position: 6
+---
 
-:::info[Attention]
-
-This story is written in Chinese. If you are interested in the content, I recommend to use a translator.
-
-:::
+# Chapter 5：Her Volition
 
 > Written by: 菁鸟
 
-“没人知道这场战争什么时候结束。而我们唯一能做的就是给那未知的未来铺路。”
+"No one knows when this war will end. And all we can do is pave the way for that unknown future."
 
-——泽亚奥纳科幻游戏《虚空：神怒传说》中，主角弗尼斯如是说。
+*Foenis, the protagonist, says this in the sci-fi game The Void: Anger of the Deity in Zhey Auna.*
 
 ### 1
 
-凤凰和戴沙也看见了。
+Phoenix and Disar saw it too.
 
-带着要摧毁一切的威势，超级战舰压了上来。投下的阴影将群星的黯淡光辉吞噬，唯余闪着红色光芒的炮管。
+With an overwhelming might to destroy everything, the dreadnought bore down on them. Its shadow devoured the faint starlight, leaving only the red-glowing barrels.
 
-戴沙蓝色的双眼被阴翳占满，脸上浮现惊恐的神情。
+Disar's blue eyes filled with darkness, her face etched with terror.
 
-“凤凰，那是……”
+"Phoenix, that is..."
 
-她回头看向凤凰，用颤抖的声音呼唤着。
+She turned to Phoenix, her voice trembling as she called out.
 
-“那是书里说的大鹏……”
+"That's the Roc from the books..."
 
-凤凰双手不自觉地握紧了拉杆。
+Phoenix's hands gripped the controls involuntarily.
 
-通讯器里传来另外两人的对话。
+Their comms crackled with two other voices.
 
-“内尼，拆炮台。”
+"Neni, take out the turrets."
 
-“收到。”
+"Received."
 
-棕色的身影仍在被数队微型和小型追逐。绛紫色的刀光不断闪过，敌机的残骸在沿着他飞行的轨迹四处散落，漂浮在太空中。
+The brown figure was still being chased by squads of Sparrows and Ravens. Streaks of purple blade-light flashed, and debris from downed enemies trailed his flight path, floating in space.
 
-内尼飞至一片空旷区域，将手中的狙击枪向肩后一扔。枪的下端滑进其内尼的身后装置轨道中，牢牢固定住。下一秒，她胸前的金属装备开始层层拆解、前伸、汇聚，拼接成了某种发射装置。
+Neni flew into a clear area and tossed her sniper rifle behind her back. Its butt slid into a rail mount, locking in place. In the next second, her chest armor began disassembling, extending forward and reconfiguring into some kind of firing apparatus.
 
-她将右臂向前伸去，伸直拇指和食指，向着大鹏的炮台瞄准。光点从宇宙的真空之中被抽离开来，汇聚于内尼的胸口，直至那发射装置汇聚了一团蓝色火焰。
+She extended her right arm, straightening her thumb and forefinger to aim at the Roc's turrets. Pinpoints of light were drawn from the vacuum of space, coalescing at Neni's chest into a blue fireball within the apparatus.
 
-整个过程仅仅用了两秒。
+The entire process took only two seconds.
 
-凤凰和戴沙只听雷达传来两声清脆的警报，天蓝色的光柱便从内尼身前倾泻而出。
+Phoenix and Disar just heard two sharp radar pings before a brilliant azure beam lanced out from Neni.
 
-几乎就在眨眼的一瞬间，那被冠以“巨型”之名的激光就轰击在了敌军的战舰上。
+In the blink of an eye, the so-called "Mega Laser" slammed into the enemy dreadnought.
 
-昏暗的星夜里骤然有这一瞬光炸开来，戴沙和凤凰不得不用手挡住强光。
+The dim starry night flashed brilliantly, forcing Phoenix and Disar to shield their eyes.
 
-真空无法传递声音。昭示着那激光恐怖威力的只有不断响起的警报——“检测到高能量释放”。
+In the soundless vacuum, only incessant warnings signaled the laser's terrifying power - "High energy release detected."
 
-天蓝色的巨龙终于弥散在太空中时，凤凰看见了两座被摧毁的炮塔。
+When the azure dragon finally dissipated, Phoenix saw two destroyed turrets.
 
-“分导炮台已摧毁。”
+"Auxiliary batteries neutralized," Neni reported calmly.
 
-内尼冷静地报道着。
+"You take out the Judgment Day, I'll handle those drones."
 
-“把审判日干掉，我负责那帮僚机。”
+"You know I use direct-fire weapons."
 
-“我用的可是正对式武器啊。”
+"Then you get the Sparrows."
 
-“那你来打微型。”
+"I'll just hit the Roc."
 
-“那还是打大鹏吧。”
+The Shogun instantly pivoted, his thruster trails marking an insane angle as he shook off his pursuers. At full burn, he charged straight for the Roc's location.
 
-幕府将军瞬间调转方向，脚底动力推进器的尾焰划出了一个惊人的角度，将那些追逐在他身后的敌机甩开。他马力全开，直冲向大鹏所在的方向。
+Just as the Shogun was about to ram the main battery, a dazzling blade-storm erupted nearby, space itself seeming to warp for an instant. Purple light flashed, and the turret base shattered.
 
-就在幕府将军的身体要撞上炮口之时，身旁突然绽放开一片绚丽的刀光，空间仿佛扭曲了刹那。紫色的光芒闪过，炮台的基座应声碎裂。
+"Rotary demolished," Neni's voice announced.
 
-“观测到轮盘拆毁。”
+The Shogun executed a sharp ascent, narrowly avoiding the subsequent explosion.
 
-伴着内尼的报告声音，他一个急转向上，近乎完美地从随后的爆炸中脱身开来。
+Green sniper tracers lashed out again, striking the hull and Judgment Day's turrets.
 
-狙击枪的绿色闪光再次划过，击打在船体和审判日激光的炮台上。
+Neni kept firing at the main battery, but her direct-fire attacks required staying in its radius. Soon a faint red aura outlined her form.
 
-内尼正举枪向审判日炮台攻击，然而正对型的攻击代表着她必须待在对方的攻击范围内。很快，一层淡淡的红光镀上了她的轮廓。
+"Neni, three seconds."
 
-“内尼，三秒。”
-
-眼看着炮台蓄能完毕，内尼一咬牙，不得不向右撤去，脚底推进器突然加大功率，一个侧翻滚离开攻击范围。
+Seeing the turret powering up, Neni gritted her teeth and had to break right, her thrusters flaring as she rolled away from the firing arc.
 
 ### 2
 
-凤凰以为自己看错了。
+Phoenix couldn’t believe her eyes.
 
-她记得——审判日炮台是不会旋转的。
+She exactly remembered - the Doomsday turrets were not supposed to rotate.
 
-分明……
+But...
 
-分明那激光旋转了起来，磅礴的红色火焰正朝着内尼喷涌而去。
+But the Doomsday laser was spinning, torrents of crimson fury lashing out towards Neni.
 
-旋转的审判日炮台。
+A rotating Doomsday turret.
 
-就在一息间，一切都改变了。
+In the span of a breath, everything seemed to be changed.
 
-形势急转直下。幕府将军在通讯中一遍遍喊着“全速飞离”，语气里罕见地透露一丝慌乱。他放弃了追杀一队中型，转而向炮台的死角加速前进。
+The situation took a dire turn. Over comms, the Shogun repeatedly yelled "Full retreat!", a rare hint of panic in his voice. He abandoned his pursuit of a Heron squad, accelerating towards the turret's blind spot instead.
 
-内尼的推进器全力输出着，然而那审判日激光就要逼上来。
+Neni's thrusters burned at maximum, but the Judgment Day laser was closing in.
 
-审判日激光只会持续三秒钟，在这之后内尼就会脱离威胁。
+The beam would only last three seconds, after which Neni would be clear of the threat.
 
-凤凰在心里暗暗数着时间。
+Phoenix counted down silently.
 
-三。
+Three.
 
-二。
+Two.
 
-“倒是停啊！”
+"Why doesn’t it stop!"
 
-审判日激光还在持续——为什么？
+The Doomsday laser persisted - why?
 
-幕府将军想要接近那炮台的基座，但剩余的中小型敌机并不打算放过这位希普斯人。他陷入两难，面对全然陌生的敌人，他还是有些乱了阵脚。
+The Shogun tried nearing the turret base, but remaining Ravens and Sparrows refused to let the Shipsian through. Faced with this unknown enemy, he faltered, unsure how to proceed.
 
-内尼被迫再度收起攻击架势，而激光紧追不舍，其转动的速度甚至越来越快，眼看就要追上她的身影。
+Neni had to retract her firing rig again as the relentless beam spun faster and faster, about to catch her.
 
-“坚持，激光会耗尽的。”
+"Hold on, the laser will drain."
 
-她引以为傲的正对攻击，此刻成了一副枷锁，让她无法脱身。
+Her prized direct-fire capability had become a shackle, preventing escape.
 
-她抬起狙击枪。但无法正对瞄准炮台，如何按动扳机都没有用处。
+She raised her sniper rifle. But unable to aim directly, pulling the trigger was useless.
 
-“我打不到它！该死的主炮——”
+"I can't hit it! Damn main battery -"
 
-它会旋转到什么时候？
+How long would it keep spinning?
 
-“将军，拆了审判日！”
+"Shogun, take out Judgment Day!"
 
-内尼大喊道。
+Neni shouted.
 
-“收——”
+"Recei-"
 
-蓝光闪过。
+A azure flash cut her off.
 
-一瞬间，将军的通讯中传来电流的滋滋声，声音就此中断了。
+For an instant, the Shogun's comms crackled with static before going silent.
 
-“幕府将军？”
+"Shogun?"
 
-通讯里传来内尼疑惑的声音，但那声音随后转为惊恐。
+Neni's confused voice came through, quickly turning to alarm.
 
-“将军！听到请回答！”
+"Shogun, answer me!"
 
-凤凰扑在面前的控制台上，看着那灰色的“G.A.A.S.Shogun离线”几个字。
+Phoenix stared at the grim "G.A.A.S.Shogun OFFLINE" on her console.
 
-发生什么了？
+What happened?
 
-凤凰连忙看向雷达，就连雷达中也失去了将军的踪迹。
+She checked radar but the Shogun's signature had vanished as well.
 
-到底怎么回事？
+What was going on?
 
-空气凝滞了三秒，终于又传来了将军断断续续的声音。
+Three agonizing seconds later, the Shogun's broken voice finally transmitted.
 
-“我被……设备……失灵……”
+"I've been...The system...Malfunctioning..."
 
-“将军，将军！”
+"Shogun, Shogun!"
 
-内尼呼唤两声后，紧接着又没了幕府将军的讯号。
+After Neni's calls, the Shogun's signal cut out again.
 
-“设备失灵？怎么会？”
+"Systems malfunctioning? How?"
 
-“凤凰，那是什么炮台？”
+"Phoenix, what's that turret?"
 
-戴沙顺着窗指向外面的一艘小型敌机——和它闪烁着蓝色光芒的炮台。
+Disar pointed out the window at a small enemy craft - and its flickering azure turret.
 
-“眩晕？是眩晕！”
+"A stun turret? It's a stun turret!"
 
-戴沙在下一秒辨认出了那萦绕着蓝紫色闪电的武器本质。
+Disar recognized the crackling purple lightning for what it was a second later.
 
-“可是这项技术……！”
+"But that technology...!"
 
-话音刚落，那艘敌机就将炮口对准了正在躲闪着无尽审判日激光的内尼。
+Even as she spoke, the craft trained its barrel on Neni, still evading the endless Judgment Day beam.
 
-没错。是眩晕，幕府将军一定是被新炮台击中了。必须告诉内尼。
+Right. A stun turret. Shogun must have been hit by this new turret. She knew she had to warn Neni.
 
-狡猾的眩晕炮台战机躲在了大鹏的机翼下端。和小型战机完全相同的外观，使它丝毫不会被怀疑。
+The devious stun-turret fighter had hidden itself under the Roc's wing, its identical Raven appearance leaving it unsuspected.
 
-——已经顾不上那么多了，无论会不会暴露自身位置。
+There was no time to worry about giving away their position now.
 
-凤凰颤抖的手指立即按向通讯的开启键，在敌方眩晕子弹出膛的同时歇斯底里地喊着：
+Phoenix's shaking fingers immediately keyed the comm, screaming just as the azure stun round left the barrel:
 
-“有眩晕！”
+"A Stun!"
 
-“？！”
+"?!"
 
-内尼条件反射般急忙上拐，然而蓝色的眩晕炮弹比一般的子弹快了不少，此时裹挟着电弧已经呼啸而至，躲避已然来不及。
+Neni banked hard on reflex, but the stun round flew faster than normal rounds, its arcing tail already whistling in too late to evade.
 
-“咻！”
+"Tzssh!"
 
-蓝紫色的电弧撞在内尼的左腿，那推进器的紫色火焰立即熄灭。
+Purple-blue lightning slammed into Neni's left thruster, the violet exhaust immediately dying.
 
-“中弹，推进器失灵！”
+"I’m hit. Thruster failed!"
 
-内尼拼命驱动着右腿的推进器，然而速度大打折扣。单侧的推进器注定无法使她逃离这无穷无尽的激光。
+Neni gunned her remaining thruster desperately, but her speed was crippled. The single engine could never let her outrun this relentless beam.
 
-结束了。
+It was over.
 
-内尼抱着自己的枪苦笑着。
+Neni gave a bitter laugh, clutching her rifle.
 
-敌人的新武器把所有人都打了个措手不及。幕府将军被眩晕武器控制住，而自己也将被这毫不停歇的审判日激光撕成碎片——或许连点渣都剩不下。
+The enemy's new weapon had caught them all off-guard. The Shogun disabled by the stun weapon, and she would be torn to shreds by this endless Judgment Day - maybe not even debris left.
 
-“混蛋虚空军。”
+"Damn Void bastards."
 
-内尼叹口气，看着向自己涌来的审判日激光道。
+Neni sighed, watching the beam bear down.
 
-“吾知，死生若俯仰。”
+"We knew death comes swiftly."
 
 ### 3
 
-——凤凰不自觉地动了。
+Phoenix moved without thinking. 
 
-手指拨开标写着“机枪”的推杆，指示灯亮起。十字准星连同单容量投影在了玻璃上，对准了那宇宙中的庞然大物。
+Her fingers flipped the switch labeled "Autocannons", lighting up the indicator. Crosshairs and ammo counters projected onto the canopy, aimed at the massive object in space.
 
-“四架轻机枪上线，容量四百发。”
+"Four light autocannons online. Four hundred rounds total."
 
-“上线”一词落定的刹那，凤凰扣动了扳机。
+The instant "online" registered, Phoenix pulled the trigger.
 
-“轰——”
+"BRRRRRT!"
 
-从脚底下、舱侧传来了剧烈的震动，无数蓝色光箭从舱体两侧接连不断射出，在大鹏的机体上汇集成一点，引燃一场轰鸣。
+Violent shudders ran through the ship's floor and sides as endless azure tracer streams lanced out, converging on the Roc's hull in a thunderous fusillade.  
 
-“凤凰，你疯了——！”
+"Phoenix, are you insane?" 
 
-戴沙惊恐地喊着，试图拦住凤凰的动作，伸手抓向对方的肩膀。但凤凰像是感知不到外界了一样，全然不动，只有手指紧紧勾着摇杆上的开火键。
+Disar screamed in horror, trying to grab Phoenix's shoulder to stop her. But Phoenix was oblivious, unmoving, her finger locked on the firing stud.
 
-“剩余一百发。”
+"One hundred rounds remaining."
 
-平淡的电子音告知一大半子弹已经在顷刻间被消耗完毕。
+The flat electronic voice announced over half the ammo expended in seconds.
 
-“凤凰！！”
+"Phoenix!!"
 
-戴沙惨叫着，倒映在她瞳孔中的是那拥有眩晕炮台的战机，以及其装载的、将炮口对准二人的眩晕武器。
+Disar wailed, her eyes reflecting the stun-turret fighter swinging its barrel towards them, weapon charging.
 
-她看向凤凰的双眼，那熟悉的金色眸子里只有坚定和愤怒。
+She looked at Phoenix's eyes, those familiar golden orbs filled with only determination and fury.
 
 ### 4
 
-——有人在叫自己吗？
+Was someone calling her?
 
-——是戴沙。
+It was Disar.
 
-凤凰的余光从玻璃的倒影中窥见，同伴恐惧的眼神。
+From the canopy's reflection, Phoenix glimpsed her comrade's terrified eyes in her peripheral vision.
 
-——把虚空军都灭掉。
+Wipe out the Void forces.
 
-但她的眼中只容得下那闪烁的准星、弹容量的数字标识和一艘虚空军的超级舰艇。
+But her vision narrowed to the flickering crosshairs, ammo counter and the Void dreadnought.
 
-——听不到其他声音了。
+What was Disar saying?
 
-——戴沙在说什么呢？
+The sounds reaching her were cannon thunders and the ammo voice, transmitted through the metal hull and cabin air. Not deafening, yet they monopolized her hearing.  
 
-四面八方传来的是炮管的声响，和提示着剩余子弹的电子音。它们通过舱壁金属和舱内的空气传导着，明明并不是震耳欲聋，却霸占了她的整个听觉。
+"TZZZSSSHH!"
 
-“砰！！”
+Static pierced her ears like needles - no, like a thousand needles shredding her eardrums into sieves.
 
-滋滋声如同一把锥子刺进她的耳朵。不，是千万把，仿佛要将她的耳膜扎成筛子。
+"Autocannon link severed."
 
-“机枪连接切断。”
+The attack stopped. Hit by counter-battery, the cannon's control link was instantly cut.
 
-攻击停止。机枪被击中，与主控面板的连接被立即切断了。
+Do not wait.
 
-不要等待。
+Switch weapons, now.  
 
-换武器，现在。
+Do not hesitate.
 
-不要犹豫。
+A voice seemed to echo in her mind.
 
-似乎有一个声音在脑海里回荡着。
+Almost on instinct, Phoenix flipped another weapon switch.
 
-几乎是下意识，凤凰拨开了另一个武器开关。
+"Linking heavy railgun."
 
-“重机炮连接中。”
+"Warning, entering enemy threat radius."
 
-“警告，即将进入敌军攻击范围。”
+### 5  
 
-### 5
+"Phoenix!!!"
 
-“凤凰！！！”
+Disar's voice was filled with desperation.
 
-戴沙嘶哑的声音已经充盈了绝望。
+Phoenix's attack had worked - the Doomsday laser stopped just before hitting Neni.
 
-凤凰的攻击起了作用，那审判日激光就在触及到内尼的前一刻突然停止了。
+Then, the turret began slowly rotating until it aimed directly at their ship.
 
-随后，那炮台开始缓缓调整方向，直到它对准了二人所在的舰船。
+The harbinger of death swung its barrel towards the two children, without warning or mercy.
 
-死亡的宣告者将矛头指向了两个孩子，毫无征兆，毫无怜悯。
+"What are you doing! Get out of here!" 
 
-“你们在干什么！快逃！”
+Neni's frantic shouts came over comms.
 
-内尼焦急的喊声从通讯设备里传来。
+Her mobility crippled, Neni opened fire on the enemy hull, venting her fury.
 
-行动能力大打折扣的内尼开始向正对的船体开枪，倾泻着自己的愤怒。
+"Void bastards, come here! Just kill me, not those kids!!!"
 
-“虚空的混蛋，回来啊！打我啊！打小孩子算什么！！！”
+There was no opportunity to escape. Disar turned to look behind - the rails were wrecked, the ship immobilized, shields useless against the coming barrage - they were trapped with nowhere to run. Only seconds had passed, but the Shogun was still silent with no reinforcements in sight.
 
-逃不了了。戴沙回头看向后方——滑轨早就损坏了，舰船绝无移动的可能，护盾更无法让她们在轰击下存活三秒——她们毫无退路。时间方才过去数十秒，幕府将军依旧没有任何讯号，也没有丝毫援
-军赶到的迹象。
+Disar's legs gave out and she slid down the sealed rear hatch to the floor.
 
-戴沙腿一软，倚在后方紧闭的舱门上缓缓滑坐到地面。
+Neni's shouts still came over the comm.
 
-通讯器里还在不断传来内尼的喊声。
+"We're going to die..."
 
-“要死了……”
+Disar's peripheral vision fell on Phoenix.
 
-戴沙的余光落在了凤凰身上。
+Phoenix.
 
-——凤凰。
-
-——凤凰在想什么呢？
+What was she thinking?
 
 ### 6
 
-——她听得见。
+She could hear it.
 
-机炮正在装填，炮弹与炮管的碰撞声是如此刺耳；齿轮啮合、转动，一切细小的声音都被她的听觉所捕捉。
+The railguns cycling, shells clanging against breeches in piercing cacophony; every tiny gear-whine and rotation her ears picked up.
 
-——她看得一清二楚。
+She saw it all clearly. 
 
-那审判日炮台的光、其后方喷吐而出的绯色火焰，正将一片宇宙烧红。
+The Doomsday turret's glare, the crimson fury belching behind it, scorching the cosmos red.
 
-两根机炮拉栓从她座位左右弹出，被她用全部的力量紧紧攥在手中。
+Two breech-loading rails extended from her left and right, gripped in white-knuckled fists.
 
-“警报，警报。”
+"Warning. Warning."
 
-舱内的灯光瞬间变成红色，不断地闪着。但凤凰那双金色的眼睛却似乎是在发光，要撕裂开那吞噬一切的死亡。
+Red lights pulsed inside the cabin. But Phoenix's golden eyes seemed to glow, defying the all-consuming death.
 
-“咔！”
+"CHANK!"
 
-大臂带动小臂发力，拉栓被她拉向身后，发出沉重的一响。
+Straining her arms, she wrenched both breeches back with a heavy clank.
 
-“砰！”
+"KRRAK!"  
 
-两发炮弹瞬间从舱体下端打出，撞向那座炮台。拉栓瞬间回弹，归到原来的位置。凤凰的身躯同时也被狠狠向前一拽，手腕发出了咔咔声。
+Two shells instantly fired from the underbelly, slamming into the turret. The breeches snapped forward again as Phoenix was violently pulled back, wrists cracking.
 
-疼痛让她停滞了半秒。
+Pain froze her for half a second.
 
-拉动它。
+Pull it.
 
-——她听得见，自己拼命拉动拉栓发出的声响，连带着双臂关节的响声。
+She heard her own ragged breech-cycling, joints popping with each frantic tug.
 
-她仿佛融入了机舱，双臂已经变成了被电机不断驱动的机械杆，双眼早就和屏幕上的十字准星交织成一体。
+She had become the cabin, her arms now motor-driven rams, her eyes fused with the crosshairs.
 
-“咔！咔！咔！”
+"Chank! Chank! Chank!"
 
-机械式的拉动之下，炮弹以一个固定的频率接连不断地成对打出。
+In mechanical rhythm, shells fired in staccato pairs.
 
-大鹏的船体遭到打击，爆炸的景象从它船体的各个位置显现，唯有那炮台还在挺立，与它更加耀眼的红光。
+The Roc shuddered under the impacts, explosions blossoming across its hull - yet the turret stood defiant, its crimson glare intensifying.
 
-蓄力时间是三秒。
+Three seconds to charge.
 
-过去了多久呢？
+How long had it been?
 
-时间仿佛被拉得很长、很长。
+Time seemed to stretch endlessly.
 
-年轻的女孩眉头紧锁，几缕天蓝色发丝粘在了满是汗水的脸颊上。
+The young girl's brow furrowed, sweat-soaked azure bangs matted to her face.
 
-整张脸因为过度用力而扭曲变形。凤凰咬紧了牙关，血管里涌动着、叫嚣着杀戮，思绪已然只剩下纯粹的杀意。
+Her features contorted from exertion. Phoenix bared her teeth, blood screaming for slaughter, mind emptied of all but primal killing intent.
 
-“凤凰！”
+"Phoenix!"
 
-戴沙忽然冲了上来，在死亡之前，将挚友拥在怀中。
+Disar suddenly rushed over, embracing her friend one last time before death.
 
-漫长而短暂的三秒钟。
+Three endless, fleeting seconds.
 
-审判日已至。
+Doomsday had come.
 
-——刹那，星际昏暗。
+The stars dimmed in an instant.
 
-海啸般的红光扑来。
+A tidal wave of ruby light crashed over them.
 
-“啊啊啊啊啊啊啊啊——”
+"AAAAAAAAAHHHHHH!"
 
-少女呐喊着、嘶吼着，带着决绝的狰狞神情。
+The girl howled, screamed in feral defiance.
 
-与那激光对撞的前一秒，她不顾一切地发射着所剩无几的炮弹，直面着越来越亮、越来越大的红光，眼中只有杀红了眼的暴虐。
+In the microsecond before impact, she fired her dwindling shells with reckless abandon into the growing crimson glare, eyes alight with murderous fury.
 
-“啊啊啊啊啊啊——！！！！”
+"AAAAAAAAAAAHHHHHHHH!!!!"
 
-吞噬着空间的审判日激光，最终也吞噬了少女沙哑的嘶喊。
+The all-consuming Doomsday laser swallowed the girl's hoarse screams.
 
-——万物在刹那间归于寂静。
+In an instant, all fell silent.
 
 ### 7
 
-朦胧中，有人仰头看着天空。
+In the haze, someone looked up at the sky.
 
-耀眼的群星不是宇宙的眼瞳，而是敌人的枪管。
+The brilliant stars were not the cosmos' eyes, but the enemy's gun barrels.
 
-“只能由我去。我一个人。”
+"I must go now. Just me."
 
-那人忽然开口了。
+The person suddenly spoke.
 
-“你们要好好地活下去。活过这一次战争、活过每一次战争、活到胜利、活到战争终结。”
+"You all must live on. Go through this war and every war until victory as well as the war's end."
 
-她转头看向身旁的人。
+She turned to look at those beside her.
 
-“我将葬身在此。无论未来与否，请带着我的祝愿继续走下去。”
+"I will perish here. Whether the future comes or not, carry on with my blessing."  
 
-她的眼中似乎有泪光——但她不应该有。
+Her eyes seemed to glisten - but they should not.
 
-“活下去啊，我最爱的人。”
+"Live on, my most beloved."
 
-她留下一个凄美的微笑，转过身去。
+She left a bittersweet smile and turned away.
 
-“我爱你。”
+"I love you."
 
 ### 8
 
-一片漆黑。
+Darkness.
 
-“滴，滴。”
+"Beep...beep..."
 
-“她要醒了。”
+"She's waking up."
+
+

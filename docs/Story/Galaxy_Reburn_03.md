@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Chapter 3: Fireworks in Space
 
 > Written by: 菁鸟

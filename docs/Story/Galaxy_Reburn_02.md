@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Chapter 2: The Beginning of the Trip
 
 > Written by: 菁鸟

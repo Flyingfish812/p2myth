@@ -1,454 +1,441 @@
-# 第四章 燃烧着的
+---
+sidebar_position: 5
+---
 
-:::info[Attention]
-
-This story is written in Chinese. If you are interested in the content, I recommend to use a translator.
-
-:::
+# Chapter 4：Ablaze
 
 > Written by: 菁鸟
 
 ### 1
 
-勋章里传来的声音有些模糊，但令人无比安心，用救命稻草来形容也不为过。
+The voice coming from the medal was a bit muffled, but incredibly reassuring - it was like a lifeline. 
 
-戴沙手捧着勋章，还没有从疼痛中缓过来，一时竟没有答复。
+Disar cradled the medal, still not recovered from the pain, and did not respond at first.
 
-逃生舱驶离的声音从走廊那端传来。
+The sound of the escape pod departing came from the end of the corridor.
 
-“新兵？是否收到？”
+"Cadet? Do you copy?"
 
-“到、到！”
+"Y-Yes!" 
 
-凤凰连忙一蹬墙壁，在失重中飞到戴沙旁边，回应着。
+Phoenix quickly pushed off the wall, flying over to Disar's side in the zero gravity, responding.
 
-“立即报告战况。”
+"Report the battle situation immediately."
 
-凤凰立即向窗外看去，数艘虚空战队的舰船划过太空，尾焰留下弧线。
+Phoenix immediately looked out the window, seeing several ships from the Void Fleet streaking by, their engine trails leaving arcing lines.
 
-“其实——”
+"Actually—"
 
-戴沙想开口解释自己并非新兵、而是两个被袭击的学生旅客，却紧接着被凤凰的声音打断。
+Disar wanted to explain that they were not recruits, but just two student passengers who were attacked, but was immediately cut off by Phoenix's voice.
 
-“客舰遇袭，有限单侧视野可见中型一艘、小型四艘、微型约十艘配备笼状分导式多弹头，激光、速射激光炮台可见。还在源源不断出现”
+"The passenger ship is under attack. Limited side view shows one Heron, four Ravens, approximately ten Sparrows equipped with Caged MIRV, Laser and Speed Laser turrets visible. More keep appearing."
 
-戴沙惊讶地看向以术语对答的凤凰，但她并非惊讶于凤凰能说出那些术语。
+Disar looked at Phoenix, surprised she could rattle off those terms, but she wasn't surprised Phoenix could say those terms.
 
-这样真的会被当成士兵的啊——凤凰！戴沙心里默默喊着。
+They're really going to treat us like soldiers—Phoenix! Disar silently called out.
 
-“收到。你们的坐标已确认，最近的联盟军已动身。防御装置情况如何？”
+"Received. Your coordinates are confirmed. The nearest Alliance troops are en route. What's the status of your defensive systems?"
 
-凤凰想要偏头看去，而戴沙抢先一步对答：“舰船编号多瓦肯194号。护罩完全损毁，自动机炮完全受损，自动重机枪一挺中度损毁，一挺轻受损。”
+Phoenix started to turn her head, but Disar answered first: "Number Dovacoon 194. Those shields are completely destroyed. Auto-cannons completely damaged, one auto-machinegun moderately damaged and one lightly damaged."
 
-二人对视。
+The two made eye contact. 
 
-戴沙望见凤凰眼里的坚定，凤凰亦如是。
+Disar saw the determination in Phoenix's eyes, and Phoenix saw the same in hers.
 
-“舰船状态已可见。现在立即前往轻受损的重机枪处开启手动控制，尽你们所能攻击敌军，让它们远离逃生舱。从你们目前的位置向舰船前端移动十五米后打开右侧紧急阀门即可看到升降口。讯号过长易被捕捉，通讯下线。”
+"Ship status visible. Now immediately proceed to the lightly damaged machinegun and activate manual control. Attack the enemy forces as best you can to keep them away from the escape pods. Move fifteen meters towards the front of the ship from your current position and open the starboard emergency hatch to access the gun deck. Long transmissions risk detection, going offline."
 
-戴沙最担心的事还是来了。
+What Disar feared most had come to pass.
 
-没错，她们不是银河联盟军的士兵，甚至只是两个十几岁的学生。
+Indeed, they were not soldiers of the Galactic Alliance Army, merely a pair of teenagers.
 
-攻击敌军代表着反过来会被敌人攻击，稍有不慎就会被敌军当场击杀。
+Attacking the enemy meant they would be attacked in turn, and the slightest mistake could get them killed on the spot.
 
-战士可以死在战场上。没有说明自身身份的二人，自然被当成了士兵对待。
+Soldiers could die on the battlefield. But the two of them, having not clarified their identities, were naturally treated as such.
 
-凤凰看向手里的勋章，再看向窗外闪过的激光。
+Phoenix looked at the medal in her hand, then out at the lasers streaking past the window.
 
-“收到。”
+"Received."
 
-凤凰会这么说，戴沙是知道的。
+Disar knew Phoenix would say that.
 
-凤凰想做英雄，自己不也是么。
+Phoenix wanted to be a hero, and so did she herself.
 
-戴沙抓住凤凰的手腕，二人因直面生死而紧张到发抖的手稳了许多。
+Disar grabbed Phoenix's wrist, their hands trembling from facing death steadying considerably.  
 
-“我们一起。”
+"Let’s do this together."
 
 ### 2
 
-急匆匆穿越警报震耳欲聋的走廊，二人跨过一地狼藉。窗外不断闪过激光的红色与紫色，还有微型敌机被自动重机枪集中的爆炸声。
+The two hurried through the deafeningly loud alarm-blaring corridor, stepping over debris everywhere. Red and purple lasers flashed by outside, along with the explosions of micro fighters being concentrated fire from the auto-machineguns.
 
-“凤凰，这里！”
+"Phoenix, here!"
 
-戴沙率先在通道的右侧墙角边发现个闪着光的红灯。
+Disar was the first to spot a flashing red light at the right corner of the corridor junction.
 
-“把这些箱子搬开！”
+"Move these crates!"
 
-二人立即清理开围堵在四周的行李，一个闭合的管道舱门出现在眼前，上面写着“自动重机枪操纵舱”几个大字。
+They immediately cleared away the surrounding luggage, revealing a closed tubular hatch with "Auto-Machinegun Control Room" written in large letters.
 
-凤凰不假思索地紧抓把手，意图用力拽开舱门，但力量似乎有些小了。
+Phoenix grabbed the handle without hesitation, trying to yank the hatch open, but didn't seem to have quite enough strength.
 
-“怎么这么紧——”
+"Why is it so tight—"
 
-“轰——”
+"Boom—"
 
-戴沙刚想上前搭把手，又一引擎的爆炸声传来，强烈的震波使得舰船忽然倾斜。二人向后倒去，凤凰顺势拽开了舱门。
+Just as Disar was about to lend a hand, another engine explosion rocked the ship, the powerful shockwave causing it to suddenly tilt. The two fell backwards, Phoenix pulling the hatch open in the process.
 
-待舰船稳定，戴沙向其中探头，看见了垂直向下的铁梯。通道过于狭窄，而且还一片漆黑——照明装置在碰撞中早已损坏，以至于看不到梯子的底端。
+Once the ship stabilized, Disar peeked inside to see a vertical iron ladder descending downwards. The passage was too narrow, and pitch black—the lighting damaged in the collision, so the bottom of the ladder was invisible.
 
-“我下去探路。”
+"I'll go down and scout ahead."
 
-凤凰将不再发声的勋章挂在了胸前，双手抓住梯子处的把手，一阶一阶地向下探去。
+Phoenix hung the now-silent medal on her chest, grabbing onto the ladder handles and descending rung by rung.
 
-“小心。”
+"Be careful."
 
-狭窄的通道中，回荡着鞋底踏在梯板上的声音。铛、铛、铛。
+In the narrow passage, the sound of her shoes clanging on each rung echoed. Clang, clang, clang.
 
-当凤凰感觉自己踩在了另一种材质的地面上，她方才发觉背后是一面球形的玻璃。玻璃外是太空、繁星、变成废墟的传送门，以及乱舞的敌军。
+When Phoenix felt she had stepped onto a different surface, she realized there was a spherical glass wall behind her, showing the void of space, stars, the ruined warp gate, and the dancing enemy ships.
 
-这就是操纵舱。
+This was the control room.
 
-舱体呈球形，有些狭窄。除了唯一一个座椅外，似乎容不下第二个成年人——但站下另一个孩子绰绰有余。凤凰能清晰地看见炮口和枪管在操纵舱之外，指向深空。
+The spherical cabin was rather cramped. Aside from the lone seat, it didn't seem like there was room for a second adult—but enough space remained for another child to stand. Phoenix could clearly see the gun barrels and turrets outside the cabin, pointing into the depths of space.
 
-全息投影上闪烁着“自动系统损坏”几个大字，不少操纵杆和按钮让她下意识觉得有些眼花缭乱，但辨认出部分按钮的作用这件事尚且难不倒一个军迷。
+A hologram flickered with the words "Automated System Damaged". The numerous controls and buttons made her head spin a bit, but identifying some of their functions was still child's play for a military buff like her.
 
-找到了手动控制的按钮，凤凰当机立断按下。
+Finding the manual control button, Phoenix didn't hesitate to press it.
 
-“手动系统已开启。护盾已开启，武器连接完毕。推动拉杆进入作战状态。”
+"Manual system activated. Shields online, weapons linked. Push lever to enter combat mode."
 
-全息屏的字样立即变更，同时出现的还有十字准心。机械提示音从一旁的音响中响起。
+The hologram text immediately updated, a crosshair appearing. A mechanical prompt sounded from a nearby speaker.  
 
-凤凰跑到梯子顶端，大声地呼唤戴沙，很快戴沙便也来到了舱内。
+Phoenix ran back up the ladder, loudly calling for Disar, who soon joined her in the cabin.
 
-凤凰坐在那唯一的座位上，而戴沙则半蜷着身子，抓住椅子的靠背。
+Phoenix sat in the lone seat, while Disar crouched down, grabbing the back of the chair.
 
-“我要推拉杆了，准备好了没？”
+"I'm going to push the lever, ready?"
 
-“我们才13岁啊！要打仗杀人是不是太早了！”
+"We're only 13! Isn't it too early for us to be fighting and killing?"
 
-“难道戴沙你怕了？”
+"So what?  Are you scared?"
 
-“话虽这么说……但绝对不怕！”
+"Definitely not!"
 
-凤凰一笑，将左手边的拉杆一推到底。
+Phoenix smiled, shoving the lever on her left all the way forward.
 
-轰——
+Boom—
 
-巨大飞船的底部，一座重机枪正在被缓缓启动。圆球似的炮台及其操纵舱沿着顶部的轨道滑出，直到一处无死角的视野开阔处，伴随着舱体固定的“咣咣”声。
+At the bottom of the massive ship, a heavy machinegun turret was slowly powering up. The spherical turret and cabin slid out along a track on top, accompanied by clanking sounds as it locked into an unobstructed firing position.
 
-四周两小型敌机似乎注意到了炮台发出的声音，纷纷调转，将炮口朝向二人。
+Two Sparrows seemed to notice the sounds from the turret, turning to aim their cannons at the two girls.
 
-舱内，凤凰的双手早已放在操纵杆上。
+Inside, Phoenix's hands were already on the controls.
 
-“双发轻机枪装填完毕，余弹量三百！”
+"Twin machineguns loaded, 300 rounds remaining!" Disar loudly relayed the numbers on the screen.
 
-戴沙大声汇报着屏幕上显示的数字。
+Phoenix's eyes were locked on the screen, lining up the crosshairs with the enemy craft.
 
-而凤凰的双眼紧盯屏幕，将十字准星对准敌机。
+"It feels just like the shooting games we played at the arcade," Disar patted Phoenix's shoulder.
 
-“感觉就像我们在游戏厅玩的枪战游戏那样。”戴沙拍了一下凤凰的肩。
+"Then I can't wait!" 
 
-“那我可真是有点迫不及待了啊！”
+Phoenix stared intently at the enemy ships weaving through space.
 
-凤凰死死盯着在太空中穿梭的敌机。
+"Get ready—"
 
-“预备——”
-
-“开火！”
-
+"Fire!"
 
 ### 3
 
-“突突突突突——”
+"Rat-tat-tat-tat-tat—"
 
-凤凰毫不留情地按住了开火键，枪口立即宣泄出大量蓝色子弹。其恐怖的后座力仿佛要将整个操纵舱向后推，头顶的固定装置不断传来的碰撞和摩擦声。
+Phoenix mercilessly held down the firing key, the gun barrel immediately unleashing a torrent of blue tracer rounds. The terrifying recoil seemed to push the entire control room backwards, the overhead mounting constantly clanking and scraping.
 
-小型虚空军敌机迅速地移动着，同样以子弹进行回击。子弹就在二人面前几米处与护罩发生撞击，爆炸震动着整个舱体，戴沙一阵耳鸣。
+Sparrows moved swiftly, returning fire with their own bullets. The rounds impacted the shields just meters in front of the two girls, the explosions shaking the entire cabin and causing Disar's ears to ring.
 
-“砰！”
+"Bang!"
 
-一团火花在太空中炸开，是凤凰打出的子弹击中了小型敌机的炮台。那艘虚空军立即着了火，只留下右侧的激光炮台还在蓄力。
+A fireball blossomed in space - Phoenix had scored a hit on one of the small enemy craft's turrets. That Void ship immediately caught fire, only its starboard laser turret still charging up.
 
-“警告，检测到敌方激光发射，迎接冲撞。”
+"Warning, enemy laser charging detected, brace for impact."
 
-舱体里立即响起了电子音。戴沙反应迅速，立即将身体整个藏在了凤凰的椅背后方。凤凰完全没有因此而停止射击。
+An electronic voice sounded in the cabin. Disar reacted quickly, tucking herself fully behind Phoenix's chair. Phoenix didn't stop firing for a second.
 
-红色的激光几乎是在下一秒就打中了护盾，护盾发出尖锐的嘶鸣声，仿佛要撕破二人的耳膜。
+The red laser beam struck the shields almost instantly, causing them to emit a piercing screech that seemed to tear at their eardrums.
 
-凤凰紧咬着牙。
+Phoenix grit her teeth.
 
-“护盾受损率19%，预计恢复时间124秒。”
+"Shield damage at 19%, estimated recharge time 124 seconds."
 
-那艘敌机再次蓄力。
+The enemy craft charged up again.
 
-“更换炮台，戴沙！我们必须在第二轮攻击前把它干掉！！”
+"Switch turrets, Disar! We have to take it down before the second salvo!" Phoenix yelled instinctively.
 
-凤凰下意识地喊着。
+Disar immediately crawled out from behind, tapping the ammo button on the side hologram display.
 
-戴沙立即从后方爬出来，点向侧边全息屏幕的弹种按钮。
+"Ammo switched: Armor-piercing rounds, 20 remaining, loading."
 
-“弹种切换：单发炮弹，剩余弹量20，装填中。”
+"Got it." Phoenix immediately adjusted the control stick, re-aligning the turret.
 
-“给力。”凤凰立即拨动摇杆，将炮口重新对准。
+"Loading complete. Ready to fire."
 
-“装填已完毕，可以开火。”
+"Bang--!"
 
-“砰——！”
+Even more powerful recoil slammed into them, Phoenix momentarily feeling weightless even strapped in. Disar gripped the overhead handrail tightly to avoid being thrown.
 
-更加猛烈的后座力袭来，凤凰即使系着安全带，也感觉到自己忽然失重了片刻。戴沙抓紧了舱顶上的扶手，才没让自己飞起来。
+An deafening explosion!
 
-震耳欲聋的炸响！
+The enemy craft instantly detonated into scattered debris drifting through the galaxy.
 
-那艘敌机瞬间爆开，变成散落在银河中的点点零件碎片。
+"Nice Shot!" Disar yelled from behind. "One more!"
 
-“漂亮！”戴沙在后方喊道，“还有一艘！”
+Phoenix looked down at the radar - a small craft was approaching from the front left. She immediately swung the control stick, the cabin slowly rotating amidst mechanical grinding noises.
 
-凤凰低头看向雷达——就在左前方，一艘小型正在接近。她立即摇动摇杆，伴随着机械的滑动声，舱体的方向逐渐调转。
+"Loading."
 
-“装填中。”
+"This thing rotates so slowly!"
 
-“这东西转的速度好慢！”
+"Systems show 70% damage to the rotating track."
 
-“系统显示旋转轨道有70%的损伤。”
+Disar reported.
 
-戴沙报告着。
+"Oh rats, that's a huge weakness."
 
-“可恶，这可是个大弱点。”
+But they still had time. Even though it was cutting it close, by the time the enemy craft closed within firing range, the turret had fully rotated.
 
-不过一切还来得及。即使有些惊险，但那艘敌机离二人还有一定距离时，炮口就已经完全调转。
+"Loaded."
 
-“装填完毕。”
+Another powerful salvo followed, the small craft also blasted into fragments.
 
-随后又是一次猛烈的炮击，这艘小型也被炸成碎屑。
+"Got it!"
 
-“干掉了！”
+"Loading."
 
-“装填中。”
+Just as the two thought they had a moment to catch their breath, the radar suddenly blared a warning. Phoenix immediately looked to see a Heron  approaching from behind.
 
-就在二人以为有片刻的喘息时，雷达忽然报警。凤凰立即看去，察觉正后方袭来了一架中型敌机。
+"Oh rats!"
 
-“可恶！”
+Phoenix instantly worked the control stick, but the turret couldn't rotate the full 180 degrees in time.
 
-凤凰即刻操纵摇杆，但是炮台根本来不及旋转一百八十度。
+Just as it rotated 90 degrees, the medium craft's bullets started pounding the shields.
 
-就在刚旋转九十度时，那架中型敌机的子弹就落到了护盾上。
+The control room shook violently, Phoenix could barely keep the crosshairs steady, Disar using all her strength just to stay upright inside.
 
-操纵舱剧烈地抖动起来，凤凰几乎无法聚焦于眼前的准星，戴沙更是用了全力才将自己稳定在舱内、不至于倒下。
+The turret's barrage was relentless, a constant stream of bullets enveloping the cabin.
 
-炮台的攻击十分猛烈，不断倾泻而出的子弹几乎将舱体包围。
+"Warning, shield damage at 34%."
 
-“警告，护盾受损率34%。”
+"Still can't get turned around!"
 
-“还没转过去！”
+Just as the turret was about to rotate into an attacking angle, the enemy craft abruptly shifted position, circling back behind the gun barrel.
 
-眼看就要转到能够攻击敌方的角度，敌机突然移动了些许，再次绕到炮口的正后方。
+"Warning, shield damage at 48%." 
 
-“警告，护盾受损率48%。”
+"We can't keep up with this thing's speed!"
 
-“我们赶不上这家伙的速度！”
+Phoenix desperately worked the control stick, but the rotation was still too slow.
 
-凤凰拼命地拉着摇杆，但旋转的速度仍然很慢。
+What seemed like a massive explosive round slammed into the main hull of the Dovacoon 194, causing the entire ship to shudder.
 
-似乎是一枚巨大的炮弹撞击到了舰船主体，整艘多瓦肯194号晃动着。
+"Fwshhhh—"
 
-“嗖——”
-
-眼前一片闪光。
-
+A blinding flash filled their vision.
 
 ### 4
 
-再度睁开双眼，二人察觉到攻击消失了。
+Opening their eyes again, the two noticed the attack had disappeared. 
 
-雷达中的那架也没了动静。
+The one on the radar also fell silent.
 
-“凤凰，快看！”
+"Phoenix, look!"
 
-凤凰向舱外看去。
+Phoenix looked outside the cockpit.
 
-那是一个男子，身高足有一百九十厘米，身上的装束让她想起了银河联盟的一颗星球——地球。
+It was a man, over 190 cm tall, whose attire reminded her of a planet in the Galactic Alliance — the Earth. 
 
-这种装扮是叫……武士？
+This style of dress was called...a samurai?
 
-那位男子正身着武士的服装，将一柄长刀收入鞘中。在他颇有年代感的棕色肩甲上，画着一个符号——银河联盟军“少校”军衔的专属符号。
+The man was dressed in samurai garments, sheathing a long sword. On his rather antiquated brown shoulder guards was a symbol - the exclusive insignia of a "Major" in the Galactic Alliance Army.
 
-“凤凰，那是希普斯战士！”
+"Phoenix, that's a Shipsian warrior!"
 
-凤凰也看见了那无比醒目的金色标志。
+Phoenix also saw the unmistakable golden emblem.
 
-那人静静悬浮在一片星空之中，有一架微型以极速向其靠近，二人不由得屏住了呼吸。
+The man floated silently in the starry void, as a small craft approached him at extreme speed, causing them to hold their breath.
 
-“唰。”
+He gripped the sword hilt, giving just a slight force to draw it out at a speed leaving afterimages, a crimson-purple flash appearing from within.
 
-只见他一手抓住刀柄，只是略微用力便用快出残影的速度将其抽出，随即一道绛紫色的闪光从中乍现。
+Draw, slash, sheathe. Flowing like clouds and water, completed in the blink of an eye.
 
-抽刀，挥砍，收刀。行云流水，只在一眨眼间便完成。
+The small enemy craft was torn to shreds by the sword beam in an instant, leaving only sparks. The explosion dissipated, the silent cosmos suddenly as if battle had never begun.
 
-那微型敌机在顷刻间被刀光撕扯成碎片，只留下点点火星。爆炸物散去，寂静的宇宙刹那间宛如战斗从未开始。
+Disar pounded on the cockpit glass forcefully, trying to get the man's attention.
 
-戴沙上前用力拍打操纵舱的玻璃，试图引起那人的注意。
+Obviously, the man noticed their presence. He moved his body up to their cockpit window, squinting inwards, then showing a somewhat surprised expression.
 
-很明显，那人注意到了二人的存在。他移动身躯到二人所在的舱体玻璃前，向内眯着眼瞅了瞅，随即露出了有些惊讶的表情。
+"Received external communication request from G.A.A.S. Shogun."
 
-“收到外部通讯接入申请，来自G.A.A.S.Shogun。”
+A line of text popped up on the holographic screen, and Disar quickly tapped to accept.
 
-全息屏弹出一行字，而戴沙眼疾手快点下了同意键。
+"Shogun connected. Was it you who sent the distress signal?"
 
-“幕府将军已接入。是你们发出的求救？”
+The man spoke, his rather magnetic youthful voice playing through the speakers. This was the Shipsians' special ability - converting sound to electromagnetic waves - to enable communication in space.
 
-男子开口，颇有磁性的年轻男声通过音响播放出来。这是希普斯人的特殊能力——将声音转化为电磁波——以便于在太空中交流。
+"Yes."
 
-“是。”
+Disar spoke into the mic.
 
-戴沙对着麦克风说道。
+"Wait. How old are you two?"  
 
-“你们……今年多大？”
+"Thirteen."
 
-“十三。”
+"Well…Never mind."
 
-“你们……罢了。”
+Shogun seemed to have more to ask, but was interrupted by a small craft suddenly appearing. Without even turning his body, he just drew his sword, slashed twice, and sheathed it, reducing that ship to dust.
 
-幕府将军似乎还有要追问的事，但一艘小型的突然出现打断了他的发言。他连身形都未曾调转，只是拔刀、两次挥刀、收刀，就将那艘船斩成齑粉。
+"Don't make any rash moves, do not open fire. Return to your ship and wait for us to clear out the enemy."  
 
-“别轻举妄动，不准开枪，回到船里面去，等我们把敌人清理完。”
+"'Us'? Are there others?"
 
-“‘我们’？还有人？”
+As Disar wondered, another prompt sounded.
 
-戴沙正在疑惑之际，又有提示音响起。
+"Received external communication request from G.A.A.S. Neni."
 
-“收到外部通讯接入申请，来自G.A.A.S.Neni。”
+"Huh?" Phoenix tapped to accept.
 
-“诶？”凤凰点下同意键。
+Unlike the Shogun's voice, this new contact was female.
 
-区别于幕府将军的声音，这次的接入者是位女性。
+"Ah, Shogun - you're here too."
 
-“啊啊，是幕府将军——你也在。”
+"Neni, get ready for battle. Snipe those Herons and Ravens near the hull. I'll clear out those Sparrows."
 
-“内尼，赶紧准备战斗。你在船体附近狙击中小型，我清理那些麻雀。”
+"Understood."
 
-“内尼收到。”
+A flash of flames appeared behind the Shogun's back, then swiftly vanished from Phoenix's view. Replacing it was a woman who appeared around twenty years old. Beneath her green and purple hooded cloak, strands of silver hair peeked out, a pair of azure eyes looking towards them.
 
-幕府将军的背后闪过火焰的光芒，随后迅速消失在了凤凰的视野范围内。取而代之的是一位女子，外表约有二十岁。绿与紫的兜帽斗篷下是隐约露出的银色发丝，一双湛碧眼瞳看向二人。
+"They really are just kids." Neni muttered to herself, then suddenly realizing she hadn't greeted them, hurriedly said, "Oh, hi? I'm Neni, I -"
 
-“还真的是两个孩子啊。”内尼喃喃自语道，随后突然意识到自己没有打招呼，于是又急着道，“那个，嗨？我叫内尼，我——”
+"- Watch out!"
 
-“——小心！”
+The radar blared as Phoenix yelled into the mic. A small void fighter craft sped towards them, appearing dozens of meters behind Neni. Its white laser sights locked onto Neni as it began charging up.
 
-雷达乍响，凤凰对着麦克大声喊道。一艘小型虚空战机高速袭来，出现在内尼身后数十米远。激光的白色准线瞄准了内尼，开始充能。
+"Lunar Advent."
 
-“光月此临。”
+Neni suddenly uttered something calmly, her hands clasped together. The metal rod-shaped devices on her arms disassembled in nearly a second, the components crawling up her arms towards her hands, converging in front of her chest, combining, extending.
 
-内尼突然用冷静的声音念叨着什么，同时双手抱拳，手臂上金属的长条型装置几乎在一秒内就拆散开来，零件顺着手臂攀升到双手之上，在胸前逐聚合、拼接、延伸。
+Phoenix and Disar watched in awe as a massive sniper rifle formed in her hands within two seconds.
 
-凤凰和戴沙目瞪口呆地看着这一切。直到一把巨大的狙击枪在对方手中形成，才过了两秒钟。
+"Comet's Trail!"
 
-“星之曳尾！”
+Turn, load, aim, fire - the fluid motions completed in an instant. The enemy craft's laser had yet to fully charge when a green meteor struck it down.
 
-转身、上膛、瞄准、射击，动作行云流水，在刹那间完成。敌机的激光还未蓄力完成，一道绿色的流星就将其击落。
+"Those were lines from The Void: Anger of the Deity...?" 
 
-“是《虚空：神怒传说》里的台词……？”
+Disar seemed to recognize those phrases, and they saw Neni's back tremble slightly.
 
-戴沙似乎认出了那些台词，二人看见内尼的背影颤抖了一下。
+"Oh my gosh...Finally..."
 
-“终于……终于……”
+"Hm?"
 
-“嗯？”
+"I've finally met a fellow fan!"
 
-“终于遇到同好了！”
+"Ah?"
 
-“啊？”
+Neni excitedly turned around, slamming her palms on the glass, her long sniper rifle casually slung over her shoulder.
 
-内尼激动地回过头来，双手拍在玻璃上，那把长狙击枪就被那么闲置、挂在了肩上。
+"There's no one in the Galactic Alliance Army who likes anime and visual novels! Kid, what is your name..."
 
-“银河联盟军里根本没有人喜欢动漫和视觉小说！孩子，你叫什……”
+"...Neni, Herons guided artillery platform at 1 o'clock, 124 meters out, take it down."
 
-“……内尼，四点钟一百二十四米处，中型分导炮台，干掉它。”
+The cold voice came over the speakers.
 
-音响里传来有些冰冷的声音。
+"R-Received, on it."
 
-“收、收到，我这就去。”
-
-内尼露出一副害怕的模样，重新握好枪，随后向高处飞去，离开了雷达的探测范围。
-
+Neni showed a frightened look, gripping her rifle again and flying upwards, leaving the radar's detection range.
 
 ### 5
 
-呼。二人松了口气。
+The two let out a breath of relief.
 
-“刚才他让我们回到船里面去，对吧？”
+"He told us to return to the ship earlier, right?"
 
-戴沙看向凤凰。
+Disar looked at Phoenix.
 
-“那我们回去。”
+"Then let's go back."
 
-凤凰拉动拉杆，试图将炮台和操纵舱向回移动。
+Phoenix pulled the control column, trying to move the turret and cockpit back.
 
-操纵舱突然开始剧烈的摇晃，停止了移动，随后是刺耳的警报声。
+The cockpit suddenly began violently shaking, halting all movement, followed by a piercing alarm.
 
-“警告，滑轨受损，移动停止。”
+"Warning, rail damage, movement stopped."  
 
-“什么？”
+"What’s going on?"
 
-凤凰再度拉动拉杆，仍然是剧烈的摇晃，戴沙险些摔倒在地。
+Phoenix pulled the column again, still violent shaking, nearly causing Disar to fall.
 
-“警告，滑轨受损，移动停止。”
+"Warning, rail damage, movement stopped."
 
-“受损？怎么回事？”
+"Damaged? What happened?"
 
-戴沙连忙向舱外的滑轨张望，方才察觉那轨道在先前的剧烈攻击中被打坏，在距离舰船主体相当远的地方断开。
+Disar quickly looked outside at the rail, only then noticing it had been blasted apart quite far from the main ship during the earlier intense attack. 
 
-“轨道断了。”
+"The rail is severed."
 
-凤凰听见戴沙带有绝望的声音，回头看去。
+Phoenix heard the despair in Disar's voice and turned to look.
 
-她咬牙，思绪飞速运转，重新开启麦克风，向两位希普斯人报告。
+She bit her lip, thoughts racing, and reopened the mic to report to the two Ships warriors.
 
-“我们的滑轨坏了，无法回到船内。”
+"Our rail is damaged. We can't return to the ship."
 
-“收到，炮台，我们战斗结束后会想办法接你们。”幕府将军的声音传来，“你们就地静默，防止被敌人捕捉到。发生危险再出声。”
+"Received, turret. We'll find a way to retrieve you after the battle ends." Shogun's voice came. "Stay put in silence to avoid enemy detection. Only call out if danger arises."
 
-“嗯。”
+"Roger."
 
-凤凰听罢，将自己的麦克风关闭。
+Phoenix closed her mic after hearing this.
 
-“现在就相信他们吧，戴沙。”
+"For now, let's just trust them, Disar."
 
-窗外又有数架敌机飞过，紧接着是被快刀斩击中的爆炸声。自天际滑落的是穿刺长矛的尾流，二人在书上见过，那一定属于那位叫内尼的战士。
+More enemy craft flew by outside, followed by explosions as they were struck by Blade Storm. Trailing comet tails of the Vorpal Lance fell from the horizon - they had seen it in books, undoubtedly belonging to the warrior called Neni.
 
-“我们就在这里等着吗？”
+"So we just wait here?"
 
-戴沙看向凤凰。
+Disar looked at Phoenix.
 
-“嗯……我想是吧。”
+"Yeah...I think so."
 
-凤凰没有看向戴沙，而是将目光投向星空。
+Phoenix didn't look at Disar, her gaze fixed on the stars.
 
-戴沙呆滞。她从凤凰的眼里看出了向往，还有些许——落寞。
+Disar fell silent. From Phoenix's eyes, she saw longing, and a hint of...melancholy.
 
-“凤凰……”
+"Phoenix..."
 
-滴。滴。
+Beep. Beep.
 
-“警告，监测到大批敌人靠近……”
+"Warning, detecting large enemy forces approaching..."
 
-警报再次刺耳地响起来。
+The shrill alarm blared again.
 
-“凤凰，快看雷达！”
+"Phoenix, look at the radar!"
 
-二人的眼神变成了惊恐。
-
+Their expressions turned to horror.
 
 ### 6
 
-一片乌云似的红色压了过来，几乎覆盖了雷达范围的一半。
+Just like a cloud of red descended, nearly covering half the radar's range.
 
-通讯响了起来。
+The comms sounded.
 
-“幕府将军，正前方！！！”
+"Shogun, dead ahead!!!"
 
-内尼的声音也有些惊讶。
+Neni's voice also carried surprise.
 
-“怎么可能，这里可是内部……”
+"Impossible. This place belongs to the interior."
 
-幕府将军也明显有了语气的变化。
+The Shogun's tone also changed noticeably.
 
-“我来报告总部！”
+"I'll report to HQ!"
 
-内尼有些紧张地道，语调都高了几分。
+Neni sounded tense, her pitch rising.
 
-凤凰和戴沙只听见幕府将军咬牙切齿地说着：
+Phoenix and Disar only heard Shogun grit his teeth as he said:
 
-“——大鹏，分导式炮台，转盘炮台，审判日激光。”
-
+"- a Roc, with MIRV Bloomers, Pellet Spinner, and Doomsday Laser."
