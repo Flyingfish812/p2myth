@@ -57,3 +57,11 @@ There are many ways to deal with them. Since they need their core to appear in t
 The most annoying situation is when it is mixed with bullets. Since the speed laser is an instant attack, unlike the bullets flying forward, this will make it impossible for you to dodge and graze the bullets. At this time, you must give priority to popping the speed laser in the back row.
 
 - hank: Why this thing from hell!
+
+## Tiers and Patterns - Laser Spinner
+
+<img src="/turrets/laser_spinner.png" style={{zoom:0.25}}/>
+
+No one know how this turret works, even its appearance is a guess. Previously, the game developpers showed its icon, but that's all. We have to wait for more information. According to the guess, the laser spinner will shoot lasers while spinning, looks like it can pose great threat to the players.
+
+???

@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Chapter 4：Ablaze
+# Chapter 4: Ablaze
 
 > Written by: 菁鸟
 

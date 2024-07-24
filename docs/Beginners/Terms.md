@@ -110,15 +110,18 @@ Some terms in this guide will be repeated a lot, and thus, it is easier for you 
     
     > Everyone says P2 addiction is hard to quit, look at how many old players are still active in the game.
     >
-    > Trivia: Phoenix 2 was released on July 28, 2016, so the oldest hand at present is the recipient of the "Veteran 7" badge.
+    > Trivia: Phoenix 2 was released on July 28, 2016, so the oldest hand at present is the recipient of the "Veteran 8" badge.
 
-    <img src="/terms/v1.png" style={{zoom:0.75}}/>
-    <img src="/terms/v2.png" style={{zoom:0.75}}/>
-    <img src="/terms/v3.png" style={{zoom:0.75}}/>
-    <img src="/terms/v4.png" style={{zoom:0.75}}/>
-    <img src="/terms/v5.png" style={{zoom:0.75}}/>
-    <img src="/terms/v6.png" style={{zoom:0.75}}/>
-    <img src="/terms/v7.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet1.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet2.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet3.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet4.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet5.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet6.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet7.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet8.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet9.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet10.png" style={{zoom:0.75}}/>
 
 ## Invaders
 
@@ -245,6 +248,10 @@ Some terms in this guide will be repeated a lot, and thus, it is easier for you 
 - MIRV Deathonators (Caged MIRV) <img src="/terms/cmirv.png" style={{zoom:0.3,verticalAlign:'middle'}}/>
 
     Only when equipped at the rear of Sparrows is this equipment (not exactly turrets) harmless until the Sparrows are destroyed. In other words, they do not fire any MIRVs, bullets, or lasers while the Sparrow (and the equipment) exists on the field. However, once the Sparrow dies, the MIRV Deathonator activates and releases 30 pellets equally spaced out in a 360° fashion, the same as the behavior of a pellet MIRV when it detonates. There is no way to destroy the MIRV Deathonator without destroying the Sparrow, as they do not have any separate health. They also do not increase the health of the Sparrow.
+
+- Laser Spinner <img src="/terms/lspinner.png" style={{zoom:1,verticalAlign:'middle'}}/>
+
+    A turret in myth, never installed in the game, but the developper has revealled some of the information. According to the guess, this turret will shoot lasers when spinning itself, blocking your way.
 
 - Launchers
 

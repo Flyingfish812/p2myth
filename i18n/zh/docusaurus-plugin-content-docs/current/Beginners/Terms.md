@@ -110,15 +110,18 @@
     
     > 人人都说P2成瘾难戒，你看游戏里现在有多少老油条还是一直活跃着的
     >
-    > 冷知识：Phoenix 2的发行日期是2016年7月28日，所以目前最老的老油条是老兵7获得者
+    > 冷知识：Phoenix 2的发行日期是2016年7月28日，所以目前最老的老油条是老兵8获得者
 
-    <img src="/terms/v1.png" style={{zoom:0.75}}/>
-    <img src="/terms/v2.png" style={{zoom:0.75}}/>
-    <img src="/terms/v3.png" style={{zoom:0.75}}/>
-    <img src="/terms/v4.png" style={{zoom:0.75}}/>
-    <img src="/terms/v5.png" style={{zoom:0.75}}/>
-    <img src="/terms/v6.png" style={{zoom:0.75}}/>
-    <img src="/terms/v7.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet1.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet2.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet3.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet4.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet5.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet6.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet7.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet8.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet9.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet10.png" style={{zoom:0.75}}/>
 
 ## 敌机类
 
@@ -263,6 +266,10 @@
 - 菊花台
 
     这种炮台会向所有方向发射菊花，形成一圈菊花，发射完后有一段冷却时间。有点像一朵绽放的花。这种炮台不会发射除菊花外的任何子弹。
+
+- 旋转激光 <img src="/terms/lspinner.png" style={{zoom:1,verticalAlign:'middle'}}/>
+
+    只存在于传说之中的炮台，从未在游戏中实装，但游戏开发者曾透露过该炮台的设计计划。根据猜测，该炮台会在旋转的同时向四周发射激光阻碍玩家的道路。
 
 - x级炮台（x为整数）
 

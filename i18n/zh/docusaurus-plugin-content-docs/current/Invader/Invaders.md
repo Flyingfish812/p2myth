@@ -6,6 +6,15 @@
 
 ## 麻雀
 
+- 外形
+
+<img src="/Invader/bare_shield_sparrow.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_armor_sparrow.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_sparrow.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_sparrow.jpg" style={{zoom:0.4}}/>
+
+- 示例
+
 <img src="/Invader/shield_sparrow.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_sparrow.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/armor_sparrow.jpg" style={{zoom:0.4}}/>
@@ -43,6 +52,15 @@
 
 ## 渡鸦（小型）
 
+- 外形
+
+<img src="/Invader/bare_shield_raven.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_armor_raven.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_raven.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_raven.jpg" style={{zoom:0.4}}/>
+
+- 示例
+
 <img src="/Invader/shield_raven.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_raven.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/armor_raven.jpg" style={{zoom:0.4}}/>
@@ -75,6 +93,15 @@
 
 ## 鹭（中小型）
 
+- 外形
+
+<img src="/Invader/bare_shield_heron.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_armor_heron.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_heron.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_heron.jpg" style={{zoom:0.4}}/>
+
+- 示例
+
 <img src="/Invader/shield_heron.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_heron.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/armor_heron.jpg" style={{zoom:0.4}}/>
@@ -106,6 +133,15 @@
 - 飞镖盛宴：飞镖 (T1-T2)
 
 ## 鹰（中型）
+
+- 外形
+
+<img src="/Invader/bare_shield_eagle.jpg" style={{zoom:0.25}}/>
+<img src="/Invader/bare_armor_eagle.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_eagle.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_eagle.jpg" style={{zoom:0.4}}/>
+
+- 示例
 
 <img src="/Invader/shield_eagle.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_eagle.jpg" style={{zoom:0.4}}/>
@@ -143,6 +179,15 @@
 
 ## 秃鹫（大型）
 
+- 外形
+
+<img src="/Invader/bare_shield_vulture.jpg" style={{zoom:0.35}}/>
+<img src="/Invader/bare_armor_vulture.jpg" style={{zoom:0.35}}/>
+<img src="/Invader/bare_hull_vulture.jpg" style={{zoom:0.35}}/>
+<img src="/Invader/bare_sinister_vulture.jpg" style={{zoom:0.35}}/>
+
+- 示例
+
 <img src="/Invader/shield_vulture.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_vulture.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/armor_vulture.jpg" style={{zoom:0.4}}/>
@@ -174,6 +219,15 @@
 - 飞镖盛宴：飞镖、喷子（波浪）、审判日系列
 
 ## 神鹰
+
+- 外形
+
+<img src="/Invader/bare_shield_condor.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_armor_condor.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_condor.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_condor.jpg" style={{zoom:0.4}}/>
+
+- 示例
 
 <img src="/Invader/shield_condor.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_condor.jpg" style={{zoom:0.4}}/>
@@ -210,6 +264,15 @@
 - 飞镖盛宴：飞镖、喷子（波浪）、审判日系列
 
 ## 大鹏
+
+- 外形
+
+<img src="/Invader/bare_shield_roc.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_armor_roc.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_roc.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_roc.jpg" style={{zoom:0.4}}/>
+
+- 示例
 
 <img src="/Invader/shield_roc.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_roc.jpg" style={{zoom:0.4}}/>

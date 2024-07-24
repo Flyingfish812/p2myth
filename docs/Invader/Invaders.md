@@ -6,6 +6,15 @@ In this page, we will introduce the 7 types of the invaders.
 
 ## Sparrow
 
+- Appearance
+
+<img src="/Invader/bare_shield_sparrow.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_armor_sparrow.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_sparrow.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_sparrow.jpg" style={{zoom:0.4}}/>
+
+- Example
+
 <img src="/Invader/shield_sparrow.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_sparrow.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/armor_sparrow.jpg" style={{zoom:0.4}}/>
@@ -43,6 +52,15 @@ The turrets on sparrows are fixed and face front.
 
 ## Raven
 
+- Appearance
+
+<img src="/Invader/bare_shield_raven.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_armor_raven.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_raven.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_raven.jpg" style={{zoom:0.4}}/>
+
+- Example
+
 <img src="/Invader/shield_raven.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_raven.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/armor_raven.jpg" style={{zoom:0.4}}/>
@@ -75,6 +93,15 @@ It's easier to hit ravens than to hit sparrows, if you choose a ship that need a
 
 ## Heron
 
+- Appearance
+
+<img src="/Invader/bare_shield_heron.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_armor_heron.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_heron.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_heron.jpg" style={{zoom:0.4}}/>
+
+- Example
+
 <img src="/Invader/shield_heron.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_heron.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/armor_heron.jpg" style={{zoom:0.4}}/>
@@ -106,6 +133,15 @@ The turret in the middle is the same as that in sparrow, here I just list the si
 - Boomerang Spam: Boomerang (T1-T2)
 
 ## Eagle
+
+- Appearance
+
+<img src="/Invader/bare_shield_eagle.jpg" style={{zoom:0.25}}/>
+<img src="/Invader/bare_armor_eagle.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_eagle.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_eagle.jpg" style={{zoom:0.4}}/>
+
+- Example
 
 <img src="/Invader/shield_eagle.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_eagle.jpg" style={{zoom:0.4}}/>
@@ -143,6 +179,15 @@ The turrets in the middle have more choices than the side ones. They will be not
 
 ## Vulture
 
+- Appearance
+
+<img src="/Invader/bare_shield_vulture.jpg" style={{zoom:0.35}}/>
+<img src="/Invader/bare_armor_vulture.jpg" style={{zoom:0.35}}/>
+<img src="/Invader/bare_hull_vulture.jpg" style={{zoom:0.35}}/>
+<img src="/Invader/bare_sinister_vulture.jpg" style={{zoom:0.35}}/>
+
+- Example
+
 <img src="/Invader/shield_vulture.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_vulture.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/armor_vulture.jpg" style={{zoom:0.4}}/>
@@ -174,6 +219,15 @@ All type of turrets are available for vulture. If not mentioned, all the turrets
 - Boomerang Spam: Boomerang, Shuriken (Tide), Doomsdays
 
 ## Condor
+
+- Appearance
+
+<img src="/Invader/bare_shield_condor.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_armor_condor.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_condor.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_condor.jpg" style={{zoom:0.4}}/>
+
+- Example
 
 <img src="/Invader/shield_condor.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_condor.jpg" style={{zoom:0.4}}/>
@@ -210,6 +264,15 @@ All type of turrets are available for condor. If not mentioned, all the turrets 
 - Boomerang Spam: Boomerang, Shuriken (Tide), Doomsdays
 
 ## Roc
+
+- Appearance
+
+<img src="/Invader/bare_shield_roc.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_armor_roc.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_hull_roc.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_roc.jpg" style={{zoom:0.4}}/>
+
+- Example
 
 <img src="/Invader/shield_roc.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/shield_sinister_roc.jpg" style={{zoom:0.4}}/>
