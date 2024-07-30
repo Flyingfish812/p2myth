@@ -6,12 +6,12 @@
 
 ## 麻雀
 
-- 外形
+<!-- - 外形
 
 <img src="/Invader/bare_shield_sparrow.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_armor_sparrow.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_sparrow.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_sparrow.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_sparrow.jpg" style={{zoom:0.4}}/> -->
 
 - 示例
 
@@ -52,12 +52,12 @@
 
 ## 渡鸦（小型）
 
-- 外形
+<!-- - 外形
 
 <img src="/Invader/bare_shield_raven.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_armor_raven.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_raven.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_raven.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_raven.jpg" style={{zoom:0.4}}/> -->
 
 - 示例
 
@@ -93,12 +93,12 @@
 
 ## 鹭（中小型）
 
-- 外形
+<!-- - 外形
 
 <img src="/Invader/bare_shield_heron.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_armor_heron.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_heron.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_heron.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_heron.jpg" style={{zoom:0.4}}/> -->
 
 - 示例
 
@@ -134,12 +134,12 @@
 
 ## 鹰（中型）
 
-- 外形
+<!-- - 外形
 
 <img src="/Invader/bare_shield_eagle.jpg" style={{zoom:0.25}}/>
 <img src="/Invader/bare_armor_eagle.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_eagle.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_eagle.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_eagle.jpg" style={{zoom:0.4}}/> -->
 
 - 示例
 
@@ -179,12 +179,12 @@
 
 ## 秃鹫（大型）
 
-- 外形
+<!-- - 外形
 
 <img src="/Invader/bare_shield_vulture.jpg" style={{zoom:0.35}}/>
 <img src="/Invader/bare_armor_vulture.jpg" style={{zoom:0.35}}/>
 <img src="/Invader/bare_hull_vulture.jpg" style={{zoom:0.35}}/>
-<img src="/Invader/bare_sinister_vulture.jpg" style={{zoom:0.35}}/>
+<img src="/Invader/bare_sinister_vulture.jpg" style={{zoom:0.35}}/> -->
 
 - 示例
 
@@ -220,12 +220,12 @@
 
 ## 神鹰
 
-- 外形
+<!-- - 外形
 
 <img src="/Invader/bare_shield_condor.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_armor_condor.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_condor.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_condor.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_condor.jpg" style={{zoom:0.4}}/> -->
 
 - 示例
 
@@ -265,12 +265,12 @@
 
 ## 大鹏
 
-- 外形
+<!-- - 外形
 
 <img src="/Invader/bare_shield_roc.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_armor_roc.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_roc.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_roc.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_roc.jpg" style={{zoom:0.4}}/> -->
 
 - 示例
 

@@ -60,7 +60,7 @@
 
 ## 等级与进攻方式 - 旋转激光
 
-<img src="/turrets/laser_spinner.png" style={{zoom:0.25}}/>
+<!-- <img src="/turrets/laser_spinner.png" style={{zoom:0.25}}/> -->
 
 没人知道这个炮台是怎么运作的，甚至它的外观也是猜测的。之前，游戏开发者曾透露过这个炮台的图标，但仅此而已。我们只能等待后续的某些更新了。根据猜测，旋转激光炮台会旋转并发射激光。
 

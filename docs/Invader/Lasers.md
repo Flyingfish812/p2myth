@@ -60,7 +60,7 @@ The most annoying situation is when it is mixed with bullets. Since the speed la
 
 ## Tiers and Patterns - Laser Spinner
 
-<img src="/turrets/laser_spinner.png" style={{zoom:0.25}}/>
+<!-- <img src="/turrets/laser_spinner.png" style={{zoom:0.25}}/> -->
 
 No one know how this turret works, even its appearance is a guess. Previously, the game developpers showed its icon, but that's all. We have to wait for more information. According to the guess, the laser spinner will shoot lasers while spinning, looks like it can pose great threat to the players.
 

@@ -6,12 +6,12 @@ In this page, we will introduce the 7 types of the invaders.
 
 ## Sparrow
 
-- Appearance
+<!-- - Appearance
 
 <img src="/Invader/bare_shield_sparrow.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_armor_sparrow.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_sparrow.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_sparrow.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_sparrow.jpg" style={{zoom:0.4}}/> -->
 
 - Example
 
@@ -52,12 +52,12 @@ The turrets on sparrows are fixed and face front.
 
 ## Raven
 
-- Appearance
+<!-- - Appearance
 
 <img src="/Invader/bare_shield_raven.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_armor_raven.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_raven.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_raven.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_raven.jpg" style={{zoom:0.4}}/> -->
 
 - Example
 
@@ -93,12 +93,12 @@ It's easier to hit ravens than to hit sparrows, if you choose a ship that need a
 
 ## Heron
 
-- Appearance
+<!-- - Appearance
 
 <img src="/Invader/bare_shield_heron.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_armor_heron.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_heron.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_heron.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_heron.jpg" style={{zoom:0.4}}/> -->
 
 - Example
 
@@ -134,12 +134,12 @@ The turret in the middle is the same as that in sparrow, here I just list the si
 
 ## Eagle
 
-- Appearance
+<!-- - Appearance
 
 <img src="/Invader/bare_shield_eagle.jpg" style={{zoom:0.25}}/>
 <img src="/Invader/bare_armor_eagle.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_eagle.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_eagle.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_eagle.jpg" style={{zoom:0.4}}/> -->
 
 - Example
 
@@ -179,12 +179,12 @@ The turrets in the middle have more choices than the side ones. They will be not
 
 ## Vulture
 
-- Appearance
+<!-- - Appearance
 
 <img src="/Invader/bare_shield_vulture.jpg" style={{zoom:0.35}}/>
 <img src="/Invader/bare_armor_vulture.jpg" style={{zoom:0.35}}/>
 <img src="/Invader/bare_hull_vulture.jpg" style={{zoom:0.35}}/>
-<img src="/Invader/bare_sinister_vulture.jpg" style={{zoom:0.35}}/>
+<img src="/Invader/bare_sinister_vulture.jpg" style={{zoom:0.35}}/> -->
 
 - Example
 
@@ -220,12 +220,12 @@ All type of turrets are available for vulture. If not mentioned, all the turrets
 
 ## Condor
 
-- Appearance
+<!-- - Appearance
 
 <img src="/Invader/bare_shield_condor.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_armor_condor.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_condor.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_condor.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_condor.jpg" style={{zoom:0.4}}/> -->
 
 - Example
 
@@ -265,12 +265,12 @@ All type of turrets are available for condor. If not mentioned, all the turrets 
 
 ## Roc
 
-- Appearance
+<!-- - Appearance
 
 <img src="/Invader/bare_shield_roc.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_armor_roc.jpg" style={{zoom:0.4}}/>
 <img src="/Invader/bare_hull_roc.jpg" style={{zoom:0.4}}/>
-<img src="/Invader/bare_sinister_roc.jpg" style={{zoom:0.4}}/>
+<img src="/Invader/bare_sinister_roc.jpg" style={{zoom:0.4}}/> -->
 
 - Example
 

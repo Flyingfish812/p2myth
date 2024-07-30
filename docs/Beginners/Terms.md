@@ -120,8 +120,8 @@ Some terms in this guide will be repeated a lot, and thus, it is easier for you 
     <img src="/terms/vet6.png" style={{zoom:0.75}}/>
     <img src="/terms/vet7.png" style={{zoom:0.75}}/>
     <img src="/terms/vet8.png" style={{zoom:0.75}}/>
-    <img src="/terms/vet9.png" style={{zoom:0.75}}/>
-    <img src="/terms/vet10.png" style={{zoom:0.75}}/>
+    <!-- <img src="/terms/vet9.png" style={{zoom:0.75}}/>
+    <img src="/terms/vet10.png" style={{zoom:0.75}}/> -->
 
 ## Invaders
 
