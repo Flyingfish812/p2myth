@@ -60,3 +60,7 @@ If you would like to share your artworks here, please contact me.
 ## From: 菁鸟
 
 <img src="/Gallery/Phoenix.jpg" style={{zoom:0.85}}/>
+(Phoenix, By Unknown)
+
+<img src="/Gallery/disaris.png" style={{zoom:0.85}}/>
+(Disaris, By Ea)

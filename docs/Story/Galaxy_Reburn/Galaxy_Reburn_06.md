@@ -2,320 +2,310 @@
 sidebar_position: 7
 ---
 
-# 第六章 劫数之后
+# Chapter 6：After a Narrow Escape
 
-:::info[Attention]
-
-This story is written in Chinese. If you are interested in the content, I recommend to use a translator.
-
-:::
-
-> 本篇作者：菁鸟
+> Author: 菁鸟
 
 ### 1
 
-“……醒……”
+"...Wake up..."
 
-“凤……”
+"Phoenix..."
 
-她听见了什么。
+She heard something.
 
-声音朦朦胧胧，像是有人把自己的耳朵用纸张蒙个严实。
+The sound was muffled, as if someone had covered her ears with paper.
 
-“……凰……”
+"...Phoenix..."
 
-好像有人在叫自己。
+It sounded like someone was calling her.
 
-她试图予以回应，但发觉自己无力发声。眼前也是模糊一片，只认出隐约有个人影在自己面前晃动。她猜那是戴沙。
+She tried to respond, but found herself unable to speak. Her vision was also blurred, and she could only make out a vague figure moving in front of her. She guessed it was Disar.
 
-少女用全部力量勾动了一下手指。
+The young woman mustered all her strength to twitch her fingers.
 
-“她动……”
+"She moved..."
 
-“凤凰！她醒了！”
+"Phoenix! She's awake!"
 
-声音越发清晰。
+The voices became clearer.
 
-到底发生什么事了？她想。
+What happened? She wondered.
 
-随着听力的恢复，她用力眨眨眼睛，视觉逐渐正常。
+As her hearing recovered, she blinked her eyes hard, and her vision gradually returned to normal.
 
-她意识到自己躺在床上，周围的景象很是陌生。戴沙正在床侧有些着急地看向自己，而自己头顶正悬着一只巨大的机械臂。
+She realized she was lying on a bed, in a very unfamiliar environment. Disar was standing anxiously by the bedside, and above her hung a massive mechanical arm.
 
-“心跳平稳，血压正常。”
+"Heart rate stable, blood pressure normal."
 
-机械臂通过喇叭发出声音。长筒状摄像头反着光，看上去像一只独眼。
+The mechanical arm spoke through a speaker. The cylindrical camera lens reflected the light, making it look like a single eye.
 
-“这是……”
+"What is this..."
 
-凤凰想要张嘴说话，刚发出一个“这”字的音就觉得些许不对劲，才发觉自己的嘴唇早已干了，上下粘连在一起，最后只含糊不清地吐出了两个难以辨认的音节。
+Phoenix tried to speak, but as soon as she uttered the first "this", she realized something was off. Her lips were dry and stuck together, and she could only manage to mumble out two indistinct syllables.
 
-“这是这艘船上的医疗器械，别担心！”
+"This is the medical equipment on this ship, don't worry!" 
 
-戴沙似乎听懂了凤凰的话语，急切地回答着。
+Disar seemed to understand Phoenix's words and answered urgently.
 
-听到同伴的话，凤凰清醒了许多。医疗器械？她眨眨眼，瞪着眼前的机械臂看。
+Hearing her companion's words, Phoenix became more alert. Medical equipment? She blinked and stared at the mechanical arm in front of her.
 
-机械臂不知道从哪里抓来一张润湿的毛巾，放在凤凰的嘴上。
+The mechanical arm somehow grabbed a damp cloth and placed it on Phoenix's lips.
 
-“本机是联盟军210-A巡逻舰标配人工智能医疗器械，型号MEDIC09。”
+"I am the standard-issue AI medical equipment, model MEDIC09, on the Alliance 210-A patrol ship."
 
-医疗机械臂似乎很骄傲，向天花板挥动了机械臂。
+The medical arm seemed quite proud, waving its mechanical limb towards the ceiling.
 
-“正在对身体情况进行评测，请配合检查。正在评估听力受损情况。接下来请摇晃头部。”
+"I am currently evaluating your physical condition. Please cooperate with the examination. I will now assess your hearing impairment. Please shake your head."
 
-凤凰听话地用力晃动了一下自己的头，机械臂发出了“叮咚”的声音。
+Phoenix obediently shook her head vigorously, and the mechanical arm made a "ding-dong" sound.
 
-“接下来将进行简单的对话检测。请说出您的名字。”
+"Next, I will conduct a simple dialogue test. Please state your name."
 
-机械臂将捂在凤凰嘴上的湿毛巾拿开，凤凰略微动动嘴唇，发现自己已经能张开嘴了。
+The arm removed the damp cloth from Phoenix's mouth, and she found she could open her mouth slightly.
 
-“凤凰。”
+"Phoenix."
 
-她用沙哑的声音回答着。
+She answered in a hoarse voice.
 
-“请说出您的家乡。”
+"Please state your hometown."
 
-“谷神主星。”
+"Ceres Major."
 
-“请说出您朋友的名字。”
+"Please state the name of your friend."
 
-“戴沙。戴帽子的戴，沙滩的沙。”
+"Disar. D-I-S-A-R."
 
-“大脑扫描结束，无物理损伤。正在进行视觉损伤评估，接下来请答出你所看到的颜色。”
+"Brain scan complete, no physical damage detected. Proceeding to visual impairment assessment. Please state the color you see on the screen."
 
-机械臂的下方突然弹出一个小屏幕，凤凰觉得有些新奇。
+A small screen suddenly popped out from the bottom of the mechanical arm, and Phoenix found it quite novel.
 
-“请说出屏幕上所显示的颜色。”
+"Please state the color displayed on the screen."
 
-屏幕上骤然亮起红色。
+The screen suddenly lit up in red.
 
 ### 2
 
-红色的光晕在眼前漾开的瞬间，凤凰全都想起来了。
+The moment the red glow spread before her eyes, everything came back to Phoenix.
 
-激光、子弹、星空中飘落的不尽碎片——来自敌人和自己。
+The lasers, the bullets, the debris floating in the starry sky - from the enemy and from herself.
 
-沉默中炸开的花火、炮口闪烁的红光、头顶猩红色的警报灯。
+The silent bursts of fireworks, the flashing muzzle flashes, the crimson warning lights overhead.
 
-警笛、爆炸、开火的轰鸣在一瞬间充斥了少女的大脑。她的表情僵住了，眼中流露着极致的恐惧。
+The sirens, the explosions, the thundering sound of gunfire - all flooded the maiden's mind at once. Her expression froze, her eyes reflecting the utmost terror.
 
-红光。
+The red light.
 
-地板似乎晃了起来，凤凰的眼睛传来刺痛感，无边的恐惧突然开始从心底蔓延开来。
+The floor seemed to sway, and a stinging pain shot through Phoenix's eyes as boundless fear began to spread from the depths of her heart.
 
-咣、咣、咣。不存在的声音在舱室中回响——舱室。
+Thud, thud, thud - sounds that didn't exist echoed in the cabin. The cabin...
 
-凤凰骤然发觉自己并没有坐在床上，而是正身处那间狭窄的操作室，玻璃外划过的流星是一架架敌机残骸。
+Phoenix suddenly realized she was not lying on the bed, but rather inside the cramped control room, with the meteors streaking past the window being the wreckage of enemy craft.
 
-凤凰觉得有些窒息，她慌乱地甩着头，可那扼住自己喉咙的东西还在原地——是什么东西？皮带？
+Phoenix felt a sense of suffocation. She shook her head frantically, but the thing constricting her throat was still there - what was it? A strap? 
 
-——是安全带，操作员座椅上的安全带，一根、两根、三根，将自己捆束在座位上。她意图挣扎，却不能动弹丝毫；想要尖叫，却发出不了一点声音。
+It was the seatbelt, the seatbelts on the operator's chair, one, two, three, binding her to the seat. She tried to struggle, but couldn't move an inch; she tried to scream, but couldn't make a sound.
 
-红光。
+The red light.
 
-刹那间，她看见窗外的一点红光越来越大。空气像被点燃了，连带着气管、肺、全身。
+In an instant, she saw the tiny red glow outside growing larger and larger. The air seemed to be on fire, burning her airway, her lungs, her entire body.
 
-审判日激光。眼前突然浮现出一段白色的字。不，不止一段，同样的五个字不断地凭空出现，几乎填满了除那红光之外的全部视野。审判日激光、审判日激光、审判日激光……
+Doomsday Laser. Suddenly, a line of white text appeared before her eyes. No, not just one line, but the same five words repeatedly, almost filling her entire vision except for the red glow: Doomsday Laser,  Doomsday Laser, Doomsday Laser...
 
-红光吞噬着一切：残骸、炮弹、群星。那些白色的字被渲染上了血红色，逐渐扭曲、变形，变成一个个鲜红的“死亡”。
+The red light consumed everything: the wreckage, the ammunition, the stars. The white words were tinted in blood red, gradually twisting and deforming into crimson "DEATH".
 
-然后它逼近到凤凰眼前。
+Then it approached right in front of Phoenix.
 
-“啊啊啊啊啊！！”
+"Ahhhhh!!!"
 
-凤凰绝望地喊叫着，四肢在空中乱挥。
+Phoenix cried out in despair, her limbs flailing wildly.
 
-“我不想死！我不想死！！！”
+"I don't wanna die! I don't wanna die!!!"
 
-“凤凰！冷静！凤凰！！”
+"Phoenix! Calm down! Phoenix!!"
 
-戴沙看着凤凰在眨眼间变了神态，又像疯了一样在床上挣扎，一时慌乱不知所措，只能一遍遍呼唤着朋友的名字。
+Seeing Phoenix's sudden change in demeanor and her frantic struggling on the bed, Disar panicked, not knowing what to do, only repeatedly calling out her friend's name.
 
 ### 3
 
-“突发情况，检查停止。镇静剂准备。”医疗人工智能立即关闭了显示屏，机械臂迅速运作，然后迅速将一枚形似贴纸的物品贴在了凤凰的手臂。
+"Emergency situation, checkup suspended. Preparing sedative," the medical AI immediately turned off the display and the robotic arm quickly moved, then swiftly applied a patch-like object to Phoenix's arm.
 
-“凤凰，醒醒！帮帮她……帮帮她！”
+"Phoenix, wake up! Help her... help her!" 
 
-戴沙看着凤凰仍然十分痛苦，急忙对着医疗机械喊道。
+Seeing Phoenix still in great distress, Disar urgently called out to the medical machine.
 
-医疗机械沉默了两秒钟。
+The medical machine was silent for two seconds.
 
-“协议通过，准许使用。”
+"Protocol approved, permission granted."
 
-伴随着短暂的运作声，医疗装置忽然弹出一根天线。
+Accompanied by a brief operating sound, the medical device suddenly extended an antenna.
 
-随后戴沙听见一阵蚊音响起，十分扎耳，让她下意识捂住双耳，却完全发现拦不住这声音。
+Then Disar heard a mosquito-like sound, extremely grating, causing her to instinctively cover her ears, but she found she couldn't block out the sound at all.
 
-“戴沙小姐，请配合本机给出的指示。”医疗机械发出声音，“请捏住病人的后颈。”
+"Miss Disar, please cooperate with the instructions I give," the medical machine spoke, "Please pinch the patient's neck."
 
-戴沙咬牙，忍受着钻入大脑的声音，抬起攥紧了的手，拨开凤凰的蓝发，然后用力掐在了她的后颈上。
+Gritting her teeth and enduring the sound drilling into her brain, Disar raised her clenched hand, brushed aside Phoenix's blue hair, and then firmly squeezed the back of her neck.
 
-数秒仿佛被拉成了几十分钟长。
+Seconds seemed to stretch into dozens of minutes.
 
-一、二、三……
+One, two, three...
 
-……八、九、十。
+...eight, nine, ten.
 
-“您可以松开手了。”
+"You can release your hand now."
 
-随着医疗机械臂的提醒，戴沙方才发觉凤凰几乎是在一瞬间就停止了挣扎。
+With the reminder from the medical arm, Disar realized Phoenix had almost instantly stopped struggling.
 
-她半信半疑地松开捏着对方后颈的手指，然后问道：“凤凰？”
+Somewhat skeptical, she released the fingers gripping the other's neck, then asked, "Phoenix?"
 
-“戴沙！”
+"Disar!" 
 
-凤凰突然翻身坐起，把戴沙吓出一声惊呼。
+Phoenix suddenly sat up, startling Disar with an exclamation.
 
-“戴沙，刚才是……”
+"Disar, just now was..."
 
-“银河联盟军军用医疗紧急镇静信号。该治疗手段能立即对陷入恐慌等应急状态的大脑进行调节。”
+"The Galactic Alliance military emergency sedation signal. This treatment method can immediately regulate the brain of someone in a state of panic or emergency."
 
-“是某种类似镇静剂的东西……？”戴沙问道。
+"Some kind of sedative-like thing...?" Disar asked.
 
-医疗机械臂没有回答问题，只是神秘兮兮地道：“具体内容属于军事机密，还请两位小姐对此进行保密。”
+The medical arm did not answer the question, but rather mysteriously said, "The specific content is a military secret, and I would ask you two young ladies to keep it confidential."
 
-凤凰抬起手，仔细端详着自己的指尖，然后目光又沿着手臂向上，一直看到自己的肩膀。
+Phoenix raised her hand, carefully examining her fingertips, then her gaze followed up her arm all the way to her shoulder.
 
-“什么事都没发生？”她疑惑地看向戴沙，“审判日激光……？大鹏……？”
+"Nothing happened?" She looked puzzled at Disar, "The Doomsday Laser...? The Roc...?"
 
-“你看！”戴沙展开双臂，“我们成功获救了！”
+"Look!" Disar spread her arms, "We've been successfully rescued!"
 
-“怎么——怎么做到的？”
+"How... how did they do it?" 
 
-凤凰有些激动地抓住戴沙的双臂，大声问道。
+Phoenix grabbed Disar's arms excitedly and asked loudly.
 
-“是护盾，凤凰！就在昏倒之前，我看到有淡紫色的护盾展开，把我们都笼罩在了里面。醒来之后，我们就在这艘船里了。”
+"It was the shield, Phoenix! Just before I passed out, I saw a faint purple shield enveloping us. When we woke up, we were already on this ship."
 
-"这艘船……刚刚提到是巡逻舰，对吧？”
+"This ship... just now you mentioned it's a patrol ship, right?"
 
-二人同时转头看向医疗机械。
+The two of them turned their heads to look at the medical arm.
 
-“正确，该舰是银河联盟军的舰船之一，正在返航。”医疗机械臂用电子音回答着。
+"Correct, this is one of the Galactic Alliance's ships, currently returning to base," the medical arm replied in an electronic voice.
 
-话音刚落，舱门便传来另一阵声音。
+As soon as the words were spoken, another sound came from the cabin door.
 
-“读取完毕，识别码G.A.A.S.Hime，舰长权限确认，门禁开启。”
+"Scan complete. Identification code G.A.A.S.Hime. Captain authority confirmed, door unlocked."
 
-“我可以进来吗？”
+"May I come in?" 
 
-温柔的女声从门外响起。三下敲门声不疾不缓，透着一股温柔大方的气息。
+A gentle female voice came from outside the door. Three unhurried knocks, conveying a gracious and gentle manner.
 
-舰长？凤凰只觉得这声音有些耳熟，不知为何让她想起了家乡花圃里种着的百合花。
+The captain? Phoenix felt this voice was somehow familiar, and she couldn't help but think of the lilies growing in the flower garden back home.
 
-“唔……请进！”戴沙回答着。
+"Uh... please come in!" Disar responded.
 
-舱门传来一阵声音，徐徐打开。
+The sound of the cabin door gradually opening.
 
 ### 4
 
-灰银色发的女子踏入屋内，大致是二十岁出头的样子，整个人散发着阳光般的气息。一双玫红色的眼瞳中流动着柔情，金与黄点缀着她的裙装。最惹人注目的是那一顶小皇冠，正静静竖在她的头顶。
+The lady with silver-grey hair stepped into the room, appearing to be in her early twenties. Her entire being radiated a sunny aura. A pair of ruby-red eyes flowed with tenderness, accented by golden and yellow dots on her dress. Most eye-catching was the small crown perched atop her head. 
 
-除此之外，凤凰还注意到了她腰间的佩饰。凤凰认出了那图案——超时空场。这证明眼前这位舰长，正是个希普斯人。
+In addition, Phoenix noticed the accessory at her waist. Phoenix recognized that pattern—Chrono Field. This proved that the captain before them was a Shipsian.
 
-她莞尔一笑，踏着端庄的步子走近二人。
+She smiled faintly and approached the two with graceful steps. 
 
-“恢复得如何？还有哪里不舒服吗？”她用温柔的声音问着。
+"How is your recovery? Is there anywhere that still feels unwell?" she asked in a gentle voice.
 
-戴沙摇摇头，随后看向一旁的凤凰。
+Disar shook her head, then glanced at Phoenix beside her.
 
-“刚才……”凤凰一时不知该如何形容刚才自己不受控制的疯狂。
+"Well..." Phoenix didn't know how to describe her momentary uncontrollable frenzy.  
 
-“凤凰小姐出现了短暂的应激，但并无大碍。此外，凤凰小姐的手臂有一定拉伤，已进行处理，只需静养几日便能康复。”
+"Miss Phoenix experienced a brief stress reaction, but it was not serious. Additionally, Miss Phoenix has some strain on her arm which has been treated. A few days of rest should allow full recovery," the medical robotic arm answered the Shipsian's question first. Phoenix suddenly realized this AI could also read the atmosphere.
 
-医疗机械臂率先回答了希普斯人的问题，凤凰突然发现这人工智能也能读懂气氛。
+"It's nice that there was no serious issue," the Shipsian smiled. She suddenly took something out from behind her back and handed it to Disar and Phoenix. "Random flavor candies from the Alliance Army, they're a favorite among children. I have got a few of them right now. Come on, just try some."
 
-“没有大碍那便再好不过了。”希普斯人笑道。她忽然从背后拿出了什么，递给戴沙和凤凰：“联盟军的随机味道糖，平日最受孩子们喜欢了。正巧我身上带了几颗，尝尝吧？”
+Random flavor candies? Phoenix took one and exchanged a glance with Disar.
 
-随机味道糖？凤凰接过一颗糖来，和戴沙对视一眼。
+The first thing Phoenix thought was that you can't just eat candies from a stranger.
 
-陌生人给的糖不能乱吃。凤凰想到的第一件事竟然是这个。
+"Um, Captain...Madam, are you a Shipsian?" Disar asked first.
 
-“那个，舰长……大姐姐，您是希普斯人吗？”
+"Of course," the Shipsian replied with a smile. "I'm not as strong as other warriors, and due to my status, I usually only do support and patrol missions."
 
-戴沙率先提出问题。
+Phoenix pondered for a moment, then also asked a question. "Madam, may I ask your name..."
 
-“当然哦。”希普斯人笑着回答，“我没有其他战士那么强，也碍于身份，所以平常只做些支援、巡逻的常规任务。”
+"My name is Hime."
 
-凤凰思索片刻，也跟着问起了问题。
+Upon hearing this name, the two froze for a moment, then exclaimed in unison:
 
-“大姐姐，请问您的名字是……”
+"The Princess of Zhey Auna?!"
 
-“我的名字是伊梅。”
+Hime seemed startled by their voices, shyly continuing, "Well, just a princess of a small country... But you're right. Though I'd much rather be a warrior, it's far more interesting than staying in the palace all day—don't you agree?"
 
-二人听到这个名字，愣了片刻，随后异口同声地惊叫道：
+Most people would dream of staying in a palace all their lives though! Disar snarked inwardly.
 
-“泽亚奥纳的皇室公主？！”
+"Aren't you going to try the candies?" Hime pointed at the candies in their hands.
 
-伊梅似乎被二人的声音惊了一下，有些害羞地接着说：“其实只是一个小国的公主啦……不过是这样没错。但是我更愿意做个战士，这可比整天待在宫殿里有趣得多——对吧？”
+Since the other party had revealed her identity, there was nothing to worry about. Phoenix took the lead in popping the random flavor candy into her mouth.
 
-其实一辈子待在宫殿里才是更多人向往的吧！戴沙在心底吐槽着。
+"Yuck...so bitter..." Disar grimaced, sticking out her tongue in disgust.
 
-“不尝尝么？糖。”伊梅指着二人手里的人糖问。
+"It's Dovacoon bitter gourd flavor," Hime giggled. "They say the locals who stayed behind to work in tech really love pickled Dovacoon bitter gourd. But obviously, people from other planets can't accept this unique taste."
 
-既然对方已经亮明身份，就没什么可担心的了。凤凰率先吞下手里的随机味道糖。
+Phoenix carefully savored the lingering sweetness on her tongue—sweet but not cloying, a gentle drawn-out sweetness that seemed tinged with a floral fragrance.
 
-“呸呸……好苦……”戴沙叫苦不迭，眉头紧锁，吐着舌头。
+"A faint sweetness," Phoenix described the taste in her mouth.
 
-“是多瓦肯苦瓜味。”伊梅在一旁咯咯笑，“都说留在那里当技术人员的本地人，最喜欢凉拌多瓦肯苦瓜。但很明显，其他星球的人没法接受这种独特的趣味。”
+"I see," Hime looked at Phoenix intently. "It's Blight Chrysanthemum flavor. That flower originally grew on the planet Blight, but went extinct during the war. Many warriors liked this flavor."
 
-凤凰细细品尝着舌尖传来的味道——很甜，但并不腻，而是一种绵长的淡淡甜味，似乎还夹杂着花香。
+Blight Chrysanthemum. Phoenix recalled it now, a flower she had only seen in books. Its petals were a mottled gray-yellow, with a pale blue center—
 
-“淡淡的甜。”凤凰形容嘴里的味道。
-
-“是吗，原来如此。”伊梅认真地看向凤凰，“是布莱特菊味。那是本来生长在布莱特星球的花，后来在战争中灭绝了。很多战士都喜欢这个味道。”
-
-布莱特菊。凤凰想起来了，那是种只在书上看见过的花。它灰黄相间，花蕊一抹浅蓝——
-
-——广袤银河里唯一一种，在断壁残垣中被彻底抹去的生命。
+—the only life in the vast galaxy to be completely wiped out owing to the war.
 
 ### 5
 
-伊梅拉住两人的手，看着戴沙道：“你们帮银河联盟军取得了一场胜利，真是令人惊讶的勇气。”
+Hime grabbed the two's hands, looking at Disar, and said, "You helped the Alliance to a victory. Your courage that you showed was amazing."
 
-随后，她又看回凤凰：“竟然主动攻击大鹏，很多联盟军的人类士兵都不敢这么做。幸亏白羊座交给了你这枚勋章，否则就是一场悲剧了。”
+Then, she looked back to Phoenix. "You took the initiative to attack the Roc. Many human soldier in the Alliance don't have the courage to do that. Thanks to the medal that Aries gave to you, otherwise there would have been a tragedy."
 
-“勋章？”凤凰疑问。
+"The medal?" Phoenix got confused.
 
-她突然意识到了什么，看向自己胸前空空荡荡的口袋，急忙在全身上下摸索一番，才发觉那枚勋章早就不见了。
+She immediately realized something, looking at the empty breast pocket, hurriedly felt all over her body, and confirmed that the medal had long since disappeared.
 
-伊梅咯咯笑了几声，像银铃般清脆。她在长裙的口袋里翻找片刻，旋即拿出了一枚勋章——正是白羊座交给凤凰的那一枚。
+A gentle, tinkling laugh escaped Hime's lips. She rummaged in the pocket of her dress for a moment and then pulled out a medal. It was exactly the one that Aries gave to Phoenix.
 
-“这枚勋章并不普通，它被白羊座改造过。”伊梅解释，“这里面安装有一个小型的个人护盾触发器。”
+"It is not a normal medal. Actually, it had been transformed by Aries. There’s a tiny Personal Shield trigger in it."
 
-个人护盾！
+Personal Shield!
 
-凤凰的眼睛突然瞪大了。这不是希普斯人的禅宗吗？
+Phoenix's eyes widened in stark incredulity. 
 
-“它本来只够一名希普斯战士使用，但当时你们两个的距离很近，所以它保护了你们两个。不过，这是个一次性的触发器，这样小小的勋章储存不了多少能量。”伊梅将勋章递给凤凰，凤凰把它紧紧攥在手心。
+Isn’t it the Shipsians' Zen?
 
-“它需要触发压力传感器才能使用，我想是戴沙小姐紧紧抱住凤凰的时候将它开启了。凤凰小姐要好好感谢自己的朋友。”
+"It was only meant to be big enough for one Shipsian soldier, but you two were in close proximity at the time, so it protected both of you. However, this is a single-use trigger, and such a small medal does not store much energy." Hime handed the medal to Phoenix, who clutched it in his palm.
 
-凤凰看向戴沙，但尚未开口就被有些害羞的挚友捂住了嘴。
+"It needed to trigger the pressure sensor to work, and I think Disar turned it on when she held Miss Phoenix close. I think Miss Phoenix has a lot to thank her friend for."
 
-“咳咳，我当时就是下意识那么做了。没什么，没什么。不用说感谢。”
+Phoenix looks at Disar, but before she can open his mouth, her shy best friend covers her mouth.
 
-凤凰想起白羊座当时的回答。
+"Ahem, I just did it subconsciously. Nothing serious. No need to say thank you."
 
-“如果小姐执意要还给在下，就请在银河联盟军的基地还吧。”
+Phoenix recalled the reply from Aries.
 
-——白羊座曾这么回答她。
+"If you insist on returning it to me, please do so at the Galactic Alliance Army base."
 
-“伊梅小姐。”凤凰轻轻拨开戴沙的手说，“能不能替我把这枚徽章还给白羊座先生？毕竟是白羊座先生的东西，应该还给他才是。”
+That was how Aries answered her.
 
-“我想，你可以亲自还给他——因为我们快到了。”伊梅直起身来说，“打开窗户吧，让孩子们看看外面的景色。”
+"Miss Hime." Phoenix gently pushed away Disar's hand and said, "Can you give this badge back to Mr. Aries for me? After all, it belongs to Mr. Aries and should be returned to him."
 
-舱室像是明白了伊梅的旨意，伴随着一阵机械声，一堵“墙壁”竟然开始缓缓下落，取而代之的是一层玻璃。
+"I think you can return it in person, because we are almost there."  Hime said, "Open the window and let these kids see the scenery outside."
 
-那玻璃的后面，是一片格外明亮的星空，星星在不断移动——不，那些不是星星。那些是太空舰艇的探照灯。灯光在上百艘移动的飞船闪烁，如同无数划过的流星。
+The room seemed to understand the order of Hime. With the mechanical noise, the wall of the room started to fall slowly and then the window behind it showed up.
 
-一眼望不到头的太空港口笼罩着星球，将大地染成金黄色的海洋。凤凰望见一条巨大的廊桥正在缓缓调整角度，向这艘舰船逐渐延伸。
+Behind that glass was an exceptionally bright starry sky, with the stars constantly moving—no, those weren't stars. Those were the searchlights of spacecraft. The lights flickered on hundreds of moving ships, like countless shooting stars streaking across the sky.
 
-“0046-210-A，已识别。已确认舰内有A级、B级保护对象。轨道降落申请已通过，请做好着陆准备。”
+The seemingly endless spaceport enveloped the planet, dyeing the land into a golden ocean. Phoenix saw a massive gangway slowly adjusting its angle, gradually extending towards this spacecraft.
 
-“这里不像泽亚奥纳。”戴沙问，“我们还有泽亚奥纳的血液测试……”
+"0046-210-A, identification confirmed. Verified A-level and B-level protected personnel aboard. Orbital landing request approved. Please make preparations for docking procedures."
 
-“不必担心，这里的相关人员也会为你们提供测试。”伊梅笑着回答道，“我先去确认对接，容我失陪。记得系好安全带，另外——”
+"This doesn't seem like Zhey Auna." Disar said, puzzled. "We still have that blood test appointment in Zhey Auna..."
 
-“——欢迎来到银河联盟军总部基地，普罗米修斯阵列。”
+"Don't worry. The relevant personnel here will also provide testing for you." Hime replied with a smile. "I need to confirm the docking.  Excuse me. Please remember to fasten your seatbelts, and also—"
+
+“Welcome to the Galactic Alliance Army base. The Prometheus Array.”

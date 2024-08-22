@@ -2,104 +2,98 @@
 sidebar_position: 8
 ---
 
-# 间章I：布莱特菊味糖
+# Interchapter I：Blight Chrysanthemum Candy
 
-:::info[Attention]
+> Author: 菁鸟
 
-This story is written in Chinese. If you are interested in the content, I recommend to use a translator.
+“You gave them candies?”
 
-:::
+Shogun was sitting nearby, his legs fixed by some complicated mechanism. He was watching Hime, who had stepped into the door and repeatedly made sure it was locked. He also understood the complicated expression on Hime's face, and shook his head as if he had foreseen the result.
 
-> 本篇作者：菁鸟
+“The Blight Chrysanthemum flavor.” Hime said, “it’s her. The information was right.”
 
-“你给了她们糖？”
+“I can’t believe that her highness Hime would do this as well.” Neni shook her hands and grabbed two pieces of random flavor candies, putting one of them into her mouth then said, “That sweet taste again.”
 
-幕府将军在一旁坐着，双腿被某种复杂的机械装置固定。他正看着踏入门内、又反复确认门已锁紧的伊梅。他也看懂了伊梅脸上复杂的神情，像已经预知到结果了一样地摇摇头。
+Hime sighed and looked at the other two people.
 
-“——布莱特菊味。”伊梅念叨着，“是她。情报没错。”
+“There is no need to be humorous. All the information from Yigothu is correct.” She shook her head and said.
 
-“想不到伊梅殿下也会这么做。”内尼摆摆手，也掏出两颗随机口味糖来，将其中一颗塞进嘴里，“又是这股甜味。”
+“That kid named Disar said it was Aries who gave them the medal. How do you explain to them?” Shogun held a medal.
 
-伊梅叹口气，看向二人。
+“I told them that there was a trigger of a tiny person shield on the back, installed by Aries, and can operate when facing danger.”
 
-“不必打趣了，易格修给的所有消息都没错。”伊梅摇头，继续道。
+Neni laughed a few times when she heard what Hime said, as if she found the remarks somewhat funny.
 
-“那个叫戴沙的孩子说，勋章是白羊座给的。你怎么和她们解释的？”幕府将军的手指捏着那枚勋章。
+"If all the cadets had been treated like this, Sambar would not have been blown up to its left half in his first battle last year." Neni looked at the wall. "They’re just kids, after all."
 
-“我告诉她们，勋章的背面有小型护盾触发器——是白羊座安装的，可以在危机时刻被触发。”
+“If my memory serves me right, Starless was with Aries on Ceres Major.” Shogun threw the medal to Hime, who raised her hand slightly to take it.
 
-听见伊梅这番话，内尼笑了几声，像是觉得这番说辞有些好笑。
+“Yes. It’s them.”
 
-“如果新兵都有这种待遇，去年水鹿号就不会在初次作战里被炸得只剩下左半边。”内尼看向墙壁，“毕竟只是孩子。”
+“The situation is much more complicated than we expected.” Shogun spoke with low voice.
 
-“我没记错的话，白羊座在谷神主星的那几天，无星是不是跟他在一起？”幕府将军将勋章抛给伊梅，伊梅微微抬手接下。
+"Are Aries and Starless on the side of 'that guy'?" Neni asked, opening her palms.
 
-“没错，是他们两个。”
+"I don't think so." Hime walked to the table, put down the medal, "It looks like they are just following the trend. Their action does not have the feeling of the 'predecessor', nor does it seem to maintain the plan. Aries is still observing the situation, or -- betting both sides."
 
-“局势远比我们想象得要复杂。”幕府将军小声道。
+Neni continued speaking instantly, “I thought they were conservative. At least Starless was.”
 
-“难道说，白羊和无星也站在‘那家伙’一边？”内尼摊开手掌问。
+“No. They are partners. They must be on the same side.” Shogun shook his head. “But if even Aries is on the fence... Who among us Shipsians is supporting that plan?”
 
-“我觉得不像。”伊梅走到桌边，放下勋章，“他们像在顺而为之，行动上没有那位‘前辈’的感觉，也不像是在维护那个计划。白羊座还在观察局势，或者说——两边下注。”
+“Everything is getting interesting.” Neni picked up the medal.
 
-内尼紧接着道：“我以为他们是站在维护那边的，至少无星应该是。”
+“Yigothu has been working secretly for that old friend of mine. Except him, the standpoint of others has not been determined.” Shogun sighed.
 
-“不，他们两个可是搭档。他们的想法一定一致。”幕府将军摇头，“但如果连白羊座也处在观望态度……我们希普斯人里，还有谁在支持这个计划？”
+"Leaving that aside, how about your recovery?"
 
-“局势越来越有意思了。”内尼拿起那枚勋章。
+Hime looked at them again.
 
-“易格修一直在为我那个老朋友做事。除此之外，还没有确定其他人的立场。”幕府将军叹气。
+“Well, I recovered quickly.” Neni moved her ankle and said. “Thanks god, that stun turret hadn’t learned to deal a blast damage. It only temporarily disabled my equipment, or I would be a part of that plan as well.”
 
-“先不谈这个，你们恢复得怎样了？”
+Shogun stared at his own legs and said, “I was more affected than Neni. I just got my communications back on. Main weapon and Zen are fine, Aura is a little stuck, but leg thrusters are still offline. The drawbacks of my being an old hand are just as you see here. Well, maybe I can ask for an ‘update’ by the way.”
 
-伊梅再次看向二人。
+Suddenly, the three people laughed together with a low voice.
 
-“我倒是恢复得快。”内尼活动活动脚腕，道，“还好那眩晕炮台没学会怎么造成爆炸伤害，只能让我的设备暂时失灵，否则我也能加入那计划了。”
+“This time we're going back to Zhey Auna for a meeting, a top secret meeting. You're both going to be there, and I signed a non-disclosure agreement.” Hime removes a device from between her wrists, which projects a holographic image.
 
-幕府将军看向自己的双腿：“比起内尼，我受到的影响很大。我刚刚恢复通信功能，主炮和禅宗都能用，光环还有些卡顿——但腿部推进器迟迟不能用。这把老骨头的坏处就是这样。也罢，正好还能要求‘升级’一下。”
+“‘Top Secret Meeting. Subject: Solutions to New Turrets of the Void Army (Temporary Code VA78, VA79)’.” Neni read the letters on the image. “Attendees: Marshal Liss, Conway and Fujin as well as the witnesses Shogun, Neni and Banshee.”
 
-三人突然小声地一齐笑了起来。
+“Except the witnesses, even Commanders are not allowed to attend. How obvious it is! They do not want to spread that information. If other guys know that, we are gonna lose the war much quicker than we can imagine.” Neni muttered, tossing the candy into the air and catching it. 
 
-“言归正传，这次我们要回泽亚奥纳去开会，最高级别机密会议。你们两个都要出席，我签署了保密协议。”伊梅从手腕间取下一个装置，装置投射出全息图像。
+Shogun looked to the side of the bed where a young woman lay asleep.
 
-“‘最高机密会议。主题：虚空军新炮台（临时编号VA78、VA79）相关应对策略’。”内尼念着图像上的字，“‘出席人员：元帅莉斯、康威、风神三人，亲历者幕府将军、内尼、狺女三人’。”
+“Banshee. She’s not awake yet.”
 
-“除了亲历者，连指挥官级别的人物都不能参加，多明显啊——不想让这件事传出去。”内尼念叨着，将手里的糖抛到半空又接住，“如果让其他人知道眩晕技术被虚空军窃取，我们只会输得更快。” 
+The young girl who was called Banshee looked like she was in her early twenties and was about the same age as Hime. Long brown hair hung over the edge of the bed, and the fringe in front of her forehead was a bit messy, covering her right eye. There were quite a few lacerations on the dress, as if it had been through a bitter battle.
 
-幕府将军看向一旁的床上，那上面还躺着一位沉眠的少女。
+“I received the highest order to cover Banshee’s retreat a few hours ago. By the time I got around the place that coordinates showed, she was in a coma with all systems down.”
 
-“狺女。她还没醒。”
+“I checked her warp gate records. Twenty-eight times. She tried to spread the alarm but failed 28 times. Even when I took her on board, her communication system was automatically rebooting repeatedly.” Hime explained.
 
-被称作狺女的少女看上去与伊梅差不多大，也是二十岁出头的样子。棕色长发越过床沿垂在了地上，额前的刘海有些乱，堪堪遮住右眼。裙袍上有不少破损处，似乎是刚经历过一场鏖战。
+Shogun looked at Banshee who was still not awake.
 
-“几小时前我收到最高指令，前去掩护狺女逃离。”伊梅看向躺在床上的人，“到坐标附近的时候，她已经陷入昏迷，全部系统失灵。”
+"I think the reason for letting her attend the conference goes beyond that," Neni spoke up. "Although human brains are as good as ours, those high-ranking officials are at least among the best of them. The human two marshals should have realized the origin of those technologies of the Void Army."
 
-“我查询了她的传送门记录，足足二十八次。在敌人的压倒性火力下，她二十八次试图发出警报，全都失败了。就连我带着丧失意识的她上船时，她的通讯系统还在反复自动重启。”伊梅解释。
+"The only one killed in action, and the only one whose remains were never found, among the most brilliant warriors of the 50," Hime said, her eyes reflecting sadness, as if recalling something.
 
-幕府将军沉默地看着不醒的狺女。
+Shogun slapped his thigh as if suddenly enlightened and muttered, "The former partner of Banshee. The Aura of that girl was the ion cannon and her the main weapon was a continuous rapid-fire type. I see now."
 
-“我想，让她参加会议的原因可不止于此。”内尼开口道，“虽然人类的脑子比不上我们，但这些高层至少是其中的佼佼者。两位元帅应该意识到了那些技术的来源。”
+"They matched all the new turrets of the Void Forces, didn't they?"
 
-“最耀眼的五零届战士里，唯一战死的、也是唯一没能寻到尸骨的那孩子。”伊梅像是想起了什么，眼神流露着哀伤。
+A momentary silence fell among the three of them.
 
-幕府将军恍然大悟般锤了一下腿，喃喃道：“狺女的前搭档。光环是离子加农炮，主炮是无间歇连发类——原来如此。”
+“Didn’t the Void Army meet other patrol soldiers?” Neni asked and frowned.
 
-“和虚空军的炮台全都对上了，不是么？”
+"You won't see those three Shipsian compatriots here who tried to intercept the Void Army. We only managed to rescue the lower half of Devout. Voyager had just a head left. Well, they were the lucky ones. Yaksta slammed directly into the muzzle of the doomsday laser, leaving not even ashes behind."
 
-三人间陷入片刻沉默。
+Hime clicked on the holographic projection screen in her hand, displaying three dim portraits that clashed with the pale blue background.
 
-“虚空军一路上就没有遇到其他巡逻的人员么？”内尼皱着眉头问。
+"The Void Army...those bastards..."
 
-“你在这里见不到那三个试图拦截虚空军的希普斯同胞了。虔诚号只抢救回来下半身，遨游号还剩一个头，他们都算幸运的。雅克斯塔直接撞上了审判日激光的炮口，连渣都没剩下。”
+The candy still clutched in Neni's palm crunched as she squeezed it into crumbs in her hand.
 
-伊梅点击手中的全息投影屏幕，三个灰暗的头像与浅蓝色背景格格不入。
+Hime lowered her head, and Neni silently stuffed the crushed candy pieces haphazardly into her mouth. Some crumbs fell to the floor, which a small sweeping robot promptly cleaned up, bumping against Neni's feet a few times.
 
-“虚空军……混蛋东西……”
+A faint sweetness lingered in her mouth.
 
-那枚还攥在内尼手心的糖吱嘎响了起来，在她手中被捏成碎渣。
-
-伊梅低下头，内尼默默把手掌里的碎糖胡乱塞进嘴里。有些糖渣掉在地上，然后被一个小型扫地机器人扫走，连带着撞了几回内尼的脚。
-
-嘴里弥漫着淡淡的甜。
-
-“布莱特菊味。”
+"Blight Chrysanthemum flavor."
