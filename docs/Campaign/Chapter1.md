@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Chapter 1: Zhey Auna
 
-<img src="/Campaign/za.png" style={{zoom:0.5}}/>
+<!-- <img src="/Campaign/za.png" style={{zoom:0.5}}/> -->
 
 Everything originated from a campaign planned by the instructors, represented by Operator Mian, aimed at analyzing and **attacking the invaders**...
 

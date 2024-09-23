@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 第一章：泽亚奥纳
 
-<img src="/Campaign/za.png" style={{zoom:0.5}}/>
+<!-- <img src="/Campaign/za.png" style={{zoom:0.5}}/> -->
 
 事情的一切起源于以米安操作员（Mian，又称“面”）为代表的众指挥官们所策划的一场，为了分析并**攻击入侵者**的战役……
 

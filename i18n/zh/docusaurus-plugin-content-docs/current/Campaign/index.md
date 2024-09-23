@@ -38,7 +38,7 @@
 
 持续更新中……
 
-## 战役背景图
+<!-- ## 战役背景图
 
 <img src="/Campaign/za.png" style={{zoom:0.5}}/>
 <img src="/Campaign/gp.png" style={{zoom:0.5}}/>
@@ -47,4 +47,4 @@
 <img src="/Campaign/cm.png" style={{zoom:0.5}}/>
 <img src="/Campaign/bs.png" style={{zoom:0.5}}/>
 <img src="/Campaign/df.png" style={{zoom:0.5}}/>
-<img src="/Campaign/pa.png" style={{zoom:0.5}}/>
+<img src="/Campaign/pa.png" style={{zoom:0.5}}/> -->

@@ -38,7 +38,7 @@ The following content contains major spoilers. If you want to experience the ori
 
 To be continued ...
 
-## Backgrounds
+<!-- ## Backgrounds
 
 <img src="/Campaign/za.png" style={{zoom:0.5}}/>
 <img src="/Campaign/gp.png" style={{zoom:0.5}}/>
@@ -47,4 +47,4 @@ To be continued ...
 <img src="/Campaign/cm.png" style={{zoom:0.5}}/>
 <img src="/Campaign/bs.png" style={{zoom:0.5}}/>
 <img src="/Campaign/df.png" style={{zoom:0.5}}/>
-<img src="/Campaign/pa.png" style={{zoom:0.5}}/>
+<img src="/Campaign/pa.png" style={{zoom:0.5}}/> -->
