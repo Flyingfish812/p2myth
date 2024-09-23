@@ -182,7 +182,25 @@ Take Jeria as an example; it has a displayed DPS of 31.25, split into 29.25 hit 
 
 If you are interested, you can test other ships’ actual in-game performance. I won’t go into details here.
 
-## 11. Any in-game tips for beginners?
+## 11. What is a VIP?
+
+The VIP system, also known as the monthly subscription, was introduced in the 7.0 version update. Specifically, VIPs enjoy some privileged features, such as:
+
+- Custom player tags, which can be displayed on the leaderboard
+- Faster warp gate refresh rate (reduced from once every 12 hours to once every 9 hours)
+- An additional 1000 credits upon activation
+
+The price for VIP is 4.99 USD, and each purchase is valid for 30 days, after which it needs to be repurchased. For new players, this is a good way to speed up gaining credits and level-ups through warp gate. The exclusive VIP nameplate is also a symbol of status.
+
+The customizable content for the nameplate includes:
+
+- Style: where to place the name, whether to add a plane icon, whether to display the time, whether to show personal kill count, etc.
+- Color scheme
+- Background pattern
+- Separator
+- Subtitles: personal league, level, favorite plane, GG, veteran level, etc.
+
+## 12. Any in-game tips for beginners?
 
 After each game, the game gives you a random tip at the leaderboard screen (before the credit reward screen, if you gained any credits by clearing new waves). Some of these tips are generic, some are gameplay-specific, and others are ship-specific. The tips are roughly categorized as shown below:
 
@@ -246,7 +264,7 @@ General
 
 - Send questions and love letters to phoenix2@firigames.com
 
-## 12. How to survive in a bullet hell?
+## 13. How to survive in a bullet hell?
 
 The more beginner survival tips are at the top, while more advanced ones are below.
 
@@ -284,7 +302,7 @@ The more beginner survival tips are at the top, while more advanced ones are bel
 
 - While unrelated as well, playing other bullet hell games also helps (but is not necessary). Find games of a similar genre, such as Bullet Hell Monday or Touhou Project. Hell, even the original predecessor game, Phoenix HD, is the perfect practice for dodging. (Plus, it is way more forgiving since you have health and don't die in one hit.) Other types of popular shmups like Sky Force Reloaded and Air Attack don't help as much as the bullet density is not very high, and the concept of only being able to be hit at your core is not present since the whole ship is essentially the hitbox in these games.
 
-## 13. How to practice speed-running?
+## 14. How to practice speed-running?
 
 - Practice, practice, practice. On the ships that you want to speedrun on. You need to know all about your ship to pull off speed-running very well with it.
 
@@ -324,7 +342,7 @@ The more beginner survival tips are at the top, while more advanced ones are bel
 
 - A smaller device is better than a bigger device for speed-running (I doubt that). You need to slide less to rapidly re-position than a larger device. But if you have a stylus, an iPad Mini works pretty well, too. The iPad Mini perfectly balances between being able to speedrun effectively and dodge fast. Anything bigger than an iPad Mini will have problems as the screen is too big to see all the action happening on the screen at once. Also, a bigger screen means it's harder to calculate bullet vectors (as mentioned above). This is why even though an Apple Pencil works best for speed-running because it only works on iPads or iPad Pros, the screen size makes it hard to recommend. (I personally play on iPad Pro with my fingers. I hope you find what suits you best.)
 
-## 14. I’ve read it all, but I’m still unsure how to improve. What should I do?
+## 15. I’ve read it all, but I’m still unsure how to improve. What should I do?
 
 - Record your finished/unfinished runs and seek suggestions in our group chat.
 
@@ -332,7 +350,7 @@ The more beginner survival tips are at the top, while more advanced ones are bel
 
 - Practice makes perfect.
 
-## 15. Other General Questions.
+## 16. Other General Questions.
 
 **Q. Are there any technical terms in this game?**
 
@@ -414,7 +432,7 @@ Shared accounts are common property; their ownership belongs to the account owne
 
 :::
 
-## 16. Where can I find gameplay videos of different ships?
+## 17. Where can I find gameplay videos of different ships?
 
 A. You can find gameplay videos in our group chat. (id：夜光撩人 posts excellent videos.)
 
@@ -462,7 +480,7 @@ B. You can also look for various BiliBili channels (They are all in the Myth gro
 
 C. You can search for gameplay videos on YouTube.
 
-## 17. When will I be asked to leave the Myth group chat?
+## 18. When will I be asked to leave the Myth group chat?
 
 - Behaving unfriendly, and keeps doing so when reminded.
 

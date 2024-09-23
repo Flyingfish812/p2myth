@@ -3,7 +3,7 @@
  * and scoped locally.
  */
 .background {
-  background-image: url('/static/img/outerspace3.JPG'); /* Adjust the path as needed */
+  background-image: url('/static/Campaign/za.png'); /* Adjust the path as needed */
   background-size: cover; /* Cover the entire page */
   background-position: center; /* Center the background image */
   background-repeat: no-repeat; /* Prevent the image from repeating */

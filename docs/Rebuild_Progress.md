@@ -4,6 +4,16 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.4.0
+
+- Version: 1.4.0
+- Update time: 2024-09-21
+
+With the great update of 7.0, our site has also been updated to 1.4.0. We have added some new contents:
+
+- The Campaign mode
+- Chapter 7 for the story "Galaxy Reburn"
+
 ## V1.3.8
 
 - Version: 1.3.8

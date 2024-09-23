@@ -8,6 +8,47 @@ You can [click here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs
 
 ## Version History
 
+### 7.0.1 Sep 20, 2024
+
+Please translate the following patch notes for Phoenix 2 update 7:
+
+A massive content update has arrived! This update adds a whole new Campaign with story driven missions to explore space and to familiarize new players with the game.
+
+New features:
+- An extensive new Campaign has been added! The Campaign missions can be played alongside Daily Missions at their own pace and are an entirely new experience for Phoenix 2 pilots.
+- Custom player tags! Become a Phoenix 2 VIP and customize your entry on the leaderboards for everyone to see.
+- Adds game controller support! Phoenix 2 is now completely playable using a modern game pad.
+- Support for Game Mode on iOS 18, for more responsive controller support.
+- Phoenix 2 is now fully playable on macOS when using a controller.
+- The in-game interface now shows wave progress and a new timer when speedrunning missions!
+
+Other improvements:
+- Veterancy is now also shown on the Pilot screen for pilots older than 1 year.
+- Characters have updated new portrait images.
+
+Bug fixes:
+- Many small fixes all around.
+
+### 7.0 Sep 19, 2024
+
+A massive content update has arrived! This update adds a whole new Campaign with story driven missions to explore space and to familiarize new players with the game.
+
+New features:
+
+- An extensive new Campaign has been added! The Campaign missions can be played alongside Daily Missions at their own pace and are an entirely new experience for Phoenix 2 pilots.
+- Custom player tags! Become a Phoenix 2 VIP and customize your entry on the leaderboards for everyone to see.
+- Adds game controller support! Phoenix 2 is now completely playable using a modern game pad.
+- Support for Game Mode on iOS 18, for more responsive controller support.
+- Phoenix 2 is now fully playable on macOS when using a controller.
+- The in-game interface now shows wave progress and a new timer when speedrunning missions!
+
+Other improvements:
+- Veterancy is now also shown on the Pilot screen for pilots older than 1 year.
+- Characters have updated new portrait images.
+
+Bug fixes:
+- Many small fixes all around.
+
 ### 6.3.11 May 10, 2024
 
 Fixes a crash when running iOS 12.

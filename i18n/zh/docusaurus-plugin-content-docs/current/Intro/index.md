@@ -6,19 +6,11 @@ sidebar_position: 1
 
 ## 公告栏
 
-:::info[网站封面征稿]
+:::info[新版本公告]
 
-2024-04-25：
+2024-09-23：
 
-如你所见，目前网站的封面页设计非常随意，因此我们向广大玩家征集设计创意。如果你有好的建议，可以将你的设计发送至flyingfish812@foxmail.com。
-
-:::
-
-:::info[Phoenix 2小调查]
-
-2024-04-05：
-
-亲爱的玩家们，希望你可以花费几分钟的时间填写一下这份Phoenix 2调查表，我们很期待收到你对游戏的反馈。问卷调查的结果会在每收到15份回复时发布。[调查链接（Google）](https://docs.google.com/forms/d/e/1FAIpQLSflHodYJSqPE0A9bH4xvkWjO9ccupA-eZ62-pbd-xKfopK7cA/viewform)
+网站1.4.0版本已更新，目前内容仍在持续更新中。如果你发现任何问题，请向管理员联系。
 
 :::
 
