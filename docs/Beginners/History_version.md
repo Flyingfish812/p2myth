@@ -8,6 +8,10 @@ You can [click here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs
 
 ## Version History
 
+### 7.0.2 Sep 24, 2024
+
+Small bug fixed.
+
 ### 7.0.1 Sep 20, 2024
 
 Please translate the following patch notes for Phoenix 2 update 7:

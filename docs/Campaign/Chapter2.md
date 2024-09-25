@@ -34,7 +34,7 @@ This mission consists of 16 waves of shielded invaders:
 
 Escort team AXV-515 will call for assistance from all available ships before the fourth act begins. After defeating the fourth wave, the escort team’s ship will fly in to thank you.
 
-<img src="/Campaign/convoy.png" style={{zoom:0.5}}/>
+<img src="/Campaign/convoy1.png" style={{zoom:0.5}}/>
 
 ### Mission 7
 

@@ -34,7 +34,7 @@ sidebar_position: 2
 
 护送队AXV-515会在第四幕开始前呼叫所有可用的战机帮助他们，击破第四幕后护送队战舰会飞来感谢你。
 
-<img src="/Campaign/convoy.png" style={{zoom:0.5}}/>
+<img src="/Campaign/convoy1.png" style={{zoom:0.5}}/>
 
 ### 任务7
 
