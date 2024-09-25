@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Chapter 1: Zhey Auna
 
-<!-- <img src="/Campaign/za.png" style={{zoom:0.5}}/> -->
-
 Everything originated from a campaign planned by the instructors, represented by Operator Mian, aimed at analyzing and **attacking the invaders**...
 
 > Is there a possibility that the real invaders are **us**?
@@ -66,3 +64,9 @@ This mission consists of 16 waves of armored invaders:
 - Eagle 1 + Raven 2 + Sparrow 1; Heron 1 + Raven 4; Heron 1 + Raven 2 + Sparrow 2; Roc 1 + Sparrow 6
 
 At this point, the first chapter is completed. You will receive an additional reward of 500 points and instructions to head to the superstructure *Gau Prime*.
+
+---
+
+<img src="/Campaign/za.png" style={{zoom:0.5}}/>
+
+*Zhey Auna, A soft golden-green glow envelops a mysterious planet, with silky clouds swirling through the sky, as though a cosmic storm quietly gathers in this serene space.*

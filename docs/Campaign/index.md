@@ -2,6 +2,8 @@
 
 > The great event containing 30 missions, updated at version 7.0
 
+<img src="/Campaign/cover.png" style={{zoom:1}}/>
+
 Looking forward, looking forward, the update has arrived, and the steps of the new content are getting closer.
 
 One of the major contents for the 7.0 update is the **Campaign** mode, which includes 30 missions. Unlike the **Daily Missions**, these missions are permanent.
