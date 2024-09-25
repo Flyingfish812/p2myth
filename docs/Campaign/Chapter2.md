@@ -23,7 +23,7 @@ Once this area is cleared, Mian Operator gives instructions to dispatch an escor
 
 Mian Operator alerts you to a distress signal, and we need to pilot the prepared Phoenix (Delta) ship to intercept the invaders attacking the escort team.
 
-In this mission, your ship will be forcibly switched to the Delta [Phoenix](/docs/Ship/Phoenix.md). This ship has a shield-breaking main weapon, a bullet EMP (destructive wave), and a personal shield. Due to its high strength, this mission will be relatively easy.
+In this mission, your ship will be forcibly switched to the Delta [Phoenix](/Ship/Phoenix.md). This ship has a shield-breaking main weapon, a bullet EMP (destructive wave), and a personal shield. Due to its high strength, this mission will be relatively easy.
 
 This mission consists of 16 waves of shielded invaders:
 
