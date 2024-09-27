@@ -39,7 +39,10 @@
 ## Comments
 
 - 圆锥曲线: I suggest uninstall its main weapon and add another laser system.
+- 圆锥曲线: Shit Bag.
 - Niu: It's the only ship with an exclusive badge, just say it's awesome or not.
+
+<img src="/illustration/ogon_illus.gif" style={{zoom:1}}/>
 
 ## Survival
 
