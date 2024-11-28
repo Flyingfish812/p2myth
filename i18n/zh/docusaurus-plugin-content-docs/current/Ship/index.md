@@ -884,7 +884,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布洛</a><br/>
     <a href="Warden" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_99.png" style={{zoom:0.2,marginRight:'50px'}}/>看守人</a><br/>
     <a href="Saber" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_51.png" style={{zoom:0.2,marginRight:'50px'}}/>军刀</a><br/>
-    <a href="Mistral" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_94.png" style={{zoom:0.2,marginRight:'50px'}}/>雾星</a><br/>
+    <a href="Mistral" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_94.png" style={{zoom:0.2,marginRight:'50px'}}/>米斯特拉尔</a><br/>
     <a href="Prime X" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_39.png" style={{zoom:0.2,marginRight:'50px'}}/>普赖姆X</a><br/>
     <a href="Wrackr" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_16.png" style={{zoom:0.2,marginRight:'50px'}}/>赖克尔</a><br/>
     <a href="UHB" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_63.png" style={{zoom:0.2,marginRight:'50px'}}/>乌布号</a><br/>
@@ -942,7 +942,7 @@ import tag from '/src/css/tag.module.css';
     <a href="X-81" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_66.png" style={{zoom:0.2,marginRight:'50px'}}/>X-81</a><br/>
     <a href="Czar" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_21.png" style={{zoom:0.2,marginRight:'50px'}}/>沙皇</a><br/>
     <a href="Boxer" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_59.png" style={{zoom:0.2,marginRight:'50px'}}/>拳手</a><br/>
-    <a href="Mist Star" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_12.png" style={{zoom:0.2,marginRight:'50px'}}/>米斯特拉尔</a><br/>
+    <a href="Mist Star" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_12.png" style={{zoom:0.2,marginRight:'50px'}}/>雾星</a><br/>
     <a href="Xavis" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_85.png" style={{zoom:0.2,marginRight:'50px'}}/>萨维斯</a><br/>
     <a href="Mirage" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_75.png" style={{zoom:0.2,marginRight:'50px'}}/>蜃景</a><br/>
     <a href="Gorthaur" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_37.png" style={{zoom:0.2,marginRight:'50px'}}/>索伦</a><br/>
