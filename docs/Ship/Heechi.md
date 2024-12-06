@@ -88,6 +88,10 @@ This apex reduces the interval time between each burst of quantum seekers fired,
 
 There is very minimal benefit in this apex other than the fact it can potentially finish off a wave slightly faster. The long intervals between each quantum seeker bursts in the base form actually allows to abuse Kappa Drive more, but this apex makes that interval so short. This means spamming Kappa Drive in very short bursts, which is of no use (there is a minimum amount of time Kappa needs to be active before one “tick”, or otherwise, an increase in Aura radius size). Thus, this apex doesn’t actually seem to help at all, other than being pretty fun to hear the constant bombardment of quantum seekers like a busy archery range with quantum weirdness.
 
+- Hint: In version 7.2.0, the main weapon is improved a bit, it seems to fix the problem of "Apex speedrun is slower than base run":
+
+<img src="/illustration/heechi_main_compare.gif" style={{zoom:1}}/>
+
 ## APEX 2
 
 <img src="/ships/ship_38_apex_2.png" style={{zoom:1}}/>

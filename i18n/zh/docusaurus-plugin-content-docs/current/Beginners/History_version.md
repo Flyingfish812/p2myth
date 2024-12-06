@@ -8,6 +8,44 @@
 
 ## 历史版本
 
+### 7.2.0 Dec 6, 2024
+
+Enjoy the improved main menu and the fresh new mission selection menu in this brand new update. The new Missions menu offers a gorgeous new way to check and select your next mission.
+
+Among other changes Phoenix 2 will now notify you if a High Score fails to upload to the server and allow you to retry.
+
+This update also includes several behind-the-scenes preparations for the upcoming release on PC. Don’t forget to wishlist Phoenix 2 on Steam and share it with your friends and rivals—so you can crush their scores!
+
+### 7.1.2 Oct 18, 2024
+
+Happy Halloween pilots!
+
+For those who want to celebrate this spooky event in style, we have added limited-time styles for your player tag! Customize your player tag to try the new options.
+
+### 7.1.1 Oct 13, 2024
+
+This update contains numerous bug fixes and improvements, as well as fun new additions.
+
+* Fixed allied ship not flying away when retrying campaign mission 19.
+
+* Fixed delay in campaign mission 20.
+
+### 7.1 Oct 12, 2024
+
+This update contains numerous bug fixes and improvements, as well as fun new additions.
+
+* Fixed allied ship not flying away when retrying campaign mission 19.
+
+* Fixed delay in campaign mission 20.
+
+### 7.0.4 Oct 1, 2024
+
+修复了小问题。
+
+### 7.0.3 Sep 28, 2024
+
+修复了小问题。
+
 ### 7.0.2 Sep 24, 2024
 
 修复了小问题。

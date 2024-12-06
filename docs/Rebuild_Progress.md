@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.4.1
+
+- Version: 1.4.1
+- Update time: 2024-12-06
+
+With the update of 7.2.0, we add the description of Heechi main's improvement.
+
 ## V1.4.0
 
 - Version: 1.4.0
