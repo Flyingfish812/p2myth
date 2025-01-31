@@ -32,16 +32,7 @@ The details of this skill are listed as follows:
 
 ## Usage
 
-A Level 1 Ion Cannon is almost useless, unless you encounter large invaders at the front of the wave. Otherwise, using IC against smaller invaders has nearly no practical purpose. You'll find yourself not really needing to use it, and instead reserving it as much as possible for the next wave, in case it has large invaders in front. This is not wrong, but since an IC charge comes very fast, it should generally be ok to use 1 IC every wave. With more charges, reserving 2 or 3 charges of IC should be sufficient. Other than that, IC is quite useless because a non-ult IC does not deal any damage at all, making nothing more than a pre-emptive defensive tool. You see those large invaders that are within your reach when a wave arrives? Yeah, just fire off those charges to stun them. It's that straightforward, but it's ineffective when you come to waves with the larger and more troublesome invaders at the back. It's not so straightforward when in practice due to rapid small invader random movement that can make aiming the larger invaders behind difficult. If you are faced with Eagles in front of a Vulture, simply stun both Eagles and then move over the Eagle to stun the Vulture. (Or stun one Eagle if you run out of IC charges)
-
-However, everything changes when you unlock the ult, which makes IC now deal BLAST damage. Now this allows for IC to have limited crowd clearing capabilities. In fact, when you know you are going to deal with a wave with lots of Ravens and Sparrows in front, you can reserve your full 6 charges for that wave. And due to the crowd and thus a particle heaven, you are likely to refill all if not almost all of the IC charges after expanding your entire pool of 6 charges. With the full 6 charges, spam 4 or 5 ICs straight away at one extreme side of the field when the wave arrives. If you have lesser charges than the full 6, just be sure to reserve 1 charge for the larger invader behind. The blast damage may be able to blow a hole on that side of the field. Remember to keep it as extreme corner as possible, so as to avoid too much unnecessary resistance. The blast damage component of IC adds up to some pretty decent damage and is usually quite capable of punching a hole.
-
-Another very advanced technique is if you are expecting larger invaders at the back, you can pre-fire the IC. The timing, however, needs to be perfect as too late will cause it to hit a smaller invader in front, while firing too early will just waste that IC. While it can be done, I do not really recommend it unless you really can grasp the timing. The IC is fired only while the invaders are descending down to fill the screen. Everything else depends on its position on field.
-
-With the blast damage component of IC, it allows for limited speedrunning capabilities (only limited, not much). You can now start using IC at earlier waves in a useful way, especially using the blast damage to eliminate multiple Sparrows. IC is also a great compliment to slow firing ships as IC slows the random movement of invaders to an almost complete halt, unlike SEMP. This means being better able to confirm the hits of your precious slow firing main weapons on Ravens and perhaps even Herons.
-
-Unfortunately, in daily missions, IC is rendered completely useless due to the presence of dense waves. It is just not possible to plow through the entire mess of invaders with 6 counters of IC, and considering how little damage they actually do, and the miserable AoE radius that hardly hits more than 1 Raven. Even in dense and heavy waves, the invader count will usually exceed 6, making it very difficult to stun enough invaders to ensure your survivability.
-
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/auras#ion-cannon)
 
 ## APEX 1: Blast Amplifier
 
@@ -52,14 +43,12 @@ Unfortunately, in daily missions, IC is rendered completely useless due to the p
 
 > Editor: It looked a little bigger, but still only a little.
 
-This Apex increases the damage blast radius of each IC projectile. It also seems to have an unmentioned effect of somehow increasing the damage of IC from 10 to 13.
-
-This apex is particularly useful for many IC ships since many IC ships suffer from crowds of invaders. The blast radius of IC is now very significant and 2 ICs can kill 2 or more Ravens, even if the other Raven(s) are about 3/4 a Raven's height away. It is also a useful speedrunning tool in getting rid of pesky Sparrows as significantly more Sparrows can die with each IC. This turns IC into a viable offensive tool.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/apexes-aura#blast-amplifier)
 
 ## APEX 2: Overcharge
 
 - Game Description: Overcharged Ion Cannon stuns targets in a larger area.
-- Numeric Interpretation: The blast radius increases from 50 to 115.
+- Numeric Interpretation: The stun radius increases from 90 to 100.
 - Score: 1.82 / 5
 - Ships with the APEX: Dragonfly (Gamma), Polaris (Beta), X-81 (Gamma), Xavis (Alpha)
 
@@ -68,3 +57,5 @@ This apex is particularly useful for many IC ships since many IC ships suffer fr
 This APEX merely expands the stun range, but does not increase the damage of the ion cannon. In a sense, it's useless.
 
 When the ion cannon can stun an entire invader, this skill has some room for maneuver. Even if the range is small, it stuns a large number of invaders. But now? It only stuns the turrets in this area. In the current version, this APEX is just a negligible bonus. If you can easily clear the mission using the original APEX, buying this APEX is simply a waste of money.
+
+[Click Here for More](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/apexes-aura#overcharge)
