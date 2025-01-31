@@ -42,34 +42,10 @@
 - 天尘座: Honestly speaking, practice is necessary for playing Kibarrax well. It's a ship hard to control for a beginner.
 - Dark骑士: This ship is a bit interesting. Its three skills are all offensive, referred to as a Full Offensive ship, which leads to its positioning itself as a speedrun ship. But if it is just this, it will not be so favored by speedrun players. When you use it , you will obviously feel that it is like a prolapsed horse that is difficult to control. You may feel that the energy is not enough when you playing other ships, and you need to get energy by grazing bullets. Kibarrax rarely needs it, and even generally speaking, it is normal to have a lot left after clearing every wave. As long as it is used properly, the Kibarrax's damage is usually overflowing, and there is almost no situation where the energy is not enough. In addition, the faster you run, the faster you die. It relies on RNG (converging) and is easily collided by the turrets, which affects the offensive rhythm. It has extremely high requirements. You can even roughly estimate the number of attacks required for each wave. Once things go wrong, you can only start over. I used a previous joke to evaluate it: the starting point of the speedrun is Shogun and the end point is Kibarrax. If you can use it well, then you are already a graduate.
 
-## Survival
-
-- With absolutely no forms of defence, once you are trapped, you are dead. No way out.
-- Kibarrax has a very strange main. The 2 Umomu lasers are horizontally spaced apart very far, which makes turret popping very difficult on a Vulture. It is however still possible to pop off 2 turrets on a Vulture but this requires extremely good positioning, which is very difficult with a ship with zero defence capabilities.
-- This space is wide enough to hold a sparrow in between.
-
-## Speedrun
-
-- Kibarrax is a ship that requires an incredible load of estimation. Both MS and the long duration of the main should be used to finish off a wave.
-- This is made even more difficult by the fact that the downtime of the main between bursts is very long. If not estimated correctly, failure to finish off a wave and leaving only a fraction of health will cost you several seconds.
-- Because the main is forward firing, great positioning skills are required. Particularly, since you want to coordinate MS and the main to finish off a wave just nice, MS should be fired at one side of the field and then use the main to eliminate the other side.
-- MB would obviously, then, be used at the start of a wave.
-- Because of the nature of Laser/Dart missions, it is very difficult to stand close to the invaders or you'll risk getting shot point blank by darts. Thus, MB may not always be able to reach upfield.
-- Where there are more larger invaders, Kibarrax can rival its other Unprotected speedrunner Wraith in daily missions to take a few top ranks.
-- In general, if Kibarrax can clear a certain mission, than it will probably get the BoB.
-
-## Fun
-
-- The very fast obliteration nature of Kibarrax make it very fun to play.
-- However, the bursty nature of the main and the long downtime can make it frustrating at times, particularly when just a fraction of health remains in that wave.
-- The very far spaced apart Umomu lasers also make things difficult.
-- Especially the Lambda Apex, Kibarrax looks like a crab (hail the crab rave!) and not to mention, the Umomu lasers do sound like juicy crab meat oozing out. (WARNING! This hidden text might sound a little gross)
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-9#kibarrax)
 
 ## Trivia
 
-- Kibarrax was only introduced into Phoenix 2 at v5.0.
-- Kibarrax was thought to be the new meta ship in Unprotected missions that would overtake the previous all-time winner Wraith. However, once the new daily mission format kicked in after v5.0.1 got released, and how the missions got extremely difficult, Kibarrax quickly fell out of meta and has now become irrelevant.
-- Kibarrax is one of the 4 ships in the game where its apexes have a different thruster configuration/location than its original base form. It is also one of the only 2 ships with both apexes having such different configurations from the base form and each other. The Epsilon Apex duplicates the middle thrusters of the base form into 2, just side-by-side, while bringing the other 2 thrusters closer to the middle 2 thrusters, but in an angled down fashion. The Lambda Apex similarly duplicates the middle thrusters of the base form, side-by-side, but brings the other thrusters on each side just right next to the middle 2 thrusters but horizontally all aligned.
 - In version 5.3, Kibarrax can clear nearly all missions, which makes players to appeal for a weaken. However, even if it is weakened to the point where the main weapon cannot be fired continuously, some players can still use it to clear certain difficult missions.
 
 ## APEX 1
@@ -84,7 +60,7 @@
 - Price: 25000
 - Score: 3.18 / 5
 
-Because of the tracking dart turrets being aimed at you, it is difficult to stay closer upfield to charge an MB. Being able to reach those upfield Ravens with the extended range can mean a lot of difference especially in very dense waves with tracking dart spreads in front by eliminating those Ravens that may contain lasers.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-9#epsilon-mb-extended-range-c25000)
 
 ## APEX 2
 
@@ -98,7 +74,7 @@ Because of the tracking dart turrets being aimed at you, it is difficult to stay
 - Price: 30000
 - Score: 4.82 / 5
 
-The AP MS is able to deal enormous damage against Armored Invaders, and opens up viability for Kibarrax to be used in all Armored Laser missions. It can even rival Wraith (which can struggle against armored invaders due to the affinity mismatch) to take a BoB when there are a lot of larger invaders around. The main becomes less of a concern to optimize due to how quickly AP MS vaporizes everything, in fact, sometimes even faster than when in Unprotected Laser/Dart missions due to the reduced health of armored invaders (since MS deals full damage, it is of no consequence, although Ravens will still have a fraction of health after MB). All you need to do is to position yourself properly after setting off MB and firing off MS, allowing a burst of the main to go off.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-9#lambda-ms-armor-piercing-c30000)
 
 ## Video Illustration
 
