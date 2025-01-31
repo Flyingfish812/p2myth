@@ -40,33 +40,7 @@
 
 - hank: The clicking sound effect is really great.
 
-## Survival
-
-- PS means it is great for its mission type to reflect off lasers.
-- Atlas focused fire main is great for taking out dangerous turrets.
-- Unfortunately, Atlas’ main is also a real issue for it’s highly concentrated and forward directed nature, as it is very hard to navigate your way around the field when dart spreads can trap you very badly.
-- The divide and conquer technique for MS is one of the most relevant for Atlas. At the start of the wave, fire off MS and then quickly strafe over to the other side to prevent yourself from getting trapped by dart spreads.
-- Shurikens are one of Atlas’ biggest weakness. Eliminate these turrets if possible. It is not always easy to Phase Out using PS to cut across a shuriken cloud.
-- PS is a great tool when you are faced with a shuriken cloud headed toward you with very little space to escape, simply use it and then quickly Phase Out past the shuriken cloud.
-- However, you will need to attract all the shuriken launchers to one side in order to thin out the shuriken cloud at one end of it which is in range of the field. This will involve you being in the extreme side of the field, somewhere at least halfway upfield.
-- PS is a very useful tool in Pellet/Shuriken/Laser missions with MIRV Deathonators as well, since PS can get rid of these pellets released by MIRV Deathonators.
-- In a Vulture frontline wave, the Vulture should be destroyed after using the Phase Out once. For smaller invaders in front, most of them should be gone by then.
-
-## Speedrun
-
-- MS coupled with a potentially offensive PS means Atlas can go reasonably fast, but only a little bit.
-- PS can be used to jump across lanes of either darts or pellets (the latter usually more likely) so that you can quickly reposition yourself after killing off one of the larger invaders.
-- At the start of a wave you should try to risk yourself and place yourself in the middle of the whole field to launch MS. The only time when you don’t need to do this is when you are faced with either Eagles or a Vulture in front, otherwise always try to be in the middle in order for MS to have maximum coverage.
-- The above can however, be very tough especially when transiting from a wave that pumped in so many shurikens. Sometimes, it is easier to simply spam fire MS and hope that the stray missiles after targeting whatever it could target stray off to hit some other invaders. This is usually better since it relieves some pressure on the number of bullets and lasers on screen.
-
-## Fun
-
-- Watching lasers reflect off PS is definitely quite a sight to behold. Not to mention the MS swarming the screen in their strangely fascinating curvy paths.
-- Atlas's main sounds like a woodpecker.
-
-## Trivia
-
-- Prior to the v4.2 update, Atlas was deemed as the quake machine or the typewriter (the latter probably also due to how the main weapon sounded like), due to the excessive amount of screenshake caused by the Autocannon, and because it's so rapid and each shot has a small screenshake upon impact, it resulted in the screen constantly shaking by a very noticeable amount. Playing it for some time can probably result in headaches or dizziness. However, the screenshake from the Autocannon was completely eliminated in v4.2 onwards.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-4#atlas)
 
 ## APEX 1
 
@@ -80,7 +54,7 @@
 - Price: 20000
 - Score: 2.18 / 5
 
-Very useful in dense waves, this apex is able to vaporize invaders quickly. However, because MS is often released near the bottom of the screen from the difficulty of piloting Atlas around, unless you have rows of Ravens near you, the impact is not as much as the same explosive MS apex on some other ships.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-4#delta-ms-high-explosive-c20000)
 
 ## APEX 2
 
@@ -94,7 +68,7 @@ Very useful in dense waves, this apex is able to vaporize invaders quickly. Howe
 - Price: 5000
 - Score: 2.00 / 5
 
-The bigger PS is an insane buff for Atlas when well utilized. It will block off a whole mess of pellets released by MIRV Deathonators headed your way, thus requiring less dodging between the released pellets. It is also severely more effective against using Phase Out to escape shuriken clouds. The increase in laser catch rate for laser reflection, particularly from laser spreads is also nice, adding a bit more damage.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-4#alpha-ps-supersize-c5000)
 
 ## Video Illustration
 
