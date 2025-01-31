@@ -4,6 +4,8 @@
 
 > Usually rendered in English as "God Most High"
 
+> Why is this not EL's favorite ship?
+
 <img src="/ships/ship_26.png" style={{zoom:1}}/>
 
 ## Basic Info
