@@ -2,6 +2,8 @@
 
 > All attacks are straight-line, without deviation at all.
 
+> Flappy Bird
+
 <img src="/ships/ship_84.png" style={{zoom:1}}/>
 
 ## Basic Info
@@ -40,32 +42,7 @@
 
 - 菁鸟: A great straight-attack ship. I'm playing like a sniper in P2.
 
-## Survival
-
-- With a very difficult use to main, trying to eliminate invaders or turrets alike becomes a problem. Only after every 2s will a turret be popped off.
-- One burst of the main kills up to a maximum of 2 Ravens of any affinity lined up.
-- However, one burst of the main is just sufficient to kill an Armored or Unprotected Heron. But if a Sparrow blocks the way, then unfortunately that Heron continues to survive.
-- As such, do not hesitate to use VLs against even 2 Ravens in a column. You can also use VLs against 3 or more Sparrows in the case where there is a mass of Sparrows armed with dart streamers or lasers since these can get dangerous if left for too long.
-- When in desperate measure, 2 VLs can be used against a deadly turret such as a T4 tracking laser to pop it off immediately. Since deadly turrets usually come in pairs, you can reserve 4 VLs to pop them off instantly.
-
-## Speedrun
-
-- Despite a powerful kit, the main drawback is its extremely difficult to use main.
-- The main particularly struggles against Sparrows since only 1 or 2 Sparrows can be eliminated per burst. Since Sparrows are one of the most abundant invaders in a wave (where they appear), the weakness against eliminating mass Sparrows means Neni is severely slowed by Sparrows.
-- The line of fire defined by Neni just before it fires its main can be used to line up your VL shots, although it's kind of difficult to see it.
-- If you wish to charge a second ML for the wave (after the initial ML when the wave arrives), it's a good idea to wait a little longer to observe the purple line produced by Neni before charging ML since once that begins, the main will then fire even as ML charges.
-- ML can only be used at the start of each wave, generally speaking.
-
-## Fun
-
-- If anything, this ship's main is the most annoying to use. It can be described as a very compacted Icarus beam, and there are many players who already find Icarus to be very unwieldy. The short beam of projectiles make it even more difficult to catch fast moving invaders.
-- In particular, Sparrow hunting is just. The WORST.
-- Thankfully, it does have VL, which alleviates a bit of the hunting if you managed to catch a few Sparrows with it.
-
-## Trivia
-
-- Neni was only introduced into Phoenix 2 at v5.0.
-- Neni is one of the only few ships that has moving parts.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-9#neni)
 
 ## APEX 1
 
@@ -79,7 +56,7 @@
 - Price: 25000
 - Score: 4.18 / 5
 
-This apex makes Neni slightly less of a pain to play, particularly against Ravens or Sparrows. It becomes viable to use VLs against purely Sparrows if enough of them are bunched up together. The easier catch rate of VL also enables Neni to kill invader crowds, thus running into less problems from a horrendous mess of bullets later.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-9#epsilon-vl-twin-lance-c25000)
 
 ## APEX 2
 
@@ -93,7 +70,7 @@ This apex makes Neni slightly less of a pain to play, particularly against Raven
 - Price: 20000
 - Score: 3.18 / 5
 
-For most of the part, because Neni’s main already packs such a huge punch, the extra damage is pretty much useless since part of the main’s damage will likely be leaked after finishing off an invader that took extra damage from the AP ML. It is only useful when there is a huge invader behind, such as a Vulture or above.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-9#delta-ml-armor-piercing-c20000)
 
 ## Video Illustration
 
