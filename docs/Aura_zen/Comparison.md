@@ -13,6 +13,7 @@ On this page, we will be comparing some similar Auras and Zens and see how they 
 - Score: 8.09 / 4.73
 
 - Comments: If it’s in older versions where IC hasn’t been nerfed, the two would be more comparable. Because SEMP works better in dense waves while IC works better with heavy waves, particularly against boss invaders which are Condors and Rocs. And in heavy waves, if a crowd of invaders got caught in IC’s radius, they would all be stunned nicely. But IC was nerfed so that a single shot cannot stun all turrets on an invader, making it unable to stun enough turrets even if it hits a crowd of invaders. Therefore, clear win for SEMP.
+- [Click Here for More](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/auras-and-zens-comparisons#semp-vs-ic)
 
 ## VL vs GM
 
