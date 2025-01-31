@@ -34,13 +34,7 @@ The details of this skill are listed as follows:
 
 ## Usage
 
-A level 1 FL is pretty much useless due to how sluggish it is, requiring you to pre-charge so early it is simply ridiculous to estimate, especially when you are still dealing with some of the bullets left over from the last wave. As you upgrade FL, it becomes more responsive, and also more abusable.
-
-Unfortunately, even at max or ult level, FL is still very underwhelming as a Zen. Given the speed of FL and taking into account the time you need to stay still to charge it, you can only hope and pray that the FL will hit as many Ravens and Sparrows as possible. Given their rapid movement, it is extremely unpredictable, in that they can quickly move away just as FL is being emitted from your ship.
-
-The fact that FL needs to cool down is another factor that makes FL very difficult to wield properly. By the time FL has cooled down, while it may not be that long (it's about 5 seconds i would say), it is enough time for the field to be flooded with fast moving bullets such as boomerangs and darts. This means that it is very difficult to reposition yourself in a new spot where using FL might be viable. It's Aura counterpart, VL, allows multiple piercing lances to be fired at once, riding the field of invaders quickly enough so that less bullets would be stacked upon you, as well as not running into positioning problems later on to fire more lances.
-
-Thus, FL may be simply seen as a one-time lance at the start of a wave. After that, FL is usually only used to pop turrets off invaders, and it is simply a bonus if it can hit Ravens and Sparrows. FL can generally be used about twice a wave from Act 4 onwards, discounting light waves where it is only once. For dense and/or heavy waves, it can even be used 3 times.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/zens#focus-lance)
 
 ## APEX 1: Expert Focus
 
