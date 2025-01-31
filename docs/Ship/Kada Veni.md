@@ -36,30 +36,7 @@
 
 <img src="/illustration/main_15.gif" style={{zoom:1}}/>
 
-## Survival
-
-- Because of the horrendous aiming of the main, Kada Veni should be confined to the bottom of the screen.
-- At the end of the wave, as the last invaders are at the back of the field, you should slowly start making your way closer upfield, but stay below the centerline.
-- Then as the last pulse batteries fire off, make sure you deploy a barrier such that the outer edge of the barrier is just outside of any invader Ravens or above, so that you can quickly swipe to the edge of the outer barrier to charge MB.
-- Because the main takes a while to reach its target after it fires, you can slightly pre-charge MB as the last few pulse batteries are just emitted and waiting to be launched, killing the last invader on screen.
-- Once MB goes off, the particles you collected when quickly moving upfield to charge MB should give you quite likely, a full size barrier. Quickly deploy this huge barrier after MB goes off, and then push yourself all the way back down to the bottom.
-- Deploy small barriers around yourself where needed to block off difficult to dodge bullet situations.
-- When faced with a wave with a frontline Vulture and a bunch of Ravens hiding behind, you can actually kill these Ravens before they wreck more havoc. Simply go to the extreme side of the field where the Vulture isn’t drifting towards, and the inaccurate main will miss the Vulture, but curve around it to hit the Ravens behind.
-- Along with Ogon, Kada Veni is usually labelled as the worst ship in the game. However, when you actually use it correctly, you'll realize that while it's nowhere near as good as many ships, it's sort of decent due to its rather powerful Aura Zen combination. Kada Veni is an important reminder that the main of a ship doesn't always determine how good or bad a ship is.
-
-## Speedrun
-
-- A main with a horrible aim means you are pretty much going nowhere with speedrunning.
-- MB is the only saving grace that helps it to go a little faster, but being unable to utilize it fully pulls Kada Veni back.
-
-## Fun
-
-- Kada Veni's main Pulse Battery aiming is so horrible, it's not even funny. You will literally miss half the time and be so frustrated.
-- And let's just say that the weapon's audio/visuals aren't exactly very interesting either.
-
-## Trivia
-
-- Because it's main is not even funny, it's not even a meme (no one really talks or jokes about it), unlike its brother Ogon.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-2#kada-veni)
 
 ## APEX 1
 
@@ -68,7 +45,7 @@
 - Name: Launcher Upgrade
 - Type: Main Weapon
 - Description: Pulses have better homing capabilities.
-- Interpretation: nan
+- Interpretation: Improves the homing capabilities of the Pulse Battery.
 - Form: Alpha
 - Price: 5000
 - Score: 2.00 / 5
@@ -76,7 +53,7 @@
 
 <img src="/illustration/main_15_alpha.gif" style={{zoom:1}}/>
 
-This apex improves the tracking ability of the Pulse Batteries. The improved aiming makes it a little less frustrating to play with and allows you to move around the field without worrying about missing too much. However, being too close to the invaders will still cause it to miss. Due to the improved aiming, you can no longer ultilize the technique where you go to the edge of the field and hope the pulse batteries curve around the invaders to reach upfield invaders, making upfield Ravens that survive the MB an issue.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-2#alpha-main-weapon-launcher-upgrade-c5000)
 
 ## APEX 2
 
@@ -90,7 +67,7 @@ This apex improves the tracking ability of the Pulse Batteries. The improved aim
 - Price: 15000
 - Score: 2.73 / 5
 
-A powerful apex, particularly against dense Raven crowds or Heron dense waves, this apex has the potential to wipe dense waves quickly. Barrier has just enough strength withstand the onslaught of bullets for MB to go off just before the Phase Out of barrier fades, allowing it to be used further upfield, only running the risk of turret collision. However, there is a bit of RNG since Ravens can quickly run away from the smaller MB radius.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-2#gamma-mb-compressed-blast-c15000)
 
 ## Video Illustration
 
