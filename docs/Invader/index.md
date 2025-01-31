@@ -32,23 +32,7 @@ The hitpoint of each type of invaders is the same, no matter which league you ar
 
 ## Ship Main Weapon vs Invader Affinity
 
-There are 3 different affinities of invaders: Unprotected, Shield and Armor. A fun fact, but all invaders are actually named after birds. All except Roc are real life birds, while a Roc is mythical gigantic bird, with claws big enough to catch an elephant.
-
-All ship weapons deal normal damage to Unprotected invaders. However, ships with HI weapons can deal crits to Unprotected invaders. There is a 25% chance of dealing crits. Each projectile that hits the invaders is subjected to this probability, which explains why many HI rapid firing main weapons appear to crit all their shots. Each crit does 1.5 times damage of the normal main weapon damage. On average, this means a ≈12% DPS bonus from HI weapons.
-
-Shield invaders have a blue outline around them which is their shield. While the shield is up, they are unable to be harmed. This means that you are unable to pop off any turrets while the shield is up. Shields account for ≈40% of their total health. They have overall, ≈25% more health than Unprotected invaders. Once their shield is down, they act like Unprotected invaders and HI weapons can deal crits on them. Ships with SB main weapons deal 150% more damage to shields, or 2.5 times the damage of other weapon affinities. Because shields only account for ≈40% of their health, the overall effectiveness of SB ships is ≈30% more than AP weapons. If any invader stripped of its shield is untouched for 4s (you do not deal any form of damage to it), it will completely regenerate its shield back to full health, however any damage done to its hull remains.
-
-AP main weapons are the only weapons that are able to deal full 100% damage to Armor invaders (discount apexes). All other kinds of damage, which includes HI and SB weapons, even damage dealt through Auras and Zens (even if it's by a ship with an AP main weapon), are reduced by 30%. (This excludes apexes, as some apexes clearly state the Aura or Zen is AP and thus deal the full 100% damage on armor invaders) However, if you deal any form of damage to the cockpits of Armor invaders, you bypass this armor damage reduction and deal the full 100% damage. You can even score crits with a HI weapon if you aim it at the cockpit of Armor invaders.
-
-The table below shows the penalty in the average time to kill a sufficiently large invader for using a mismatched main weapon affinity, taking the matching weapon affinity as the base. All base cases are underlined below. The table also includes Aura/Zen, which have no affinity (discounting apexes) and thus suffer a penalty in all cases. For armor invaders, the HI and SB weapons did not hit the cockpit of armor invaders (this bypasses armor damage reduction) at any point of time.
-
-It can thus be concluded that Armor invaders are the most resistant. Thus, it is crucial to have a ship with an AP main weapon. It can also be said that it is not essential to have a good ship that has a HI weapon since the penalty is much less than that of Shield and Armor invaders.
-
-Invaders can sometimes appear to be moving outside of your screen boundaries. However, they are not actually outside of your straight firing weapon's range, because the camera actually moves when you change sides of the field. This means that there is actually much more horizontal space than you can actually see.
-
-The following sections explain the different types of turrets that can be mounted on the different types of invaders generally speaking, as well as the health of each of the 3 affinities of each invader type. By generally speaking, some missions have exceptions which can feature turrets that are not listed under the corresponding invader here. These turret layouts refer to mostly the General mission types. Go to the Missions section, then under each of the mission types to find out these exceptions. Note that Armor invaders are always 90% of the health of Unprotected invaders, rounded down to the nearest integer. The Shield of Shield invaders are also 2/3 of the health of the corresponding Unprotected invader type, while the hull of Shield invaders are always exactly half the health of the corresponding Unprotected invader type, both rounded down to the nearest integer.（这句话你看下是不是英文原文写错了）
-
-Also of noteworthy in relation to turrets, if an invader has no turrets left alive i.e. all turrets are popped off, it's health (separate from turret health, although damaging a turret also does the same damage to the invader itself) will decay until zero, where it will self destruct.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ships#ship-main-weapon-vs-invader-affinity)
 
 ## Turrets
 
@@ -58,31 +42,31 @@ Generally speaking, each type of turret is divided into 4 tiers. For some turret
 
 Currently, there are 19 types of turrets in the game. The turrets are as follows:
 
-1. Pellet
-    - Fixed
-    - Spinner
-    - Wall
-2. Darts
-    - Tracker
-    - Spinner
-3. Shurikens
-    - Tracker
-    - Tide
-    - Spinner
-4. Boomerangs
-5. MIRV (Bullet / Laser)
-    - Launcher
-    - Bloomer
-    - **Caged**
-6. Laser
-    - Shotgun
-    - Tracker
-    - Speed
-7. Doomsdays
-    - Bomb
-    - Laser
-    - MIRV
-    - Super MIRV
+1. [Pellet](https://p2myth.club/docs/Invader/Pellets)
+    - [Fixed](https://p2myth.club/docs/Invader/Pellets#tiers-and-patterns---pellet-fixed)
+    - [Spinner](https://p2myth.club/docs/Invader/Pellets#tiers-and-patterns---pellet-spinner)
+    - [Wall](https://p2myth.club/docs/Invader/Pellets#tiers-and-patterns---pellet-wall)
+2. [Darts](https://p2myth.club/docs/Invader/Darts)
+    - [Tracker](https://p2myth.club/docs/Invader/Darts#tiers-and-patterns---dart-tracker)
+    - [Spinner](https://p2myth.club/docs/Invader/Darts#tiers-and-patterns---dart-spinner)
+3. [Shurikens](https://p2myth.club/docs/Invader/Shurikens)
+    - [Tracker](https://p2myth.club/docs/Invader/Shurikens#tiers-and-patterns---ordinary-shurikens)
+    - [Tide](https://p2myth.club/docs/Invader/Shurikens#tiers-and-patterns---shuriken-tides)
+    - [Spinner](https://p2myth.club/docs/Invader/Shurikens#tiers-and-patterns---shuriken-spinners)
+4. [Boomerangs](https://p2myth.club/docs/Invader/Boomerangs)
+5. [MIRV (Bullet / Laser)](https://p2myth.club/docs/Invader/MIRVs)
+    - [Launcher](https://p2myth.club/docs/Invader/MIRVs#tiers-and-patterns---mirv-launchers)
+    - [Bloomer](https://p2myth.club/docs/Invader/MIRVs#tiers-and-patterns---mirv-bloomers)
+    - [Caged](https://p2myth.club/docs/Invader/MIRVs#caged-mirv)
+6. [Laser](https://p2myth.club/docs/Invader/Lasers)
+    - [Shotgun](https://p2myth.club/docs/Invader/Lasers#tiers-and-patterns---laser-spread-shotgun)
+    - [Tracker](https://p2myth.club/docs/Invader/Lasers#tiers-and-patterns---laser-tracker)
+    - [Speed](https://p2myth.club/docs/Invader/Lasers#tiers-and-patterns---speed-laser)
+7. [Doomsdays](https://p2myth.club/docs/Invader/Doomsdays)
+    - [Bomb](https://p2myth.club/docs/Invader/Doomsdays#doomsday-bomb)
+    - [Laser](https://p2myth.club/docs/Invader/Doomsdays#doomsday-laser)
+    - [MIRV](https://p2myth.club/docs/Invader/Doomsdays#doomsday-mirv)
+    - [Super MIRV](https://p2myth.club/docs/Invader/Doomsdays#doomsday-super-mirv)
 
 - 五香fish: Don't get close to the enemy turret! Imagine that you shave seconds and reached the last wave with an MB, but were killed by the enemy turret before it was released.
 - 圆锥曲线: I'd like to have a collection of turret collision.
