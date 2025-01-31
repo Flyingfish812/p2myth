@@ -72,6 +72,8 @@
 
 This Apex makes Centurion more viable in Armored missions than Unprotected missions. A single GM shot wipes out all Ravens caught in its radius, greatly enhancing its effectiveness against dense armor invader crowds. In addition, it performs quite well against Eagles. As a result, if the mission type fits (Armored laser-heavy missions), Centurion with the Tungsten Warhead Apex is able to compete with classic speed-running ships. 
 
+[Click Here for More Advanced Speedrunning strategies](https://p2myth.club/docs/Cookbook/Centurion)
+
 ## APEX 2
 
 <img src="/ships/ship_92_apex_2.png" style={{zoom:1}}/>
