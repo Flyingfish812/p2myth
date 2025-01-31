@@ -4,6 +4,8 @@
 
 > Translated as nimbostratus cloud in French.
 
+> *cough cough cough* why so much smoke?
+
 <img src="/ships/ship_79.png" style={{zoom:1}}/>
 
 ## Basic Info
