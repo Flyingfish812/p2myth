@@ -58,6 +58,7 @@
 - If the next wave has two Eagles side by side, the best way to deal with them is to throw 3 VLs dead in the middle immediately after their arrival.
 - If the Eagles unfortunately separate from each other, you can remediate the situation by firing 2 VLs on each side, and then fly with the last VL to the middle of the screen to release a REMP. This technique is useful if the wave features four Eagles. Alternatively, you can simply scrap the run and try again. 
 - Sometimes 2 VLs are enough to eliminate two Eagles side by side. This is achieved by shield breaking through pre-fired main shots, since the damage they deal are roughly equivalent to a single VL.
+- [Click Here for More Advanced Speedrunning Tips](https://p2myth.club/docs/Cookbook/Jeria)
 
 ## Fun
 
