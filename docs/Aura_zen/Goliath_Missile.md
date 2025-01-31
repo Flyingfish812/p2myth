@@ -58,6 +58,8 @@ The details of this skill are listed as follows:
 
 The bonus of this APEX brings about a qualitative change because in armored stages, the health of ravens is 24, and the area damage of the Goliath Missile happens to be 24. In other words, one missile can clear out an area of armored ravens. This also makes speedrun possible because the release of the Goliath Missile can be considered instantaneous, and skipping a few ravens can save a lot of time.
 
+[Click Here for More](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/apexes-aura#tungsten-warhead)
+
 ## APEX 3: High Capacity
 
 - Game Description: Allows the ship to store an additional Goliath Missile.
@@ -69,6 +71,8 @@ The bonus of this APEX brings about a qualitative change because in armored stag
 
 Similar to the high-capacity APEX for Vorpal Lances, the demand for the Goliath missile for this APEX is not very high either. As a skill with area damage, the principle is to use it immediately when necessary. Holding onto missiles means your time will be wasted only using the main cannon and Zen against invaders. The only scenario where it might be useful is when facing four eagles appearing together or a group of heavier enemies, where you can unleash all the missiles at once for a burst of damage. But most of the time, four missiles are sufficient.
 
+[Click Here for More](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/apexes-aura#high-capacity-gm)
+
 ## APEX 4: Proximity Detonator
 
 - Game Description: Detonates when an Invader is nearby.
@@ -79,3 +83,5 @@ Similar to the high-capacity APEX for Vorpal Lances, the demand for the Goliath 
 > Editor: I don't know why, but I'm reminded of certain *Makeinu* female characters who explode with just a little touch.
 
 The bonus of this APEX is somewhat redundant. As a player of Goliath Missile, aiming accurately at the position is crucial, and sometimes even the slightest deviation is unacceptable. It can be said that hitting the missile accurately is a basic skill requirement. While this APEX ostensibly increases the margin of error, it also prevents more precise targeting. More precise targeting can be achieved through muscle memory training, which means your money can be saved to purchase more cost-effective APEXs.
+
+[Click Here for More](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/apexes-aura#proximity-detonator)
