@@ -8,6 +8,28 @@ You can [click here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs
 
 ## Version History
 
+### 7.2.3 Jan 27, 2025
+
+Crash fix
+
+### 7.2.2 Jan 26, 2025
+
+Happy New Year pilots around the world! We wish you all great health and good fortune. The Chinese New Year celebrates the **Year Of The Wood Snake** and we added some limited time player tag options for the occasion.
+
+This update also brings several fixes and improvements, as well as these additions:
+
+* Demotions have been disabled. Pilots will no longer be demoted when they fail to complete a daily mission.
+
+* VIP's now receive double the XP earned.
+
+* Unlocking VIP awards a new VIP badge, each time. This includes players who unlocked VIP in the past.
+
+We have even more content updates coming soon, but in the mean time be sure to let us know what you think or if you have any questions.
+
+### 7.2.1 Dec 17, 2024
+
+Merry Christmas to all the pilots around the world! To celebrate we have added several player tag options that will only be available during the holiday season. There are also some interface improvements and we are preparing some amazing updates for the new year!
+
 ### 7.2.0 Dec 6, 2024
 
 Enjoy the improved main menu and the fresh new mission selection menu in this brand new update. The new Missions menu offers a gorgeous new way to check and select your next mission.
