@@ -36,30 +36,7 @@
 
 <img src="/illustration/main_52.gif" style={{zoom:1}}/>
 
-## Survival
-
-- Valkyrie's main is pretty good at sniping turrets due to its rather highly focused fire. However, bear in mind one stream of bullets will likely to miss.
-- Phalanx is a very important tool to enable Valkyrie to navigate the field effectively. Use diagonal shovels to move around effectively.
-- Always deploy Phalanx before you charge MB. To be safe, you can charge somewhere about 3/4 from the top of the screen.
-
-## Speedrun
-
-- Phalanx allows to go up pretty close to the center of the field to pull off an MB. However, because Phalanx does not last long, often you will be slightly below the centerline. Put yourself further back when there are dart spreads.
-- Landing MBc on Eagles and Herons is not difficult unless they contain dart spread turrets. Otherwise, it is safe to land an MBc on them.
-- The ult for Phalanx helps Valkyrie a lot as you can aggressively reposition yourself by doing diagonal shoveling. To optimise the main however, with triple streams of projectiles, is difficult.
-- Always allow the burst of Valkyrie to complete before starting to charge MB. Otherwise, it'll be very awkward transiting out of MB.
-- After using MB, sweep the field with your main to destroy as many Ravens as you can since they will be severely damaged. This is why it is important to allow a burst of Valkyrie to complete otherwise the sweep will not be as effective.
-- Failure to sweep will likely result in Ravens regenerating their shields.
-- Unlike most ships, because Valkyrie's main is unwieldy, it is usually a good idea to even charge MB in a light wave. Just make sure you can pull off an MB the next wave as well. Phalanx is able to cover yourself for long enough to charge MB consecutively.
-
-## Fun
-
-- Valkyrie’s main is pretty satisfying to hear in action.
-- Set-ups for MB is a bit easier than several ships, allowing you to pull off MB a bit more.
-
-## Trivia
-
-- Valkyrie was only introduced into Phoenix 2 at v2.1.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-6#valkyrie)
 
 ## APEX 1
 
@@ -73,7 +50,7 @@
 - Price: 15000
 - Score: 3.27 / 5
 
-With Phalanx already being capable of repelling off the many pellets and shurikens in Pellet/Shuriken/Laser missions, this apex adds an even more powerful ability on top of it: Being able to deal very effectively against lasers as well. In fact, because there are still a lot of lasers, the Reflective Phalanx does enormous damage back against the invaders. The dense waves also provide a lot of Aura for you to abuse Phalanx for laser reflection, thus you usually don’t have to worry about running out of Phalanxes so long you keep reflecting lasers to keep up with destroying invaders and getting their particles. A very fun apex in such difficult Pellet/Shuriken/Laser missions that feature both dense bullet and laser densities.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-6#gamma-phalanx-reflector-c15000)
 
 ## APEX 2
 
@@ -87,7 +64,7 @@ With Phalanx already being capable of repelling off the many pellets and shurike
 - Price: 20000
 - Score: 2.73 / 5
 
-This apex is extremely useful in daily missions, especially in dense waves, particularly those with many Herons, as the Compressed Blast damage will decimate them very quickly.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-6#delta-mb-compressed-blast-c20000)
 
 ## Video Illustration
 
