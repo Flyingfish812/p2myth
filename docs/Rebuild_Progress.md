@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.5.0
+
+- Version: 1.5.0
+- Update time: 2025-02-02
+
+Update Phoenix 2 Wiki to mostly sync with v7.2.3. Also removed content from GameFAQs and link back to GameFAQs instead.
+
 ## V1.4.1
 
 - Version: 1.4.1
