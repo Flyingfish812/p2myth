@@ -36,25 +36,7 @@
 
 <img src="/illustration/main_80.gif" style={{zoom:1}}/>
 
-## Survival
-
-- The Double Defence does buy it quite some time to kill off invaders on screen. Be sure to utilize PS Phase Out in order to maximize your survival.
-- Unfortunately, Widget's main is an extreme crippling factor to its survival. The unique nature of the main, which targets invaders from left to right of the field is a hindrance to its survival.
-- This means that in waves where the Vulture or Eagles are behind, invaders on the right side of the field continue to survive even as the left side is eliminated, which keeps pumping in bullets.
-- Not to mention, front heavy waves with 2 Eagles also make the Eagle on the right side survive for a long time.
-- This is troublesome and you might have to completely switch over to the right side in hopes that Widget's main will hit the right side of invaders.
-- However, it is generally better to stay on the left side because this will eliminate the left side of invaders faster rather than staying on the right side and possibly spreading your DPS too thin among both sides of invaders.
-- In General/Boomerang missions, PS can be used as a last resort to block off boomerangs, while PD is generally used for everything else.
-- Be careful to reserve PS for the lasers in General/Boomerang missions as well.
-
-## Speedrun
-
-- PD and PS just doesn't give Widget any speed at all. The mission it can feature in have some lasers which give Widget only a slightly boost in speed.
-
-## Fun
-
-- There's really nothing else to do with this ship other than to dodge bullets and use your Aura and Zen when threatened.
-- The lasers fired by Widget are quite fun to watch.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-8#widget)
 
 ## Trivia
 
@@ -73,7 +55,7 @@
 - Price: 20000
 - Score: 4.18 / 5
 
-Despite the power of the Super Reflect Apex, this Super Reflect Apex is arguably the hardest of them all to use. The loud sounds of the OMNI Projectiles sometimes can overwhelm the laser charging sounds of the invaders, making it very hard to time Super Reflect correctly. However, pulled off well, this apex can deal pretty devastating damage to invaders which keep it alive without being pounded by too many rounds of lasers. PD helps to clear the field of bullets so that it’s slightly easier to time Super Reflect without the need to worry about crashing into bullets when charging PS.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-8#delta-ps-super-reflect-c20000)
 
 ## APEX 2
 
@@ -87,7 +69,7 @@ Despite the power of the Super Reflect Apex, this Super Reflect Apex is arguably
 - Price: 40000
 - Score: 4.18 / 5
 
-The sheer number of bullets in MIRV/Shuriken missions mean a ton of damage can be done to invaders of all types. With such an abundant supply of particles from the near instantaneous deaths of so many Ravens, the DPS of Widget is severely enhanced. What's more, you can also purposely activate MIRVs if the damage is not sufficient, which means more bullets to deal damage with. This is usually done when Vultures and above are about to die, so that you make sure you don't want out of PD just in case you need the defence. Otherwise, MIRVs from MIRV Bloomers just vaporize straight after they are emitted from PD, which ensures your PD doesn't drain too fast, yet be able to deal decent damage from the sheer amount of MIRVs eliminated.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-8#tau-pd-bullet-detonator-c40000)
 
 ## Video Illustration
 
