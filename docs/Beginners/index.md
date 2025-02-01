@@ -27,29 +27,8 @@ This guide is presented in Q&A format.
 
 Here’s what you need to know if it’s your first time playing:
 
-- Warp Gate:  Your first few Warp Gates may not always give you the best ships. Do not upgrade whatever you are given on impulse. Consult the Tier List in this guide to determine if a ship you have gotten from the Warp Gate is good. A ship with a survivability tier of S- or above in daily missions is acceptable for you to upgrade to.
-
-  If you are particular, it is better to get a ship with an AP weapon first (that deals with Armored missions), then a ship with an SB weapon (to deal with Shielded missions), and lastly, a ship with an HI weapon (that deals with Unprotected missions). If you cannot find such a ship, play the game without upgrades, putting the utmost focus into survival (looking at your core at all times).
-
-  Lower-rank missions won’t give you too much trouble, so you don’t necessarily have to invest in ship upgrades. You should be able to get to at least Lieutenant rank if you can dodge well enough.
-
-- Daily missions: On the first day or first few days you play the game, it is recommended that you grind through the daily mission several times, even if you cleared it. The purpose is to level up quickly and thus gain more credits.
-
-  It is recommended that you grind to level 8 to join a community and participate in a community mission to gain as many credits as possible (although you are very unlikely to be able to clear it).
-
-  You can participate in specialist missions when you get to a higher rank, such as Colonel (golden). However, please do not buy a ship to participate in specialist missions; instead, you should focus on what ships you have and try to clear with them. If the ship(s) on the roster is/are not one that you have, let it go.
-
-  You will find the mission difficulty distribution on the mission description page, which helps you determine which wave of enemy planes is more challenging to defeat.
-
-- Ship upgrades: If you are willing, search for videos of the ship you intend to upgrade before actually upgrading it to ensure it fits your playstyle. If you don’t intend to purchase credits, please note that ships are not created equal, so you want to spend credits wisely. Moreover, if you plan to buy credits, you need to know that the strengths of ships are not determined by their prices because plenty of expensive ships underperform (Super Rare≠better, Apex≠better). If you are in the Myth QQ group chat or on the Discord server, don't hesitate to ask for help; many are very happy to help!
-
-  Focus all your upgrades on that one ship you picked. Do not spread your credits across more than one ship. Even if you get a better ship from the Warp Gate, unless you have only invested 1 or 2 upgrades into your current ship, continue to completely ult that ship you were focused on.
-
-  Once you have fully ult-ed your first chosen ship, you should have gotten many other ships already, many of which should be pretty survivable. Focus on diversifying your ship collection. This means getting an SB ship if your first ship upgraded is an AP ship, or vice versa. If your ship is an HI ship, focus on ult-ing an AP ship next, then finally an SB ship.
-
-  Focus on staying in your current rank (not clearing one of the three missions prevents you from promoting) until you get your collection of 2 or 3 ships fully ult-ed.
-
-  Once you have 2 or 3 ships fully upgraded, you can look to buy and ult some of the best survival ships out there once they appear in the shop, meaning those with an X Tier rating for survivability. Remember to save up at least 3000¢ so that you can buy the ship once it hits the shop. When you have fully ult-ed these extremely survivable ships, push yourself to Marshal rank and beyond!
+- [Warp Gate Tips](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/general#warp-gate)
+- [Beginner's Guide](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/general#beginners-guide)
 
   According to the current meta, it is recommended that beginners avoid most ships with Single Shot, Spread Shot, Continuous Stream main weapons/Barrier/Laser Storm/Point Defense/Kappa Drive, or all ships with Phalanx/Ion Cannon/Goliath Missile/Focus Lance/Clover ATS.
 
@@ -92,15 +71,7 @@ In Phoenix 2, asking for permission to join the community is unnecessary. You ne
 
 ## 5. What’s a Firi Account for?
 
-Creating a Firi Account allows you to ensure your precious game progress, including your ships, levels, and ranks, are saved no matter what. Even if there's something wrong with your Phoenix 2 app, your device, or whatever other problems you may face accessing the game, which necessitated the deletion and re-installation of the Phoenix 2 app. (You may sometimes need to delete Phoenix 2 because it is taking up too much space. This accumulation of space may occur when you recorded too many videos without saving them or failed to press the stop recording button before force closing Phoenix 2, causing the videos you recorded to remain part of the Phoenix 2 app.)
-
-It also allows you to use the same progress on other devices, with up-to-date game data and high scores. It's possible to play the same Firi Account on two separate devices. However, they must not be online simultaneously; otherwise, one will be forced to log off when the other device logs in.
-
-To create a Firi Account, tap Pilot on the main menu, tap Sign In, type in the email you wish to use and your password, and tap Create Account. Bear in mind the email doesn't even need to be a valid email (although it is preferable it is valid because logins on new devices will need confirmation links sent to that email address), so long it is in the format _@_._, it will be recognized as a valid email.
-
-You can log off or switch your Firi Account in the same way. At the window pop-up, tap on Sign Out. To log back in, do the same to get the window pop-up. Type in your email and a confirmation link will be sent; then click the link to log in. If you wish to use your password to log in, please type in your email three times because the confirmation link will be sent twice before the game realizes the link cannot be received and thus switches to password login.
-
-If you forget your password, you can always click the confirmation link sent to your email to log in. You will need a valid email address to be able to do this. If you want to change your password, use the form in this link: https://proxy-users.firigames.com/change-password. If you want to change your email address for the Firi Account, please get in touch with the dev EL directly through support@firigames.com. Also, if you lost your account, whether it is a local account that only exists on your current device (without a Firi Account) or your Firi Account, please get in touch with the dev EL in the same way as above to retrieve it through support@firigames.com.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/general#firi-account)
 
 ## 6. Are there any fundamental game mechanics?
 
@@ -122,25 +93,7 @@ Completion of a Community mission rewards you with 400¢. Completion of a non-co
 
 ## 7. Are there any patterns to Warp Gate activations?
 
-Your 1st Warp Gate, when you first install the game, is available for activation immediately. It always gives either of these three ships: Veil, Tempest, or Jericho.
-
-Your 2nd Warp Gate activation comes 30 minutes after your first one. It will guarantee a Rare-rarity ship.
-
-Your 3rd Warp Gate activation comes 3 hours after your 2nd activation. The 4th Warp Gate comes 6 hours after the 3rd activation. Subsequently, Warp Gate activations come 12 hours after the previous.
-
-Warp Gate activations cannot be stacked. In other words, the timer for the subsequent Warp Gate activation only begins after its previous activation is complete. The following timer starts after you tap the Activate button, so you can admire your Warp Gate reward however long you like without affecting the next activation time.
-
-There are four types of rewards for activating the Warp Gate:
-
-1. Get a Supply Drop. This rewards you with 2 revives, with either 50¢, 150¢, or 300¢. However, if you have all the ships fully ult, you may sometimes receive an exceptional Supply Drop that gives you only 100¢, without revives.
-
-2. Get an upgrade for an existing ship you already have. This upgrades a random stat from the three ship stats (Main Weapon, Aura, or Zen) by one level. It is also possible to get the ultimate upgrade through this way. In this case, a fully ult-ed ship will not be included in the potential pool of ships. There also appears to be no distinction between the rarities of ships, so any existing ship you have (even if it's a Super Rare) has equal odds of being upgraded when you receive an upgrade. However, an upgrade of a higher credit value is more unlikely to occur than an upgrade of a lower credit value.
-
-3. Get a new ship you never got before. This unlocks the ship forever with a 1-1-0 stat. You cannot get ships you have unlocked by activating the Warp Gate.
-
-4. Get an Apex. This is EXTREMELY RARE, occurring once every three years on average. You can get an Apex at any time, whether you have not unlocked the ship, have not fully ult-ed it, or if it is already fully ult. No matter the current stats of that ship, it will become fully ult-ed, and the Apex will become unlocked forever. You cannot get Apexes that you already own by activating the Warp Gate.
-
-Rewards do not get better or worse the further you progress in the game. It generally appears the rewards get worse (50¢ + 2 revives), but this is because you would get more and more ships unlocked as you play more. Thus, you will have fewer chances of unlocking a new ship.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/general#warp-gate)
 
 :::tip[Hint]
 
@@ -150,19 +103,7 @@ According to some players, the Warp Gate will probably give you a ship's upgrade
 
 ## 8. What are revives for?
 
-Revives are a way to make missions less of a grind. You die in Act 4 or 5 in a difficult mission. Do you want to go through all of those lame Acts (usually occur in Marshal rank Solo Specialist missions) again? Probably not. You want to clear, but fighting to Act 4 or 5 again is very time-consuming. Instead, you want to hop back in, so that's where revives come in. Because revives enable you to start over in Wave 1 of the Act you died in. You don't need revives to clear a mission, and you shouldn't use revives unless you get stuck with the transition from 4-4 to 5-1 or are in a bit of a rush of time to clear the mission.
-
-You will revive with the amount of Aura energy JUST as you kill the last invader in Wave 4 of the previous Act. Particles picked up after that during the Act transition will not be accounted for when you revive. Thus, collecting enough particles to completely refill your Aura before killing the last invader is better.
-
-When you revive, the field is clear of bullets and particles. You don't have to deal with the leftover bullets from Wave 4 of the previous Act. All barriers deployed will also disappear. A time penalty will also be added to your final precise time each time you revive. 
-
-## 9. What is the timing logic of the game?
-
-The game automatically records your time for each run. The recorded time is updated in Wave intervals. For instance, if you are in 4-4, the current time recorded is the total time you spent in the three earlier Acts, 4-1, 4-2, and 4-3. If you failed to clear 4-4, your final time will be the recorded time when you cleared 4-3, and the time elapsed on 4-4 will not be counted.
-
-If you use revives to clear a mission, the time taken on the Act you died on is added to your final time (the timer "continues to run"). This means if you died at say, 5-3, then the time taken on 5-1 and 5-2 is added to your final time. However, unlike the leaderboard timings for non-clear runs which only records the time of entry into 5-3, whatever amount of time between the instance you enter 5-3 (the wave you died on) and the example of death is also counted into your final time. On top of this, 5 seconds is added as a penalty for each revive.
-
-For example, if you used a revive on 5-3 and then managed to clear a mission, your final time will be the sum of the total time spent from the start of the game to clear 5-2 before reviving + time spent on 5-3 until death + time spent to clear Act 5 after reviving + 5 seconds penalty. As you can see, claiming top spots on the leaderboard with revive usage is hard.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/general#phoenix-revives)
 
 ## 10. How do you interpret in-game ship stats?
 
@@ -202,145 +143,15 @@ The customizable content for the nameplate includes:
 
 ## 12. Any in-game tips for beginners?
 
-After each game, the game gives you a random tip at the leaderboard screen (before the credit reward screen, if you gained any credits by clearing new waves). Some of these tips are generic, some are gameplay-specific, and others are ship-specific. The tips are roughly categorized as shown below:
-
-Gameplay
-
-- Trigger MIRVs early by moving close to them, then retreat. Spread-out bullets are easier to avoid.
-
-- Fly an offensive ship aggressively and target dangerous Invaders first.
-
-- If you struggle with a mission, try it with a different ship.
-
-- Each ship's unique combination of weapons, Aura and Zen, can unlock unexpected strategies. Experiment!
-
-- Fly close to enemy bullets to earn bonus energy, called grazing.
-
-- Score a top position with an unusual ship to earn respect from other pilots.
-
-Acquisition & Upgrading of Ships
-
-- Completely upgrade a ship to see its Apex forms.
-
-- Unlock everything on a ship to see its advanced forms.
-
-- Your favorite ship can become even more potent once you upgrade it completely.
-
-- Apex forms enhance the abilities of a ship and add new strategic value.
-
-- Some ships have powerful extra weapons and can teleport or create shields. Try them out.
-
-- Ships have very different abilities. Try them out and see how far you get.
-
-- Apex forms are more than a paint job. They enhance abilities and open up even more strategies.
-
-- Find your style and try other ships.
-
-General
-
-- Create a community where you can play with your friends.
-
-- Watch ads in the Warp Gate tab. They replenish after a while.
-
-- Discuss Phoenix 2 ships and strategies with other players via the Community tab.
-
-- Tap on a ship in the Ships tab or Play tab to view upgrade options.
-
-- Use your Firi Account to play on multiple devices with the same pilot.
-
-- Get new ships from the Warp Gate. The offer changes every few hours.
-
-- Impress other players on the leaderboard with your unique ship choice.
-
-- Watch ads in the Warp Gate tab for extra credits and revives.
-
-- Create a Firi Account in the Pilot tab to back up your progress.
-
-- You can earn more credits by playing Community and Specialist missions.
-
-- Tap the mission icons in the Play tab to see leaderboards, your score, and mission Intel.
-
-- You can always review Mission Intel by tapping the mission icons in the Play tab.
-
-- Send questions and love letters to phoenix2@firigames.com
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/general#in-game-tips)
 
 ## 13. How to survive in a bullet hell?
 
-The more beginner survival tips are at the top, while more advanced ones are below.
-
-- As a complete beginner, concentrate on your core, as it's the only thing that matters. Invaders are generally secondary. Once you get better, you can focus on the invaders, whether you have a main weapon or an aura that needs aiming.
-
-- Auras and Zens are meant to be used. USE THEM! For Auras, it is better to wait for a decent size (for radius-based Auras) before you use them (about 3/4 of full size is fine). For counter-based Auras, while it is best to try to leave one counter left for emergencies, deplete them where necessary. You rather die later than earlier. You can always leave one invader alive at the end of the wave to collect all your particles to refill your Aura or counters. Most importantly, abuse Zens as much as you can. You can constantly adjust your usage of both Aura and Zen accordingly. Don't hold back from using them; you can always change your usage later.
-
-- It is better to move slowly than to move fast. Moving fast causes bullets to spray all around the field in apparently random patterns and lasers to aim everywhere, making it difficult to dodge them all. This is particularly important when facing enemy tracking turrets.
-
-- There is no need to wait for a full-size Aura to use it. This is because getting a full-size Aura means you will likely be wasting particles.
-
-- Offensive Auras and Zens are meant to be used at the first opportunity. Don't hold back in using them, as that will result in the field getting flooded with bullets quickly!
-
-- Turn on the volume whenever possible because this game has plenty of sound cues. The most essential sound cue is the one for complete Zen recovery. Despite an animation for that (halo emitting from the ship briefly), our eyes mainly focus on a screen full of bullets or invaders instead of this short animation, so sound cues are more reliable. You can toggle off the background music and leave the SFX volume on to hear it more clearly.
-
-- Try not to head upfield. Stay below the centerline so that you can conserve particles. Particles come to you naturally, so you'll usually get enough particles. If there is a lack, push up above the centerline to collect more particles, then head back down.
-
-- Try your best to aim at turrets (since your main weapon requires you to aim manually), as popping turrets off will give you an easier time surviving with fewer bullets or lasers on screen. Always aim at the most dangerous turrets (you'll learn to recognize dangerous turrets as you play).
-
-- Turret priority elimination is very important. Learn to prioritize which turrets to eliminate first. The mission intel will tell you, in general, which turrets are more dangerous. However, eliminating the most hazardous turrets first is not always in our interest. Instead, it is sometimes in better interest to completely eliminate one type of turret from the field first, particularly when faced with a long battle such as with a Roc. For example, it might be better to eliminate the 2 tracking laser turrets on the Roc instead of the MIRV Bloomers and Spinners if those are the only 2 laser turrets. That being said, different ships have different strengths, and you have to figure out the biggest weakness of the ship and determine which type of bullet or laser to use properly.
-
-- Don't let the screen shake of invaders exploding bother you. Do not blame the game for its screen shakes and say that it is inhibiting your ability to succeed in this game. A proper Aura and Zen usage is enough to clear Marshal rank missions consistently, and you do not need to perform very delicate dodging.
-
-- Graze! Grazing is an essential skill in this game. Grazing is almost always needed in higher leagues as it allows you to gain Aura even if there is a shortage of particles on screen. In particular, it is beneficial for defensive radius-based Auras such as BEMP, Barrier, or PD. It is easier to graze darts. Pellets are also a good source of grazing. While it is possible to graze other types of bullets and even lasers, it is much more difficult.
-
-- Blind Spots. In certain waves, there are certain spots that you can hide in and be safe from a whole mess of bullets approaching you. One way to start finding the spots is to see the turrets. If there are many spread turrets, there is a high chance there is a blind spot somewhere. Low-tier spin turrets can also mean a blind spot is possible. Shuriken Launchers turn slowly, which can be taken as spread turrets. Just be careful to plan an escape route when they eventually turn to face you if you can't kill them in time. The best way to find blind spots is to record and review your runs. It is much more difficult to see blind spots when actively playing instead of passively watching yourself play.
-
-- A ship of higher rarity is not always better than a ship of lower rarity. Consult the Tier List to learn more about the ship before upgrading it.
-
-- The main weapon is less than half the picture regarding a ship's survivability. The Aura and Zen individually and how well everything works hand in hand are extremely important, so look out for good Aura-Zen combinations instead.
-
-- While unrelated, it is easier to survive when playing with a stylus than with a finger. An Apple Pencil works best for this purpose. If you cannot afford it, a precision disc stylus works very well, too. A smooth tip stylus also works very well, like mesh fiber tips. Be careful with silicon or rubber tips, as the friction may be troublesome. Using your finger often blocks the bullets behind you, which hinders you from retreating from a wall of bullets.
-
-- Get as big of a screen as possible to play on. (However, I do not suggest using an external screen since you cannot align your touch with the ship controls unless you have good mirroring capabilities.) The bigger the screen, the easier it is to spot tiny bullet gaps. It is also easier for you to guide yourself through the smallest gaps.
-
-- While unrelated as well, playing other bullet hell games also helps (but is not necessary). Find games of a similar genre, such as Bullet Hell Monday or Touhou Project. Hell, even the original predecessor game, Phoenix HD, is the perfect practice for dodging. (Plus, it is way more forgiving since you have health and don't die in one hit.) Other types of popular shmups like Sky Force Reloaded and Air Attack don't help as much as the bullet density is not very high, and the concept of only being able to be hit at your core is not present since the whole ship is essentially the hitbox in these games.
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/general#general-survival-tips)
 
 ## 14. How to practice speed-running?
 
-- Practice, practice, practice. On the ships that you want to speedrun on. You need to know all about your ship to pull off speed-running very well with it.
-
-- Prepare to die. A LOT. Especially on stupid stray bullets. Most importantly, if you want to learn speed-running, never give up, and don't let setbacks like these put you off. Prepare even to face frustration as you may die at the last wave, sometimes even the last Sparrow, from the most stupid mistake.
-
-- Know and/or memorize the wave compositions, and plan how to use your Auras and Zens on each wave accordingly. Consistency is one of the most essential factors in speed-running, even with the presence of RNG.
-
-- To deal with RNG, pre-fire your offensive Auras and Zens (at least those that involve RNG, such as VL) just milliseconds before the wave fully arrives so that the invaders do not have enough time to separate from each other.
-
-- Never hold back on Auras or Zens. Use them at the first opportunity. Ideally, make sure that there is less than enough damage being dealt to kill all the invaders on the field (with the exception of Acts 1-3 and LS). Otherwise, you are wasting particles. (This statement is not absolute. Still, you don’t want to deal too much excessive damage.)
-
-- Thus, careful collection of particles is very crucial. Make sure you try your utmost best not to overfill on Aura, push back to the bottom or one side of the field, and quickly launch your Aura. Then, go back up to collect more particles if they fit.
-
-- Know your ship's main weapon. Uninterruptible Burst weapons are highly recommended as you can charge your Zen as the burst starts to go off. (Krab got a significant nerf because of this.)
-
-- Predictive killing. For many main weapons, to completely optimize your speed, you must know your ship's main weapon interactions with invaders. This means for Continuous Stream weapons; you must know how long each type of invader needs to be exposed to your main weapon before it is destroyed, while for burst weapons, it is how many projectiles of the weapon before it dies (or sometimes it is also the duration of exposure). Once you know these numbers, you should quickly switch to another invader when you know you have exposed that targeted invader to long enough of your main weapon, with a slight bit of allowance time (lower than 1s).
-
-- The same predictive killing also applies to Auras and Zens, as you can start charging your Zens when you know that the Aura and main weapon (in the case of burst weapons) can kill off the rest of the wave.
-
-- Burst main weapons are also good, as you can attempt to charge your Zen between wave transitions to reset the burst. When the next wave fully arrives, you can then opt to cancel charging the Zen if there's not enough time, and the burst will fire immediately.
-
-- It is easier to graze bullets from some turrets than others. Pellets and darts are easier to graze. Grazing boomerangs are not recommended unless they come from a T1 boomerang turret. Do not attempt to graze tracking lasers as you are more likely to die from not keeping up with the speed. Do not destroy those easier-to-graze turrets because it is an excellent opportunity to quickly build up your offensive Auras. Kill off only the turrets that cause trouble in dodging.
-
-- Pace regulation. Sometimes, going too fast hurts you more. This is because the Zen you have used for the offense has not recovered completely when the next wave has arrived, meaning longer charge times, resulting in more likely deaths. If you consistently notice your Zen taking too long to charge for a particular wave, you might want to slow down the previous wave. Of course, you should also consider reallocating your Zen usage to other waves.
-
-- Lightning-fast bullet vector calculations. You need to be able to very quickly calculate where the remaining bullets on the field (after the last invader of the current wave is dead) are headed and find a safe spot where no bullet paths will intersect your planned core location. This is to charge MBs or MLs safely and very quickly. Boomerangs will be the hardest to master because of their predictive movement. If you wish to improve, try charging MB or ML mid-wave (such as from Wave 1 to Wave 2) to practice.
-
-- If you are using an SB ship, try to let your main weapon strip the shield before launching any form of offensive Aura against it. This is because most Auras and Zens have no affinity and do not deal bonus damage to shields, unlike SB weapons. Usually, due to the non-zero charging time of Zens, Zens have to be used when the wave first comes in. It is not always true, however, especially for quick-charging offensive Zens like REMP.
-
-- Try to aim your Auras and Zens directly at the cockpit of Armored invaders since that will bypass the 30% damage reduction unless you have an Apex that has an AP Aura or Zen. If you are using a non-AP weapon (in the case of Community missions), aim your main weapon at the cockpit of Armored invaders, too.
-
-- During wave transitions, push yourself all the way to the bottom of the screen. You can push up when the wave comes where necessary. This allows you to stack your ship's projectiles (such as Phoenix’s main) and briefly boost DPS during the upward push.
-
-- Grazing a pellet MIRV is possible (highly recommended). If you are right beside an MIRV just milliseconds before it explodes, you can graze all 30 of its released pellets simultaneously and this is enough to charge a (near) full Aura from an empty Aura. However, it is extremely risky and challenging, and I do not suggest trying it unless you know what you are doing.
-
-- A little unrelated to gameplay, but it is generally easier to speedrun with a stylus than with a finger. The best type of stylus is a smooth tip stylus, like a mesh fiber tip. A precision disc stylus works fine, too (you find it better as well since you may see your core much more easily than a mesh fiber tip), but beware that contact will break beyond a certain angle for such a stylus. Do not use a rubber or silicon tip as those have friction, which hinders sliding across your screen quickly. A stylus allows you to move around much more quickly and does not potentially hurt your finger from friction.
-
-- A smaller device is better than a bigger device for speed-running (I doubt that). You need to slide less to rapidly re-position than a larger device. But if you have a stylus, an iPad Mini works pretty well, too. The iPad Mini perfectly balances between being able to speedrun effectively and dodge fast. Anything bigger than an iPad Mini will have problems as the screen is too big to see all the action happening on the screen at once. Also, a bigger screen means it's harder to calculate bullet vectors (as mentioned above). This is why even though an Apple Pencil works best for speed-running because it only works on iPads or iPad Pros, the screen size makes it hard to recommend. (I personally play on iPad Pro with my fingers. I hope you find what suits you best.)
+[Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/general#general-speedrunning-tips)
 
 ## 15. I’ve read it all, but I’m still unsure how to improve. What should I do?
 
@@ -354,7 +165,7 @@ The more beginner survival tips are at the top, while more advanced ones are bel
 
 **Q. Are there any technical terms in this game?**
 
-A. Please head over to the Glossary page on our website.
+A. Please head over to the [Glossary](https://p2myth.club/docs/Beginners/Terms) page on our website.
 
 **Q. How do I earn credits?**
 
@@ -394,7 +205,7 @@ A. You can find it in [Google Play Store](https://play.google.com/store/apps/det
 
 **Q. How do I demote?**
 
-A. You are demoted if you clear none of the daily missions.
+A. It is NOT possible to demote since v7.2.2.
 
 **Q. Which ships are worth practicing?**
 
@@ -424,7 +235,7 @@ A. First, make sure you have a Firi Account. Then, search for Phoenix 2 in Purch
 
 **Q. Can I try out different ships?**
 
-A. Recently, the process of switching accounts has been complicated, and there have been precedents of malicious destruction of shared accounts, so there is a certain threshold for providing shared accounts. If you want to try some ships, ask __The One and Only FBI__ (Discord) or go to [Reddit Forum](https://www.reddit.com/r/Phoenix_2/) and ask __u/Phoenix_Revive__ to borrow an account.
+A. Recently, the process of switching accounts has been complicated, and there have been precedents of malicious destruction of shared accounts, so there is a certain threshold for providing shared accounts. If you want to try some ships, ask __FBI Davination__ (Discord) or go to [Reddit Forum](https://www.reddit.com/r/Phoenix_2/) and ask __u/Phoenix_Revive__ to borrow an account.
 
 :::warning[Attention]
 
