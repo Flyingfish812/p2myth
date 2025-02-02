@@ -9,7 +9,7 @@ sidebar_position: 2
 - Version: 1.5.0
 - Update time: 2025-02-02
 
-Update Phoenix 2 Wiki to mostly sync with v7.2.3. Also removed content from GameFAQs and link back to GameFAQs instead.
+Update Phoenix 2 Wiki to mostly sync with v7.2.3. Also removed content from GameFAQs and link back to GameFAQs instead. Welcome leafamphii to our Gallery page!
 
 ## V1.4.1
 
