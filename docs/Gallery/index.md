@@ -6,6 +6,29 @@ Here is a collection of artwork from the Phoenix 2 players.
 
 If you would like to share your artworks here, please contact me.
 
+## leafamphii
+
+<img src="/Gallery/leafamphii/Merrick%20%2B%20Khier%20%2B%20Liss.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Neni%20%26%20Kibarrax.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Jeria%20Sigma%20%26%20Essin%20Gamma.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Ex04239%20Phi%20ML%20Twin%20Laser%20Gap%20cartoon.png" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Mian%20%26%20Liss.png" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Ex04239%20Leaderboard%20Spam.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Phoenix%202%20Dec%202024%20Calendar.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Humanoid%20Invaders.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Humanoid%20Invaders%20Sketch.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Corsair%20%2B%20Sigma%20%2B%20Tau.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Turret%20Collision%20Cartoon.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Ex04239%20Phi%20Doodle.png" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Ex04239%20Sigma.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Nimbus%20%2B%20Epsilon%20%2B%20Sigma.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Proxymar%20%2B%20Jeria%20Sigma%20%2B%20Exarch%20Omega%20%2B%20Ex04239%20Sigma%20%2B%20Nimbus%20Sigma.png" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Jeria%20%2B%20Epsilon%20%2B%20Sigma.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Ex04239%20Leaderboard%20Sketch.png" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Ex04239%20%2B%20Sigma%20%2B%20Phi.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Mist%20Star%20%2B%20Polaris%20%2B%20Ex04239%20%2B%20Lorilou.jpg" style={{zoom:0.5}}/>
+<img src="/Gallery/leafamphii/Veil%20%2B%20Mist%20Star%20%2B%20Buhloo%20%2B%20Kibarrax%20Sketches.png" style={{zoom:0.5}}/>
+
 ## Soulfire
 
 ### Season 1
