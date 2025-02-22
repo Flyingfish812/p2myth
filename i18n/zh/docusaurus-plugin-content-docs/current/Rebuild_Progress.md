@@ -4,6 +4,20 @@ sidebar_position: 2
 
 # 网站版本信息
 
+## V1.5.1
+
+- 网站版本：1.5.1
+- 更新时间：2025-02-22
+
+同人文“银河浴火”第八章更新。
+
+## V1.5.0
+
+- 网站版本：1.5.0
+- 更新时间：2025-02-02
+
+来自FBI Light Rock: Update Phoenix 2 Wiki to mostly sync with v7.2.3. Also removed content from GameFAQs and link back to GameFAQs instead. Welcome leafamphii to our Gallery page!
+
 ## V1.4.1
 
 - 网站版本：1.4.1

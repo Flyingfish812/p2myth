@@ -5,6 +5,8 @@ sidebar_position: 7
 # Chapter 6：After a Narrow Escape
 
 > Author: 菁鸟
+>
+> QQ group for discussion: 1033646945
 
 ### 1
 

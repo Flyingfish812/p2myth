@@ -5,6 +5,8 @@ sidebar_position: 4
 # Chapter 3: Fireworks in Space
 
 > Written by: 菁鸟
+>
+> QQ group for discussion: 1033646945
 
 ### 1
 

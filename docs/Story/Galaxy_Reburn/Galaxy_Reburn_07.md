@@ -5,6 +5,8 @@ sidebar_position: 9
 # Chapter 7: Prometheus Array
 
 > Author: 菁鸟
+>
+> QQ group for discussion: 1033646945
 
 ### 1
 

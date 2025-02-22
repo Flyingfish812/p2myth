@@ -5,6 +5,8 @@ sidebar_position: 6
 # Chapter 5: Her Volition
 
 > Written by: 菁鸟
+>
+> QQ group for discussion: 1033646945
 
 "No one knows when this war will end. And all we can do is pave the way for that unknown future."
 
