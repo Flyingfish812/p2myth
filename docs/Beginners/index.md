@@ -205,7 +205,7 @@ A. You can find it in [Google Play Store](https://play.google.com/store/apps/det
 
 **Q. How do I demote?**
 
-A. It is NOT possible to demote since v7.2.2.
+A. You are demoted if you clear none of the daily missions.
 
 **Q. Which ships are worth practicing?**
 
@@ -235,7 +235,7 @@ A. First, make sure you have a Firi Account. Then, search for Phoenix 2 in Purch
 
 **Q. Can I try out different ships?**
 
-A. Recently, the process of switching accounts has been complicated, and there have been precedents of malicious destruction of shared accounts, so there is a certain threshold for providing shared accounts. If you want to try some ships, ask __FBI Davination__ (Discord) or go to [Reddit Forum](https://www.reddit.com/r/Phoenix_2/) and ask __u/Phoenix_Revive__ to borrow an account.
+A. Recently, the process of switching accounts has been complicated, and there have been precedents of malicious destruction of shared accounts, so there are rules when using shared accounts. For example, do not spend credits or revives on the account. Do not join or leave communities without seeking approval from the owner. Do not promote nor demote the account - if you are afraid of this, simply play only the community mission. If you want to try some ships, ask __FBI Davination__ (Discord) or go to [Reddit Forum](https://www.reddit.com/r/Phoenix_2/) and ask __u/Phoenix_Revive__ to borrow an account.
 
 :::warning[Attention]
 
