@@ -6,6 +6,12 @@ This is a Blue Archive / Phoenix 2 fanwork.
 >
 > QQ group for discussion: 1033646945
 
+:::info[Note]
+
+This story is written in Chinese. If you are interested in the story, please use translators.
+
+:::
+
 ### Intro
 
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=113369067558627&bvid=BV15SyXYxEjs&cid=27949926373&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"></iframe>

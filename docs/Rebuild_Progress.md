@@ -4,6 +4,13 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.5.2
+
+- Version: 1.5.2
+- Update time: 2025-07-09
+
+Update: Chapter 9 for the story "Galaxy Reburn"
+
 ## V1.5.1
 
 - Version: 1.5.1

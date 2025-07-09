@@ -6,6 +6,12 @@ This is the side story of this fanwork.
 >
 > QQ group for discussion: 1033646945
 
+:::info[Note]
+
+This story is written in Chinese. If you are interested in the story, please use translators.
+
+:::
+
 ### 1
 
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=113654733214186&bvid=BV1VEqoYmEXa&cid=27803058859&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"></iframe>

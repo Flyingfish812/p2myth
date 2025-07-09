@@ -8,438 +8,431 @@ sidebar_position: 10
 >
 > QQ group for discussion: 1033646945
 
-:::info[Note]
-
-This chapter is written in Chinese. If you are interested in the story, please use translators.
-
-:::
-
 ### 1
 
-鲍克斯迈尔略微抬起自己的帽子表示致意。
+Proxymar slightly tipped his hat as a gesture of greeting.
 
-“您、您好！”戴沙率先慌慌张张地鞠躬，转头看见凤凰还在呆滞地看着鲍克斯迈尔，连忙偷偷拍了一下对方的手背。
+"H-hello!" Disar was the first to bow nervously, then turning to see Phoenix still staring blankly at Proxymar, she quickly gave her friend's hand a discreet tap.
 
-“喔——您好！”凤凰这才回过神来，余光瞥见戴沙正弯着腰，立即也躬身表示敬意。
+"Oh—hello!" Phoenix finally came to her senses, and noticing from the corner of her eye that Disar was bowing, she immediately bent forward to show respect as well.
 
-鲍克斯迈尔爽朗地笑了几声，扶住二人的肩，示意道：“不必拘谨，孩子们。你们不是联盟军的士兵，无需对我们行礼。”
+Proxymar laughed heartily, placing his hands on their shoulders, indicating: "No need to be so formal, children. You're not Alliance Army soldiers, there's no need to salute us."
 
-凤凰感受到肩部微微的推力，顺势直起身子，对上鲍克斯迈尔的目光。
+Phoenix felt the gentle pressure on her shoulder and straightened up accordingly, meeting Proxymar's gaze.
 
-“能和鲍克斯迈尔先生认识是我们一大荣幸！”戴沙一边说，一边将腰板挺得笔直。相比之下，凤凰显得格外放松。
+"It's a great honor to meet you, Mr. Proxymar!" Disar said, standing ramrod straight. In contrast, Phoenix appeared notably more relaxed.
 
-鲍克斯迈尔抬起左臂，右手在手腕处轻点两下，一个小巧的腕带装置立即被启动，投影出淡蓝色的全息屏幕。
+Proxymar raised his left arm and tapped twice on his wrist with his right hand. A small wristband device immediately activated, projecting a light blue holographic screen.
 
-“按照规定，非联盟军人员只能在此逗留一天。现在已是普罗米修斯阵列的深夜，因此你们的血液测试被安排在了明天清晨。”鲍克斯迈尔解释道，“我此番前来，是来带二位前往宿处——想必二位应该看得懂银河通用文。”
+"According to regulations, non-Alliance Army personnel can only stay here for one day. It's already late night in the Prometheus Array, so your blood tests have been scheduled for tomorrow morning," Proxymar explained. "I've come to escort you both to your accommodations—I presume you can read Galactic Standard?"
 
-投影展示出一幅地图，一行行银河通用文被箭头指向一间客房。融合了各大星球文字特点的字符，让戴沙不难辨认出上面正是自己的名字。
+The projection displayed a map with lines of Galactic Standard text pointing to a guest room with arrows. The characters, which combined features from various planetary writing systems, made it easy for Disar to recognize her own name.
 
-“戴沙，外宾接待区……”凤凰小声念着。
+"Disar, Visitor Reception Area..." Phoenix read quietly.
 
-戴沙将地图端详了一遍，各种设施的名称都被十分详细地以多种语言标注，但那些字符里却没有任何意为“凤凰”的存在。她还以为自己漏掉了什么，连忙揉揉眼再仔细观察了一番，还是没能找到第二个标识。
+Disar examined the map thoroughly. The names of various facilities were labeled in detail in multiple languages, but there were no characters representing "Phoenix" anywhere. Thinking she might have missed something, she rubbed her eyes and looked carefully again, but still couldn't find a second marker.
 
-“咦，那我呢？”凤凰自言自语地疑惑道。
+"Wait, what about me?" Phoenix wondered aloud.
 
-听罢，戴沙更肯定了自己的判断：“凤凰不住在这里？”
+Hearing this, Disar became more certain of her observation: "Phoenix isn't staying here?"
 
-“说来惭愧，近日拜访总部的各界人士太多，外宾接待区只剩下一间供单人休息的住处。”
+"I'm embarrassed to say that with so many visitors to headquarters recently, there's only one single-occupancy room left in the Visitor Reception Area."
 
-“啊……”凤凰有些不好意思地移开视线，“我和戴沙挤一挤也能行的，给您添麻烦了……”
+"Ah..." Phoenix looked away awkwardly, "Disar and I could squeeze in together, sorry for the inconvenience..."
 
-鲍克斯迈尔看向凤凰，继续道：“好在有一位希普斯战士愿意分享自己的宿舍，只能委屈凤凰小姐去希普斯人住宿区休息一晚。”
+Proxymar looked at Phoenix and continued: "Fortunately, a Shipsian warrior has agreed to share their quarters, so I'm afraid Miss Phoenix will have to stay in the Shipsian residential area for the night."
 
-——哪里？
+"—Where?"
 
-凤凰一愣，仿佛被定在了原地，直直盯着鲍克斯迈尔的眼睛看。
+Phoenix froze, as if rooted to the spot, staring directly into Proxymar's eyes.
 
-希普斯人住宿区？
+The Shipsian residential area?
+Living with active-duty Shipsian warriors?!
 
-和现役的希普斯战士们住在一起？！
+"Is it me?"
 
-“是我吗？”
+"That's right."
 
-“没错。”
+"Really?!"
 
-“真的？！”
+She could hardly believe it, exclaiming loudly.
 
-她还有些不敢置信，高呼出声。
+Proxymar nodded with a smile.
 
-鲍克斯迈尔笑着点头。
+Phoenix nearly fainted from excitement. She had thought that merely meeting many Shipsians, or even sharing a room with them, would be incredibly fortunate. After all, for ordinary citizens, these great warriors only appeared in their lives as news headlines or television programs.
 
-凤凰差点要激动到晕过去。她本以为和许多希普斯人有相遇相识、甚至共处一室的经历，就已经是非常幸运的事情了。毕竟，对于普通民众来说，这些伟大的战士只会以新闻头条或者电视节目的方式出现在他们的生活中。
+To be able to interact with them at such close proximity felt like she had used up a lifetime's worth of luck.
 
-而能与他们像这样近距离接触，这简直是像花光了一辈子的运气。
+"Aaaah! Phoenix, you're so lucky!!" 
 
-“啊啊啊！凤凰你可太走运了！！”
+Disar pounced on Phoenix, messing up her hair.
 
-戴沙扑向凤凰，将对方的头发揉乱。
+"I'm so jealous of you, Phoenix! I want to stay with the Shipsian warriors too!"
 
-“好羡慕你啊，凤凰，我也想和希普斯战士们住一起！”
+"Stop it, stop messing with my hair!"
 
-“好了好了，别揉了！”
+"You've used up ten lifetimes of luck already!"
 
-“你呀，十辈子的运气都要用光啦！”
+While Phoenix and Disar were playfully tussling, Proxymar made a gesture for silence.
 
-凤凰正和戴沙打打闹闹，一旁的鲍克斯迈尔却比出一个噤声的手势来。
+"You may not realize it, but it's already deep night at the base. According to Alliance rules, loud noises are not permitted during this time." Proxymar lowered his voice, showing them his watch, which pointed to one o'clock in the morning.
 
-“可能二位没有任何实感，但现在已是基地的深夜。按照联盟的规矩，这段时间内不能发出过大的声音。”鲍克斯迈尔压低声音，向二人展示了自己的手表，指针指向凌晨一点钟。
+"By rights, Hime should have arrived by now—ah, perfect timing."
 
-“按理说，伊梅应该到了——啊，正巧。”
+Phoenix felt her eardrums vibrate slightly and instinctively thought about the source of the sound.
 
-凤凰感觉到耳膜一阵颤动，下意识想到了声音的来源。
+Is that the sound of thrusters?
 
-这是推进器的声音吗？
+A platinum figure rose floating from below the staircase. Hime was flying up vertically from outside the stairs, her skirt dancing in the air as the leg thrusters disturbed the airflow.
 
-白金色的身影自楼梯之下浮空而起。伊梅正从楼梯外侧垂直飞了上来，她的裙摆因腿部推进器扰动了气流而在半空跳着舞。
+"I apologize for the delay. I had some urgent matters to attend to, so I asked Commander Proxymar to wait for you here."
 
-“失礼了，刚才临时有些事情，我就拜托鲍克斯迈尔指挥官在这里等你们。”
+Proxymar watched as Hime landed beside Phoenix and Disar, explaining her tardiness, and said in a teasing tone: "What's this? Does no one want to use the external stairs anymore these days?"
 
-鲍克斯迈尔看着落在凤凰和戴沙身旁、正解释着缘由的伊梅，用打趣的语气道：“怎么，最近大家都不愿意走外挂楼梯？”
+"Well, we have friends here who want to see more high-tech capabilities," Hime said, winking at the two young visitors.
 
-“因为这里有想多见识一点高科技力量的朋友在呀。”伊梅说着，向一旁两个孩子眨眨眼。
+"Can thruster sounds really be that quiet?" Phoenix asked somewhat distractedly, only to receive a poke in the arm from Disar, after which she scratched her head to indicate she hadn't meant to interrupt.
 
-“原来推进器的声音可以这么轻吗？”凤凰有些脱线地问道，随后被戴沙用手指戳了一下胳膊，这才挠挠头来表示自己并非有意打断对话。
+"Well then, Hime... according to the plan, you'll escort Miss Disar to the Visitor Reception Area," Proxymar said, turning his gaze to Phoenix. "I'll be responsible for taking Phoenix to the Shipsian residential area."
 
-“好了，伊梅……按照安排，你来送戴沙小姐去外宾接待区。”鲍克斯迈尔将目光抛向凤凰，“我负责送凤凰去希普斯住宿区。”
+Hmm?
 
-嗯？
+Hearing this, Phoenix felt an inexplicable confusion, but nodded nonetheless.
 
-听见这番话，凤凰觉得有种说不出的疑惑，但还是点点头。
-
-“事不宜迟，我们动身吧。”
+"Let's not delay any further. Shall we go?"
 
 ### 2
 
-和戴沙与伊梅告别后，凤凰默不作声地和鲍克斯迈尔并排走着，向希普斯人住宿区进发。
+After saying goodbye to Disar and Hime, Phoenix walked silently alongside Proxymar, heading toward the Shipsian residential area.
 
-不得不说，经历了这么多，她有些累了。
+She had to admit, after everything that had happened, she was exhausted.
 
-从听见太空客舰警报声的一刹那开始，到现在也不过才半天时间。短短的几小时内，她经历了无数人一生也不会经历的事。
+It had only been half a day since the moment she first heard the space liner's alarm. In those few short hours, she had experienced things most people wouldn't encounter in a lifetime.
 
-现在细细想来，她还是无法相信当时的自己有那种勇气——面对着一秒钟就能使自己灰飞烟灭的激光，竟然还在拉动机炮的操纵杆。
+Thinking back now, she still couldn't believe she'd had the courage—facing a laser that could vaporize her in a second, yet still pulling on the machine gun controls.
 
-在巡逻舰上昏迷的时间没有想象中那样恢复自己的精力。肉体和精神上的双重疲倦传来，凤凰只是低着头走路，一言不发。
+The time she spent unconscious on the patrol ship hadn't restored her energy as much as she'd hoped. Both physical and mental fatigue weighed on her, and Phoenix just walked with her head down, saying nothing.
 
-深夜的联盟军基地十分安静。明明自己来到这里时，港口还是繁忙一片。仅仅一个小时，整个世界像按下了静音键。地面不再有来往的运输机械和工作人员，空中也没有了无人机的嗡鸣。
+The Alliance military base was extremely quiet at night. When she had arrived earlier, the port had been bustling with activity. But in just one hour, the entire world seemed to have hit a mute button. There were no more transport machines or workers moving about on the ground, and the buzzing of drones in the air had ceased.
 
-她余光瞥见随处可见的巨大时钟，指针正指向一块被标成蓝色的区域，旁边还有图例的解释说明：静音休息时段。
+From the corner of her eye, she noticed the large clocks visible everywhere, with hands pointing to an area marked in blue, with a legend explaining: Silent Rest Period.
 
-原来是为了保证联盟人员的休息，才停止所有工作吗？
+So they stopped all work to ensure Alliance personnel could rest?
 
-真是寂静得……令人困倦。
+It was so quiet... it made her drowsy.
 
-凤凰打了个哈欠，然后甩甩头，好让自己清醒一些。
+Phoenix yawned, then shook her head to try to stay awake.
 
-“凤凰。”
+"Phoenix."
 
-鲍克斯迈尔指挥官忽然开口，打破了空旷基地的平静。
+Commander Proxymar suddenly spoke, breaking the stillness of the empty base.
 
-“长、长官？”凤凰有些疑惑而紧张地回答着对方的呼唤。
+"C-Commander?" Phoenix responded to his call with confusion and nervousness.
 
-指挥官突然叫我做什么？难道是要问我先前那次偷袭的事？可我已经全交代了呀？她感觉心跳自动加了速。
+Why is the commander suddenly calling me? Is he going to ask about the ambush earlier? But I've already told them everything! She felt her heartbeat automatically speed up.
 
-“累了吗？”
+"Tired?"
 
-“诶？”
+"Huh?"
 
-凤凰一时迟钝，嗓子挤出疑惑的声音。
+Phoenix was momentarily slow to respond, her throat squeezing out a confused sound.
 
-鲍克斯迈尔一笑，将自己的手表凑到凤凰面前。
+Proxymar smiled and brought his watch close to Phoenix's face.
 
-小小的手表屏幕上映出一张脸。
+The small watch screen reflected a face.
 
-凤凰有些惊讶，因为她看见那倒映着的人脸上写着说不出的疲惫。即使她做出了吃惊的表情，但僵硬的面部肌肉还是透出了自己的困乏。
+Phoenix was somewhat surprised, because she saw a face that showed indescribable exhaustion. Even as she made a surprised expression, her stiff facial muscles betrayed her fatigue.
 
-“抱歉，先生，不知道为什么突然想睡觉……”
+"Sorry, sir. I don't know why I suddenly feel so sleepy..."
 
-“我们还有一段路程要走。介意我来背着你走吗，小姐？”
+"We still have some distance to go. Would you mind if I carried you, miss?"
 
-“不不不，不用麻烦您，我自己能走。”
+"No, no, no, please don't trouble yourself. I can walk on my own."
 
-凤凰瞬间紧张，疯狂摆手表示自己不需要。
+Phoenix immediately tensed up, frantically waving her hands to indicate she didn't need help.
 
-“那我们来聊些什么，就当是清醒一下。”鲍克斯迈尔收回手臂，仰头看向上空，“我想想，你这个年龄的孩子一般都喜欢聊什么……聊聊梦想怎么样？”
+"Then let's talk about something to help you stay awake." Proxymar withdrew his arm and looked up at the sky. "Let me think... what do children your age usually like to talk about... How about dreams? What are your dreams?"
 
-梦想？
+Dreams?
 
-凤凰的心里立即有了回答。
+Phoenix immediately had an answer in her heart.
 
-“我……我想成为希普斯战士。”
+"I... I want to become a Shipsian warrior."
 
-“哦？这样的语气可不行。”
+"Oh? That kind of tone won't do."
 
-凤凰愣住了，但很快反应过来。
+Phoenix was taken aback, but quickly understood.
 
-“我想做希普斯战士！”
+"I want to be a Shipsian warrior!"
 
-鲍克斯迈尔笑了，问道：“这又是为何？听说你的成绩不错，再加上有了这一次的事件，联盟肯定会主动给出一些特权，进入联盟军不会太难。进了联盟，也可以做研究员或者指挥员，为什么必须要做战士呢？”
+Proxymar smiled and asked, "And why is that? I hear your grades are good, and after this incident, the Alliance will certainly offer you some special privileges. Getting into the Alliance military won't be too difficult. Once you're in, you could be a researcher or a commander. Why must you be a warrior?"
 
-凤凰没有思索，给出了答案。
+Without hesitation, Phoenix gave her answer.
 
-“因为能成为其他的希望。”
+"Because it can become other hopes."
 
-鲍克斯迈尔一愣，似乎对方给出了超乎自己想象的理由。他略微张开嘴，却没有发出声音。
+Proxymar paused, seemingly surprised by a reason beyond his expectations. His mouth opened slightly, but no sound came out.
 
-凤凰像是想起了什么，又补充道：“戴沙也是这样想的——我们从小就认识。她比我优秀多啦，我总觉得她肯定是个希普斯人。”
+Phoenix, as if remembering something, added: "Disar thinks the same way—we've known each other since we were little. She's much more talented than I am. I always thought she must be a Shipsian."
 
-即使没有了机械的声音，银河联盟军基地的灯光也彻夜明亮。凛冽的白光笼罩着金属制的大地，然后漫反射到少女的身上。天蓝色的发尾被她走路带起的风撩拨，那双鎏金的瞳眸格外闪耀，就像是一对沐浴在日光里的金丝雀，更像是刚刚的她。
+Even without the sounds of machinery, the lights of the Galactic Alliance military base remained bright throughout the night. The harsh white light enveloped the metal ground, reflecting onto the young girl. The blue tips of her hair fluttered in the breeze created by her walking, and those golden pupils of hers shone exceptionally bright, like a pair of canaries bathing in sunlight, more like her former self.
 
-鲍克斯迈尔没有做出回答，只是脚步暂停了片刻，一时看着前方，许久才开口。
+Proxymar didn't respond, only pausing his steps for a moment, looking ahead for a while before finally speaking.
 
-“……是么。”他的语气平淡，不像是刚才主动挑起话题时那样的轻松，但不难听出一番失望的意味，随后又像喃喃自语地小声补充了一句，“是所谓命中注定么。”
+"...Is that so." His tone was flat, unlike the casual manner when he had initiated the conversation earlier, but a hint of disappointment was discernible. Then, as if muttering to himself, he quietly added, "So it's what they call destiny."
 
-鲍克斯迈尔没有再发话，而凤凰也逐渐冷静下来。
+Proxymar didn't speak further, and Phoenix gradually calmed down.
 
-聊天确实对抵抗困意有些作用，然而一旦停止思考和回答，就会不可避免地再度陷入睡意中——尤其是现在又沉默不言的指挥官和孩子。
+Chatting did help fight drowsiness, but once she stopped thinking and responding, she inevitably fell back into sleepiness—especially now with the silent commander and child.
 
-困意再度席卷。
+Drowsiness swept over her again.
 
-好像看见了什么绿色的东西一闪而过，凤凰略微抬眼，却什么都没有看见。
+She thought she saw something green flash by. Phoenix looked up slightly but saw nothing.
 
-或许自己真的需要立即睡一觉，都已经出现幻觉了。凤凰想。
+Perhaps she really needed to sleep immediately; she was already having hallucinations, Phoenix thought.
 
-就在这时，凤凰发觉鲍克斯迈尔一瞬间放慢了前进的速度。
+Just then, Phoenix noticed Proxymar suddenly slow his pace.
 
-听觉捕捉到了某种无比刺耳的声音。
+Her hearing caught an extremely harsh sound.
 
-一点紫色闯入她的视野。
+A point of purple entered her vision.
 
-就在瞬间——
+In that instant—
 
-——破空而来。
+—it came tearing through the air.
 
 ### 3
 
-“——蹲下！”
+"—Get down!"
 
-鲍克斯迈尔一声怒喝，几乎在一眨眼间就将背后鱼骨状的主炮展开。电光缭乱，霹雳乍起，一束雷霆立即盘上他的手臂，直直向前飞去，与破空而来的一道绛紫色刀光相撞。
+Proxymar roared, deploying the fishbone-shaped main cannon from his back in the blink of an eye. Electricity flashed chaotically, thunder crackled, and a bolt of lightning immediately coiled around his arm, shooting straight forward to collide with an incoming purple blade of light.
 
-“轰——”
+"BOOM—"
 
-爆炸声在离凤凰不到十米处訇然响起。
+The explosion erupted less than ten meters from Phoenix.
 
-凤凰的身体僵住了。恐惧的本能让她想立即迈开腿逃跑，但却无法移动分毫。
+Phoenix's body froze. Her survival instinct urged her to run away, but she couldn't move an inch.
 
-呼救，呼救！一定会被别人听见的！
+Call for help! Someone will hear me!
 
-凤凰意图发出尖叫声，但嗓子没有任何反应。
+Phoenix tried to scream, but her throat wouldn't respond.
 
-怎么回事？发生什么了？
+What's happening? What's going on?
 
-为什么动不了？
+Why can't I move?
 
-为什么没法发出声音？
+Why can't I make a sound?
 
-为什么？为什么？
+Why? Why?
 
-“没想到大名鼎鼎的新任指挥官也在这里。失策，失策。”
+"I didn't expect the famous new commander to be here as well. A miscalculation, indeed."
 
-角落里走出一个身披破烂斗篷的中年男子。他的帽子挡不住黄绿色的碎发，金色的眼瞳在帽檐的阴影里幽幽发光。
+A middle-aged man wearing a tattered cloak emerged from the corner. His hat couldn't hide his yellowish-green hair, and his golden eyes glowed eerily from beneath the brim.
 
-爆炸的烟雾似乎被探测器察觉，刺耳的警报声响起。
+The explosion's smoke seemed to trigger the sensors, and a piercing alarm sounded.
 
-“啧，烦人。”
+"Tch, annoying."
 
-那人抬手，五指并拢绷直，作刀刃状，然后随手一挥，一道矩形的刀波立即直射而出，将警报器拆成两截。
+The man raised his hand, fingers straight and tight like a blade, then casually swung. A rectangular wave of energy shot out, slicing the alarm system in two.
 
-鲍克斯迈尔的神情凝重，死死盯着这个不速之客。
+Proxymar's expression was grave as he stared intently at the unwelcome visitor.
 
-“星、战、船。”
+"Tri. ni. ty."
 
-他咬牙，一字一顿地念出来者的名字。
+He gritted his teeth, pronouncing each syllable of the intruder's name.
 
-“通缉犯，你是怎么进来的？！”
+"Wanted criminal, how did you get in here?!"
 
-“这得感谢那些和我一样看清了局势的家伙。”
+"I have to thank those who, like me, see the situation clearly."
 
-星战船伸出手，指尖萦绕着淡紫色的光团，语气有些轻蔑。
+Trinity extended his hand, his fingertips surrounded by a faint purple light, his tone somewhat contemptuous.
 
-“你可清楚，出现在这里，意味着现在我有权利将你直接击杀。”
+"You realize that by appearing here, I now have the authority to kill you on sight."
 
-鲍克斯迈尔声音一沉，站在无法动弹的凤凰身前。
+Proxymar's voice deepened as he stood in front of the immobilized Phoenix.
 
-为什么？为什么？
+Why? Why?
 
-那种面对激光时视生死如无物的勇气，在此刻完全没有涌上心头。
+That courage that had faced death by laser beam without fear didn't surge within her now.
 
-为什么会这样？
+Why is this happening?
 
-凤凰像是完全定在了原地，只有因恐惧而颤动的瞳孔昭示着她是一个活人。
+Phoenix seemed completely frozen in place, only her trembling pupils, shaking with fear, indicated she was alive.
 
-“击杀我？你有这个实力吗，小子？”星战船冷哼，胸前的蓝色光点格外耀眼。
+"Kill me? Do you have what it takes, boy?" Trinity sneered, the blue light on his chest particularly bright.
 
-“你要做什么，安纳希普斯人？”
+"What do you want, Ana-shipsian?"
 
-“做什么，你还不清楚吗？”
+"What do I want? Don't you know already?"
 
-星战船露出狰狞的面目，将手臂举起，一道绛紫色的光在他的胳膊外侧跃动。那是他的主炮。
+Trinity revealed his ferocious face, raising his arm as a purplish light danced along the outside of his limb. That was his Main Weapon.
 
-“把她交出来——”
+"Hand her over—"
 
-凤凰恍然发现，他那仿佛能撕碎一切的目光落在了自己身上。
+Phoenix suddenly realized his gaze, which seemed capable of tearing everything apart, had fallen on her.
 
-“——凤凰二号。”
+"—Phoenix II."
 
 ### 4
 
-鲍克斯迈尔那鱼骨状的闪电导管迸发出更强的电流。
+"Proxymar's fishbone-shaped Lightning Conduit erupted with even stronger electrical current.
 
-“哼，想得美！”
+"Hmph, dream on!"
 
-“小子，你还没资格和我叫板！”
+"Boy, you're not qualified to challenge me!"
 
-闪电和刀光同时开始蓄能，仿佛只需要一刹那就会再度对撞在一起。凤凰惊恐地注视着眼前的一切，试图远离这个似乎下一秒就能将她吞噬的战场，但身体就像离线了一样，完全不听从自己的指挥。
+Lightning and blade light began to charge simultaneously, as if they would collide again in just an instant. Phoenix watched everything before her in terror, trying to distance herself from this battlefield that seemed capable of swallowing her whole in the next second, but her body, as if offline, completely refused to obey her commands.
 
-身后似乎有别的气息传来，她屏住呼吸，紧张达到了前所未有的顶点。
+There seemed to be another presence approaching from behind. She held her breath, her tension reaching an unprecedented peak.
 
-她想要回头看看背后是谁。她祈祷着是伊梅、白羊座或者无星，甚至是那位尼布斯。她脑中闪过许多陌生的希普斯人面孔，报纸上的、电视上的，她的思绪逐渐变得无比混沌。
+She wanted to turn around to see who was behind her. She prayed it was Imei, Aries, or Wuxing, or even that Nimbus. Many unfamiliar Shipsian faces flashed through her mind—from newspapers, from television—her thoughts gradually becoming incredibly chaotic.
 
-拜托了，无论是谁，来救救我吧……
+Please, whoever you are, come save me...
 
-“你们俩给我停下。”
+"Both of you, stop right there."
 
-凤凰听见“咔咔”声在自己的头顶响起。
+Phoenix heard a "click-clack" sound above her head.
 
-陌生的男子从凤凰身边走过。而那发出声音的，正是男子肩头那投影着全息准星的灰白色轻机枪。
+A strange man walked past Phoenix. The source of the sound was the gray-white light machine gun on his shoulder, projecting holographic crosshairs.
 
-“星战船，适可而止。”
+"Trinity, that's enough."
 
-灰白发男子抬眸看向星战船。
+The gray-haired man looked up at Trinity.
 
-“好久不见，海盗。”
+"Long time no see, Corsair."
 
-星战船皱紧眉头说出对方的名字。
+Trinity furrowed his brow as he spoke the other's name.
 
-名为海盗的男性穿着白金色的衣服，其上挂满了各式子弹，每一枚都似乎刻着些什么字。
+The man called Corsair wore white and gold clothing adorned with various bullets, each seemingly engraved with something.
 
-“以这种姿态重逢，老伙计，还真是有些不尽人意啊。”
+"Meeting again in such circumstances, old friend, is rather unfortunate."
 
-“呵。”星战船仍然举着手臂，发出不屑的声音，“你应该是最明白真相的人之一！海盗——拯救她、拯救我们的机会就在眼前！”
+"Heh." Trinity still held up his arm, making a contemptuous sound. "You should be one of the people who understands the truth best! Corsair—the chance to save her, to save us all, is right before our eyes!"
 
-名为海盗的男子叹了口气，少校军衔的标志在他海盗船长帽的侧边反射着光。凤凰看见他左眼处长长的疤痕，从额头一直划到脸颊处。
+The man named Corsair sighed, the lieutenant commander rank insignia on the side of his pirate captain's hat reflecting light. Phoenix noticed the long scar on his left eye, extending from his forehead all the way down to his cheek.
 
-“你还没明白吗？那人已经死了。她拥有独立的意志，过去的那些事和她没有关系。”海盗眉头紧锁，肩上的轻机枪发出微弱的轰鸣。
+"Don't you understand yet? That person is already dead. She has her own independent will, and those past events have nothing to do with her." Corsair's brows furrowed deeply as the light machine gun on his shoulder emitted a faint rumble.
 
-“真是可笑，海盗。在我面前，你连她的名字都不敢称呼吗？”
+"How ridiculous, Corsair. In my presence, you dare not even speak her name?" 
 
-星战船保持着和海盗对峙的状态，抬头以居高临下的眼神望着对方，用反问的语气道。
+Trinity maintained his standoff with Corsair, looking down at him with a condescending gaze and speaking in a rhetorical tone.
 
-什么？为什么？为什么会变成现在这个样子？他们都在说什么？
+What? Why? Why has it come to this? What are they talking about?
 
-凤凰被害怕和疑惑两种情绪同时冲击着大脑。虽然她并不理解究竟为何会发生这等事，但她很清楚这帮人是朝着自己来的。然而像这样一触即发的局面，恐怕自己有极大可能当场变成遇难者。
+Phoenix's mind was simultaneously assaulted by fear and confusion. Though she didn't understand why any of this was happening, she clearly knew these people were coming for her. However, in such a volatile situation, she would likely become a casualty on the spot.
 
-“鲍克斯迈尔，带她走。”
+"Proxymar, take her away."
 
-海盗仍然盯着星战船，用低沉的声音道。
+Corsair continued staring at Trinity, speaking in a low voice.
 
-鲍克斯迈尔完全没有分秒迟疑，机械声撕开了沉寂的空气，鱼骨状的主炮立即拆分成无数细小零件，被收进了鲍克斯迈尔的风衣之下。
+Proxymar didn't hesitate for even a second. Mechanical sounds tore through the silent air as the fishbone-shaped Main Weapon immediately disassembled into countless tiny components, retracting beneath Proxymar's coat.
 
-“凤凰，抓紧！”
+"Phoenix, hold tight!"
 
-他立即转身拉住完全僵住的凤凰，几乎是用单臂将她从地面上拎了起来，然后把她甩到了自己背上。
+He immediately turned and grabbed the completely frozen Phoenix, almost lifting her from the ground with one arm, then swinging her onto his back.
 
-猝不及防地被这么一拽，凤凰感觉到身体终于恢复了些许，她手指用力抓紧鲍克斯迈尔的肩膀，防止自己掉下来。
+Caught off guard by the sudden movement, Phoenix felt her body finally regain some control. Her fingers tightly gripped Proxymar's shoulders to prevent herself from falling.
 
-“休想！”
+"Not so fast!"
 
-话音未落，星战船就从原地消失，伴随着刺眼的绿色光辉，凤凰看见他骤然出现在自己头顶。
+Before the words faded, Trinity vanished from his spot. Accompanied by a blinding green light, Phoenix saw him suddenly appear above her head.
 
-紫光闪过。
+A purple flash.
 
-并非星战船斩出的紫色刀波。
+But it wasn't Trinity's purple blade wave.
 
-空间似乎凝滞了一瞬间，一根巨大的紫色光柱将星战船的前路封死。
+Space seemed to freeze for an instant as a massive purple light pillar blocked Trinity's path.
 
-鲍克斯迈尔抓住分秒时机，双腿的推进器瞬间启动，以极高速带着背上的凤凰飞向远处。
+Proxymar seized the moment, the thrusters on his legs activating instantly, carrying Phoenix away at extreme speed.
 
-怎么回事……
+What's happening...
 
-风的嘶鸣声中，凤凰感觉头脑一阵眩晕。
+In the howling wind, Phoenix felt her mind growing dizzy.
 
-意识完全沉眠前，她听见背后传来愤怒的吼声。
+Before consciousness completely abandoned her, she heard an angry roar from behind.
 
-“蜃景——！！！”
+"Mirage——!!!"
 
 ### 5
 
-一片漆黑。
+Complete darkness.
 
-“滴，滴。”
+"Beep, beep."
 
-“起……”
+"Wa..."
 
-“滴，滴。”
+"Beep, beep."
 
-“听……”
+"Lis..."
 
-“滴，滴。”
+"Beep, beep."
 
-“醒……”
+"Up..."
 
-“滴——”
+"Beeeep—"
 
-“凤凰？”
+"Phoenix?"
 
-“啊！”
+"Ah!"
 
-凤凰惊叫着从床上坐起来。
+Phoenix cried out as she sat up in bed.
 
-“做噩梦了吗？”
+"Having a nightmare?"
 
-凤凰忽然意识到自己正躺在一张柔软的单人床上，而响个不停的滴滴声来自于闹钟。
+Phoenix suddenly realized she was lying on a soft single bed, and the persistent beeping sound was coming from an alarm clock.
 
-“呃，我……”
+"Um, I..."
 
-凤凰抬头，看见一个女子站在自己床前。
+Phoenix looked up to see a woman standing by her bedside.
 
-“你刚才一直在喊着‘别杀我’‘救命’一类的话，没问题么……？”
+"You were shouting things like 'don't kill me' and 'help' just now. Are you alright...?"
 
-她下意识打量起眼前的人。从长相上臆断，女子大致有二十岁，棕色长发的尾端几乎已经和膝盖平齐，额前的刘海有些乱，堪堪遮住右眼。而那露出的左眼隐隐约约有种说不出的忧伤。
+She instinctively examined the person before her. Judging by appearance, the woman was roughly twenty years old, with brown hair so long its ends nearly reached her knees. Her bangs were somewhat messy, just barely covering her right eye. The visible left eye conveyed an inexplicable sadness.
 
-“不好意思……那个……请问昨晚发生什么了？”
+"I'm sorry... um... may I ask what happened last night?"
 
-“昨天晚上，你到宿舍的时候已经睡着了，是鲍克斯迈尔指挥官把你背回来的。”女子用温柔而有些沉重的声音回答，“叫我狺女吧。”
+"Last night, you were already asleep when you arrived at the dormitory. Commander Proxymar carried you back," the woman answered in a gentle yet somewhat heavy voice. "You can call me Banshee."
 
-“狺女——长官。”凤凰不确定地在对方名字后面加了个表示敬意的后缀。
+"Banshee—madam." Phoenix uncertainly added the respectful suffix after the other's name.
 
-昨天晚上……
+Last night...
 
-昨天晚上发生什么了来着？
+What happened last night?
 
-凤凰眨眨眼。
+Phoenix blinked.
 
-她记得自己和鲍克斯迈尔告别戴沙以后，就动身前往希普斯人的宿舍区。
+She remembered saying goodbye to Disar with Proxymar, then heading toward the Shipsian dormitory area.
 
-在那之后……
+After that...
 
-在那之后，自己走在半路上突然犯了困。
+After that, she suddenly felt drowsy while walking.
 
-然后……
+And then...
 
-就没有然后了。
+There was no "and then."
 
-“啊！”
+"Ah!"
 
-突然意识到什么的凤凰猛地拍自己的脸。
+Phoenix suddenly slapped her face as realization struck her.
 
-昨天我竟然走着走着睡着了？
+Did I really fall asleep while walking yesterday?
 
-还是在银河联盟军的指挥官面前？
+And in front of a Galactic Alliance Military commander?
 
-还是被指挥官背回来的？！
+And was carried back by the commander?!
 
-我不会说了一路梦话吧？
+I hope I didn't talk in my sleep the whole way!
 
-凤凰不可置信地掐了自己一下。
+Phoenix pinched herself in disbelief.
 
-“无需担心，噩梦可能是你直面审判日激光后残留的一些影响。”狺女嘴角微微勾起，似乎在微笑，却有一份苦涩的味道。
+"No need to worry. The nightmares might be some lingering effects from your direct exposure to the Judgment Day laser," Banshee's lips curled slightly in what appeared to be a smile, though it carried a bitter undertone.
 
-“刚才……做了奇怪的梦，抱歉，狺女小姐……”凤凰挠挠头掩饰自己的尴尬，“我梦见有人要杀我——不过我做奇奇怪怪的梦已经很久了。”
+"Just now... I had a strange dream. I'm sorry, Miss Banshee..." Phoenix scratched her head to hide her embarrassment. "I dreamed someone was trying to kill me—but I've been having all sorts of weird dreams for a long time now."
 
-一切都说得通了。在那个梦里自己既无法移动，也喊不出来，是噩梦的标准配置呢。大脑造梦部又不好好工作了。
+Everything made sense now. In that dream, she couldn't move or call out—the standard configuration of a nightmare. Her brain's dream factory wasn't working properly again.
 
-凤凰敲敲自己的额头。
+Phoenix knocked on her forehead.
 
-“测试的时间……快到了。”狺女笑着递来一条毛巾，“来。”
+"The time for the test... is approaching," Banshee smiled as she handed over a towel. "Here."
 
-凤凰点点头，伸出双手，从对方手中结果那份温热。
+Phoenix nodded, extending both hands to receive the warm cloth from her.
