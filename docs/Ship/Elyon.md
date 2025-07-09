@@ -42,6 +42,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-3#elyon)
 
+## Comments
+
+- No2oMe: Red damage mini-EX0—too bad there’s no mega laser to clear the way.
+
 ## APEX 1
 
 <img src="/ships/ship_26_apex_1.png" style={{zoom:1}}/>

@@ -42,6 +42,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-6#njorun)
 
+## Comments
+
+- No2oMe: Everyone knows the real damage comes from the side shots—once the invader dodges, that big center shell might as well not exist.
+
 ## APEX 1
 
 <img src="/ships/ship_58_apex_1.png" style={{zoom:1}}/>

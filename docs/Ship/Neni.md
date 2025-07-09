@@ -41,6 +41,7 @@
 ## Comments
 
 - 菁鸟: A great straight-attack ship. I'm playing like a sniper in P2.
+- No2oMe: Sparrow, I’m begging you—stop wobbling, I can’t land a hit!
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-9#neni)
 

@@ -41,6 +41,7 @@
 - 菁鸟: If you are not a fan of Naya, think carefully before you buy it.
 - AI: Naya is a ship that is hard to master, and it is not beginner-friendly.
 - 圆锥曲线: How cute the Naya with nekomimi ~
+- No2oMe: Basically a budget Neni, give or take.
 
 ## Survival
 

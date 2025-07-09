@@ -1,6 +1,6 @@
 # Polaris
 
-> Brief intro
+> A sloppy appearance
 
 <img src="/ships/ship_73.png" style={{zoom:1}}/>
 

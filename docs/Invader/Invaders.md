@@ -73,6 +73,10 @@ Ravens can always give you quite a bit of energy. During missions it's important
 
 It's easier to hit ravens than to hit sparrows, if you choose a ship that need accurate aim at invaders, please spend your main more on ravens than sparrows.
 
+## Comments
+
+- No2oMe: Can’t help but bring up that one special 1-1-1 ship at this point…
+
 ### Turret Types
 
 - Mixed Turrets: (Speed) Laser Tracker (T1-T3), (Speed) Laser Shotgun (T1-T2), Pellet (T1-T4), Dart (T1-T3), Shuriken (Tide) (T1-T2), Boomerang (T1-T2), MIRV Launcher (T1-T2)
@@ -284,7 +288,10 @@ Roc is the hardest boss in the game, and it's the only invader that needs 8 seco
 
 Previously, roc may only appear in the last wave as the final boss. In the current version, roc can appear in any wave of act 5. When you have to confront a roc, be sure to have enough energy and have a good strategy. If it's not the final wave, be sure you are safe to finish the rest waves.
 
+### Comments
+
 - 圆锥曲线: You give him a porn video? How hard it is!
+- S.K：Why aren’t you dead yet?! Nano values, bro!
 
 ### Turret Types
 

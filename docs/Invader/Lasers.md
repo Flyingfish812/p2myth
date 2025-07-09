@@ -4,6 +4,8 @@
 
 There are 3 types of laser turrets, spread, tracking, and speed laser.
 
+- No2oMe: Reflect! Good!
+
 ## Tiers and Patterns - Laser Spread (Shotgun)
 
 <img src="/turrets/laser_shotgun_1.png" style={{zoom:1.25}}/>
@@ -51,5 +53,6 @@ There are many ways to deal with them. Since they need their core to appear in t
 The most annoying situation is when it is mixed with bullets. Since the speed laser is an instant attack, unlike the bullets flying forward, this will make it impossible for you to dodge and graze the bullets. At this time, you must give priority to popping the speed laser in the back row.
 
 - hank: Why this thing from hell!
+- No2oMe: No fun with reflections—firing window’s way too short.
 
 [Click Here for More](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/invader-weaponry#speed-lasers)

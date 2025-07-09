@@ -40,6 +40,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-3#geist)
 
+## Comments
+
+- No2oMe: The one ship that craves face-to-face action the most.
+
 ## APEX 1
 
 <img src="/ships/ship_23_apex_1.png" style={{zoom:1}}/>

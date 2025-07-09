@@ -39,6 +39,7 @@
 ## Comments
 
 - Dark骑士: It is one of the new ships with a very low popularity. The double lance configuration can quickly and violently sweep the screen. Although it is not as good as the old speedrun ships, it is still worth playing. It has the same problem as other lance ships. It is very weak and slow for bullets from the side.
+- No2oMe: Faster-than-light × Re-skinned standard piercing spear ✓
 
 ## Survival
 

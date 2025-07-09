@@ -36,6 +36,10 @@
 
 <img src="/illustration/main_95.gif" style={{zoom:1}}/>
 
+## Comments
+
+- No2oMe: What this thing really needs is a phalanx reflector—not these two useless Apexes.
+
 ## Survival
 
 - Phalanx is the only defense, coupled with a weak main weapon, as a result, Esperon is not very survivable.

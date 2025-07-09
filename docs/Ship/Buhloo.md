@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-2#buhloo)
 
+## Comments
+
+- No2oMe: Once it crits, the whole damn laser stays in crit mode the entire duration—easily the most satisfying moment when it happens.
+
 ## APEX 1
 
 <img src="/ships/ship_20_apex_1.png" style={{zoom:1}}/>

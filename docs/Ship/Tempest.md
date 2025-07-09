@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-1#tempest)
 
+## Comments
+
+- No2oMe: Sometimes even face-hugging can't save it from that ridiculous lack of damage.
+
 ## APEX 1
 
 <img src="/ships/ship_9_apex_1.png" style={{zoom:1}}/>

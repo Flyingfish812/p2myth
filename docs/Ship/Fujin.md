@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-1#fujin)
 
+## Comments
+
+- No2oMe: Also a triple-attack ship with EX0-level high-frequency, high-damage main cannon—but sadly, its aura is just a laser storm.
+
 ## APEX 1
 
 <img src="/ships/ship_7_apex_1.png" style={{zoom:1}}/>

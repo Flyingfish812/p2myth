@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-9#claymore)
 
+## Comments
+
+- No2oMe: Sometimes prefire just makes things worse—you might as well not do it at all.
+
 ## APEX 1
 
 <img src="/ships/ship_86_apex_1.png" style={{zoom:1}}/>

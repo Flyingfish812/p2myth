@@ -40,6 +40,7 @@
 
 - Niu: Mysterious main weapon that has a low lower bound and a high upper bound. Skilled players prefire main weapons and sweeps wave after wave, noob like me even miss the sparrows in act 1.
 - Flyingfish812: When can we have a Vorpal Lance APEX that changes it into a horizontal shot?
+- No2oMe: To close fire or to prefire—that is the question.
 
 ## Survival
 

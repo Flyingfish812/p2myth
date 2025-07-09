@@ -31,6 +31,7 @@ The details of this skill are listed as follows:
 
 - Editor: The worst imitation of aura until the appear of Clover ATS.
 - ☀🐕: The weirdest part of FL is its ult-upgrade. Why AP only when I don’t get any benefits from playing missions other than Armored? Hence, SB and HI damage type should also be added. In addition, I’ve always thought that FL is a bit generic since it’s just a single charge of VL. Unlike FL though, a 4 VL dump instantly vaporizes a screen full of enemies. It’d be cool to see a 65 damage FL for one-shotting herons.
+- No2oMe: Feels like it only works as a proper spear with Expert Focus or FTL equipped.
 
 ## Usage
 

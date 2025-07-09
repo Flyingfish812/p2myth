@@ -14,6 +14,8 @@ Doomsday Bomb is a wide-range bomb that creates a explosion of radius 300. You w
 
 <img src="/turrets/ddb.png" style={{zoom:1.25}}/>
 
+- No2oMe: In fact, its AoE is way nastier than the Doomsday Laser—especially in early waves or up close.
+
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/invader-weaponry#doomsday-bomb)
 
 ## Doomsday Laser
@@ -30,6 +32,8 @@ An interesting thing about DDL is it can be "delayed" slightly by the Nightfury,
 
 - 天尘座: I will call you Yama if you have Doomsday Speed Laser.
 - 天尘座: Please buy Mirage and battle DDL with Nightfury.
+- No2oMe: Reflect damage doesn’t even match some scatter lasers.
+- No2oMe: You have to time your reflect perfectly—pop the shield after hearing the charge-up, and you’re basically dead.
 
 ## Doomsday MIRV
 
@@ -65,5 +69,7 @@ It should be noted that if you leave the super MIRV alone, you'd better leave it
 
 <img src="/turrets/ddm.png" style={{zoom:0.5}}/>
 <img src="/turrets/ddsm.png" style={{zoom:0.5}}/>
+
+- 圆锥曲线: Start from 2969-SSSS
 
 [Click Here for More](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/invader-weaponry#doomsday-super-mirv)

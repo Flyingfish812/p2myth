@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-4#essin)
 
+## Comments
+
+- No2oMe: Main weapon breaks shields, laser storm dishes out the damage, and the personal shield handles bullet-pushing and laser reflection—each skill with a clear role to play.
+
 ## Trivia
 
 - Its core is beyond its main weapon.

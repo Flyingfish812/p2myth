@@ -36,6 +36,10 @@
 
 <img src="/illustration/main_21.gif" style={{zoom:1}}/>
 
+## 玩家评价
+
+- No2oMe：晕完就跑真刺激～
+
 ## 生存能力
 
 - 玩这架战机时候你不需要关心瞄准，只需要专注于躲避就行。

@@ -29,6 +29,7 @@ The details of this skill are listed as follows:
 
 - Editor: The tears of the epoch. Once the Roc Barber, now the sewer residue.
 - ☀🐕: Being so weak and unwieldly, IC needs a serious buff.
+- No2oMe: Stun!
 
 ## Usage
 

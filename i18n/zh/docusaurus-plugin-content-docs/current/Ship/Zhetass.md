@@ -37,6 +37,10 @@
 <img src="/illustration/main_83.gif" style={{zoom:1}}/>
 <img src="/illustration/main_83_scratch.gif" style={{zoom:1}}/>
 
+## 玩家评价
+
+- No2oMe：扎死你.jpg
+
 ## 生存能力
 
 - 方阵主要被用来辅助走位，帮助侧向移动来切换攻击目标。

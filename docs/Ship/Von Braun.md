@@ -40,6 +40,10 @@
 
 [Click Here for More Advanced Speedrunning Strategies](https://p2myth.club/docs/Cookbook/Von%20Braun)
 
+## Comments
+
+- S.K: Master Von’s custom precision missiles let even tiny sparrows live out their graze-dodging fantasies.
+
 ## APEX 1
 
 <img src="/ships/ship_36_apex_1.png" style={{zoom:1}}/>

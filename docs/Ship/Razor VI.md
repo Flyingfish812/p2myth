@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-2#razor-vi)
 
+## Comments
+
+- No2oMe: Main weapon gambles on clustering, and so does Zen mode—it’s all one big bet.
+
 ## APEX 1
 
 <img src="/ships/ship_11_apex_1.png" style={{zoom:1}}/>

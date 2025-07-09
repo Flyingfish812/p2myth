@@ -36,6 +36,10 @@
 
 <img src="/illustration/main_65.gif" style={{zoom:1}}/>
 
+## 玩家评价
+
+- No2oMe：极光幻影（bushi
+
 ## 生存能力
 
 - 幻影的唯一防御来自穿刺长矛。它能使你在被错位的速射困住之前逃生。

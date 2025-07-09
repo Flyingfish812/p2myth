@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-5#baqlor)
 
+## Comments
+
+- No2oMe: The ultimate survival ship — solo’d the Roc with six Doomsday Lasers. Stats don’t lie.
+
 ## Trivia
 
 - This ship was used as the first choice of speedrun between versions 4.0 to 5.0, the era when invaders were the densest.

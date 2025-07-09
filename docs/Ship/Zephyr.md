@@ -40,6 +40,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-5#zephyr)
 
+## Comments
+
+- No2oMe: Almost cut from the same mold as Tar'cah—looks like us armor-damage pilots finally got our own version.
+
 ## Trivia
 
 - Have nothing to say because of its low sense of existence.

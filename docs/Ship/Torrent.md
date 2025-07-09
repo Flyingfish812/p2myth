@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-6#torrent)
 
+## Comments
+
+- No2oMe: The invader's turrets are gone—why are you still locking onto an empty turret?
+
 ## APEX 1
 
 <img src="/ships/ship_55_apex_1.png" style={{zoom:1}}/>

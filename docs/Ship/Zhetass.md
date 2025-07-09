@@ -39,6 +39,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-9#zhetass)
 
+## Comments
+
+- No2oMe: stabyou.jpg
+
 ## Trivia
 
 - Zhetass was only introduced into Phoenix 2 at v5.0.

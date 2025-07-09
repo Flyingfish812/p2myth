@@ -40,6 +40,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-4#arietis)
 
+## Comments
+
+- 莱: It pisses all over the screen.
+
 ## APEX 1
 
 <img src="/ships/ship_31_apex_1.png" style={{zoom:1}}/>

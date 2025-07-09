@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-1#tarcah)
 
+## Comments
+
+- 天尘座: The rapid multi-shot bursts with short intervals from the main cannon look pretty damn slick.
+
 ## APEX 1
 
 <img src="/ships/ship_3_apex_1.png" style={{zoom:1}}/>

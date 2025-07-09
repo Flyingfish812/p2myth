@@ -4,6 +4,8 @@
 
 Shurikens are cross-shaped bullets (like a sprayer) that are shot at high speed and then stay on the field at a very slow speed (slower than pellets) to block your path. There are three types of shuriken turrets: ordinary ones, regular ones (shuriken tide), and shuriken spinners.
 
+- No2oMe: Please, stop blocking the damn path.
+
 ## Tiers and Patterns - Ordinary Shurikens
 
 <img src="/turrets/shuriken_1.png" style={{zoom:1.25}}/>

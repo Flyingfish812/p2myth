@@ -40,6 +40,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-5#gladius)
 
+## Comments
+
+- No2oMe: That 25-damage main weapon is totally fake—only when it fully connects does it feel anywhere close to a real 31.25.
+
 ## Trivia
 
 - No trivia, don't stare at me!

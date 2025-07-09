@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-8#marauder)
 
+## Comments
+
+- No2oMe: The undisputed king of survival in the phalanx class.
+
 ## APEX 1
 
 <img src="/ships/ship_76_apex_1.png" style={{zoom:1}}/>

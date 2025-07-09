@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-3#vuxine)
 
+## Comments
+
+- No2oMe: If its missiles could hit anything reliably, it wouldn’t be this trash.
+
 ## Trivia
 
 - Originally, its popularity was not that high, until its specialist mission became the dense Bullet Laser.

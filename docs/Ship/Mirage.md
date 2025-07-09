@@ -40,6 +40,11 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-8#mirage)
 
+## Comments
+
+- S.K: Haven’t seen Mirage in years—why does it look way chunkier than the HD version?
+- No2oMe: Gotta admit, Night Fury one-shotting Vultures is ridiculously satisfying.
+
 ## APEX 1
 
 <img src="/ships/ship_75_apex_1.png" style={{zoom:1}}/>

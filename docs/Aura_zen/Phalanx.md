@@ -31,6 +31,7 @@ The details of this skill are listed as follows:
 - Editor: What would you like to block with it?
 - ☀🐕: Phalanx is a bit crap as a means of defense because it breaks immediately after only one shoveling against a flood of bullets. It might be more viable if it has infinite durability but only lasts for 4 seconds.
 - axv: This is actually a skill used to clear bullets. After activating the phalanx, rush forward to push away a bunch of bullets to gain space. Of course, the premise is that there are no lasers and boomerangs (no).
+- No2oMe: The proper way to use the phalanx is bulldozing bullets and weaving through lasers—play it like a shield bot and you’re guaranteed to die.
 
 ## Usage
 

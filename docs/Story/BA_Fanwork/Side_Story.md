@@ -35,3 +35,13 @@ This story is written in Chinese. If you are interested in the story, please use
 ### 6
 
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=114013228768068&bvid=BV13LALefEoB&cid=28422638106&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"></iframe>
+
+### 7
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=114170045406679&bvid=BV1UvQbYAEHp&cid=28894366358&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"></iframe>
+
+### 8
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=114325570263550&bvid=BV1zXdhYPEGN&cid=29378283966&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"></iframe>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=114523138823544&bvid=BV1V2JwzbELf&cid=30009264095&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"></iframe>

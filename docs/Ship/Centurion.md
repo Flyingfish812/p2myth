@@ -36,6 +36,10 @@
 
 <img src="/illustration/main_92.gif" style={{zoom:1}}/>
 
+## Comments
+
+- No2oMe: An absolute beast against dense waves and armored invaders—pure satisfaction.
+
 ## Survival
 
 - PS as the only defense is able to block off lasers and break through surrounding bullets at the right moment.

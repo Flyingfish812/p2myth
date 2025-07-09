@@ -42,6 +42,10 @@
 
 - Utilizing the characteristic of locking onto targets with the main weapon allows for Teleporting to the opposite side with more invaders to perform a "rubber band".
 
+## Comments
+
+- No2oMe: Stun and run—what a rush ~
+
 ## APEX 1
 
 <img src="/ships/ship_21_apex_1.png" style={{zoom:1}}/>

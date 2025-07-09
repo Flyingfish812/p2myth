@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-2#cinnri)
 
+## Comments
+
+- No2oMe: Stun the invader, then turn the mega laser into a lance.
+
 ## APEX 1
 
 <img src="/ships/ship_18_apex_1.png" style={{zoom:1}}/>

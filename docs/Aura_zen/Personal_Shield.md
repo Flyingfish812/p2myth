@@ -33,6 +33,7 @@ The details of this skill are listed as follows:
 
 - Editor: The rickety boat sailed in the sea of bullets.
 - ☀🐕: The defensive aspect of PS is crap when not taking account of laser reflection. Let’s buff it so that the shield persists even after ship moving and firing. 
+- No2oMe: In bullet hell missions, it's basically a pseudo-omni-directional phalanx.
 
 ## Usage
 

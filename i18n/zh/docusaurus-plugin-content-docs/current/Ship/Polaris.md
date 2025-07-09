@@ -1,6 +1,6 @@
 # 北极星
 
-> Brief intro
+> 长相主打一个潦草。
 
 <img src="/ships/ship_73.png" style={{zoom:1}}/>
 

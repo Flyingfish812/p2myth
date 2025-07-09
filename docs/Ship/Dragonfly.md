@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-5#dragonfly)
 
+## Comments
+
+- 小卡永远开心/KayYYKX：Style only! Rock-solid crit rate every time.
+
 ## Trivia
 
 - Dragonfly Epsilon is one of the 4 apexes with an additional hidden change as well, changing its main weapon into a sort of rainbow colored laser gun, tightening the spread of the main.

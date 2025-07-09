@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-5#barret)
 
+## Comments
+
+- 小卡永远开心/KayYYKX：A true Barrett. After silencing, just line up the turret and fire shot by shot—no big invader is off-limits. Can’t win head-on? Just flank it. Honestly, doesn’t even need an Apex.
+
 ## Trivia
 
 - One of the two ships that have Bosons weapons.

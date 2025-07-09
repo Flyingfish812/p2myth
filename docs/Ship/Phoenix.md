@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-2#phoenix)
 
+## Comments
+
+- 小卡永远开心/KayYYKX: It's the protagonist ship of the higher SSSS tiers are only doable with Phoenix. Everything else struggles hard. Trust me, I’ve tried.
+
 ## APEX 1
 
 <img src="/ships/ship_19_apex_1.png" style={{zoom:1}}/>

@@ -39,6 +39,7 @@
 ## Comments
 
 - Dark骑士: I bought the Railgun APEX out of curiosity. It really only has a nice name. The main gun has almost no feeling of impact. If it weren't for the output ability of the MS, I'm afraid that it wouldn't have a chance to be noticed.
+- No2oMe: One miss from the main weapon can turn into a full whiff—but hey, at least Zen’s there to pick up the slack.
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-7#corsair)
 

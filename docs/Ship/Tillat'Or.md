@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-3#tillator)
 
+## Comments
+
+- No2oMe: Fastest-firing main cannon in the game—no matter what, it’s guaranteed fun.
+
 ## Fun
 
 - The main is pretty satisfying to hear.

@@ -40,6 +40,10 @@
 
 [Click Here for More Advanced Speedrunning Strategies](https://p2myth.club/docs/Cookbook/Wraith)
 
+## Comments
+
+- No2oMe: 极光幻影 (no)(*Editor: a ship from another game 雷霆战机*)
+
 ## APEX 1
 
 <img src="/ships/ship_65_apex_1.png" style={{zoom:1}}/>

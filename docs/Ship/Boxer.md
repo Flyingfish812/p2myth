@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-6#boxer)
 
+## Comments
+
+- No2oMe: That single flicker from the main weapon—who exactly is it trying to blind to death?
+
 ## APEX 1
 
 <img src="/ships/ship_59_apex_1.png" style={{zoom:1}}/>

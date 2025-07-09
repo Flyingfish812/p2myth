@@ -4,6 +4,8 @@
 
 There are 2 types of boomerang turrets, the straight firing kind and the split firing kind.
 
+- No2oMe: Worst nightmare is this thing teaming up with a rapid-fire shuriken spammer flanking you from the side.
+
 ## Tiers and Patterns
 
 <img src="/turrets/boomerang_1.png" style={{zoom:1.25}}/>

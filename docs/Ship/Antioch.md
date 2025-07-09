@@ -40,6 +40,12 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-7#antioch)
 
+## Comments
+
+- No2oMe: Sometimes the only way to stop the main weapon from wobbling all over the place is to go full face-hug… but that’s a death wish against shuriken-spammers, especially that shuriken sparrow at the start. Honestly, this ship's a pain to use in missions with spammy patterns.
+- No2oMe: If you treat it purely as a straightforward frontal assault ship, it actually becomes surprisingly powerful.
+- 莱: Every time I play this ship, it feels like watching a drunk battleship trying its best to walk in a straight line—clumsy, determined, and destined for glorious failure.
+
 ## APEX 1
 
 <img src="/ships/ship_62_apex_1.png" style={{zoom:1}}/>

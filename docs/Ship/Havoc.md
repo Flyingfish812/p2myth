@@ -39,6 +39,7 @@
 ## Comments
 
 - 五香fish: An offensive ship, it's better to maximize the main's AOE damage when playing. Alpha APEX highly recommended.
+- S.K: You look like an armored sparrow.
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-3#havoc)
 

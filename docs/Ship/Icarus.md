@@ -39,6 +39,7 @@
 ## Comments
 
 - Dark骑士: The combination of the asymmetrical structure and the Vorpal Lance skill is interesting. However, like the Wraith, the main weapon interval greatly reduces the experience. It is more difficult to shoot a few sparrows than a heron. How to use the main weapon well requires a lot of effort. If you have time to practice, it is a good ship in itself.
+- No2oMe: With the colorful Apex, you can just brainlessly stomp on the sparrows.
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-8#icarus)
 
