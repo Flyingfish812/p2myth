@@ -58,6 +58,10 @@
 
 ### 7
 
+第七集：被驱逐出虚空军的绿色渡鸦心灰意冷，殊不知不久后她的命运将迎来意料不到的转机，全新的故事将就此开始。
+
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=114438447373306&bvid=BV1BmV5z9Ehe&cid=30081747703&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"></iframe>
 
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=114672455917310&bvid=BV1bgMTzME7t&cid=30465002004&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"></iframe>
+
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=114886466081878&bvid=BV1mfgYz7E5D&cid=31238524449&p=1&autoplay=false" scrolling="no" border="0" frameborder="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" framespacing="0" allowfullscreen="true"></iframe>

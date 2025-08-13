@@ -4,6 +4,14 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.5.3
+
+- Version: 1.5.3
+- Update time 2025-08-14
+
+Update: New content for "BA_Fanwork". 
+New page for Captured Raven with latest comments.
+
 ## V1.5.2
 
 - Version: 1.5.2
