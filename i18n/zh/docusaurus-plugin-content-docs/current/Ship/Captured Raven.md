@@ -10,7 +10,7 @@
 
 :::
 
-<img src="/ship_captured_raven.png" style={{zoom:1}}/>
+<img src="/ships/ship_captured_raven.png" style={{zoom:1}}/>
 
 ## 基本信息
 
