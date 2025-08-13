@@ -30,11 +30,11 @@
 
 - 光环图示：
 
-<img src="/illustration/raven_aura.gif" style={{zoom:1}}>
+<img src="/illustration/raven_aura.gif" style={{zoom:1}}/>
 
 - 禅宗图示：
 
-<img src="/illustration/raven_zen.gif" style={{zoom:1}}>
+<img src="/illustration/raven_zen.gif" style={{zoom:1}}/>
 
 
 ## 玩家评论

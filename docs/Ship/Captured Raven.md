@@ -30,11 +30,11 @@ This ship only shows up in Chapter 4 of Campaign.
 
 - Aura Illustration:
 
-<img src="/illustration/raven_aura.gif" style={{zoom:1}}>
+<img src="/illustration/raven_aura.gif" style={{zoom:1}}/>
 
 - Zen Illustration:
 
-<img src="/illustration/raven_zen.gif" style={{zoom:1}}>
+<img src="/illustration/raven_zen.gif" style={{zoom:1}}/>
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/chapter-4-arcology-cq-6)
 
