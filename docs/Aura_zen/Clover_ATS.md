@@ -32,6 +32,7 @@ The details of this skill are listed as follows:
 - Editor: The faster it is, the larger the circle will be formed.
 - ☀🐕: I honestly have no idea how the devs have come up with this abstract idea of flying crap. I feel like it’d still be underwhelming even if it deals twice the damage. It’s so crap that it misses sparrows frequently let alone it deals excessive damage to them. It’s literally unredeemable, please do over.
 - 圆锥曲线: The people who designed this are probably rebels.
+- No2oMe: Fine, I get that Missile Swarm spins around, but why the hell does this stupid thing spin too?!
 
 ## Usage
 

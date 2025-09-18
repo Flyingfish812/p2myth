@@ -78,7 +78,7 @@
     <img src="/ships/ship_94.png" style={{zoom:0.25}}/>
     <img src="/ships/ship_98.png" style={{zoom:0.25}}/>
 
-- - 本轮含有罚时10秒减益的战机：布洛、军刀、海盗、纳雅
+- - 本轮含有罚时10秒减益的战机：布络、军刀、海盗、纳雅
 
     <img src="/ships/ship_20.png" style={{zoom:0.25}}/>
     <img src="/ships/ship_51.png" style={{zoom:0.25}}/>

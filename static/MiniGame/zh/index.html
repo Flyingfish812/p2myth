@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>战机猜猜杯</title>
+  <link rel="stylesheet" href="/MiniGame/zh/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>战机猜猜杯</h1>
+
+    <div class="controls">
+      <div class="autocomplete">
+        <input id="guessInput" placeholder="输入战机名称并回车" autocomplete="off" />
+        <ul id="suggestions" class="suggestions"></ul>
+      </div>
+      <button id="restartBtn">重新开始</button>
+      <button id="surrenderBtn">投降</button>
+      <!-- <button id="backBtn">返回主页</button>  -->
+      <div id="attempts">尝试次数: 0</div>
+    </div>
+
+    <div class="legend">
+      <strong>颜色说明：</strong>
+      <span class="legend-item"><i class="swatch green"></i>相同</span>
+      <span class="legend-item"><i class="swatch orange"></i>位置错误但存在</span>
+      <span class="legend-item"><i class="swatch red"></i>错误</span>
+    </div>
+
+    <div class="table-wrap">
+      <table id="resultTable">
+        <thead>
+          <tr id="tableHead"></tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+
+    <div id="message" class="message"></div>
+  </div>
+
+  <script src="/MiniGame/zh/game.js"></script>
+  <script>
+    // 返回主页按钮逻辑
+    document.getElementById('backBtn').addEventListener('click', () => {
+      window.location.href = '/'; // 返回网站首页
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Shipdle</title>
+  <link rel="stylesheet" href="/MiniGame/en/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Shipdle</h1>
+
+    <div class="controls">
+      <div class="autocomplete">
+        <input id="guessInput" placeholder="Enter fighter name and press Enter" autocomplete="off" />
+        <ul id="suggestions" class="suggestions"></ul>
+      </div>
+      <button id="restartBtn">Restart</button>
+      <button id="surrenderBtn">Surrender</button>
+      <!-- <button id="backBtn">Back to Home</button> -->
+      <div id="attempts">Attempts: 0</div>
+    </div>
+
+    <div class="legend">
+      <strong>Color Legend:</strong>
+      <span class="legend-item"><i class="swatch green"></i>Correct</span>
+      <span class="legend-item"><i class="swatch orange"></i>Exists but wrong position</span>
+      <span class="legend-item"><i class="swatch red"></i>Incorrect</span>
+    </div>
+
+    <div class="table-wrap">
+      <table id="resultTable">
+        <thead>
+          <tr id="tableHead"></tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+
+    <div id="message" class="message"></div>
+  </div>
+
+  <script src="/MiniGame/en/game.js"></script>
+  <script>
+    // Back to home button
+    document.getElementById('backBtn').addEventListener('click', () => {
+      window.location.href = '/'; // adjust if your site is not at root
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,903 @@
+[
+  {
+    "name": "502-Q8",
+    "type": "Shield Breaker",
+    "aura": "Phalanx",
+    "zen": "Mega Laser",
+    "rarity": "Common",
+    "apex1": "Double Phalanx",
+    "apex2": "Volatile Plasma"
+  },
+  {
+    "name": "AB8/Klyn",
+    "type": "High Impact",
+    "aura": "Point Defense",
+    "zen": "Reflex EMP",
+    "rarity": "Rare",
+    "apex1": "High Damage",
+    "apex2": "EMP Laser"
+  },
+  {
+    "name": "Antioch", 
+    "type": "Armor Piercing",
+    "aura": "Vorpal Lance",
+    "zen": "Personal Shield",
+    "rarity": "Common",
+    "apex1": "Twin Lance",
+    "apex2": "High Capacity"
+  },
+  {
+    "name": "Arietis", 
+    "type": "Shield Breaker",
+    "aura": "Point Defense",
+    "zen": "Mega Laser",
+    "rarity": "Rare",
+    "apex1": "Bullet Detonator",
+    "apex2": "Focused Beam"
+  },
+  {
+    "name": "Atlas", 
+    "type": "Armor Piercing",
+    "aura": "Missile Swarm",
+    "zen": "Personal Shield",
+    "rarity": "Rare",
+    "apex1": "High Explosive",
+    "apex2": "Supersize"
+  },
+  {
+    "name": "Aurora", 
+    "type": "High Impact",
+    "aura": "Bullet EMP",
+    "zen": "Teleport",
+    "rarity": "Super Rare",
+    "apex1": "Extended Clearance",
+    "apex2": "Homing Module"
+  },
+  {
+    "name": "Banshee", 
+    "type": "Shield Breaker",
+    "aura": "Goliath Missile",
+    "zen": "Focus Lance",
+    "rarity": "Super Rare",
+    "apex1": "Expert Focus",
+    "apex2": "Disintergrator Warhead"
+  },
+  {
+    "name": "Baqlor", 
+    "type": "High Impact",
+    "aura": "Chrono Field",
+    "zen": "Mega Bomb",
+    "rarity": "Super Rare",
+    "apex1": "Fast Range",
+    "apex2": "Shield Breaker"
+  },
+  {
+    "name": "Barret", 
+    "type": "High Impact",
+    "aura": "Ion Cannon",
+    "zen": "Teleport",
+    "rarity": "Rare",
+    "apex1": "Explosive Arrival",
+    "apex2": "Blast Amplifier"
+  },
+  {
+    "name": "Boxer", 
+    "type": "High Impact",
+    "aura": "Phalanx",
+    "zen": "Reflex EMP",
+    "rarity": "Common",
+    "apex1": "Smart Fire",
+    "apex2": "Double Phalanx"
+  },
+  {
+    "name": "Buhloo", 
+    "type": "High Impact",
+    "aura": "Laser Storm",
+    "zen": "Mega Bomb",
+    "rarity": "Common",
+    "apex1": "High Power",
+    "apex2": "Extended Range"
+  },
+  {
+    "name": "Centurion", 
+    "type": "High Impact",
+    "aura": "Goliath Missile",
+    "zen": "Personal Shield",
+    "rarity": "Super Rare",
+    "apex1": "Tungsten Warhead",
+    "apex2": "Shield Booster"
+  },
+  {
+    "name": "Cinnri", 
+    "type": "High Impact",
+    "aura": "Stun EMP",
+    "zen": "Mega Laser",
+    "rarity": "Super Rare",
+    "apex1": "Armor Piercing",
+    "apex2": "High Damage"
+  },
+  {
+    "name": "Claymore", 
+    "type": "High Impact",
+    "aura": "Goliath Missile",
+    "zen": "Teleport",
+    "rarity": "Rare",
+    "apex1": "Disintergrator Warhead",
+    "apex2": "Extended Clearance"
+  },
+  {
+    "name": "Corsair", 
+    "type": "High Impact",
+    "aura": "Missile Swarm",
+    "zen": "Tracking Minigun",
+    "rarity": "Super Rare",
+    "apex1": "Railgun",
+    "apex2": "High Explosive"
+  },
+  {
+    "name": "Czar", 
+    "type": "Shield Breaker",
+    "aura": "Stun EMP",
+    "zen": "Teleport",
+    "rarity": "Common",
+    "apex1": "Explosive Arrival",
+    "apex2": "Double Teleport"
+  },
+  {
+    "name": "Disaris", 
+    "type": "Armor Piercing",
+    "aura": "Bullet EMP",
+    "zen": "Focus Lance",
+    "rarity": "Rare",
+    "apex1": "High Voltage",
+    "apex2": "Bullet Detonator"
+  },
+  {
+    "name": "Dragonfly", 
+    "type": "High Impact",
+    "aura": "Ion Cannon",
+    "zen": "Mega Bomb",
+    "rarity": "Common",
+    "apex1": "Blast Amplifier",
+    "apex2": "Overcharge"
+  },
+  {
+    "name": "EX04239", 
+    "type": "Armor Piercing",
+    "aura": "Missile Swarm",
+    "zen": "Mega Laser",
+    "rarity": "Rare",
+    "apex1": "Ion Warheads",
+    "apex2": "Twin Laser"
+  },
+  {
+    "name": "Elyon", 
+    "type": "High Impact",
+    "aura": "Laser Storm",
+    "zen": "Kappa Drive",
+    "rarity": "Common",
+    "apex1": "Shield Breaker",
+    "apex2": "High Power"
+  },
+  {
+    "name": "Esperon", 
+    "type": "Shield Breaker",
+    "aura": "Phalanx",
+    "zen": "Clover ATS",
+    "rarity": "Rare",
+    "apex1": "Crisis EMP",
+    "apex2": "Ion Warheads"
+  },
+  {
+    "name": "Essin", 
+    "type": "Shield Breaker",
+    "aura": "Laser Storm",
+    "zen": "Personal Shield",
+    "rarity": "Rare",
+    "apex1": "Improved Optics",
+    "apex2": "Super Reflect"
+  },
+  {
+    "name": "Exarch", 
+    "type": "Shield Breaker",
+    "aura": "Vorpal Lance",
+    "zen": "Mega Laser",
+    "rarity": "Super Rare",
+    "apex1": "High Capacity",
+    "apex2": "Phase Refraction"
+  },
+  {
+    "name": "Fujin", 
+    "type": "High Impact",
+    "aura": "Laser Storm",
+    "zen": "Mega Laser",
+    "rarity": "Super Rare",
+    "apex1": "Double Shot",
+    "apex2": "High Power"
+  },
+  {
+    "name": "Geist", 
+    "type": "High Impact",
+    "aura": "Missile Swarm",
+    "zen": "Personal Shield",
+    "rarity": "Super Rare",
+    "apex1": "Ion Warheads",
+    "apex2": "High Explosive"
+  },
+  {
+    "name": "Gladius", 
+    "type": "Shield Breaker",
+    "aura": "Vorpal Lance",
+    "zen": "Kappa Drive",
+    "rarity": "Common",
+    "apex1": "Twin Lance",
+    "apex2": "Antigrav"
+  },
+  {
+    "name": "Gorthaur", 
+    "type": "High Impact",
+    "aura": "Barrier",
+    "zen": "Personal Shield",
+    "rarity": "Rare",
+    "apex1": "Reflector",
+    "apex2": "Focus"
+  },
+  {
+    "name": "Havoc", 
+    "type": "Armor Piercing",
+    "aura": "Laser Storm",
+    "zen": "Mega Laser",
+    "rarity": "Rare",
+    "apex1": "Volatile Mass",
+    "apex2": "Tac Moons"
+  },
+  {
+    "name": "Heechi", 
+    "type": "High Impact",
+    "aura": "Barrier",
+    "zen": "Kappa Drive",
+    "rarity": "Super Rare",
+    "apex1": "Fast Range",
+    "apex2": "Reflector"
+  },
+  {
+    "name": "Hime", 
+    "type": "Armor Piercing",
+    "aura": "Chrono Field",
+    "zen": "Mega Laser",
+    "rarity": "Super Rare",
+    "apex1": "Armor Piercing",
+    "apex2": "Double Shot"
+  },
+  {
+    "name": "Hunter", 
+    "type": "Armor Piercing",
+    "aura": "Phalanx",
+    "zen": "Teleport",
+    "rarity": "Rare",
+    "apex1": "Departure EMP",
+    "apex2": "Double Phalanx"
+  },
+  {
+    "name": "Icarus", 
+    "type": "Armor Piercing",
+    "aura": "Vorpal Lance",
+    "zen": "Teleport",
+    "rarity": "Rare",
+    "apex1": "High Capacity",
+    "apex2": "Explosive Arrival"
+  },
+  {
+    "name": "Jeria", 
+    "type": "Shield Breaker",
+    "aura": "Vorpal Lance",
+    "zen": "Reflex EMP",
+    "rarity": "Rare",
+    "apex1": "Twin Lance",
+    "apex2": "High Damage"
+  },
+  {
+    "name": "Jericho", 
+    "type": "Armor Piercing",
+    "aura": "Bullet EMP",
+    "zen": "Personal Shield",
+    "rarity": "Common",
+    "apex1": "Radar Upgrade",
+    "apex2": "Focus"
+  },
+  {
+    "name": "Jn'dur", 
+    "type": "Shield Breaker",
+    "aura": "Barrier",
+    "zen": "Mega Bomb",
+    "rarity": "Common",
+    "apex1": "Fast Range",
+    "apex2": "Extended Range"
+  },
+  {
+    "name": "Juggernaut", 
+    "type": "Armor Piercing",
+    "aura": "Bullet EMP",
+    "zen": "Mega Bomb",
+    "rarity": "Rare",
+    "apex1": "Destructive Wave",
+    "apex2": "Fast Range"
+  },
+  {
+    "name": "Kibarrax", 
+    "type": "High Impact",
+    "aura": "Missile Swarm",
+    "zen": "Mega Bomb",
+    "rarity": "Common",
+    "apex1": "Extended Range",
+    "apex2": "Armor Piercing"
+  },
+  {
+    "name": "Kada Veni", 
+    "type": "Armor Piercing",
+    "aura": "Barrier",
+    "zen": "Mega Bomb",
+    "rarity": "Common",
+    "apex1": "Launcher Upgrade",
+    "apex2": "Compressed Blast"
+  },
+  {
+    "name": "Krillou", 
+    "type": "Armor Piercing",
+    "aura": "Stun EMP",
+    "zen": "Mega Bomb",
+    "rarity": "Rare",
+    "apex1": "Compressed Blast",
+    "apex2": "EMP Core"
+  },
+  {
+    "name": "Loki", 
+    "type": "Armor Piercing",
+    "aura": "Laser Storm",
+    "zen": "Personal Shield",
+    "rarity": "Common",
+    "apex1": "Supersize",
+    "apex2": "High Power"
+  },
+  {
+    "name": "Lorilou", 
+    "type": "High Impact",
+    "aura": "Phalanx",
+    "zen": "Mega Laser",
+    "rarity": "Rare",
+    "apex1": "Double Phalanx",
+    "apex2": "Focused Beam"
+  },
+  {
+    "name": "Luna", 
+    "type": "Armor Piercing",
+    "aura": "Point Defense",
+    "zen": "Teleport",
+    "rarity": "Super Rare",
+    "apex1": "Bullet Detonator",
+    "apex2": "Explosive Arrival"
+  },
+  {
+    "name": "Lyova", 
+    "type": "High Impact",
+    "aura": "Bullet EMP",
+    "zen": "Reflex EMP",
+    "rarity": "Super Rare",
+    "apex1": "High Damage",
+    "apex2": "Destructive Wave"
+  },
+  {
+    "name": "Marauder", 
+    "type": "Armor Piercing",
+    "aura": "Phalanx",
+    "zen": "Kappa Drive",
+    "rarity": "Common",
+    "apex1": "Antigrav",
+    "apex2": "Reflector"
+  },
+  {
+    "name": "Mirage", 
+    "type": "Shield Breaker",
+    "aura": "Bullet EMP",
+    "zen": "Nightfury",
+    "rarity": "Super Rare",
+    "apex1": "Increased Stun",
+    "apex2": "Extended Range"
+  },
+  {
+    "name": "Mist Star", 
+    "type": "Shield Breaker",
+    "aura": "Stun EMP",
+    "zen": "Kappa Drive",
+    "rarity": "Common",
+    "apex1": "Strong Stun",
+    "apex2": "Extended Range"
+  },
+  {
+    "name": "Mistral", 
+    "type": "Armor Piercing",
+    "aura": "Goliath Missile",
+    "zen": "Mega Bomb",
+    "rarity": "Rare",
+    "apex1": "Disintergrator Warhead",
+    "apex2": "Fast Range"
+  },
+  {
+    "name": "Monsoon", 
+    "type": "Shield Breaker",
+    "aura": "Goliath Missile",
+    "zen": "Mega Laser",
+    "rarity": "Super Rare",
+    "apex1": "Proximity Detonator",
+    "apex2": "Double Shot"
+  },
+  {
+    "name": "NC-150", 
+    "type": "Shield Breaker",
+    "aura": "Stun EMP",
+    "zen": "Personal Shield",
+    "rarity": "Common",
+    "apex1": "High Damage",
+    "apex2": "Super Reflect"
+  },
+  {
+    "name": "NC-271", 
+    "type": "Shield Breaker",
+    "aura": "Ion Cannon",
+    "zen": "Personal Shield",
+    "rarity": "Rare",
+    "apex1": "Supersize",
+    "apex2": "Blast Amplifier"
+  },
+  {
+    "name": "Naya", 
+    "type": "High Impact",
+    "aura": "Vorpal Lance",
+    "zen": "Clover ATS",
+    "rarity": "Super Rare",
+    "apex1": "Trident",
+    "apex2": "Shield Breaker"
+  },
+  {
+    "name": "Neni", 
+    "type": "Armor Piercing",
+    "aura": "Vorpal Lance",
+    "zen": "Mega Laser",
+    "rarity": "Rare",
+    "apex1": "Twin Lance",
+    "apex2": "Armor Piercing"
+  },
+  {
+    "name": "Nimbus", 
+    "type": "High Impact",
+    "aura": "Stun EMP",
+    "zen": "Reflex EMP",
+    "rarity": "Rare",
+    "apex1": "High Damage",
+    "apex2": "Extended Range"
+  }
+  ,
+  {
+    "name": "Njörun", 
+    "type": "Shield Breaker",
+    "aura": "Chrono Field",
+    "zen": "Personal Shield",
+    "rarity": "Rare",
+    "apex1": "Deep Field",
+    "apex2": "Super Reflect"
+  },
+  {
+    "name": "Ogon", 
+    "type": "Armor Piercing",
+    "aura": "Laser Storm",
+    "zen": "Kappa Drive",
+    "rarity": "Common",
+    "apex1": "Tac Moons",
+    "apex2": "Photon Array MK3"
+  },
+  {
+    "name": "Oran", 
+    "type": "Armor Piercing",
+    "aura": "Stun EMP",
+    "zen": "Kappa Drive",
+    "rarity": "Super Rare",
+    "apex1": "Antigrav",
+    "apex2": "Meson Controller"
+  },
+  {
+    "name": "Orion", 
+    "type": "Armor Piercing",
+    "aura": "Point Defense",
+    "zen": "Teleport",
+    "rarity": "Rare",
+    "apex1": "EMP Laser",
+    "apex2": "Extended Clearance"
+  },
+  {
+    "name": "Pandora", 
+    "type": "High Impact",
+    "aura": "Point Defense",
+    "zen": "Clover ATS",
+    "rarity": "Rare",
+    "apex1": "Double Clover",
+    "apex2": "EMP Laser"
+  },
+  {
+    "name": "Phoenix", 
+    "type": "Shield Breaker",
+    "aura": "Bullet EMP",
+    "zen": "Personal Shield",
+    "rarity": "Rare",
+    "apex1": "Destructive Wave",
+    "apex2": "Supersize"
+  },
+  {
+    "name": "Photurius", 
+    "type": "Armor Piercing",
+    "aura": "Stun EMP",
+    "zen": "Mega Laser",
+    "rarity": "Rare",
+    "apex1": "Double Shot",
+    "apex2": "High Damage"
+  },
+  {
+    "name": "Polaris", 
+    "type": "Shield Breaker",
+    "aura": "Ion Cannon",
+    "zen": "Kappa Drive",
+    "rarity": "Rare",
+    "apex1": "Blast Amplifier",
+    "apex2": "Overcharge"
+  },
+  {
+    "name": "Predator", 
+    "type": "Armor Piercing",
+    "aura": "Barrier",
+    "zen": "Reflex EMP",
+    "rarity": "Rare",
+    "apex1": "High Damage",
+    "apex2": "Reinforced Lining"
+  },
+  {
+    "name": "Prime X", 
+    "type": "Armor Piercing",
+    "aura": "Missile Swarm",
+    "zen": "Teleport",
+    "rarity": "Rare",
+    "apex1": "Extended Clearance",
+    "apex2": "Armor Piercing"
+  },
+  {
+    "name": "Proteus", 
+    "type": "Armor Piercing",
+    "aura": "Point Defense",
+    "zen": "Mega Laser",
+    "rarity": "Rare",
+    "apex1": "Sentinel",
+    "apex2": "Unstable Photons"
+  },
+  {
+    "name": "Proxymar", 
+    "type": "Shield Breaker",
+    "aura": "Missile Swarm",
+    "zen": "Mega Bomb",
+    "rarity": "Common",
+    "apex1": "Extended Range",
+    "apex2": "EMP Core"
+  },
+  {
+    "name": "Qhelqod", 
+    "type": "High Impact",
+    "aura": "Barrier",
+    "zen": "Mega Bomb",
+    "rarity": "Rare",
+    "apex1": "EMP Core",
+    "apex2": "Reflector"
+  },
+  {
+    "name": "Razor VI", 
+    "type": "Shield Breaker",
+    "aura": "Barrier",
+    "zen": "Mega Laser",
+    "rarity": "Common",
+    "apex1": "Reinforced Lining",
+    "apex2": "Focused Beam"
+  },
+  {
+    "name": "Reaper", 
+    "type": "High Impact",
+    "aura": "Laser Storm",
+    "zen": "Focus Lance",
+    "rarity": "Super Rare",
+    "apex1": "Shield Breaker",
+    "apex2": "Lance Wake"
+  },
+  {
+    "name": "Saber", 
+    "type": "Armor Piercing",
+    "aura": "Vorpal Lance",
+    "zen": "Reflex EMP",
+    "rarity": "Rare",
+    "apex1": "Extended Range",
+    "apex2": "High Capacity"
+  },
+  {
+    "name": "Sakura", 
+    "type": "Armor Piercing",
+    "aura": "Barrier",
+    "zen": "Teleport",
+    "rarity": "Super Rare",
+    "apex1": "Double Teleport",
+    "apex2": "Explosive Arrival"
+  },
+  {
+    "name": "Scuuxun", 
+    "type": "Shield Breaker",
+    "aura": "Laser Storm",
+    "zen": "Reflex EMP",
+    "rarity": "Rare",
+    "apex1": "Extended Range",
+    "apex2": "Seeker T'kari"
+  },
+  {
+    "name": "Shinova", 
+    "type": "Shield Breaker",
+    "aura": "Bullet EMP",
+    "zen": "Kappa Drive",
+    "rarity": "Common",
+    "apex1": "Extended Range",
+    "apex2": "Destructive Wave"
+  },
+  {
+    "name": "Shogun", 
+    "type": "Armor Piercing",
+    "aura": "Blade Storm",
+    "zen": "Reflex EMP",
+    "rarity": "Super Rare",
+    "apex1": "Graze",
+    "apex2": "High Damage"
+  },
+  {
+    "name": "Sonah", 
+    "type": "Armor Piercing",
+    "aura": "Ion Cannon",
+    "zen": "Reflex EMP",
+    "rarity": "Rare",
+    "apex1": "Firestorm Spec B",
+    "apex2": "Blast Amplifier"
+  },
+  {
+    "name": "Starless", 
+    "type": "Armor Piercing",
+    "aura": "Goliath Missile",
+    "zen": "Reflex EMP",
+    "rarity": "Rare",
+    "apex1": "High Damage",
+    "apex2": "High Capacity"
+  },
+  {
+    "name": "Stinger", 
+    "type": "Armor Piercing",
+    "aura": "Barrier",
+    "zen": "Focus Lance",
+    "rarity": "Common",
+    "apex1": "Expert Focus",
+    "apex2": "Reflector"
+  },
+  {
+    "name": "Tar'cah", 
+    "type": "High Impact",
+    "aura": "Point Defense",
+    "zen": "Kappa Drive",
+    "rarity": "Common",
+    "apex1": "EMP Laser",
+    "apex2": "Bullet Detonator"
+  },
+  {
+    "name": "Tempest", 
+    "type": "High Impact",
+    "aura": "Bullet EMP",
+    "zen": "Mega Laser",
+    "rarity": "Common",
+    "apex1": "Focused Beam",
+    "apex2": "Extended Range"
+  },
+  {
+    "name": "Tillat'Or", 
+    "type": "High Impact",
+    "aura": "Barrier",
+    "zen": "Teleport",
+    "rarity": "Rare",
+    "apex1": "Reflector",
+    "apex2": "Extended Clearance"
+  },
+  {
+    "name": "Torrent", 
+    "type": "High Impact",
+    "aura": "Stun EMP",
+    "zen": "Personal Shield",
+    "rarity": "Common",
+    "apex1": "Super Reflect",
+    "apex2": "Extended Range"
+  },
+  {
+    "name": "Trinity", 
+    "type": "Armor Piercing",
+    "aura": "Chrono Field",
+    "zen": "Teleport",
+    "rarity": "Super Rare",
+    "apex1": "Deep Field",
+    "apex2": "Darkfire Blast"
+  },
+  {
+    "name": "Trireme", 
+    "type": "Shield Breaker",
+    "aura": "Missile Swarm",
+    "zen": "Teleport",
+    "rarity": "Super Rare",
+    "apex1": "Double Teleport",
+    "apex2": "Armor Piercing"
+  },
+  {
+    "name": "UHB", 
+    "type": "High Impact",
+    "aura": "Missile Swarm",
+    "zen": "Reflex EMP",
+    "rarity": "Rare",
+    "apex1": "High Explosive",
+    "apex2": "Extended Range"
+  },
+  {
+    "name": "Valkyrie", 
+    "type": "Shield Breaker",
+    "aura": "Phalanx",
+    "zen": "Mega Bomb",
+    "rarity": "Common",
+    "apex1": "Reflector",
+    "apex2": "Compressed Blast"
+  },
+  {
+    "name": "Vani-Vith", 
+    "type": "High Impact",
+    "aura": "Vorpal Lance",
+    "zen": "Teleport",
+    "rarity": "Rare",
+    "apex1": "Twin Lance",
+    "apex2": "Extended Clearance"
+  },
+  {
+    "name": "Veil", 
+    "type": "Shield Breaker",
+    "aura": "Bullet EMP",
+    "zen": "Mega Bomb",
+    "rarity": "Common",
+    "apex1": "EMP Core",
+    "apex2": "Shield Breaker"
+  },
+  {
+    "name": "Von Braun", 
+    "type": "Armor Piercing",
+    "aura": "Missile Swarm",
+    "zen": "Kappa Drive",
+    "rarity": "Rare",
+    "apex1": "Armor Piercing",
+    "apex2": "Improved Thrusters"
+  },
+  {
+    "name": "Vuxine", 
+    "type": "Shield Breaker",
+    "aura": "Point Defense",
+    "zen": "Kappa Drive",
+    "rarity": "Rare",
+    "apex1": "Sentinel",
+    "apex2": "Antigrav"
+  },
+  {
+    "name": "Warden", 
+    "type": "Shield Breaker",
+    "aura": "Vorpal Lance",
+    "zen": "Focus Lance",
+    "rarity": "Super Rare",
+    "apex1": "FTL",
+    "apex2": "Trident"
+  },
+  {
+    "name": "Widget", 
+    "type": "Armor Piercing",
+    "aura": "Point Defense",
+    "zen": "Personal Shield",
+    "rarity": "Super Rare",
+    "apex1": "Super Reflect",
+    "apex2": "Bullet Detonator"
+  },
+  {
+    "name": "Wrackr", 
+    "type": "High Impact",
+    "aura": "Point Defense",
+    "zen": "Mega Bomb",
+    "rarity": "Common",
+    "apex1": "Laser Upgrade",
+    "apex2": "Bullet Detonator"
+  },
+  {
+    "name": "Wraith", 
+    "type": "High Impact",
+    "aura": "Vorpal Lance",
+    "zen": "Mega Bomb",
+    "rarity": "Super Rare",
+    "apex1": "Extended Range",
+    "apex2": "High Capacity"
+  },
+  {
+    "name": "X-81", 
+    "type": "Shield Breaker",
+    "aura": "Ion Cannon",
+    "zen": "Mega Laser",
+    "rarity": "Super Rare",
+    "apex1": "Twin Launchers",
+    "apex2": "Overcharge"
+  },
+  {
+    "name": "Xaniea", 
+    "type": "Armor Piercing",
+    "aura": "Laser Storm",
+    "zen": "Teleport",
+    "rarity": "Super Rare",
+    "apex1": "Explosive Arrival",
+    "apex2": "Shield Breaker"
+  },
+  {
+    "name": "Xavis", 
+    "type": "High Impact",
+    "aura": "Ion Cannon",
+    "zen": "Focus Lance",
+    "rarity": "Common",
+    "apex1": "Overcharge",
+    "apex2": "Blast Amplifier"
+  },
+  {
+    "name": "Yigothu", 
+    "type": "Shield Breaker",
+    "aura": "Chrono Field",
+    "zen": "Reflex EMP",
+    "rarity": "Super Rare",
+    "apex1": "Serenity",
+    "apex2": "Deep Field"
+  },
+  {
+    "name": "Yoth-Hola", 
+    "type": "Shield Breaker",
+    "aura": "Point Defense",
+    "zen": "Personal Shield",
+    "rarity": "Super Rare",
+    "apex1": "Laser Expansion",
+    "apex2": "Sentinel"
+  },
+  {
+    "name": "Zephyr", 
+    "type": "Armor Piercing",
+    "aura": "Point Defense",
+    "zen": "Kappa Drive",
+    "rarity": "Common",
+    "apex1": "Antigrav",
+    "apex2": "Bullet Detonator"
+  },
+  {
+    "name": "Zhetass", 
+    "type": "Shield Breaker",
+    "aura": "Phalanx",
+    "zen": "Personal Shield",
+    "rarity": "Rare",
+    "apex1": "Supersize",
+    "apex2": "Focus"
+  },
+  {
+    "name": "Zimitr", 
+    "type": "Shield Breaker",
+    "aura": "Stun EMP",
+    "zen": "Reflex EMP",
+    "rarity": "Rare",
+    "apex1": "High Damage",
+    "apex2": "Extended Range"
+  }
+]

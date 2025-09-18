@@ -38,6 +38,9 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-6#valkyrie)
 
+## Comments
+- No2oMe：Make Phalanx great again!
+
 ## APEX 1
 
 <img src="/ships/ship_52_apex_1.png" style={{zoom:1}}/>

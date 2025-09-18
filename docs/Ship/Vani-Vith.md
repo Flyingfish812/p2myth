@@ -38,6 +38,10 @@
 
 [Click Here](https://gamefaqs.gamespot.com/iphone/193681-phoenix-ii/faqs/76704/ship-details-part-5#vani-vith)
 
+## Comments
+- No2oMe：Claymore Pro Max.
+- No2oMe：If you can control the main weapon well and combine it with teleportation, you’ll get a taste of a budget version of Trinity’s Darkfire Blast or an instant burst.
+
 ## APEX 1
 
 <img src="/ships/ship_41_apex_1.png" style={{zoom:1}}/>

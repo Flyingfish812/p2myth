@@ -99,6 +99,7 @@ const config = {
           {to: '/docs/Invader', label: 'Invaders', position: 'left'},
           {to: '/docs/Story', label: 'Story', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/docs/MiniGames/mini-game', label: 'MiniGames', position: 'left'},
           {
             type: 'localeDropdown',
             position: 'right',

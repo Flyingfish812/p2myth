@@ -114,14 +114,14 @@ import tag from '/src/css/tag.module.css';
     <a href="Tempest" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_9.png" style={{zoom:0.2,marginRight:'50px'}}/>暴风雨</a><br/>
     <a href="Wrackr" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_16.png" style={{zoom:0.2,marginRight:'50px'}}/>赖克尔</a><br/>
     <a href="Cinnri" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_18.png" style={{zoom:0.2,marginRight:'50px'}}/>欣瑞</a><br/>
-    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布洛</a><br/>
+    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布络</a><br/>
     <a href="Geist" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_23.png" style={{zoom:0.2,marginRight:'50px'}}/>盖斯特</a><br/>
     <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>提拉特厄尔</a><br/>
     <a href="Elyon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_26.png" style={{zoom:0.2,marginRight:'50px'}}/>伊莲</a><br/>
     <a href="Aurora" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_35.png" style={{zoom:0.2,marginRight:'50px'}}/>奥罗拉</a><br/>
     <a href="Gorthaur" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_37.png" style={{zoom:0.2,marginRight:'50px'}}/>索伦</a><br/>
     <a href="Heechi" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_38.png" style={{zoom:0.2,marginRight:'50px'}}/>希崎</a><br/>
-    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼威斯</a><br/>
+    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼维斯</a><br/>
     <a href="Baqlor" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_43.png" style={{zoom:0.2,marginRight:'50px'}}/>巴克洛尔</a><br/>
     <a href="Dragonfly" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_45.png" style={{zoom:0.2,marginRight:'50px'}}/>蜻蜓号</a><br/>
     <a href="Barret" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_50.png" style={{zoom:0.2,marginRight:'50px'}}/>巴雷特</a><br/>
@@ -204,7 +204,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Xaniea" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_30.png" style={{zoom:0.2,marginRight:'50px'}}/>哈尼亚</a><br/>
     <a href="Atlas" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_32.png" style={{zoom:0.2,marginRight:'50px'}}/>阿特拉斯</a><br/>
     <a href="Prime X" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_39.png" style={{zoom:0.2,marginRight:'50px'}}/>普赖姆X</a><br/>
-    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼威斯</a><br/>
+    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼维斯</a><br/>
     <a href="Dragonfly" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_45.png" style={{zoom:0.2,marginRight:'50px'}}/>蜻蜓号</a><br/>
     <a href="Proteus" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_53.png" style={{zoom:0.2,marginRight:'50px'}}/>普罗透斯</a><br/>
     <a href="Torrent" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_55.png" style={{zoom:0.2,marginRight:'50px'}}/>奔流号</a><br/>
@@ -228,7 +228,7 @@ import tag from '/src/css/tag.module.css';
   <TabItem value="full-offense" label="三攻型" attributes={{className: tag.fullOffense}}>
     <a href="Fujin" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_7.png" style={{zoom:0.2,marginRight:'50px'}}/>风神</a><br/>
     <a href="Proxymar" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_13.png" style={{zoom:0.2,marginRight:'50px'}}/>鲍克斯迈尔</a><br/>
-    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布洛</a><br/>
+    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布络</a><br/>
     <a href="Havoc" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_22.png" style={{zoom:0.2,marginRight:'50px'}}/>浩劫</a><br/>
     <a href="EX04239" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_34.png" style={{zoom:0.2,marginRight:'50px'}}/>EX04239</a><br/>
     <a href="Exarch" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_57.png" style={{zoom:0.2,marginRight:'50px'}}/>总督号</a><br/>
@@ -307,7 +307,7 @@ import tag from '/src/css/tag.module.css';
   </TabItem>
   <TabItem value="laser-storm" label="激光风暴" attributes={{className: tag.fullOffense}}>
     <a href="Fujin" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_7.png" style={{zoom:0.2,marginRight:'50px'}}/>风神</a><br/>
-    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布洛</a><br/>
+    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布络</a><br/>
     <a href="Havoc" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_22.png" style={{zoom:0.2,marginRight:'50px'}}/>浩劫</a><br/>
     <a href="Elyon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_26.png" style={{zoom:0.2,marginRight:'50px'}}/>伊莲</a><br/>
     <a href="Ogon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_27.png" style={{zoom:0.2,marginRight:'50px'}}/>奥贡</a><br/>
@@ -351,7 +351,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Trinity" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_64.png" style={{zoom:0.2,marginRight:'50px'}}/>星战船</a><br/>
   </TabItem>
   <TabItem value="vorpal-lance" label="穿刺长矛" attributes={{className: tag.fullOffense}}>
-    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼威斯</a><br/>
+    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼维斯</a><br/>
     <a href="Gladius" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_48.png" style={{zoom:0.2,marginRight:'50px'}}/>角斗士</a><br/>
     <a href="Saber" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_51.png" style={{zoom:0.2,marginRight:'50px'}}/>军刀</a><br/>
     <a href="Exarch" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_57.png" style={{zoom:0.2,marginRight:'50px'}}/>总督号</a><br/>
@@ -437,7 +437,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Proxymar" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_13.png" style={{zoom:0.2,marginRight:'50px'}}/>鲍克斯迈尔</a><br/>
     <a href="Kada Veni" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_15.png" style={{zoom:0.2,marginRight:'50px'}}/>卡达·维尼</a><br/>
     <a href="Wrackr" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_16.png" style={{zoom:0.2,marginRight:'50px'}}/>赖克尔</a><br/>
-    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布洛</a><br/>
+    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布络</a><br/>
     <a href="Juggernaut" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_24.png" style={{zoom:0.2,marginRight:'50px'}}/>主宰者</a><br/>
     <a href="Baqlor" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_43.png" style={{zoom:0.2,marginRight:'50px'}}/>巴克洛尔</a><br/>
     <a href="Dragonfly" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_45.png" style={{zoom:0.2,marginRight:'50px'}}/>蜻蜓号</a><br/>
@@ -455,7 +455,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Aurora" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_35.png" style={{zoom:0.2,marginRight:'50px'}}/>奥罗拉</a><br/>
     <a href="Prime X" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_39.png" style={{zoom:0.2,marginRight:'50px'}}/>普赖姆X</a><br/>
     <a href="Sakura" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_40.png" style={{zoom:0.2,marginRight:'50px'}}/>樱花</a><br/>
-    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼威斯</a><br/>
+    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼维斯</a><br/>
     <a href="Hunter" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_47.png" style={{zoom:0.2,marginRight:'50px'}}/>猎手</a><br/>
     <a href="Barret" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_50.png" style={{zoom:0.2,marginRight:'50px'}}/>巴雷特</a><br/>
     <a href="Orion" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_56.png" style={{zoom:0.2,marginRight:'50px'}}/>猎户座</a><br/>
@@ -532,7 +532,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Proxymar" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_13.png" style={{zoom:0.2,marginRight:'50px'}}/>鲍克斯迈尔</a><br/>
     <a href="Kada Veni" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_15.png" style={{zoom:0.2,marginRight:'50px'}}/>卡达·维尼</a><br/>
     <a href="Wrackr" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_16.png" style={{zoom:0.2,marginRight:'50px'}}/>赖克尔</a><br/>
-    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布洛</a><br/>
+    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布络</a><br/>
     <a href="Elyon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_26.png" style={{zoom:0.2,marginRight:'50px'}}/>伊莲</a><br/>
     <a href="Ogon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_27.png" style={{zoom:0.2,marginRight:'50px'}}/>奥贡</a><br/>
     <a href="Zephyr" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_42.png" style={{zoom:0.2,marginRight:'50px'}}/>和风号</a><br/>
@@ -565,7 +565,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Von Braun" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_36.png" style={{zoom:0.2,marginRight:'50px'}}/>范·布劳恩</a><br/>
     <a href="Gorthaur" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_37.png" style={{zoom:0.2,marginRight:'50px'}}/>索伦</a><br/>
     <a href="Prime X" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_39.png" style={{zoom:0.2,marginRight:'50px'}}/>普赖姆X</a><br/>
-    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼威斯</a><br/>
+    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼维斯</a><br/>
     <a href="Hunter" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_47.png" style={{zoom:0.2,marginRight:'50px'}}/>猎手</a><br/>
     <a href="Barret" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_50.png" style={{zoom:0.2,marginRight:'50px'}}/>巴雷特</a><br/>
     <a href="Saber" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_51.png" style={{zoom:0.2,marginRight:'50px'}}/>军刀</a><br/>
@@ -673,7 +673,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Razor VI" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_11.png" style={{zoom:0.2,marginRight:'50px'}}/>剃刀VI</a><br/>
     <a href="Wrackr" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_16.png" style={{zoom:0.2,marginRight:'50px'}}/>赖克尔</a><br/>
     <a href="Phoenix" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_19.png" style={{zoom:0.2,marginRight:'50px'}}/>凤凰</a><br/>
-    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布洛</a><br/>
+    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布络</a><br/>
     <a href="Havoc" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_22.png" style={{zoom:0.2,marginRight:'50px'}}/>浩劫</a><br/>
     <a href="Juggernaut" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_24.png" style={{zoom:0.2,marginRight:'50px'}}/>主宰者</a><br/>
     <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>提拉特厄尔</a><br/>
@@ -681,7 +681,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Atlas" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_32.png" style={{zoom:0.2,marginRight:'50px'}}/>阿特拉斯</a><br/>
     <a href="Essin" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_33.png" style={{zoom:0.2,marginRight:'50px'}}/>埃辛</a><br/>
     <a href="Prime X" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_39.png" style={{zoom:0.2,marginRight:'50px'}}/>普赖姆X</a><br/>
-    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼威斯</a><br/>
+    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼维斯</a><br/>
     <a href="Zephyr" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_42.png" style={{zoom:0.2,marginRight:'50px'}}/>和风号</a><br/>
     <a href="Baqlor" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_43.png" style={{zoom:0.2,marginRight:'50px'}}/>巴克洛尔</a><br/>
     <a href="502-Q8" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_44.png" style={{zoom:0.2,marginRight:'50px'}}/>502-Q8</a><br/>
@@ -780,7 +780,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Torrent" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_55.png" style={{zoom:0.2,marginRight:'50px'}}/>奔流号</a><br/>
     <a href="Predator" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_70.png" style={{zoom:0.2,marginRight:'50px'}}/>掠夺者</a><br/>
     <a href="Tillat'Or" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_25.png" style={{zoom:0.2,marginRight:'50px'}}/>提拉特厄尔</a><br/>
-    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼威斯</a><br/>
+    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼维斯</a><br/>
     <a href="Zimitr" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_90.png" style={{zoom:0.2,marginRight:'50px'}}/>兹弥</a><br/>
     <a href="Gorthaur" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_37.png" style={{zoom:0.2,marginRight:'50px'}}/>索伦</a><br/>
     <a href="Jericho" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_6.png" style={{zoom:0.2,marginRight:'50px'}}/>杰里科</a><br/>
@@ -848,7 +848,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Naya" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_96.png" style={{zoom:0.2,marginRight:'50px'}}/>纳雅</a><br/>
     <a href="Kibarrax" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_88.png" style={{zoom:0.2,marginRight:'50px'}}/>奇魃拉斯</a><br/>
     <a href="Xavis" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_85.png" style={{zoom:0.2,marginRight:'50px'}}/>萨维斯</a><br/>
-    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布洛</a><br/>
+    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布络</a><br/>
     <a href="Corsair" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_61.png" style={{zoom:0.2,marginRight:'50px'}}/>海盗</a><br/>
     <a href="Proxymar" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_13.png" style={{zoom:0.2,marginRight:'50px'}}/>鲍克斯迈尔</a><br/>
   </TabItem>
@@ -881,7 +881,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Qhelqod" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_78.png" style={{zoom:0.2,marginRight:'50px'}}/>魁快</a><br/>
     <a href="Fujin" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_7.png" style={{zoom:0.2,marginRight:'50px'}}/>风神</a><br/>
     <a href="Von Braun" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_36.png" style={{zoom:0.2,marginRight:'50px'}}/>范·布劳恩</a><br/>
-    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布洛</a><br/>
+    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布络</a><br/>
     <a href="Warden" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_99.png" style={{zoom:0.2,marginRight:'50px'}}/>看守人</a><br/>
     <a href="Saber" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_51.png" style={{zoom:0.2,marginRight:'50px'}}/>军刀</a><br/>
     <a href="Mistral" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_94.png" style={{zoom:0.2,marginRight:'50px'}}/>米斯特拉尔</a><br/>
@@ -923,7 +923,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Elyon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_26.png" style={{zoom:0.2,marginRight:'50px'}}/>伊莲</a><br/>
     <a href="Hime" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_46.png" style={{zoom:0.2,marginRight:'50px'}}/>伊梅</a><br/>
     <a href="Predator" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_70.png" style={{zoom:0.2,marginRight:'50px'}}/>掠夺者</a><br/>
-    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼威斯</a><br/>
+    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼维斯</a><br/>
     <a href="Arietis" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_31.png" style={{zoom:0.2,marginRight:'50px'}}/>白羊座</a><br/>
     <a href="Neni" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_84.png" style={{zoom:0.2,marginRight:'50px'}}/>内尼</a><br/>
     <a href="Tempest" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_9.png" style={{zoom:0.2,marginRight:'50px'}}/>暴风雨</a><br/>
@@ -991,7 +991,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Wraith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_65.png" style={{zoom:0.2,marginRight:'50px'}}/>幻影</a><br/>
     <a href="Juggernaut" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_24.png" style={{zoom:0.2,marginRight:'50px'}}/>主宰者</a><br/>
     <a href="Lyova" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_77.png" style={{zoom:0.2,marginRight:'50px'}}/>莱尔瓦</a><br/>
-    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布洛</a><br/>
+    <a href="Buhloo" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_20.png" style={{zoom:0.2,marginRight:'50px'}}/>布络</a><br/>
     <a href="Luna" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_82.png" style={{zoom:0.2,marginRight:'50px'}}/>月神</a><br/>
     <a href="Disaris" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_100.png" style={{zoom:0.2,marginRight:'50px'}}/>戴沙利斯</a><br/>
     <a href="Claymore" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_86.png" style={{zoom:0.2,marginRight:'50px'}}/>大剑</a><br/>
@@ -1039,7 +1039,7 @@ import tag from '/src/css/tag.module.css';
     <a href="Jn'dur" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_8.png" style={{zoom:0.2,marginRight:'50px'}}/>约翰迪尔</a><br/>
     <a href="Ogon" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_27.png" style={{zoom:0.2,marginRight:'50px'}}/>奥贡</a><br/>
     <a href="Geist" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_23.png" style={{zoom:0.2,marginRight:'50px'}}/>盖斯特</a><br/>
-    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼威斯</a><br/>
+    <a href="Vani-Vith" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_41.png" style={{zoom:0.2,marginRight:'50px'}}/>瓦尼维斯</a><br/>
     <a href="Zimitr" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_90.png" style={{zoom:0.2,marginRight:'50px'}}/>兹弥</a><br/>
     <a href="Naya" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_96.png" style={{zoom:0.2,marginRight:'50px'}}/>纳雅</a><br/>
     <a href="Essin" style={{display:'flex',alignItems:'center'}}><img src="/ships/ship_33.png" style={{zoom:0.2,marginRight:'50px'}}/>埃辛</a><br/>

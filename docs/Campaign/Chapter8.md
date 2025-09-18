@@ -95,6 +95,8 @@ After defeating the Roc, Marshal Liss expresses, "This is what victory feels lik
 
 This concludes the **Campaign** mode.
 
+After this, you will get a Phoenix for free if you don't have one.
+
 ---
 
 <img src="/Campaign/pa.png" style={{zoom:0.5}}/>

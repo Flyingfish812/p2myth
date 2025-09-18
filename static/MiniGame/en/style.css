@@ -1,0 +1,175 @@
+:root {
+  --green: #90EE90;
+  --red: #FFB6C1;
+  --orange: #FFD59A;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f7fb;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  max-width: 900px;
+  width: 100%;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#guessInput {
+  flex: 1;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.legend {
+  margin: 10px 0;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.swatch {
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+.swatch.green { background: var(--green); }
+.swatch.red { background: var(--red); }
+.swatch.orange { background: var(--orange); }
+
+.table-wrap {
+  overflow: auto;
+  margin-top: 12px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th, td {
+  padding: 8px 6px;
+  border: 1px solid #e6e9ef;
+}
+
+thead th {
+  background: #f0f2f5;
+}
+
+.message {
+  margin-top: 12px;
+  font-weight: 600;
+  color: #333;
+}
+
+.suggestions {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ddd;
+  border-top: none;
+  max-height: 120px;   /* 约 3-4 行 */
+  overflow-y: auto;    /* 可以滚动 */
+  z-index: 1000;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.suggestions li {
+  padding: 6px 10px;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.suggestions li:hover {
+  background: #f0f0f0;
+}
+
+.suggestions .highlight {
+  color: #d9534f;
+  font-weight: bold;
+}
+
+#surrenderBtn {
+  background: #f5c2c2;
+  border: 1px solid #e29595;
+}
+#surrenderBtn:hover {
+  background: #f28b82;
+  color: white;
+}
+
+.answer {
+  margin: 10px 0;
+  padding: 8px;
+  background: #fff3cd;
+  border: 1px solid #ffeeba;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #856404;
+}
+
+.autocomplete {
+  position: relative;
+  flex: 1;
+}
+
+@media (max-width: 600px) {
+  .controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  #guessInput {
+    font-size: 18px;
+    padding: 10px;
+  }
+
+  button {
+    width: 100%;   /* 按钮占满整行 */
+    margin-top: 5px;
+  }
+
+  .legend {
+    font-size: 14px;
+  }
+
+  table {
+    font-size: 14px;  /* 表格字体稍微缩小 */
+  }
+}

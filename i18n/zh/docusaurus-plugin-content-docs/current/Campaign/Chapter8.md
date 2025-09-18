@@ -95,6 +95,8 @@ sidebar_position: 7
 
 至此，战役模式全部结束。
 
+在此之后，如果你尚未拥有凤凰，将会获得一架免费赠送的凤凰。
+
 ---
 
 <img src="/Campaign/pa.png" style={{zoom:0.5}}/>

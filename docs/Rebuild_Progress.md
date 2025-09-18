@@ -4,6 +4,15 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.6.0
+
+- Version: 1.6.0
+- Update time 2025-9-19
+
+Update:New Module *Mini Games*, featuring the first game *Shipdle*. 
+Replaced picture for Captured Raven. 
+Revised and added several community notes.
+
 ## V1.5.3
 
 - Version: 1.5.3
