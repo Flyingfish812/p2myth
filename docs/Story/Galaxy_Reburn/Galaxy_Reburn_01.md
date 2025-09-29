@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Chapter 1: Prologue: Phoenix 
 
-> Written by: 菁鸟
+> Written by: 菁鸟(Tsingpica)
 >
 > QQ group for discussion: 1033646945
 

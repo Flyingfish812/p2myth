@@ -4,7 +4,7 @@ sidebar_position: 11
 
 # Chapter 9: She, Illusion & Crossroads
 
-> Author: 菁鸟
+> Author: 菁鸟(Tsingpica)
 >
 > QQ group for discussion: 1033646945
 

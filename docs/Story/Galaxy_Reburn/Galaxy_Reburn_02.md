@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Chapter 2: The Beginning of the Trip
 
-> Written by: 菁鸟
+> Written by: 菁鸟(Tsingpica)
 >
 > QQ group for discussion: 1033646945
 

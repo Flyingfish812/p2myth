@@ -139,7 +139,7 @@
     "type": "Shield Breaker",
     "aura": "Stun EMP",
     "zen": "Teleport",
-    "rarity": "Common",
+    "rarity": "Rare",
     "apex1": "Explosive Arrival",
     "apex2": "Double Teleport"
   },
@@ -370,7 +370,7 @@
   },
   {
     "name": "Luna", 
-    "type": "Armor Piercing",
+    "type": "Shield Breaker",
     "aura": "Point Defense",
     "zen": "Teleport",
     "rarity": "Super Rare",

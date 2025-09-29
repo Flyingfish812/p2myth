@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Chapter 5: Her Volition
 
-> Written by: 菁鸟
+> Written by: 菁鸟(Tsingpica)
 >
 > QQ group for discussion: 1033646945
 

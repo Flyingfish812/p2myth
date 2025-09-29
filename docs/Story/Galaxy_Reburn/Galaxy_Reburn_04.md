@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Chapter 4: Ablaze
 
-> Written by: 菁鸟
+> Written by: 菁鸟(Tsingpica)
 >
 > QQ group for discussion: 1033646945
 

@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Chapter 8: Dreams and Dreams
 
-> Author: 菁鸟
+> Author: 菁鸟(Tsingpica)
 >
 > QQ group for discussion: 1033646945
 

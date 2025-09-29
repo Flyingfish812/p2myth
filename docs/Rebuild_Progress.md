@@ -4,6 +4,15 @@ sidebar_position: 2
 
 # Versions of the site
 
+## V1.6.1
+- Version: 1.6.1
+- Updated time 2025-9-29
+
+Update: Corrected incorrect ship data in the “Shipdle”.
+Chapter 10 for the story "Galaxy Reburn".
+Added new content for Captured Raven.
+
+
 ## V1.6.0
 
 - Version: 1.6.0
